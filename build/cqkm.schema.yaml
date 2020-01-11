@@ -1,0 +1,188 @@
+__build_info:
+  rime_version: 1.5.3
+  timestamps:
+    cqkm.custom: 0
+    cqkm.schema: 1562905585
+    default: 1577970850
+    default.custom: 1577970920
+custom_jiaci:
+  db_class: stabledb
+  dictionary: ""
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: "-1"
+  user_dict: a_KMjiaci
+custom_top:
+  db_class: stabledb
+  dictionary: ""
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 0
+  user_dict: b_KM
+engine:
+  filters:
+    - "reverse_lookup_filter@i_reverse_lookup"
+    - "simplifier@hanzi_dic"
+    - simplifier
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+    - "table_translator@custom_jiaci"
+    - "table_translator@custom_top"
+hanzi_dic:
+  comment_format:
+    - |
+      xform/<br>/
+      /
+    - "xform/&nbsp/ /"
+    - "xform/<空格>/ /"
+  opencc_config: hanzi_dic.json
+  option_name: hanzi_dic
+  show_in_comment: true
+  tags:
+    - abc
+  tips: all
+i_reverse_lookup:
+  comment_format:
+    - "xform/ /\\ |\\ /"
+    - "xform/$/ 〕/"
+    - "xform/^/〔 /"
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  dictionary: pinyin
+  overwrite_comment: false
+  tags:
+    - i_reverse_lookup_pattern
+key_binder:
+  bindings:
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+menu:
+  page_size: 5
+punctuator:
+  full_shape:
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "'": {pair: ["‘", "’"]}
+    "(": {commit: "（"}
+    ")": {commit: "）"}
+    "*": ["＊", "×"]
+    ",": {commit: "，"}
+    .: {commit: "。"}
+    "/": ["、", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹", "〔"]
+    ">": ["》", "〉", "»", "›", "〕"]
+    "?": {commit: "？"}
+  half_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "'": {pair: ["‘", "’"]}
+    "(": {commit: "（"}
+    ")": {commit: "）"}
+    ",": {commit: "，"}
+    .: {commit: "。"}
+    "/": {commit: "、"}
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": {commit: "《"}
+    ">": {commit: "》"}
+    "?": {commit: "？"}
+recognizer:
+  import_preset: default
+  patterns:
+    i_reverse_lookup_pattern: "^i[a-z;,./]+$"
+    punct: ""
+    reverse_lookup: "^`[a-z]*'?$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$"
+reverse_lookup:
+  comment_format:
+    - "xform/ /\\ |\\ /"
+    - "xform/$/ 〕/"
+    - "xform/^/〔 /"
+    - "xform/\\ i.+?\\ \\|//"
+    - "xform/\\|\\ i.+?\\ 〕/\\ 〕/"
+    - "xform/(\\ [^i]\\S{3}).\\ /$1\\ /"
+  dictionary: pinyin
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: "`"
+  suffix: "'"
+schema:
+  author:
+    - "超强快码发明人：付东升"
+  dependencies:
+    - pinyin
+  description: |
+    码表源自 160221版本
+    
+  name: "超强快码"
+  schema_id: cqkm
+  version: 5.3.3
+simplifier:
+  opencc_config: s2t.json
+  option_name: traditional
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  auto_clear: auto
+  auto_select: true
+  initials: abcdefghijklmnopqrstuvwxyz
+switches:
+  - options: [_keyboard_menu, _keyboard_menu]
+    states: ["　❖", "　❖"]
+  - options: [_keyboard_use, _keyboard_use]
+    states: ["　‹ɪ›　", "　‹ɪ›　"]
+  - options: [_keyboard_.default, _keyboard_26ying]
+    reset: 0
+    states: ["中文", "英文"]
+  - name: _hide_key_hint
+  - ascii_mode: 0
+    options: [_keyboard_number]
+  - options: [_key_LLQ, _key_LLQ]
+  - options: [_key_VOICE_ASSIST, _key_VOICE_ASSIST]
+  - name: traditional
+    reset: 0
+    states: ["简体", "繁体"]
+  - name: hanzi_dic
+    reset: 0
+  - name: _hide_candidate
+    reset: 0
+  - options: [_keyboard_.default, _keyboard_defaultVJ3]
+    states: ["⌨", "⌨"]
+translator:
+  dictionary: cqkm
+  enable_charset_filter: false
+  enable_completion: true
+  enable_encoder: true
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: true
+  max_phrase_length: 4
