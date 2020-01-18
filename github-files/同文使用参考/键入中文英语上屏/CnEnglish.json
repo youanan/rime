@@ -1,0 +1,16 @@
+{
+  "name": "CnEnglish",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd",
+      "file": "CnEnglish.ocd"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+        "type": "ocd",
+        "file": "CnEnglish.ocd"
+    }
+  }]
+}

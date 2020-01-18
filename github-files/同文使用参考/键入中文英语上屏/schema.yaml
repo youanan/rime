@@ -1,0 +1,17 @@
+# Rime schema
+# encoding: utf-8
+# opencc - 開放中文轉換
+
+switches:
+  - name: CnEnglish
+    reset: 0
+    states: [ "CN", "EN" ]  
+
+engine:
+  filters:
+    - simplifier@CnEnglish    
+CnEnglish:
+  opencc_config: CnEnglish.json
+  option_name: CnEnglish
+  tags:
+    - abc

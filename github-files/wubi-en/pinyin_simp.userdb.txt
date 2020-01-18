@@ -1,0 +1,21 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.0
+#@/tick	13
+#@/user_id	kktt
+ben 	本	c=1 d=0.980199 t=13
+bu 	不	c=1 d=0.951229 t=13
+cha xun 	查询	c=1 d=0.985112 t=13
+de 	的	c=1 d=0.965605 t=13
+gai 	改	c=0 d=0.0937067 t=13
+gai shen me 	改什么	c=1 d=0.941765 t=13
+he 	和	c=1 d=0.946485 t=13
+kan 	看	c=1 d=0.995012 t=13
+shen me 	什么	c=0 d=0.0937067 t=13
+shi ji 	世纪	c=1 d=0.941765 t=13
+shuo ming 	说明	c=1 d=1 t=13
+wu bi 	五笔	c=2 d=1.96536 t=13
+yang 	样	c=1 d=0.960789 t=13
+you 	有	c=1 d=0.955997 t=13
+zi 	字	c=1 d=0.970446 t=13

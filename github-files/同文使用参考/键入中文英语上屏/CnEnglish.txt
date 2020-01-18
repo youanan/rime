@@ -1,0 +1,11599 @@
+﻿打印行 println
+恶意	spite
+怨恨	spite
+不顾	spite
+刁难	spite
+欺侮	spite
+局	bureau
+司	bureau
+处	bureau
+社	bureau
+所	bureau
+熔炉	forge
+铁工厂	forge
+打制	forge
+锻造	forge
+伪造	forge
+部	department
+司	department
+局	department
+处	department
+系	department
+绊	trip
+失足	trip
+绊倒	trip
+嗬	oh
+哦	oh
+唉呀	oh
+灌木	bush
+灌木丛	bush
+矮树	bush
+爱	love
+喜欢	love
+想象力	fancy
+设想	fancy
+爱好	fancy
+激情	passion
+热情	passion
+爱好	passion
+慈爱	affection
+爱	affection
+爱慕	affection
+整理	arrangement
+排列	arrangement
+安排	arrangement
+舒适	comfort
+安慰	comfort
+建议	suggestion
+意见	suggestion
+暗示	suggestion
+含义	implication
+暗示	implication
+暗指	implication
+爪	claw
+脚爪	claw
+螯	claw
+懊悔	regret
+抱歉	regret
+打	strike
+击	strike
+罢工	strike
+天	day
+白昼	day
+白天	day
+分	cent
+分币	cent
+百	cent
+专门小组	panel
+面	panel
+板	panel
+版	edition
+版本	edition
+版次	edition
+做	do
+干	do
+办	do
+资源	resource
+物力	resource
+办法	resource
+半年	semester
+学期	semester
+半学年	semester
+同伴	companion
+共事者	companion
+伴侣	companion
+陪伴	accompany
+陪同	accompany
+伴随	accompany
+帮助	help
+援助	help
+帮手	help
+杆	rod
+竿	rod
+棒	rod
+捆扎	pack
+挤满	pack
+包	pack
+拥抱	embrace
+包括	embrace
+包围	embrace
+箱	box
+盒	box
+包箱	box
+被单	sheet
+纸张	sheet
+薄板	sheet
+影片	film
+胶卷	film
+薄层	film
+石	stone
+石头	stone
+宝石	stone
+剩下	remain
+余留	remain
+保持	remain
+盾	shield
+防护物	shield
+保护	shield
+保持	retain
+保留	retain
+保有	retain
+使确信	assure
+向	assure
+保证	assure
+从事	undertake
+承担	undertake
+保证	undertake
+报答	reward
+报酬	reward
+通知	inform
+向	inform
+报告	inform
+引用	quote
+引证	quote
+报价	quote
+引用	quotation
+引文	quotation
+报价单	quotation
+猛烈	violence
+激烈	violence
+暴力	violence
+裂缝	crack
+裂纹	crack
+爆裂	crack
+悲痛	sorrow
+悲哀	sorrow
+悲伤	sorrow
+北	north
+北方	north
+北方的	north
+后部	rear
+后面	rear
+背面	rear
+颠倒	reverse
+翻转	reverse
+背面	reverse
+衣服	clothes
+服装	clothes
+被褥	clothes
+一部分	part
+零件	part
+本份	part
+能力	ability
+能耐	ability
+本领	ability
+人	person
+人身	person
+本人	person
+物质	substance
+实质	substance
+本旨	substance
+说	say
+说明	say
+比如说	say
+比较	comparison
+对照	comparison
+比似	comparison
+比较	compare
+对照	compare
+比作	compare
+海港	harbour
+港口	harbour
+庇护	harbour
+隐蔽处	shelter
+掩蔽	shelter
+庇护	shelter
+边	border
+边缘	border
+边界	border
+角	corner
+犄角	corner
+边远地区	corner
+针	needle
+缝补	needle
+编织针	needle
+鞭笞	whip
+搅打	whip
+鞭子	whip
+薄的	thin
+淡的	thin
+变薄	thin
+变成	become
+成为	become
+变得	become
+改变	transform
+改造	transform
+变换	transform
+年龄	age
+时代	age
+变老	age
+热	heat
+炎热	heat
+变热	heat
+去	go
+走	go
+变为	go
+变化	variation
+变动	variation
+变异	variation
+多样化	variety
+种类	variety
+变种	variety
+设备	facility
+容易	facility
+便利	facility
+讲述	tell
+吩咐	tell
+辨别	tell
+争夺	contest
+争取	contest
+辩驳	contest
+防御	defence
+防务	defence
+辩护	defence
+解释	explain
+为	explain
+辩解	explain
+解释	explanation
+说明	explanation
+辩解	explanation
+争论	argue
+争辩	argue
+辩论	argue
+样品	sample
+实例	sample
+标本	sample
+斑点	mark
+记号	mark
+标明	mark
+戳子	stamp
+邮票	stamp
+标志	stamp
+计量器	meter
+计	meter
+表	meter
+选举	vote
+投票	vote
+表决	vote
+说明	demonstrate
+论证	demonstrate
+表露	demonstrate
+断言	declare
+声明	declare
+表明	declare
+标示	indicate
+表示	indicate
+表明	indicate
+指示	indication
+表示	indication
+表明	indication
+给	show
+看	show
+表明	show
+外套	coat
+上衣	coat
+表皮	coat
+词句	expression
+表达	expression
+表情	expression
+其它	else
+另外	else
+别的	else
+针	pin
+饰针	pin
+别住	pin
+冰	ice
+冰块	ice
+冰镇	ice
+野营	camp
+营地	camp
+兵营	camp
+病	disease
+疾病	disease
+病害	disease
+情况	case
+事实	case
+病例	case
+钟面	dial
+拨号盘	dial
+拨	dial
+波	wave
+波涛	wave
+波动	wave
+乐队	band
+带	band
+波段	band
+烟囱	chimney
+烟筒	chimney
+玻璃罩	chimney
+拒绝	reject
+丢掉	reject
+驳回	reject
+医生	doctor
+医师	doctor
+博士	doctor
+补钉	patch
+碎片	patch
+补缀	patch
+永不	never
+决不	never
+不	never
+无	without
+没有	without
+不	without
+错误的	wrong
+错	wrong
+不对	wrong
+失败	fail
+失灵	fail
+不能	fail
+恨	hate
+憎恨	hate
+不喜欢	hate
+反对	objection
+异议	objection
+不喜欢	objection
+忧虑	distress
+悲伤	distress
+不幸	distress
+不足	shortage
+缺少	shortage
+不足额	shortage
+比	portion
+比率	portion
+部分	portion
+薄片	slice
+切片	slice
+部分	slice
+单位	unit
+单元	unit
+部件	unit
+切片	section
+一段	section
+部门	section
+省	vince
+领域	vince
+部门	vince
+推论	infer
+推断	infer
+猜想	infer
+怀疑	suspicion
+疑心	suspicion
+猜疑	suspicion
+命运	fortune
+运气	fortune
+财产	fortune
+货币	money
+金钱	money
+财富	money
+财政	finance
+金融	finance
+财源	finance
+掘	dig
+挖	dig
+采掘	dig
+收养	adopt
+采用	adopt
+采取	adopt
+拾	pick
+摘	pick
+采摘	pick
+餐馆	restaurant
+饭店	restaurant
+菜馆	restaurant
+碟	dish
+盘子	dish
+菜肴	dish
+菜单	menu
+饭菜	menu
+菜肴	menu
+走进	enter
+进入	enter
+参加	enter
+小刀	knife
+刀	knife
+餐刀	knife
+悲剧	tragedy
+惨事	tragedy
+惨案	tragedy
+坦克	tank
+大容器	tank
+槽	tank
+草地	lawn
+草坪	lawn
+草场	lawn
+草	grass
+牧草	grass
+草地	grass
+急速	haste
+急忙	haste
+草率	haste
+便利	convenience
+方便	convenience
+厕所	convenience
+俯瞰	survey
+检查	survey
+测量	survey
+甲板	deck
+舱面	deck
+层面	deck
+茶	tea
+茶叶	tea
+茶树	tea
+探明	locate
+找出	locate
+查出	locate
+错误	error
+谬误	error
+差错	error
+缺口	gap
+间隔	gap
+差距	gap
+添加	add
+附加	add
+掺加	add
+援助	assist
+帮助	assist
+搀扶	assist
+制造	manufacture
+产品	manufacture
+创造	create
+引起	create
+产生	create
+一代	generation
+一代人	generation
+产生	generation
+水桶	bucket
+吊桶	bucket
+铲斗	bucket
+陈述	state
+说明	state
+阐明	state
+试	try
+审问	try
+尝试	try
+院子	yard
+庭院	yard
+场地	yard
+地点	site
+地基	site
+场所	site
+超过	exceed
+胜过	exceed
+超出	exceed
+在	over
+上方	over
+超过	over
+潮	tide
+潮汐	tide
+潮流	tide
+商店	shop
+店铺	shop
+车间	shop
+避免	avoid
+躲开	avoid
+撤消	avoid
+雾	fog
+烟雾	fog
+尘雾	fog
+标题	title
+题目	title
+称号	title
+价格	cost
+代价	cost
+成本	cost
+继	succeed
+之后	succeed
+成功	succeed
+凯旋	triumph
+胜利	triumph
+成功	triumph
+水果	fruit
+果实	fruit
+成果	fruit
+结果	outcome
+后果	outcome
+成果	outcome
+完成	achievement
+成就	achievement
+成绩	achievement
+得分	score
+比数	score
+成绩	score
+交易	bargain
+议价	bargain
+成交	bargain
+假定	assume
+承担	assume
+呈现	assume
+接受	acceptance
+验收	acceptance
+承认	acceptance
+认出	recognition
+识别	recognition
+承认	recognition
+认识	recognize
+认出	recognize
+承认	recognize
+镇	town
+市镇	town
+城镇	town
+广度	extent
+范围	extent
+程度	extent
+节目单	gram
+大纲	gram
+程序	gram
+天平	scale
+磅秤	scale
+秤	scale
+已经	have
+有	have
+吃	have
+吃	eat
+喝	eat
+吃饭	eat
+坚持	persist
+固执	persist
+持续	persist
+衡量	measurement
+测量	measurement
+尺寸	measurement
+大小	size
+体积	size
+尺码	size
+翼	wing
+翅膀	wing
+翅	wing
+推进	urge
+催促	urge
+冲动	urge
+影响	impact
+作用	impact
+冲击	impact
+注射	injection
+注入	injection
+充满	injection
+重的	heavy
+大的	heavy
+充满的	heavy
+礼拜	worship
+崇拜	worship
+损坏	spoil
+糟蹋	spoil
+宠坏	spoil
+憎恶	hatred
+憎恨	hatred
+仇恨	hatred
+公布	publish
+发表	publish
+出版	publish
+公布	publication
+出版	publication
+出版物	publication
+离开	depart
+起程	depart
+出发	depart
+分娩	birth
+出生	birth
+出身	birth
+起源	origin
+由来	origin
+出身	origin
+来	come
+来到	come
+出现	come
+租金	rent
+租	rent
+出租	rent
+杂草	weed
+野草	weed
+除草	weed
+移动	removal
+迁移	removal
+除掉	removal
+分	division
+分配	division
+除法	division
+相隔	apart
+分开	apart
+除去	apart
+救	save
+节省	save
+储蓄	save
+罚	punish
+惩罚	punish
+处罚	punish
+管理	management
+经营	management
+处理	management
+触摸	touch
+触动	touch
+触	touch
+通讯	communicate
+传达	communicate
+传播	communicate
+传送	convey
+运送	convey
+传播	convey
+伸开	spread
+传播	spread
+介绍	introduce
+引进	introduce
+传入	introduce
+故事	story
+小说	story
+传说	story
+携带	carry
+运载	carry
+传送	carry
+谣言	rumour
+谣传	rumour
+传闻	rumour
+痛的	sore
+恼火的	sore
+疮	sore
+窗子	window
+窗户	window
+窗口	window
+建筑	build
+建立	build
+创立	build
+父亲	father
+神父	father
+创始人	father
+组成	compose
+构成	compose
+创作	compose
+车间	workshop
+工场	workshop
+创作室	workshop
+吹	blow
+吹动	blow
+吹响	blow
+锤	hammer
+榔头	hammer
+锤击	hammer
+圆盘	disc
+唱片	disc
+磁盘	disc
+圆盘	disk
+唱片	disk
+磁盘	disk
+磁铁	magnet
+磁石	magnet
+磁体	magnet
+再者	moreover
+加之	moreover
+此外	moreover
+连续	sequence
+继续	sequence
+次序	sequence
+在	after
+以后	after
+次于	after
+刺	sting
+刺痛	sting
+连续	series
+系列	series
+丛书	series
+带来	bring
+引出	bring
+促使	bring
+冲	rush
+奔	rush
+催促	rush
+记忆	memory
+回忆	memory
+存储	memory
+资金	fund
+基金	fund
+存款	fund
+搭救	saving
+节约	saving
+存款	saving
+供应	vision
+预备	vision
+存粮	vision
+发生	occur
+出现	occur
+存在	occur
+战胜	defeat
+击败	defeat
+挫败	defeat
+完成	achieve
+实现	achieve
+达到	achieve
+到达	arrive
+来临	arrive
+达到	arrive
+到	to
+向	to
+达到	to
+钥匙	key
+键	key
+答案	key
+敲	knock
+击	knock
+打	knock
+打	beat
+敲	beat
+打败	beat
+点	dot
+圆点	dot
+打点于	dot
+破坏	destroy
+消灭	destroy
+打破	destroy
+渔民	fisherman
+渔夫	fisherman
+打鱼人	fisherman
+型	type
+类型	type
+打字	type
+秘书	secretary
+书记	secretary
+大臣	secretary
+轮廓	outline
+略图	outline
+大纲	outline
+林荫道	avenue
+道路	avenue
+大街	avenue
+羊群	flock
+群	flock
+大量	flock
+丰富	plenty
+充足	plenty
+大量	plenty
+军队	troop
+一群	troop
+大量	troop
+物体	bulk
+容积	bulk
+大批	bulk
+标度	scale
+比例	scale
+大小	scale
+价格	price
+价钱	price
+代价	price
+经办	agency
+代理	agency
+代理处	agency
+准则	code
+法典	code
+代码	code
+代替人	substitute
+用	substitute
+代替	substitute
+缎带	ribbon
+丝带	ribbon
+带	ribbon
+棚	shed
+小屋	shed
+贷棚	shed
+神经	nerve
+勇敢	nerve
+胆量	nerve
+勇气	courage
+胆量	courage
+胆识	courage
+枪弹	bullet
+子弹	bullet
+弹丸	bullet
+饼	cake
+糕	cake
+蛋糕	cake
+一定	certainly
+必定	certainly
+当然	certainly
+其时	meantime
+其间	meantime
+当时	meantime
+选举	election
+选择权	election
+当选	election
+边缘	edge
+边	edge
+刀口	edge
+航行	navigation
+航海术	navigation
+导航	navigation
+指导者	director
+理事	director
+导演	director
+导游者	guide
+给	guide
+导游	guide
+向后的	backward
+倒的	backward
+倒	backward
+变得	get
+成为	get
+到达	get
+到达	arrival
+到来	arrival
+到达者	arrival
+路	path
+小道	path
+道路	path
+祝贺	congratulate
+向	congratulate
+道喜	congratulate
+益处	fit
+利润	fit
+得益	fit
+每一的	every
+每隔	every
+的	every
+旧的	used
+习惯于	used
+的	used
+评价	evaluate
+估	evaluate
+的价	evaluate
+完全	quite
+相当	quite
+的确	quite
+广告	advertisement
+公告	advertisement
+登广告	advertisement
+插入	insert
+嵌入	insert
+登载	insert
+预料	expect
+预期	expect
+等待	expect
+等	wait
+等候	wait
+等待	wait
+给	grade
+分等级	grade
+等级	grade
+包含	contain
+容纳	contain
+等于	contain
+低的	low
+矮的	low
+低下的	low
+在	under
+下面	under
+低于.	under
+敌人	enemy
+仇敌	enemy
+敌兵	enemy
+抵抗	resistance
+抵制	resistance
+抵抗力	resistance
+气候	climate
+风土	climate
+地带	climate
+隧道	tunnel
+坑道	tunnel
+地道	tunnel
+点	spot
+斑点	spot
+地点	spot
+方言	dialect
+土语	dialect
+地方话	dialect
+地球	globe
+世界	globe
+地界仪	globe
+矿	mine
+矿山	mine
+地雷	mine
+地球	earth
+陆地	earth
+地面	earth
+八	eight
+八个	eight
+第八	eight
+四	four
+四个	four
+第四	four
+五	five
+五个	five
+第五	five
+称	weigh
+的重量	weigh
+掂量	weigh
+极点	pole
+磁极	pole
+电极	pole
+电	electricity
+电学	electricity
+电流	electricity
+炉	stove
+火炉	stove
+电炉	stove
+提起	lift
+提高	lift
+电梯	lift
+金属线	wire
+电缆	wire
+电信	wire
+地主	landlord
+房东	landlord
+店主	landlord
+席子	mat
+草席	mat
+垫子	mat
+挂	hang
+悬	hang
+吊死	hang
+鱼	fish
+鱼肉	fish
+钓鱼	fish
+盘	tray
+托盘	tray
+碟	tray
+屋顶	roof
+车顶	roof
+顶	roof
+顶	top
+首位	top
+顶的	top
+钉	nail
+指甲	nail
+定义	definition
+释义	definition
+定界	definition
+懂	understand
+获悉	understand
+懂得	understand
+移动	move
+感动	move
+动	move
+动物	animal
+兽	animal
+动物的	animal
+柱	pillar
+柱子	pillar
+栋梁	pillar
+争论	conflict
+冲突	conflict
+斗争	conflict
+战争	war
+冲突	war
+斗争	war
+停留	stay
+住	stay
+逗留	stay
+毒	poison
+毒药	poison
+毒害	poison
+读	read
+看懂	read
+读者	reader
+读物	reader
+读本	reader
+读	reading
+阅读	reading
+读书	reading
+听众	audience
+观众	audience
+读者	audience
+小说	fiction
+虚构	fiction
+杜撰	fiction
+经过	pass
+通过	pass
+度过	pass
+用钱	spend
+花费	spend
+度过	spend
+堆	stack
+垛	stack
+堆积	stack
+培养	train
+列车	train
+队列	train
+管理	manage
+设法	manage
+对付	manage
+比赛	compete
+竞争	compete
+对抗	compete
+对手	opponent
+敌手	opponent
+对抗者	opponent
+横过	across
+在	across
+对面	across
+比赛	match
+竞赛	match
+对手	match
+倚在	against
+逆	against
+对着	against
+也许	perhaps
+可能	perhaps
+多半	perhaps
+怎么	how
+怎样	how
+多少	how
+捕获	capture
+俘获	capture
+夺得	capture
+抓住	seize
+逮捕	seize
+夺取	seize
+步	pace
+步速	pace
+踱步	pace
+好感	favour
+赞同	favour
+恩惠	favour
+仁慈	mercy
+慈悲	mercy
+恩惠	mercy
+小孩	child
+儿童	child
+儿子	child
+当	while
+的时候	while
+而	while
+还	yet
+已经	yet
+而	yet
+电话	phone
+电话机	phone
+耳机	phone
+宣布	announce
+宣告	announce
+发表	announce
+投递	deliver
+送交	deliver
+发表	deliver
+散发	emit
+发射	emit
+发表	emit
+释放	release
+放松	release
+发表	release
+发射	launch
+投射	launch
+发动	launch
+问题	issue
+发行	issue
+传送	transmission
+传动	transmission
+发射	transmission
+传送	transmit
+传达	transmit
+发射	transmit
+声音	sound
+响	sound
+发声	sound
+发射	shoot
+射中	shoot
+发芽	shoot
+进化	evolution
+演化	evolution
+发展	evolution
+法律	law
+法令	law
+法则	law
+翻译	translate
+译	translate
+烦恼	trouble
+困难	trouble
+代替	instead
+顶替	instead
+反而	instead
+镜子	mirror
+反映	mirror
+反射	mirror
+回授	feedback
+反馈	feedback
+反应	feedback
+问候	greet
+招呼	greet
+反应	greet
+反射	reflection
+映象	reflection
+反映	reflection
+反射	reflexion
+映象	reflexion
+反映	reflexion
+罪	crime
+罪行	crime
+犯罪	crime
+稻	rice
+米	rice
+饭	rice
+限度	limit
+限制	limit
+范围	limit
+球	sphere
+圆体	sphere
+范围	sphere
+地区	zone
+区域	zone
+范围	zone
+路	way
+路线	way
+方向	way
+言语	speech
+演说	speech
+方言	speech
+干涉	interfere
+干预	interfere
+妨碍	interfere
+障碍	obstacle
+障碍物	obstacle
+妨害	obstacle
+模仿	imitate
+仿效	imitate
+仿制	imitate
+织	weave
+编	weave
+纺织	weave
+扩大	enlarge
+扩展	enlarge
+放大	enlarge
+兽群	herd
+牧群	herd
+放牧	herd
+眺望	overlook
+看漏	overlook
+放任	overlook
+蝇	fly
+苍蝇	fly
+飞行	fly
+高度地	highly
+很	highly
+非常	highly
+这样	so
+这么	so
+非常	so
+批评	criticize
+评论	criticize
+非难	criticize
+脂肪	fat
+肥肉	fat
+肥胖的	fat
+垃圾	rubbish
+废物	rubbish
+废话	rubbish
+泡	bubble
+冒泡	bubble
+沸腾	bubble
+索价	charge
+控告	charge
+费用	charge
+花费	expense
+消费	expense
+费用	expense
+分发	distribute
+分送	distribute
+分布	distribute
+分发	distribution
+分配	distribution
+分布	distribution
+餐叉	fork
+叉	fork
+分叉	fork
+分	divide
+分配	divide
+分开	divide
+树枝	branch
+分部	branch
+分科	branch
+分类	classification
+分级	classification
+分类法	classification
+量	measure
+测量	measure
+分量	measure
+量	quantity
+数量	quantity
+分量	quantity
+投递	delivery
+交付	delivery
+分娩	delivery
+差别	difference
+差	difference
+分歧	difference
+小部分	fraction
+片断	fraction
+分数	fraction
+参与	participate
+参加	participate
+分享	participate
+面粉	flour
+粉	flour
+粉状物质	flour
+财富	wealth
+财产	wealth
+丰富	wealth
+看	view
+视力	view
+风景	view
+样子	fashion
+方式	fashion
+风尚	fashion
+味	flavour
+味道	flavour
+风味	flavour
+封蜡	seal
+印记	seal
+封	seal
+信封	envelope
+封套	envelope
+封皮	envelope
+修理	mend
+修补	mend
+缝补	mend
+矛盾	contradiction
+不一致	contradiction
+否认	contradiction
+女服	dress
+童装	dress
+服装	dress
+标签	label
+标记	label
+符号	label
+宽度	breadth
+幅度	breadth
+幅面	breadth
+放射	radiation
+发射	radiation
+辐射能	radiation
+光线	ray
+射线	ray
+辐射线	ray
+跳水	dive
+潜水	dive
+俯冲	dive
+腐烂	decay
+衰败	decay
+税	tax
+税款	tax
+负担	tax
+装	load
+装满	load
+负载	load
+加	addition
+加法	addition
+附加物	addition
+围住	enclose
+圈起	enclose
+附上	enclose
+抄件	copy
+抄写	copy
+复制	copy
+保证	ensure
+保护	ensure
+赋予	ensure
+转变	conversion
+转化	conversion
+改变	conversion
+改进	imvement
+改善	imvement
+改进处	imvement
+译文	version
+说法	version
+改写本	version
+改变	alter
+变更	alter
+改做	alter
+盖	cover
+包括	cover
+盖子	cover
+略图	sketch
+速写	sketch
+概略	sketch
+感激	gratitude
+感谢	gratitude
+感恩	gratitude
+欣赏	appreciate
+领会	appreciate
+感谢	appreciate
+谢谢	thank
+感谢	thank
+高的	high
+高级的	high
+高	high
+高	altitude
+高度	altitude
+高处	altitude
+高	height
+高度	height
+高处	height
+塔	tower
+屹立	tower
+高耸	tower
+歌唱	song
+歌曲	song
+歌词	song
+特别	especially
+尤其	especially
+格外	especially
+特别	particularly
+尤其	particularly
+格外	particularly
+各	each
+各自	each
+买卖	deal
+待遇	deal
+给予	deal
+支付	pay
+付给	pay
+给予	pay
+底	bottom
+底部	bottom
+根基	bottom
+地	ground
+场地	ground
+根据	ground
+痕迹	trace
+丝毫	trace
+跟踪	trace
+痕迹	trail
+小径	trail
+跟踪	trail
+犁	plough
+耕	plough
+工人	workman
+劳动者	workman
+工匠	workman
+方法	means
+手段	means
+工具	means
+工作	work
+职业	work
+长凳	bench
+条凳	bench
+工作台	bench
+忍受	tolerance
+容忍	tolerance
+公差	tolerance
+路	road
+道路	road
+公路	road
+社区	community
+社会	community
+公社	community
+部长	minister
+大臣	minister
+公使	minister
+商行	firm
+商号	firm
+公司	firm
+花园	garden
+菜园	garden
+公园	garden
+习俗	convention
+惯例	convention
+公约	convention
+联结	bond
+联系	bond
+公债	bond
+长处	merit
+优点	merit
+功过	merit
+行动	action
+作用	action
+功能	action
+稳定	stability
+稳定性	stability
+巩固	stability
+总数	sum
+金额	sum
+共计	sum
+同情	sympathize
+同感	sympathize
+共鸣	sympathize
+容纳	accommodate
+供应	accommodate
+供给	accommodate
+提供	vide
+装备	vide
+供给	vide
+支撑	support
+支持	support
+供养	support
+钩	hook
+挂钩	hook
+钩住	hook
+包含	comprise
+包括	comprise
+构成	comprise
+框架	frame
+框子	frame
+构架	frame
+章程	constitution
+体质	constitution
+构造	constitution
+建造	construct
+建设	construct
+构筑	construct
+估计	estimate
+评价	estimate
+计算	compute
+估计	compute
+估算	compute
+伯母	aunt
+婶母	aunt
+姑母	aunt
+原料	stock
+库存品	stock
+股本	stock
+份	share
+份额	share
+股份	share
+灰	ash
+灰末	ash
+骨灰	ash
+炉子	furnace
+熔炉	furnace
+鼓风炉	furnace
+缺点	fault
+过失	fault
+故障	fault
+受雇者	employee
+雇员	employee
+雇工	employee
+仆人	servant
+佣人	servant
+雇工	servant
+租借	hire
+租用	hire
+雇用	hire
+关上	shut
+闭上	shut
+关闭	shut
+接头	joint
+接缝	joint
+关节	joint
+关心	concern
+挂念	concern
+关系	concern
+认为	consider
+考虑	consider
+关心	consider
+注意	observation
+观察	observation
+观察力	observation
+透视	perspective
+远景	perspective
+观点	perspective
+运河	canal
+沟渠	canal
+管	canal
+器官	organ
+机构	organ
+管风琴	organ
+规则	regulation
+规章	regulation
+管理	regulation
+使用	usage
+对待	usage
+惯用法	usage
+水	water
+使湿	water
+灌溉	water
+照耀	shine
+发光	shine
+光	shine
+宽的	broad
+阔的	broad
+广泛的	broad
+罐子	jar
+坛子	jar
+广口瓶	jar
+档案	file
+把	file
+归档	file
+欠	owe
+应把	owe
+归功于	owe
+责备	blame
+把	blame
+归咎于	blame
+行踪	track
+路径	track
+轨道	track
+计划	scheme
+规划	scheme
+诡计	scheme
+鬼	ghost
+灵魂	ghost
+鬼魂	ghost
+女士	lady
+夫人	lady
+贵妇人	lady
+跪	kneel
+跪下	kneel
+跪着	kneel
+滚柱	roller
+滚筒	roller
+滚轴	roller
+决定	decision
+决心	decision
+果断	decision
+程序	cedure
+手续	cedure
+过程	cedure
+超越	excess
+过量	excess
+过度	excess
+乘客	passenger
+旅客	passenger
+过路人	passenger
+甚至	even
+甚至更	even
+还	even
+习惯	custom
+风俗	custom
+海关	custom
+图	chart
+图表	chart
+海图	chart
+害怕	fear
+担心	fear
+犹豫	hesitate
+踌躇	hesitate
+含糊	hesitate
+功能	function
+职务	function
+函数	function
+街	street
+街道	street
+行车道	street
+活动	activity
+活力	activity
+行动	activity
+骗取	cheat
+哄	cheat
+行骗	cheat
+欺骗	deceive
+蒙蔽	deceive
+行骗	deceive
+行动	act
+见效	act
+行为	act
+履行	performance
+演出	performance
+行为	performance
+工艺	craft
+手艺	craft
+行业	craft
+帆	sail
+船	sail
+航行	sail
+优点	advantage
+优势	advantage
+好处	advantage
+名誉	reputation
+名声	reputation
+好名声	reputation
+数	number
+数字	number
+号码	number
+排去	drain
+放水	drain
+耗竭	drain
+总数	amount
+数量	amount
+和	amount
+调合	harmony
+协调	harmony
+和谐	harmony
+海滩	beach
+湖滩	beach
+河滩	beach
+好	well
+完全地	well
+嘿	well
+最多的	most
+最	most
+很	most
+烤	roast
+炙	roast
+烘	roast
+炉	oven
+灶	oven
+烘箱	oven
+诡计	trick
+窍门	trick
+哄骗	trick
+吼叫	roar
+呼喊	roar
+吼	roar
+雷	thunder
+打雷	thunder
+吼出	thunder
+脚后跟	heel
+踵	heel
+后跟	heel
+风	wind
+气息	wind
+呼吸	wind
+不顾	ignore
+不理	ignore
+忽视	ignore
+出席	attend
+照顾	attend
+护理	attend
+照管	tend
+照料	tend
+护理	tend
+王冠	crown
+冕	crown
+花冠	crown
+滑	slide
+使滑动	slide
+冰鞋	skate
+滑冰	skate
+结合	combination
+联合	combination
+化合	combination
+画	picture
+图片	picture
+刷子	brush
+毛刷	brush
+画笔	brush
+题目	topic
+论题	topic
+话题	topic
+怀疑	doubt
+疑虑	doubt
+有病的	ill
+坏的	ill
+坏	ill
+邪恶	evil
+祸害	evil
+坏的	evil
+状况	condition
+状态	condition
+环境	condition
+安装	setting
+调整	setting
+环境	setting
+圈	loop
+环	loop
+环孔	loop
+容易	ease
+舒适	ease
+缓和	ease
+引起	arouse
+唤起	arouse
+唤醒	arouse
+醒	wake
+醒来	wake
+唤醒	wake
+说谎	lie
+欺骗	lie
+谎话	lie
+重获	recovery
+痊愈	recovery
+恢复	recovery
+在后	back
+回原处	back
+回	back
+毁灭	ruin
+废墟	ruin
+毁坏	ruin
+聚集	meeting
+会合	meeting
+会见	meeting
+门厅	hall
+过道	hall
+会堂	hall
+主席	chairman
+议长	chairman
+会长	chairman
+总统	president
+校长	president
+会长	president
+画	paint
+油漆	paint
+绘画	paint
+漆工	painter
+画家	painter
+绘画者	painter
+图画	drawing
+素描	drawing
+绘图	drawing
+结婚	marriage
+婚姻	marriage
+婚礼	marriage
+契约	contract
+合同	contract
+婚约	contract
+居住	live
+活	live
+活的	live
+粉末	powder
+药粉	powder
+火药	powder
+人	fellow
+家伙	fellow
+伙伴	fellow
+赚得	earn
+挣得	earn
+获得	earn
+打	hit
+碰撞	hit
+击	hit
+小屋	cabin
+船舱	cabin
+机舱	cabin
+发动机	engine
+引擎	engine
+机车	engine
+组织	organization
+团体	organization
+机构	organization
+范围	scope
+余地	scope
+机会	scope
+舰队	fleet
+船队	fleet
+机群	fleet
+技工	mechanic
+机械	mechanic
+机修工	mechanic
+小鸡	chicken
+小鸟	chicken
+鸡肉	chicken
+基础	base
+底层	base
+基地	base
+贵族	lord
+上帝	lord
+基督	lord
+基础	foundation
+地基	foundation
+基金	foundation
+情感	emotion
+感情	emotion
+激动	emotion
+动	stir
+拨动	stir
+激动	stir
+促动	motivate
+激励	motivate
+激发	motivate
+刺激	stimulate
+激励	stimulate
+激发	stimulate
+或	or
+或者	or
+即	or
+中心	centre
+中枢	centre
+集中	centre
+夫妇	couple
+对	couple
+几个	couple
+乳	milk
+牛奶	milk
+挤	milk
+计算	calculate
+估计	calculate
+计划	calculate
+计算	count
+数	count
+计数	count
+象征	symbol
+符号	symbol
+记号	symbol
+记录	record
+履历	record
+头脑	mind
+理智	mind
+记忆	mind
+记得	remember
+想起	remember
+记住	remember
+时代	era
+年代	era
+纪元	era
+技术	technique
+技巧	technique
+技能	technique
+艺术	art
+美术	art
+技术	art
+工艺学	technology
+工艺	technology
+技术	technology
+连续	succession
+继任	succession
+继承	succession
+过程	cess
+工序	cess
+加工	cess
+增援	reinforce
+支援	reinforce
+加强	reinforce
+燃料	fuel
+给	fuel
+加燃料	fuel
+盐	salt
+盐类	salt
+加盐于	salt
+油	oil
+石油	oil
+加油于	oil
+牛	cattle
+牲口	cattle
+家畜	cattle
+生物	creature
+动物	creature
+家畜	creature
+男孩	boy
+少年	boy
+家伙	boy
+关系	relation
+联系	relation
+家属	relation
+家	home
+家乡	home
+家庭的	home
+家庭	household
+户	household
+家务	household
+家	family
+家庭	family
+家族	family
+假日	holiday
+节日	holiday
+假期	holiday
+比率	rate
+速度	rate
+价格	rate
+值	worth
+的	worth
+价值	worth
+间隔	interval
+休息	interval
+间距	interval
+检查	check
+制止	check
+检查	inspect
+审查	inspect
+检阅	inspect
+剪	shear
+剥夺	shear
+减少	reduce
+减小	reduce
+简化	reduce
+图解	diagram
+图表	diagram
+简图	diagram
+观点	viewpoint
+看法	viewpoint
+见解	viewpoint
+地平线	horizon
+眼界	horizon
+见识	horizon
+感官	sense
+感觉	sense
+见识	sense
+创立	found
+创办	found
+建立	found
+暗示	hint
+示意	hint
+建议	hint
+结构	structure
+构造	structure
+建造	structure
+建筑物	building
+大楼	building
+建筑	building
+建造	construction
+建筑	construction
+建筑物	construction
+船	ship
+海船	ship
+舰	ship
+认出	identify
+识别	identify
+鉴定	identify
+眼睛	eye
+眼力	eye
+鉴赏力	eye
+糊	paste
+酱	paste
+浆湖	paste
+发出	utter
+说	utter
+讲	utter
+平台	platform
+站台	platform
+讲台	platform
+杯子	cup
+杯	cup
+奖杯	cup
+桩	stake
+赌金	stake
+奖品	stake
+下沉	sink
+下垂	sink
+降低	sink
+交换	exchange
+交流	exchange
+通讯	communication
+传达	communication
+交通	communication
+交通	traffic
+通行	traffic
+交通量	traffic
+贸易	trade
+职业	trade
+交易	trade
+女裙	skirt
+边缘	skirt
+郊区	skirt
+模子	mould
+模型	mould
+浇铸	mould
+胶	glue
+胶水	glue
+胶合	glue
+聚焦	focus
+注视	focus
+焦点	focus
+号角	horn
+警报器	horn
+角	horn
+性格	character
+特性	character
+角色	character
+哭	cry
+哭泣	cry
+叫喊	cry
+汽车	car
+小汽车	car
+轿车	car
+教堂	church
+礼拜堂	church
+教会	church
+戏院	theatre
+戏剧	theatre
+教室	theatre
+讲	teach
+教育	teach
+教书	teach
+方法	method
+办法	method
+教学法	method
+命令	instruction
+教学	instruction
+教训	instruction
+文化	culture
+文明	culture
+教养	culture
+教育	education
+训导	education
+教育学	education
+舞台	stage
+戏剧	stage
+阶段	stage
+班	class
+班级	class
+阶级	class
+收到	receive
+得到	receive
+接待	receive
+向	toward
+对于	toward
+接近	toward
+拿来	fetch
+请来	fetch
+接去	fetch
+接待	reception
+招待会	reception
+接受	reception
+展现	reveal
+揭示	reveal
+揭露	reveal
+经济	economy
+节约	economy
+节省	economy
+韵律	rhythm
+格律	rhythm
+节奏	rhythm
+织物	fabric
+纺织品	fabric
+结构	fabric
+框架	framework
+构架	framework
+结构	framework
+机器	machinery
+机关	machinery
+结构	machinery
+成果	result
+发生	result
+结果	result
+娶	marry
+嫁	marry
+结婚	marry
+关	close
+闭	close
+结束	close
+末端	end
+目标	end
+结束	end
+完成	finish
+结束	finish
+结论	conclusion
+推论	conclusion
+结尾	conclusion
+决定	decide
+决心	decide
+解决	decide
+解答	solve
+解释	solve
+解决	solve
+分析	analyse
+分解	analyse
+解析	analyse
+分析	analysis
+分解	analysis
+解析	analysis
+王国	kingdom
+领域	kingdom
+界	kingdom
+贷款	loan
+暂借	loan
+借出	loan
+原谅	excuse
+免除	excuse
+借口	excuse
+借	borrow
+借用	borrow
+借人	borrow
+因此	hence
+所以	hence
+今后	hence
+金	gold
+钱财	gold
+金制的	gold
+利益	benefit
+恩惠	benefit
+津贴	benefit
+握紧	grip
+抓牢	grip
+紧握	grip
+前进	gress
+进展	gress
+进步	gress
+追赶	pursue
+追踪	pursue
+进行	pursue
+收入	income
+收益	income
+进款	income
+承认	admit
+准许	admit
+进入	admit
+入口	entrance
+门口	entrance
+进入	entrance
+入口处	entry
+登记	entry
+进入	entry
+进	into
+入	into
+进入到	into
+前进	advance
+提高	advance
+进展	advance
+近	near
+接近	near
+近的	near
+郊区	suburb
+郊外	suburb
+近郊	suburb
+浸	soak
+泡	soak
+浸泡	soak
+浸	dip
+蘸	dip
+浸一浸	dip
+背景	background
+后景	background
+经历	background
+生涯	career
+职业	career
+经历	career
+经验	experience
+感受	experience
+经历	experience
+唤醒	rouse
+唤起	rouse
+惊起	rouse
+水晶	crystal
+结晶体	crystal
+晶粒	crystal
+精确	precision
+精密	precision
+精密度	precision
+选择	selection
+挑选	selection
+精选物	selection
+惊恐	alarm
+忧虑	alarm
+警报	alarm
+保护	tect
+保卫	tect
+警戒	tect
+比赛	race
+竞赛	race
+竞争	race
+光荣	honour
+尊敬	honour
+敬意	honour
+休息	rest
+安静	rest
+静止	rest
+情况	circumstance
+条件	circumstance
+境遇	circumstance
+透镜	lens
+镜片	lens
+镜头	lens
+减轻	relieve
+解除	relieve
+救济	relieve
+将	should
+万一	should
+就	should
+退下	retire
+引退	retire
+就寝	retire
+伯父	uncle
+叔父	uncle
+舅父	uncle
+公民	citizen
+市民	citizen
+居民	citizen
+弓	bow
+蝴蝶结	bow
+鞠躬	bow
+限制	limitation
+限度	limitation
+局限	limitation
+时期	period
+学时	period
+句号	period
+和	with
+一起	with
+具有	with
+锯子	saw
+锯	saw
+锯开	saw
+党	party
+党派	party
+聚会	party
+小组	group
+群	group
+聚集	group
+卷	coil
+线圈	coil
+绕	wind
+缠绕	wind
+卷曲	wind
+香烟	cigarette
+纸烟	cigarette
+卷烟	cigarette
+坚决	resolution
+坚定	resolution
+决定	resolution
+决定	determine
+查明	determine
+决心	determine
+解决	resolve
+决心	resolve
+替换物	alternative
+取舍	alternative
+抉择	alternative
+先生	sir
+阁下	sir
+爵士	sir
+官员	officer
+干事	officer
+军官	officer
+开的	open
+开放的	open
+开	open
+袋	sack
+麻袋	sack
+开除	sack
+发展	develop
+形成	develop
+开发	develop
+塞子	tap
+龙头	tap
+开发	tap
+花	flower
+花卉	flower
+开花	flower
+花	bloom
+开花	bloom
+开花期	bloom
+文明	civilization
+文化	civilization
+开化	civilization
+火	fire
+火灾	fire
+开火	fire
+跳起	start
+出发	start
+开始	start
+剥削	exploit
+利用	exploit
+开拓	exploit
+看	look
+显得	look
+看见	see
+遇见	see
+看出	see
+保姆	nurse
+护士	nurse
+看护	nurse
+拷问	torture
+折磨	torture
+拷打	torture
+烤面包	toast
+烘	toast
+烤	toast
+倾斜	lean
+屈身	lean
+靠	lean
+垫子	cushion
+坐垫	cushion
+靠垫	cushion
+向	apach
+靠近	apach
+谷物	grain
+谷粒	grain
+颗粒	grain
+咳	cough
+咳嗽	cough
+能	can
+会	can
+可能	can
+易于	liable
+的	liable
+可能的	liable
+机会	chance
+机遇	chance
+可能性	chance
+焦虑	anxiety
+忧虑	anxiety
+渴望	anxiety
+饿	hunger
+饥饿	hunger
+渴望	hunger
+攻取	conquest
+征服	conquest
+克服	conquest
+抑制	restraint
+遏制	restraint
+克制	restraint
+运输	transportation
+运送	transportation
+客运	transportation
+功课	lesson
+课	lesson
+课程	lesson
+原文	text
+本文	text
+课文	text
+空间	space
+场地	space
+空白	space
+想象	imagination
+想象力	imagination
+空想	imagination
+抱怨	complain
+拆苦	complain
+控告	complain
+抱怨	complaint
+怨言	complaint
+控告	complaint
+命令	command
+指挥	command
+控制	command
+控制	control
+克制	control
+杆	lever
+杠杆	lever
+控制杆	lever
+争吵	quarrel
+吵架	quarrel
+口角	quarrel
+嘴	mouth
+口	mouth
+口腔	mouth
+解释	interpret
+说明	interpret
+口译	interpret
+扣子	button
+按钮	button
+扣紧	button
+快的	fast
+偏快的	fast
+快	fast
+不久	soon
+早	soon
+快	soon
+表示	express
+快车	express
+快递	express
+快	speed
+速率	speed
+快行	speed
+宽阔	width
+广阔	width
+宽度	width
+原谅	forgive
+饶恕	forgive
+宽恕	forgive
+忍受	tolerate
+容忍	tolerate
+宽恕	tolerate
+对待	treat
+处理	treat
+款待	treat
+篮	basket
+篓	basket
+筐	basket
+发热	fever
+发烧	fever
+狂热	fever
+矿	ore
+矿石	ore
+矿砂	ore
+包裹	package
+包	package
+捆	package
+困难	difficulty
+难事	difficulty
+困境	difficulty
+扩大	expansion
+扩充	expansion
+扩张	expansion
+浪费	waste
+废物	waste
+垃圾	waste
+热的	hot
+刺激的	hot
+辣的	hot
+街区	block
+堵塞	block
+拦阻	block
+滥用	abuse
+虐待	abuse
+劳动	labour
+工作	labour
+劳工	labour
+永远	forever
+总是	forever
+老是	forever
+音乐	music
+乐曲	music
+乐谱	music
+仪器	instrument
+工具	instrument
+乐器	instrument
+欢乐	joy
+喜悦	joy
+乐事	joy
+愉快	pleasure
+快乐	pleasure
+乐事	pleasure
+堆	pile
+堆叠	pile
+累积	pile
+冷的	cold
+冷淡的	cold
+冷	cold
+颤抖	shiver
+哆嗦	shiver
+冷颤	shiver
+离婚	divorce
+离异	divorce
+从	from
+来	from
+离开	from
+漫游	wander
+迷路	wander
+离题	wander
+白昼	daylight
+日光	daylight
+黎明	daylight
+典礼	ceremony
+仪式	ceremony
+礼节	ceremony
+方式	manner
+态度	manner
+礼貌	manner
+察觉	perceive
+发觉	perceive
+理解	perceive
+争论	argument
+辩论	argument
+理由	argument
+强迫	force
+力	force
+力量	force
+力	strength
+力量	strength
+力气	strength
+日历	calendar
+历书	calendar
+历法	calendar
+兴趣	interest
+利益	interest
+利息	interest
+说明	illustration
+图解	illustration
+例证	illustration
+连接	connection
+联系	connection
+连贯性	connection
+接合	conjunction
+连接	conjunction
+连接词	conjunction
+协会	association
+团体	association
+联合	association
+同盟	league
+联盟	league
+联合会	league
+连接	connect
+连结	connect
+联系	connect
+使接触	contact
+与	contact
+联系	contact
+锻炼	exercise
+训练	exercise
+练习	exercise
+面包	bread
+食物	bread
+粮食	bread
+量	gauge
+测量	gauge
+量器	gauge
+待遇	treatment
+治疗	treatment
+疗法	treatment
+想象	imagine
+设想	imagine
+料想	imagine
+表	list
+目录	list
+列举	list
+游戏	game
+比赛	game
+猎物	game
+洞	hole
+孔眼	hole
+裂开处	hole
+邻居	neighbour
+邻国	neighbour
+邻人	neighbour
+阵雨	shower
+阵	shower
+淋浴	shower
+鸣	ring
+按铃	ring
+铃声	ring
+金钢石	diamond
+钻石	diamond
+菱形	diamond
+零	zero
+零点	zero
+零度	zero
+职业	job
+工作	job
+零活	job
+细节	detail
+枝节	detail
+零件	detail
+改变	change
+变化	change
+零钱	change
+引导	guidance
+指导	guidance
+领导	guidance
+为	lead
+带路	lead
+领导	lead
+捉住	catch
+赶上	catch
+领会	catch
+理解	comprehension
+理解力	comprehension
+领悟	comprehension
+面积	area
+地区	area
+领域	area
+王国	realm
+国土	realm
+领域	realm
+地区	region
+地带	region
+领域	region
+领土	territory
+版图	territory
+领域	territory
+滑跤	slip
+滑落	slip
+溜	slip
+河	stream
+流	stream
+胜	prevail
+优胜	prevail
+流行	prevail
+谷	valley
+溪谷	valley
+流域	valley
+漏	leak
+泄露	leak
+漏洞	leak
+线带	tape
+磁带	tape
+录音带	tape
+路	route
+路线	route
+路程	route
+蛋	egg
+鸡蛋	egg
+卵	egg
+讨论	discuss
+谈论	discuss
+论述	discuss
+讨论	discussion
+谈论	discussion
+论述	discussion
+逻辑	logic
+推理	logic
+逻辑性	logic
+坚果	nut
+干果	nut
+螺母	nut
+放	set
+安置	set
+落	set
+抚	stroke
+摩	stroke
+捋	stroke
+旅行	journey
+旅程	journey
+客人	guest
+宾客	guest
+旅客	guest
+头	head
+上端	head
+率领	head
+掠过	skim
+擦过	skim
+略读	skim
+烦扰	bother
+迷惑	bother
+麻烦	bother
+埋葬	bury
+葬	bury
+埋藏	bury
+买	buy
+购买	buy
+买	purchase
+购买	purchase
+获得	obtain
+得到	obtain
+买到	obtain
+脉搏	pulse
+脉冲	pulse
+脉动	pulse
+蜂	bee
+密蜂	bee
+忙碌的人	bee
+丛林	jungle
+密林	jungle
+莽丛	jungle
+猫	cat
+猫科	cat
+猫皮	cat
+头发	hair
+毛发	hair
+毛	hair
+地毯	carpet
+毡毯	carpet
+毛毯	carpet
+出现	emerge
+涌现	emerge
+冒出	emerge
+风险	risk
+危险	risk
+冒险	risk
+烟	smoke
+抽烟	smoke
+冒烟	smoke
+帽子	cap
+便帽	cap
+帽状物	cap
+不	no
+并不	no
+没有	no
+额	brow
+眉	brow
+眉毛	brow
+坑	pit
+地坑	pit
+煤矿	pit
+美	beauty
+美丽	beauty
+美人	beauty
+姐妹	sister
+姐	sister
+妹	sister
+种	seed
+籽	seed
+萌芽	seed
+使猛撞	dash
+溅	dash
+猛冲	dash
+巨响	bang
+枪声	bang
+猛击	bang
+捣碎	pound
+舂烂	pound
+猛击	pound
+视	vision
+想象力	vision
+梦幻	vision
+出血	bleed
+流血	bleed
+泌脂	bleed
+密集	density
+稠密	density
+密度	density
+棉	cotton
+棉线	cotton
+棉布	cotton
+尺寸	dimension
+尺度	dimension
+面积	dimension
+特征	feature
+特色	feature
+面貌	feature
+接见	interview
+会见	interview
+面谈	interview
+形容	describe
+描写	describe
+描绘	describe
+圣堂	temple
+神殿	temple
+庙宇	temple
+死	death
+死亡	death
+灭亡	death
+死	die
+死亡	die
+灭亡	die
+人种	race
+种族	race
+民族	race
+卡	card
+卡片	card
+名片	card
+智慧	wisdom
+才智	wisdom
+名言	wisdom
+星	star
+恒星	star
+明星	star
+商品	brand
+烙印	brand
+铭刻	brand
+次序	order
+整齐	order
+命令	order
+需要	require
+要求	require
+命令	require
+有知觉	feel
+触	feel
+摸	feel
+例子	example
+实例	example
+模范	example
+模型	model
+模式	model
+模特儿	model
+摩擦	rub
+擦	rub
+穿着	wear
+戴	wear
+磨损	wear
+破布	rag
+碎布	rag
+抹布	rag
+母牛	cow
+奶牛	cow
+母兽	cow
+树林	wood
+森林	wood
+木头	wood
+目的地	destination
+终点	destination
+目标	destination
+靶	target
+标的	target
+目标	target
+球门	goal
+得分	goal
+目的	goal
+意图	intention
+意向	intention
+目的	intention
+物	object
+物体	object
+目的	object
+证据	witness
+证人	witness
+目击	witness
+帘	curtain
+窗帘	curtain
+幕	curtain
+当时	then
+然后	then
+那么	then
+那	that
+那样	that
+奶油	cream
+乳脂	cream
+奶油色	cream
+持续	last
+持久	last
+耐久	last
+忍耐	patience
+容忍	patience
+耐心	patience
+男的	male
+雄的	male
+男子	male
+南	south
+南方	south
+南方的	south
+很少	seldom
+不常	seldom
+难得	seldom
+盖子	lid
+盖	lid
+囊盖	lid
+脑	brain
+脑髓	brain
+脑力	brain
+橱	cabinet
+柜	cabinet
+内阁	cabinet
+活力	energy
+精力	energy
+能	energy
+力量	might
+威力	might
+能力	might
+容量	capacity
+能力	capacity
+能量	capacity
+发明	invent
+创造	invent
+捏造	invent
+发明	invention
+创造	invention
+捏造	invention
+螺旋	screw
+螺丝	screw
+拧紧	screw
+厩	stable
+马厩	stable
+牛棚	stable
+捻	twist
+拧	twist
+扭弯	twist
+农民	farmer
+农夫	farmer
+农场主	farmer
+国家	country
+国土	country
+农村	country
+农业	agriculture
+农艺	agriculture
+农学	agriculture
+厚的	thick
+密的	thick
+浓	thick
+集中	concentrate
+聚集	concentrate
+浓缩	concentrate
+集中	concentration
+专注	concentration
+浓缩	concentration
+错误	mistake
+误解	mistake
+弄错	mistake
+打扰	disturb
+扰乱	disturb
+弄乱	disturb
+给	bathe
+洗澡	bathe
+弄湿	bathe
+曲线	curve
+弯	curve
+弄弯	curve
+女孩子	girl
+姑娘	girl
+女儿	girl
+妇女	woman
+女人	woman
+女性	woman
+攀登	climb
+爬	climb
+消灭	eliminate
+消除	eliminate
+排除	eliminate
+出口	outlet
+出路	outlet
+排遣	outlet
+送	send
+寄发	send
+派遣	send
+奖	award
+奖品	award
+判定	award
+意见	judgement
+审判	judgement
+判断	judgement
+谴责	condemn
+指责	condemn
+判刑	condemn
+丢弃	abandon
+放弃	abandon
+抛弃	abandon
+壳	shell
+贝壳	shell
+炮弹	shell
+耕	cultivate
+种植	cultivate
+培养	cultivate
+训练	training
+锻炼	training
+培养	training
+满意	satisfaction
+快事	satisfaction
+赔偿	satisfaction
+装备	equipment
+设备	equipment
+配备	equipment
+一对	pair
+成对	pair
+配对	pair
+合作	cooperate
+协作	cooperate
+配合	cooperate
+伙伴	mate
+同事	mate
+配偶	mate
+伙伴	partner
+搭挡	partner
+配偶	partner
+浪花	spray
+喷雾	spray
+喷	spray
+盆	basin
+洗脸盆	basin
+盆地	basin
+碰撞	crash
+坠落	crash
+赞成	apval
+同意	apval
+批准	apval
+赞成	apve
+称许	apve
+批准	apve
+证实	confirm
+肯定	confirm
+批准	confirm
+行李	luggage
+皮箱	luggage
+皮包	luggage
+树干	trunk
+大衣箱	trunk
+皮箱	trunk
+章	chapter
+回	chapter
+篇	chapter
+漂流	drift
+漂泊	drift
+车费	fare
+船费	fare
+票价	fare
+账单	bill
+招贴	bill
+票据	bill
+碎片	piece
+块	piece
+拼合	piece
+拼字	spelling
+拼法	spelling
+拼写法	spelling
+海峡	channel
+渠道	channel
+频道	channel
+屡次	frequency
+次数	frequency
+频率	frequency
+和平	peace
+和睦	peace
+平静	peace
+价值	value
+价格	value
+评价	value
+批评	criticism
+批判	criticism
+评论	criticism
+征服	conquer
+战胜	conquer
+破除	conquer
+打破	break
+损坏	break
+破坏	break
+失事	wreck
+残骸	wreck
+破坏	wreck
+黎明	dawn
+开端	dawn
+破晓	dawn
+层	layer
+层次	layer
+铺设者	layer
+简单	simplicity
+简易	simplicity
+朴素	simplicity
+暴露	exposure
+揭露	exposure
+曝光	exposure
+预料	anticipate
+预期	anticipate
+期望	anticipate
+蠢人	fool
+傻子	fool
+欺骗	fool
+惊异	wonder
+惊奇	wonder
+奇迹	wonder
+旗	flag
+旗帜	flag
+旗舰旗	flag
+尝试	attempt
+试图	attempt
+企图	attempt
+建议	suggest
+暗示	suggest
+启发	suggest
+信息	message
+消息	message
+启示	message
+草稿	draft
+汇票	draft
+起草	draft
+离开	departure
+出发	departure
+起程	departure
+向上	up
+起床	up
+起来	up
+开始	beginning
+开端	beginning
+起源	beginning
+茎	stem
+干	stem
+起源	stem
+大气	atmosphere
+空气	atmosphere
+气氛	atmosphere
+气息	breath
+呼吸	breath
+气味	breath
+碳酸钠	soda
+纯碱	soda
+汽水	soda
+煤气	gas
+气体	gas
+汽油	gas
+行为	deed
+功绩	deed
+契约	deed
+器械	apparatus
+仪器	apparatus
+器官	apparatus
+用具	appliance
+器具	appliance
+器械	appliance
+捏	pinch
+拧	pinch
+掐掉	pinch
+发生	happen
+碰巧	happen
+恰好	happen
+符号	sign
+招牌	sign
+签名	sign
+署名	signature
+签字	signature
+签名	signature
+展望	spect
+前景	spect
+前程	spect
+将来	future
+未来	future
+前途	future
+前夜	eve
+前夕	eve
+前一刻	eve
+缺点	defect
+缺陷	defect
+欠缺	defect
+债	debt
+债务	debt
+欠债	debt
+桶	barrel
+圆筒	barrel
+枪管	barrel
+会议室	chamber
+房间	chamber
+腔	chamber
+强烈	intensity
+剧烈	intensity
+强度	intensity
+实施	enforce
+执行	enforce
+强制	enforce
+桥	bridge
+桥梁	bridge
+桥牌	bridge
+砍	chop
+劈	chop
+切细砍	chop
+入侵	invasion
+侵略	invasion
+侵犯	invasion
+入侵	invade
+侵略	invade
+侵袭	invade
+人们	folk
+家属	folk
+亲属	folk
+工业	industry
+产业	industry
+勤劳	industry
+首要的	prime
+春	prime
+青春	prime
+青春	youth
+青年们	youth
+青年	youth
+拍手	clap
+拍	clap
+轻拍	clap
+弄翻	upset
+打翻	upset
+倾覆	upset
+走向	tend
+趋向	tend
+倾向	tend
+趋向	tendency
+趋势	tendency
+倾向	tendency
+伸向	trend
+倾向	trend
+倾卸	dump
+倾倒	dump
+倾销	dump
+倾斜	slope
+斜面	slope
+灌	pour
+倒	pour
+倾泻	pour
+智力	intelligence
+理解力	intelligence
+情报	intelligence
+视力	sight
+见	sight
+情景	sight
+爱好者	lover
+情人	lover
+情侣	lover
+精神	spirit
+气魄	spirit
+情绪	spirit
+韧度	temper
+心情	temper
+情绪	temper
+选择	choose
+挑选	choose
+情愿	choose
+邀请	invitation
+招待	invitation
+请柬	invitation
+小山	hill
+山岗	hill
+丘陵	hill
+笼	cage
+鸟笼	cage
+囚笼	cage
+提议	posal
+建议	posal
+求婚	posal
+软毛	fur
+毛皮	fur
+裘皮	fur
+差别	distinction
+不同	distinction
+区分	distinction
+区	district
+地区	district
+区域	district
+驾驶	drive
+打入	drive
+驱	drive
+沟	ditch
+沟渠	ditch
+渠道	ditch
+误解	misunderstand
+误会	misunderstand
+曲解	misunderstand
+解开	undo
+打开	undo
+取消	undo
+离开	away
+远离	away
+去	away
+减	subtract
+减去	subtract
+去掉	subtract
+围	surround
+围绕	surround
+圈住	surround
+圆	circle
+圆周	circle
+圈子	circle
+当局	authority
+官方	authority
+权力	authority
+狗	dog
+犬	dog
+犬科动物	dog
+推荐	recommend
+介绍	recommend
+劝告	recommend
+推荐	recommendation
+介绍	recommendation
+劝告	recommendation
+罪恶	vice
+恶习	vice
+缺点	vice
+缺席	absence
+不在场	absence
+缺乏	absence
+要	want
+需要	want
+缺乏	want
+决心	determination
+决定	determination
+确定	determination
+建立	establish
+设立	establish
+确立	establish
+建立	establishment
+设立	establishment
+确立	establishment
+众多	mass
+团	mass
+群众	mass
+染	dye
+染料	dye
+染色	dye
+猜想	suppose
+假定	suppose
+让	suppose
+革命	revolution
+旋转	revolution
+绕转	revolution
+热情	enthusiasm
+热心	enthusiasm
+热忱	enthusiasm
+暖和	warmth
+温暖	warmth
+热烈	warmth
+火焰	flame
+光辉	flame
+热情	flame
+人的	human
+人类的	human
+人	human
+人民	people
+民族	people
+人	people
+灵魂	soul
+精神	soul
+人	soul
+天才	talent
+才能	talent
+人才	talent
+男人	man
+人	man
+人类	man
+哲学	philosophy
+哲理	philosophy
+人生观	philosophy
+数字	figure
+外形	figure
+人物	figure
+工人	worker
+工作者	worker
+人员	worker
+支撑	sustain
+供养	sustain
+忍受	sustain
+经历	undergo
+经受	undergo
+忍受	undergo
+区别	distinguish
+辨别	distinguish
+认别	distinguish
+道歉	apologize
+谢罪	apologize
+认错	apologize
+想	think
+想要	think
+认为	think
+允许	allow
+准许	allow
+任	allow
+什么	any
+一些	any
+任何的	any
+构成	constitute
+组成	constitute
+任命	constitute
+角色	role
+作用	role
+任务	role
+日期	date
+注	date
+日报	journal
+杂志	journal
+日志	journal
+羊毛	wool
+毛线	wool
+绒线	wool
+内容	content
+目录	content
+容量	content
+罐头	can
+听头	can
+容器	can
+遭受	suffer
+忍受	suffer
+容许	suffer
+解决	solution
+解答	solution
+溶解	solution
+粘土	clay
+泥土	clay
+肉体	clay
+肉	flesh
+肌肉	flesh
+肉体	flesh
+里	in
+进	in
+入	in
+接近	access
+通道	access
+入口	access
+虚弱	weakness
+软弱	weakness
+弱点	weakness
+塞子	plug
+插头	plug
+塞	plug
+使消散	scatter
+撒	scatter
+散播	scatter
+咽喉	throat
+喉咙	throat
+嗓音	throat
+葬礼	funeral
+丧礼	funeral
+丧葬	funeral
+混乱	disorder
+杂乱	disorder
+骚乱	disorder
+扫	sweep
+刮起	sweep
+扫过	sweep
+细看	scan
+浏览	scan
+扫描	scan
+沙	sand
+沙子	sand
+沙滩	sand
+登上	mount
+爬上	mount
+山	mount
+山	mountain
+山岳	mountain
+山脉	mountain
+取消	cancel
+撤消	cancel
+删去	cancel
+闪光	flash
+闪	flash
+闪烁	flash
+沙漠	desert
+离弃	desert
+擅离	desert
+贮藏	store
+贮存品	store
+商店	store
+房屋	house
+住宅	house
+商号	house
+费	fee
+酬金	fee
+赏金	fee
+陆地	land
+土地	land
+上岸	land
+在船上	aboard
+在车上	aboard
+上船	aboard
+神	god
+神像	god
+上帝	god
+起立	rise
+升起	rise
+上涨	rise
+烹调	cook
+煮	cook
+烧菜	cook
+烧	burn
+燃烧	burn
+烧伤	burn
+小孩	kid
+儿童	kid
+少年	kid
+女佣	maid
+女仆	maid
+少女	maid
+奢侈	luxury
+奢华	luxury
+奢侈品	luxury
+家具	furniture
+装置	furniture
+设备	furniture
+器械	device
+装置	device
+设计	device
+布局	layout
+安排	layout
+设计	layout
+安装	installation
+装置	installation
+设施	installation
+概念	concept
+观念	concept
+设想	concept
+置放	lay
+铺设	lay
+设置	lay
+排	rank
+横行	rank
+社会阶层	rank
+商业	commerce
+贸易	commerce
+社交	commerce
+社会	society
+团体	society
+社交界	society
+公司	corporation
+企业	corporation
+社团	corporation
+发射	shot
+弹丸	shot
+射门	shot
+方案	ject
+工程	ject
+伸出	ject
+伸展	stretch
+伸	stretch
+深度	depth
+深厚	depth
+深处	depth
+试	trial
+试验	trial
+审判	trial
+色拉	salad
+莴苣	salad
+生菜	salad
+存在	existence
+实在	existence
+生存	existence
+根	root
+根子	root
+生根	root
+存在	exist
+生存	exist
+生活	exist
+活的	living
+生活	living
+生计	living
+存在	being
+生物	being
+生命	being
+本能	instinct
+直觉	instinct
+生性	instinct
+容忍	bear
+负担	bear
+生育	bear
+发展	development
+开发	development
+生长	development
+增长	growth
+增长量	growth
+生长	growth
+发生	generate
+引起	generate
+生殖	generate
+音	tone
+腔调	tone
+声调	tone
+兽	beast
+野兽	beast
+牲畜	beast
+成功	success
+成就	success
+胜利	success
+身体	body
+主体	body
+尸体	body
+遗失	loss
+损失	loss
+失败	loss
+诗	poem
+韵文	poem
+诗体文	poem
+诗	poetry
+诗歌	poetry
+诗作	poetry
+请求	application
+申请	application
+施用	application
+岩	rock
+岩石	rock
+石头	rock
+什么时候	when
+当	when
+时	when
+场合	occasion
+时刻	occasion
+时机	occasion
+季	season
+季节	season
+时节	season
+小时	hour
+时间	hour
+时刻	hour
+片刻	moment
+瞬间	moment
+时刻	moment
+事实	fact
+实际	fact
+实情	fact
+将	execute
+处死	execute
+实施	execute
+效用	utility
+有用	utility
+实用	utility
+碗柜	cupboard
+碗碟橱	cupboard
+食橱	cupboard
+胃	stomach
+肚子	stomach
+食欲	stomach
+允许	let
+让	let
+使	let
+放	put
+摆	put
+使处于	put
+表示	render
+给予	render
+使得	render
+怒	anger
+愤怒	anger
+使发怒	anger
+雇用	employ
+用	employ
+使忙于	employ
+难题	puzzle
+谜	puzzle
+使迷惑	puzzle
+创伤	wound
+伤	wound
+使受伤	wound
+使命	mission
+任务	mission
+使团	mission
+应用	apply
+实施	apply
+使用	apply
+工业	employment
+雇用	employment
+使用	employment
+坐	sit
+就坐	sit
+使坐	sit
+座	seat
+座部	seat
+使坐下	seat
+世界	world
+世人	world
+世间	world
+风格	style
+文体	style
+式样	style
+出现	appear
+来到	appear
+似乎	appear
+事件	event
+大事	event
+事变	event
+发生	occurrence
+出现	occurrence
+事件	occurrence
+例子	instance
+实例	instance
+事例	instance
+事情	affair
+事件	affair
+事务	affair
+商业	business
+生意	business
+事务	business
+原因	cause
+理由	cause
+事业	cause
+寻找	seek
+探索	seek
+试图	seek
+起拆	suit
+诉讼	suit
+适合	suit
+回答	answer
+响应	answer
+适应	answer
+释放	discharge
+排出	discharge
+搜集	collection
+收集	collection
+收藏品	collection
+收获	harvest
+收成	harvest
+收割	harvest
+回想	recall
+叫回	recall
+收回	recall
+收到	receipt
+收条	receipt
+收据	receipt
+钱包	purse
+小钱袋	purse
+手袋	purse
+火炬	torch
+火把	torch
+手电筒	torch
+枪	gun
+炮	gun
+手枪	gun
+保存	conservation
+保护	conservation
+守恒	conservation
+资本	capital
+资金	capital
+首都	capital
+领袖	leader
+领导人	leader
+首领	leader
+生命	life
+一生	life
+寿命	life
+轻蔑	contempt
+藐视	contempt
+受辱	contempt
+损害	injury
+伤害	injury
+受伤处	injury
+一致	accordance
+和谐	accordance
+授予	accordance
+笔迹	handwriting
+手迹	handwriting
+书法	handwriting
+忽视	neglect
+忽略	neglect
+疏忽	neglect
+产量	output
+输出量	output
+输出	output
+失去	lose
+迷失	lose
+输掉	lose
+技能	skill
+技巧	skill
+熟练	skill
+认识	acquaintance
+了解	acquaintance
+熟人	acquaintance
+把	attribute
+归因于	attribute
+属性	attribute
+螺栓	bolt
+插销	bolt
+闩门	bolt
+父亲	parent
+母亲	parent
+双亲	parent
+冰冻	frost
+严寒	frost
+霜	frost
+水手	sailor
+海员	sailor
+水兵	sailor
+水塘	pool
+游泳池	pool
+水池	pool
+江	river
+河	river
+水道	river
+滴下	drip
+漏水	drip
+水滴	drip
+职责	duty
+责任	duty
+税	duty
+睡眠	sleep
+睡	sleep
+遵守	observe
+看到	observe
+说	observe
+说话	speak
+发言	speak
+说	speak
+名字	name
+名誉	name
+说出	name
+主人	master
+能手	master
+硕士	master
+正义	justice
+公正	justice
+司法	justice
+蚕丝	silk
+丝	silk
+丝织品	silk
+反射	reflect
+反映	reflect
+思考	reflect
+裂缝	slit
+切开	slit
+撕开	slit
+结尾	ending
+结局	ending
+死亡	ending
+农场	farm
+农庄	farm
+饲养场	farm
+做	give
+作	give
+送给	give
+在	search
+中搜寻	search
+搜查	search
+酸	acid
+酸的	acid
+酸性的	acid
+碎片	fragment
+破片	fragment
+碎块	fragment
+损害	damage
+毁坏	damage
+伤害	harm
+损害	harm
+伤害	injure
+损害	injure
+损伤	injure
+减少	reduction
+减小	reduction
+缩减	reduction
+减少	lessen
+减轻	lessen
+缩小	lessen
+因此	consequently
+因而	consequently
+所以	consequently
+细绳	cord
+粗线	cord
+索	cord
+声称	claim
+主张	claim
+索取	claim
+锁	lock
+锁上	lock
+锁住	lock
+这	it
+那	it
+它	it
+行为	behavior
+举止	behavior
+态度	behavior
+地址	address
+演说	address
+谈吐	address
+供认	confess
+承认	confess
+坦白	confess
+铁	iron
+烙铁	iron
+烫衣	iron
+逃跑	escape
+逸出	escape
+航班	flight
+飞行	flight
+逃跑	flight
+箱	case
+盒	case
+套	case
+质量	quality
+品质	quality
+特性	quality
+痛	ache
+想念	ache
+疼痛	ache
+赠送	present
+介绍	present
+提出	present
+举起	raise
+引起	raise
+提高	raise
+提供	offer
+提出	offer
+参考	reference
+出处	reference
+提及	reference
+在前	ahead
+向前	ahead
+提前	ahead
+促进	mote
+发扬	mote
+提升	mote
+线索	clue
+暗示	clue
+提示	clue
+运动	motion
+手势	motion
+提议	motion
+标题	heading
+题词	heading
+题名	heading
+肌肉	muscle
+肌	muscle
+体力	muscle
+考虑	consideration
+思考	consideration
+体贴	consideration
+礼物	gift
+赠品	gift
+天赋	gift
+天堂	heaven
+天	heaven
+天空	heaven
+使平衡	balance
+称	balance
+天平	balance
+诅咒	curse
+咒骂	curse
+天谴	curse
+地图	map
+图	map
+天体图	map
+灾难	disaster
+灾祸	disaster
+天灾	disaster
+天才	genius
+天赋	genius
+天资	genius
+垫	pad
+本子	pad
+填塞	pad
+肩	shoulder
+肩膀	shoulder
+挑起	shoulder
+剥	strip
+夺去	strip
+条带	strip
+打听	inquire
+询问	inquire
+调查	inquire
+询问	inquiry
+打听	inquiry
+调查	inquiry
+筹备	arrange
+整理	arrange
+调解	arrange
+安排	settle
+安放	settle
+调停	settle
+调子	tune
+和谐	tune
+调谐	tune
+管理	regulate
+控制	regulate
+调整	regulate
+跳	jump
+暴涨	jump
+跳过	jump
+反跳	bounce
+弹起	bounce
+跳起	bounce
+跳	leap
+跃	leap
+跳跃	leap
+横条	rail
+横杆	rail
+铁轨	rail
+听	listen
+留神听	listen
+听从	listen
+耳朵	ear
+听力	ear
+听觉	ear
+听见	hear
+审讯	hear
+听说	hear
+法院	court
+法庭	court
+庭院	court
+锚	anchor
+抛锚	anchor
+停泊	anchor
+离开	quit
+退出	quit
+停止	quit
+塞住	stop
+阻止	stop
+停止	stop
+停止	halt
+立定	halt
+停住	halt
+通过	passage
+通路	passage
+通道	passage
+走廊	corridor
+回廊	corridor
+通路	corridor
+知道	know
+认识	know
+通晓	know
+网	net
+网状物	net
+通信网	net
+劝告	advise
+建议	advise
+通知	advise
+消息	information
+信息	information
+通知	information
+教	instruct
+指示	instruct
+通知	instruct
+公司	company
+商号	company
+同伴	company
+兄弟	brother
+同事	brother
+同胞	brother
+同情	sympathy
+一致	sympathy
+同感	sympathy
+怜悯	pity
+遗憾	pity
+同情	pity
+交往	associate
+伙伴	associate
+同事	associate
+协定	agreement
+协议	agreement
+同意	agreement
+同意	consent
+赞成	consent
+允许	permission
+许可	permission
+同意	permission
+铜	copper
+铜币	copper
+铜制器	copper
+捐献	contribute
+捐助	contribute
+投稿	contribute
+投资	investment
+投资额	investment
+投入	investment
+暂住	lodge
+借宿	lodge
+投宿	lodge
+投	pitch
+掷	pitch
+投掷	pitch
+设计	design
+图样	design
+泥土	soil
+土壤	soil
+土地	soil
+单一	unity
+统一	unity
+团结	unity
+推	push
+逼迫	push
+吊	suspend
+悬	suspend
+推迟	suspend
+演绎	deduce
+推论	deduce
+推断	deduce
+理由	reason
+理性	reason
+推理	reason
+出口	exit
+退场	exit
+退出	exit
+收缩	shrink
+缩小	shrink
+退缩	shrink
+拖	drag
+拉	drag
+拖曳	drag
+移动	remove
+搬开	remove
+脱掉	remove
+流出	shed
+散发	shed
+脱落	shed
+使厌烦	bore
+钻	bore
+挖	bore
+倒坍	collapse
+崩溃	collapse
+瓦解	collapse
+脚底	sole
+鞋底	sole
+袜底	sole
+方面	aspect
+样子	aspect
+外表	aspect
+脸	face
+表面	face
+外表	face
+地面	surface
+表面	surface
+外表	surface
+空气	air
+空中	air
+外观	air
+出现	appearance
+来到	appearance
+外观	appearance
+皮	skin
+兽皮	skin
+外皮	skin
+俯身	stoop
+弯身	stoop
+弯腰	stoop
+达到	attain
+获得	attain
+完成	attain
+履行	fulfil
+满足	fulfil
+完成	fulfil
+乐趣	fun
+娱乐	fun
+玩笑	fun
+治理	harness
+马具	harness
+挽具	harness
+迟的	late
+迟	late
+晚	late
+傍晚	evening
+黄昏	evening
+晚上	evening
+碗	bowl
+钵	bowl
+碗状物	bowl
+向前	forward
+今后	forward
+往后	forward
+向前	forth
+向外	forth
+往外	forth
+兴旺	thrive
+繁荣	thrive
+旺盛	thrive
+原子	atom
+微粒	atom
+微量	atom
+环境	environment
+外界	environment
+围绕	environment
+只	only
+仅仅	only
+唯一的	only
+维持	maintain
+赡养	maintain
+维修	maintain
+维持	maintenance
+保持	maintenance
+维修	maintenance
+信任	trust
+相信	trust
+委托	trust
+守卫	guard
+看守	guard
+卫兵	guard
+月球	moon
+月亮	moon
+卫星	moon
+躺	lie
+平放	lie
+位于	lie
+尝	taste
+尝到	taste
+味觉	taste
+潮湿	moisture
+湿气	moisture
+温度	moisture
+作者	writer
+作家	writer
+文学家	writer
+消化	digest
+领会	digest
+文摘	digest
+纸	paper
+官方文件	paper
+文章	paper
+吻	kiss
+接吻	kiss
+问题	blem
+习题	blem
+千	thousand
+千个	thousand
+无数	thousand
+臂	arm
+臂状物	arm
+武器	arm
+跳舞	dance
+摇晃	dance
+舞	dance
+球	ball
+球状物	ball
+舞会	ball
+文章	article
+条款	article
+物品	article
+西	west
+西洋	west
+西方的	west
+引诱	tempt
+诱惑	tempt
+吸引	tempt
+喜欢	like
+喜爱	like
+希望	like
+祝	wish
+想要	wish
+希望	wish
+膝	knee
+膝盖	knee
+膝关节	knee
+统治	rule
+规定	rule
+习惯	rule
+协会	institution
+制度	institution
+习俗	institution
+洗	wash
+冲出	wash
+洗涤	wash
+享受	enjoy
+欣赏	enjoy
+喜爱	enjoy
+魔法	magic
+巫术	magic
+戏法	magic
+领带	tie
+联系	tie
+系	tie
+因素	factor
+因子	factor
+系数	factor
+考试	exam
+检查	exam
+细查	exam
+考试	examination
+检查	examination
+细查	examination
+下来	descend
+下降	descend
+下倾	descend
+雨	rain
+雨水	rain
+下雨	rain
+教师	teacher
+老师	teacher
+先生	teacher
+发现	discover
+暴露	discover
+显示	discover
+陈列	display
+展览	display
+显示	display
+管	tube
+电子管	tube
+显像管	tube
+出	out
+在外	out
+现出来	out
+给	define
+下定义	define
+限定	define
+抑制	restrain
+遏制	restrain
+限制	restrain
+落下	fall
+跌倒	fall
+陷落	fall
+宁可	rather
+宁愿	rather
+相当	rather
+等同	equality
+平等	equality
+相等	equality
+阶段	phase
+方面	phase
+相位	phase
+依靠	depend
+依赖	depend
+相信	depend
+胸腔	chest
+胸膛	chest
+箱子	chest
+作答	response
+回答	response
+响应	response
+思想	thought
+思维	thought
+想法	thought
+在	before
+以前	before
+向	before
+桌子	table
+餐桌	table
+项目表	table
+链	chain
+链条	chain
+项圈	chain
+描绘	represent
+代表	represent
+象征	represent
+像	like
+如	like
+像要	like
+消耗	consume
+消费	consume
+消灭	consume
+破坏	destruction
+毁灭	destruction
+消灭	destruction
+杀死	kill
+扼杀	kill
+消磨	kill
+不见	disappear
+失踪	disappear
+消失	disappear
+丢掉	disposal
+处理	disposal
+销毁	disposal
+去掉	dispose
+丢掉	dispose
+销毁	dispose
+市场	market
+集市	market
+销路	market
+卖	sale
+拍卖	sale
+销售额	sale
+一点	bit
+一些	bit
+小片	bit
+短文	essay
+散文	essay
+小品文	essay
+关心	care
+介意	care
+小心	care
+小的	small
+少的	small
+小型的	small
+编辑	editor
+编者	editor
+校订者	editor
+证据	of
+证明	of
+校样	of
+调整	adjust
+调节	adjust
+校正	adjust
+笑	laugh
+发笑	laugh
+微笑	smile
+笑容	smile
+目的	purpose
+意图	purpose
+效果	purpose
+结果	effect
+效果	effect
+效力	effect
+效率	efficiency
+功效	efficiency
+效能	efficiency
+条约	treaty
+协议	treaty
+协定	treaty
+理解	understanding
+理解力	understanding
+协定	understanding
+联合	union
+团结	union
+协会	union
+书写	write
+写	write
+构成	composition
+作品	composition
+写作	composition
+道歉	apology
+认错	apology
+谢罪	apology
+痛	pain
+疼痛	pain
+辛苦	pain
+边境	frontier
+边疆	frontier
+新领域	frontier
+依赖	rely
+依靠	rely
+信赖	rely
+信任	belief
+相信	belief
+信念	belief
+信任	confidence
+信赖	confidence
+信心	confidence
+信任	faith
+信心	faith
+信仰	faith
+犯人	criminal
+罪犯	criminal
+刑事犯	criminal
+形式	form
+形状	form
+形成	form
+形状	shape
+情况	shape
+形成	shape
+形成	formation
+构成	formation
+形成物	formation
+位置	situation
+处境	situation
+形势	situation
+繁荣	flourish
+茂盛	flourish
+兴旺	flourish
+繁荣	sperity
+昌盛	sperity
+兴旺	sperity
+运气	luck
+好运	luck
+幸运	luck
+大自然	nature
+本性	nature
+性质	nature
+财产	perty
+资产	perty
+性质	perty
+威胁	threat
+恐吓	threat
+凶兆	threat
+乳房	breast
+胸脯	breast
+胸膛	breast
+恢复	restore
+归还	restore
+修补	restore
+修订	revise
+校订	revise
+修改	revise
+剃	shave
+刮	shave
+修面	shave
+装饰	decorate
+装璜	decorate
+修饰	decorate
+更改	modify
+修改	modify
+修饰	modify
+羞耻	shame
+羞愧	shame
+羞辱	shame
+嗅觉	smell
+气味	smell
+嗅	smell
+挑战	challenge
+要求	challenge
+需要	challenge
+百	hundred
+百个	hundred
+许多	hundred
+非常	much
+很	much
+许多的	much
+自由	liberty
+释放	liberty
+许可	liberty
+发	nounce
+的音	nounce
+宣布	nounce
+判决	sentence
+句子	sentence
+宣判	sentence
+对比	contrast
+对照	contrast
+悬殊	contrast
+公鸡	cock
+雄禽	cock
+旋塞	cock
+纺	spin
+使旋转	spin
+旋转	spin
+选举	elect
+推选	elect
+选择	elect
+巢	nest
+窝	nest
+穴	nest
+学习	study
+研究	study
+学	study
+取得	acquire
+获得	acquire
+学到	acquire
+学校	school
+学院	school
+学派	school
+程度	degree
+度	degree
+学位	degree
+学生	student
+研究生	student
+学者	student
+血	blood
+血液	blood
+血统	blood
+电路	circuit
+环行	circuit
+巡行	circuit
+要求	demand
+需要	demand
+询问	demand
+旋转	rotation
+转动	rotation
+循环	rotation
+纪律	discipline
+训练	discipline
+教育	educate
+培养	educate
+训练	educate
+练习	practise
+实习	practise
+训练	practise
+追上	overtake
+赶上	overtake
+压倒	overtake
+榨	squeeze
+挤	squeeze
+压榨	squeeze
+鸭	duck
+雌鸭	duck
+鸭肉	duck
+优美	grace
+文雅	grace
+雅致	grace
+管子	pipe
+导管	pipe
+烟斗	pipe
+牛	ox
+公牛	ox
+阉牛	ox
+保护	preserve
+保存	preserve
+腌渍	preserve
+延迟	postpone
+推迟	postpone
+延缓	postpone
+继续	continue
+连续	continue
+延伸	continue
+推迟	delay
+耽搁	delay
+延误	delay
+坏的	bad
+恶的	bad
+严重的	bad
+坏	badly
+差	badly
+严重地	badly
+重力	gravity
+引力	gravity
+严重性	gravity
+颜色	color
+彩色	color
+颜料	color
+屏	screen
+屏幕	screen
+掩蔽	screen
+面具	mask
+伪装	mask
+掩饰	mask
+游	swim
+游泳	swim
+眼花	swim
+履行	perform
+执行	perform
+演出	perform
+玩	play
+游戏	play
+演奏	play
+疲劳	tire
+累	tire
+厌倦	tire
+正餐	dinner
+主餐	dinner
+宴会	dinner
+毛毯	blanket
+毯子	blanket
+羊毛毯	blanket
+食物	food
+食品	food
+养料	food
+锈	rust
+生锈	rust
+氧化	rust
+样本	specimen
+标本	specimen
+样品	specimen
+问	ask
+要求	ask
+邀请	ask
+山洞	cave
+洞穴	cave
+窑洞	cave
+摇	rock
+使动摇	rock
+摇摆	swing
+回转	swing
+摇	shake
+使震动	shake
+摇动	shake
+摇动	sway
+摇	sway
+发抖	tremble
+哆嗦	tremble
+摇动	tremble
+远的	far
+远	far
+遥远	far
+药	drug
+药物	drug
+药材	drug
+事情	matter
+物质	matter
+要紧	matter
+大概	maybe
+或许	maybe
+也许	maybe
+可能	might
+会	might
+也许	might
+郊游	picnic
+野餐	picnic
+雄心	ambition
+抱负	ambition
+野心	ambition
+猪	pig
+小猪	pig
+野猪	pig
+实践	practice
+练习	practice
+业务	practice
+刀刃	blade
+刀片	blade
+叶片	blade
+午夜	midnight
+子夜	midnight
+夜半	midnight
+酒	liquor
+溶液	liquor
+液剂	liquor
+半	half
+一半	half
+一半的	half
+线	string
+细绳	string
+一串	string
+一次	once
+曾经	once
+课程	course
+过程	course
+一道菜	course
+长	length
+长度	length
+一段	length
+边	side
+旁边	side
+一方	side
+分	minute
+分钟	minute
+一会儿	minute
+群	crowd
+大众	crowd
+一伙人	crowd
+剂量	dose
+用量	dose
+一剂	dose
+门	door
+通道	door
+一家	door
+瞥见	glimpse
+一瞥	glimpse
+一看	glimpse
+摘要	summary
+概要	summary
+一览	summary
+圆的	round
+兜圈	round
+一轮	round
+瓶	bottle
+酒瓶	bottle
+一瓶	bottle
+农作物	crop
+庄稼	crop
+一熟	crop
+条	item
+条款	item
+一条	item
+一把	handful
+少数	handful
+一小撮	handful
+电池	battery
+一套	battery
+一组	battery
+动作	movement
+活动	movement
+移动	movement
+省略	omit
+省去	omit
+遗漏	omit
+丢弃	discard
+抛弃	discard
+遗弃	discard
+发问	question
+问题	question
+疑问	question
+鼓舞	inspire
+给	inspire
+以灵感	inspire
+大会	congress
+国会	congress
+议会	congress
+翻译	translation
+译文	translation
+译本	translation
+劝告	advice
+忠告	advice
+意见	advice
+想法	idea
+思想	idea
+意见	idea
+理论	theory
+学说	theory
+意见	theory
+意义	meaning
+意思	meaning
+意图	meaning
+想要	intend
+打算	intend
+意指	intend
+作	mean
+解释	mean
+意指	mean
+如此	thus
+这样	thus
+因而	thus
+为	for
+给	for
+因为	for
+从	since
+以来	since
+因为	since
+云	cloud
+云状物	cloud
+阴影	cloud
+荫	shade
+遮光物	shade
+荫蔽	shade
+银	silver
+银子	silver
+银器	silver
+吸引	attraction
+吸引力	attraction
+引力	attraction
+出现	arise
+由	arise
+引起	arise
+介绍	introduction
+引进	introduction
+引言	introduction
+序言	preface
+前言	preface
+引语	preface
+饮	drink
+喝	drink
+饮料	drink
+把	hide
+藏起来	hide
+隐瞒	hide
+印	impression
+印象	impression
+印记	impression
+脚	foot
+最下部	foot
+英尺	foot
+获胜	win
+赢	win
+赢得	win
+电影院	cinema
+电影	cinema
+影片	cinema
+影响	influence
+势力	influence
+阴影	shadow
+阴	shadow
+影子	shadow
+将要	shall
+必须	shall
+应	shall
+像	image
+形象	image
+映象	image
+拿住	hold
+掌握	hold
+拥有	hold
+自己的	own
+有	own
+拥有	own
+总是	always
+一直	always
+永远	always
+心	heart
+内心	heart
+勇气	heart
+男主角	hero
+英雄	hero
+勇士	hero
+用	use
+耗费	use
+工具	tool
+器具	tool
+用具	tool
+善	virtue
+美德	virtue
+优点	virtue
+偏爱	preference
+优先	preference
+优先权	preference
+薄暮	dusk
+黄昏	dusk
+幽暗	dusk
+幽默	humour
+诙谐	humour
+幽默感	humour
+因此	thereby
+从而	thereby
+由此	thereby
+包裹	parcel
+小包	parcel
+邮包	parcel
+邮政	post
+邮寄	post
+邮件	post
+油煎	fry
+油炸	fry
+油炒	fry
+游行	parade
+检阅	parade
+三月	march
+行军	march
+游行示威	march
+同样地	likewise
+也	likewise
+又	likewise
+小的	little
+少	little
+幼小的	little
+微生物	germ
+细菌	germ
+幼芽	germ
+吸引	attract
+引起	attract
+诱惑	attract
+陷阱	trap
+诡计	trap
+诱骗	trap
+现在	now
+立刻	now
+于是	now
+房间	room
+地位	room
+余地	room
+小船	boat
+艇	boat
+渔船	boat
+羽毛	feather
+翎毛	feather
+羽状物	feather
+词汇表	vocabulary
+词汇	vocabulary
+语汇	vocabulary
+心情	mood
+情绪	mood
+语气	mood
+说话声	voice
+意见	voice
+语态	voice
+舌	tongue
+舌头	tongue
+语言	tongue
+浴	bath
+洗澡	bath
+浴缸	bath
+厕所	toilet
+盥洗室	toilet
+浴室	toilet
+预言	predict
+预告	predict
+预测	predict
+书	book
+书籍	book
+预定	book
+储备	reserve
+保留	reserve
+预定	reserve
+期待	expectation
+期望	expectation
+预期	expectation
+预测	forecast
+预报	forecast
+预示	forecast
+食欲	appetite
+胃口	appetite
+欲望	appetite
+成分	element
+要素	element
+元素	element
+原谅	pardon
+赦免	pardon
+核	nucleus
+核心	nucleus
+原子核	nucleus
+罗盘	compass
+指南针	compass
+圆规	compass
+鼓	drum
+鼓状物	drum
+圆桶	drum
+圆周	circumference
+周长	circumference
+圆周线	circumference
+柱	column
+支柱	column
+圆柱	column
+减轻	relief
+救济	relief
+援救	relief
+泉水	fountain
+喷泉	fountain
+源泉	fountain
+距离	distance
+间距	distance
+远处	distance
+将要	will
+会	will
+愿	will
+相望	desire
+要求	desire
+愿望	desire
+任命	appoint
+委任	appoint
+约定	appoint
+任命	appointment
+约定	appointment
+约会	appointment
+限制	restrict
+限定	restrict
+约束	restrict
+诺言	mise
+指望	mise
+允诺	mise
+田野	field
+田	field
+运动场	field
+货运	freight
+货物	freight
+运费	freight
+操作	operation
+手术	operation
+运算	operation
+表现	behave
+举止	behave
+运转	behave
+输出	export
+出口	export
+运走	export
+植物	plant
+工厂	plant
+栽种	plant
+抚养	rear
+培养	rear
+栽种	rear
+出席	presence
+到场	presence
+在	presence
+东	east
+东部	east
+在东方	east
+先的	previous
+前的	previous
+在前	previous
+由	consist
+组成	consist
+在于	consist
+庆祝	celebrate
+歌颂	celebrate
+赞美	celebrate
+钦佩	admire
+羡慕	admire
+赞赏	admire
+赞扬	praise
+赞美	praise
+遭遇	encounter
+遇到	encounter
+童年	childhood
+幼年	childhood
+早期	childhood
+早	early
+早的	early
+早期的	early
+喧闹声	noise
+响声	noise
+噪声	noise
+获得	gain
+增加	gain
+增进	gain
+生长	grow
+变得	grow
+增长	grow
+膨胀	swell
+隆起	swell
+增长	swell
+恐怖	horror
+战栗	horror
+憎恶	horror
+爆炸	blast
+冲击波	blast
+炸	blast
+爆炸	explosion
+爆发	explosion
+炸裂	explosion
+弄脏	pollute
+污染	pollute
+沾污	pollute
+水泥	cement
+胶泥	cement
+粘结	cement
+显示	exhibit
+陈列	exhibit
+展览	exhibit
+展览	exhibition
+陈列	exhibition
+展览会	exhibition
+观点	outlook
+看法	outlook
+展望	outlook
+生产	duce
+产生	duce
+展现	duce
+装满	fill
+盛满	fill
+占满	fill
+占领	occupy
+占	occupy
+占有	occupy
+有	possession
+所有	possession
+占有物	possession
+长的	long
+远的	long
+长久	long
+流动	flow
+飘垂	flow
+涨潮	flow
+手掌	palm
+手心	palm
+掌状物	palm
+记述	account
+解释	account
+帐目	account
+栅栏	barrier
+屏障	barrier
+障碍	barrier
+水坝	dam
+水堤	dam
+障碍物	dam
+篱笆	hedge
+树篱	hedge
+障碍物	hedge
+邀请	invite
+聘请	invite
+招待	invite
+为	serve
+服务	serve
+招待	serve
+找到	find
+发觉	find
+找出	find
+因此	accordingly
+所以	accordingly
+照着	accordingly
+折叠	fold
+合拢	fold
+褶	fold
+这	this
+今	this
+油画	painting
+绘画	painting
+着色	painting
+沾污	stain
+给	stain
+着色	stain
+压力	stress
+重音	stress
+着重	stress
+察觉	detect
+发觉	detect
+侦察	detect
+察觉	detection
+发觉	detection
+侦察	detection
+好奇	curiosity
+好奇心	curiosity
+珍品	curiosity
+奖赏	prize
+奖金	prize
+珍视	prize
+财富	treasure
+珍宝	treasure
+珍视	treasure
+很	very
+完全	very
+真的	very
+真理	truth
+真实	truth
+真实性	truth
+冲击	shock
+震惊	shock
+震动	shock
+压碎	crush
+碾碎	crush
+镇压	crush
+争论	dispute
+争执	dispute
+蒸汽	steam
+蒸发	steam
+蒸	steam
+种类	sort
+类别	sort
+整理	sort
+加	plus
+加上	plus
+正的	plus
+刚才	just
+只是	just
+正好	just
+正确的	right
+对	right
+正好	right
+印刷	print
+正片	print
+公文	document
+文件	document
+证件	document
+证实	verify
+查证	verify
+证明	verify
+根据	evidence
+证据	evidence
+证人	evidence
+政治	politics
+政治学	politics
+政纲	politics
+政府	government
+治理	government
+政治	government
+利益	behalf
+维护	behalf
+支持	behalf
+统治	govern
+治理	govern
+支配	govern
+知识	knowledge
+学识	knowledge
+知道	knowledge
+意识	consciousness
+觉悟	consciousness
+知觉	consciousness
+感情	feeling
+感觉	feeling
+知觉	feeling
+学习	learning
+学问	learning
+知识	learning
+证书	certificate
+证件	certificate
+执照	certificate
+直的	straight
+正直的	straight
+直	straight
+统治者	ruler
+尺	ruler
+直尺	ruler
+岗位	post
+哨所	post
+职位	post
+占领	occupation
+占据	occupation
+职业	occupation
+店员	clerk
+办事员	clerk
+职员	clerk
+责任	responsibility
+责任心	responsibility
+职责	responsibility
+解决	settlement
+殖民	settlement
+殖民地	settlement
+索引	index
+指数	index
+指标	index
+举止	conduct
+行为	conduct
+指导	conduct
+方向	direction
+方位	direction
+指导	direction
+指派	assign
+分配	assign
+指定	assign
+老板	boss
+上司	boss
+指挥	boss
+手	hand
+人手	hand
+指针	hand
+准备	preparation
+预备	preparation
+制备	preparation
+闸	brake
+刹车	brake
+制动	brake
+系统	system
+体系	system
+制度	system
+使	make
+做	make
+制造	make
+医治	cure
+消除	cure
+治愈	cure
+延长	extend
+扩大	extend
+致	extend
+问候	greeting
+招呼	greeting
+致敬	greeting
+瞄准	aim
+针对	aim
+致力	aim
+将	devote
+奉献	devote
+致力于	devote
+智力	wit
+才智	wit
+智能	wit
+打断	interrupt
+打扰	interrupt
+中止	interrupt
+团	lump
+块	lump
+肿块	lump
+癌	cancer
+癌症	cancer
+肿瘤	cancer
+描写	description
+形容	description
+种类	description
+重	weight
+砝码	weight
+重担	weight
+回声	echo
+反响	echo
+重复	echo
+重说	repeat
+重做	repeat
+重复	repeat
+强调	emphasis
+重点	emphasis
+重要性	emphasis
+意义	significance
+意味	significance
+重要性	significance
+口音	accent
+腔调	accent
+重音	accent
+状态	state
+国家	state
+州	state
+关于	about
+在	about
+周围	about
+大陆	continent
+陆地	continent
+洲	continent
+蜡烛	candle
+烛形物	candle
+烛光	candle
+原则	principle
+原理	principle
+主义	principle
+题目	subject
+学科	subject
+主语	subject
+意见	opinion
+看法	opinion
+主张	opinion
+助手	assistant
+助理	assistant
+助教	assistant
+帮助	aid
+救护	aid
+助手	aid
+鼓励	encourage
+支持	encourage
+助长	encourage
+居住	residence
+驻扎	residence
+住处	residence
+地方	place
+地点	place
+住所	place
+凝视	gaze
+盯	gaze
+注视	gaze
+评论	comment
+意见	comment
+注释	comment
+笔记	note
+便条	note
+注释	note
+注意	notice
+通知	notice
+注意	attention
+留心	attention
+注意力	attention
+可能	may
+可以	may
+祝	may
+书写	writing
+写	writing
+著作	writing
+塑像	statue
+雕像	statue
+铸像	statue
+抓紧	grasp
+掌握	grasp
+抓	grasp
+成为	specialize
+专家	specialize
+专攻	specialize
+砖	brick
+砖块	brick
+砖状物	brick
+变化	transformation
+改造	transformation
+转变	transformation
+转	turn
+翻	turn
+转动	turn
+替换	shift
+转移	shift
+转换	shift
+开关	switch
+转换	switch
+供应	furnish
+提供	furnish
+装备	furnish
+捆绑	bind
+包扎	bind
+装钉	bind
+集合	assemble
+召集	assemble
+装配	assemble
+集合	assembly
+集会	assembly
+装配	assembly
+担子	burden
+重担	burden
+装载量	burden
+打猎	hunt
+搜寻	hunt
+追猎	hunt
+追逐	chase
+追赶	chase
+追求	chase
+许可	license
+执照	license
+准许	license
+布	cloth
+衣料	cloth
+桌布	cloth
+态度	attitude
+看法	attitude
+姿势	attitude
+位置	position
+职位	position
+姿势	position
+姿势	gesture
+手势	gesture
+姿态	gesture
+骄傲	pride
+自豪	pride
+自夸	pride
+独立	independence
+自主	independence
+自立	independence
+信	letter
+证书	letter
+字母	letter
+生产	duction
+产品	duction
+总产量	duction
+总的	total
+合计	total
+总共	total
+概括	summarize
+概述	summarize
+总结	summarize
+将	would
+愿	would
+总是	would
+步	step
+步骤	step
+走	step
+脚步	footstep
+脚步声	footstep
+足迹	footstep
+国籍	nationality
+民族	nationality
+族	nationality
+干涉	interference
+干预	interference
+阻碍	interference
+逮捕	arrest
+拘留	arrest
+阻止	arrest
+禁止	forbid
+不许	forbid
+阻止	forbid
+预防	prevent
+防止	prevent
+阻止	prevent
+组成部分	component
+分	component
+组件	component
+薄绢	tissue
+薄纸	tissue
+组织	tissue
+钻头	drill
+操练	drill
+钻孔	drill
+山顶	peak
+巅	peak
+最高的	peak
+把	regard
+看作	regard
+尊敬	regard
+任务	task
+工作	task
+作业	task
+战役	battle
+斗争	battle
+作战	battle
+是	be
+在	be
+做	be
+梦	dream
+梦想	dream
+做梦	dream
+逗	amuse
+乐	amuse
+给	amuse
+娱乐	amuse
+和	and
+又	and
+并	and
+则	and
+在	at
+里	at
+时	at
+缚	attach
+系	attach
+贴	attach
+附加	attach
+袋	bag
+包	bag
+钱包	bag
+背包	bag
+烤	bake
+烘	bake
+焙	bake
+烧硬	bake
+银行	bank
+库	bank
+岩	bank
+堤	bank
+酒吧间	bar
+条	bar
+杆	bar
+栅	bar
+梁	beam
+横梁	beam
+束	beam
+柱	beam
+床	bed
+床位	bed
+圃	bed
+河床	bed
+钟	bell
+铃	bell
+门铃	bell
+钟声	bell
+带	belt
+腰带	belt
+皮带	belt
+区	belt
+咬	bite
+叮	bite
+螫	bite
+剌穿	bite
+捆	bundle
+包	bundle
+束	bundle
+包袱	bundle
+在	by
+旁	by
+被	by
+由	by
+缆	cable
+索	cable
+电缆	cable
+电报	cable
+把	call
+叫做	call
+叫	call
+喊	call
+投	cast
+扔	cast
+抛	cast
+浇铸	cast
+切	cut
+割	cut
+剪	cut
+减少	cut
+尘	dirt
+土	dirt
+污物	dirt
+污垢	dirt
+画	draw
+划	draw
+拖	draw
+拨出	draw
+才能	faculty
+能力	faculty
+系	faculty
+科	faculty
+狂热爱好者	fan
+扇子	fan
+风扇	fan
+扇	fan
+柄	handle
+把手	handle
+拿	handle
+触	handle
+蜜	honey
+蜂蜜	honey
+甜	honey
+甜蜜	honey
+光	light
+光线	light
+灯	light
+光源	light
+肢	limb
+臂	limb
+翼	limb
+树枝	limb
+线	line
+排	line
+路线	line
+线条	line
+许多	lot
+大量	lot
+签	lot
+阄	lot
+办公室	office
+处	office
+局	office
+社	office
+在	on
+上	on
+旁	on
+型	pattern
+式样	pattern
+模	pattern
+模型	pattern
+板	plate
+片	plate
+盘	plate
+电镀	plate
+点	point
+要点	point
+细目	point
+分	point
+柱	post
+桩	post
+杆	post
+贴出	post
+锅	pot
+壶	pot
+罐	pot
+盆	pot
+能力	power
+力	power
+权	power
+幂	power
+压	press
+按	press
+揿	press
+催促	press
+压力	pressure
+压	pressure
+按	pressure
+拉	pull
+拖	pull
+拉力	pull
+排	range
+行	range
+山脉	range
+范围	range
+脊	ridge
+岭	ridge
+山脉	ridge
+垄	ridge
+跑	run
+奔	run
+行驶	run
+流	run
+跳	spring
+跃	spring
+跳跃	spring
+泉	spring
+站	stand
+坐落	stand
+架	stand
+台	stand
+站	station
+台	station
+所	station
+局	station
+棍	stick
+棒	stick
+刺	stick
+粘贴	stick
+打	stroke
+击	stroke
+鸣声	stroke
+中风	stroke
+材料	stuff
+装	stuff
+填	stuff
+塞	stuff
+吸	suck
+吮	suck
+啜	suck
+吸收	suck
+拿	take
+抓	take
+拿走	take
+吃	take
+紧张	tension
+不安	tension
+拉紧	tension
+张力	tension
+期	term
+学期	term
+条件	term
+词	term
+物	thing
+用品	thing
+事	thing
+情况	thing
+线	thread
+丝	thread
+螺纹	thread
+头绪	thread
+投	throw
+掷	throw
+抛	throw
+扔	throw
+插	thrust
+刺	thrust
+讽刺	thrust
+票	ticket
+券	ticket
+纲领	ticket
+传票	ticket
+时间	time
+时机	time
+次	time
+回	time
+梢	tip
+末端	tip
+尖	tip
+尖端	tip
+也	too
+还	too
+太	too
+过分	too
+在	upon
+上	upon
+旁	upon
+容器	vessel
+船	vessel
+飞船	vessel
+管	vessel
+卷	volume
+册	volume
+容积	volume
+音量	volume
+墙	wall
+壁	wall
+围墙	wall
+城墙	wall
+词	word
+话	word
+消息	word
+语言	word
+裹	wrap
+包	wrap
+捆	wrap
+披肩	wrap
+在	about across after around at at be before behind by during on on over presence search under upon upon within
+给	amuse bathe clothe define entitle for fuel grade guide impress inspire show stain
+把	attribute blame call classify conceal exclude file hide regard
+意见	advice comment idea judgement opinion suggestion theory voice
+出现	appear appearance arise come emerge occur occurrence
+联系	bond connect connection contact relation relationship tie
+需要	challenge demand need need require requirement want
+同意	accept agree agreement apval consent consent permission
+发射	emit launch radiation shoot shot transmission transmit
+解释	account explain explanation interpret interpretation mean solve
+要求	ask challenge demand desire request require requirement
+检查	check check exam examination examine inspect survey
+向	apach assure before congratulate inform to toward
+分	cent component divide division minute penny point
+引起	arise arouse attract create excite generate raise
+离开	away depart departure from leave off quit
+说明	demonstrate explanation illustrate illustration interpret say state
+巨大的	big enormous huge immense large vast
+范围	extent limit range scope sphere zone
+承认	acceptance admission admit confess recognition recognize
+职业	career fession job occupation trade work
+大量	flock heap lot plenty ton troop
+开始	begin begin beginning opening outset start
+暗示	clue hint implication imply suggest suggestion
+完成	accomplish achieve achievement attain finish fulfil
+争论	argue argument conflict debate dispute dispute
+损害	damage damage harm harm injure injury
+减少	cut decrease decrease lessen reduce reduction
+决心	decide decision determination determine resolve resolve
+决定	decide decision determination determine fix resolution
+忍受	endure suffer sustain tolerance tolerate undergo
+命令	command dictate instruction order prescribe require
+保护	conservation ensure preserve shield tect tection
+人	fellow human man people person soul
+领域	area kingdom realm region territory vince
+训练	discipline discipline educate exercise practise training
+工作	job labour task work work
+获得	acquire attain earn gain obtain
+阻止	arrest forbid hibit prevent stop
+限制	confine limit limitation restrain restrict
+能力	ability capacity faculty might power
+通知	advise inform information instruct notice
+达到	accomplish achieve arrive attain to
+培养	cultivate educate rear train training
+不	never no nor not without
+目的	goal intention motive object purpose
+因此	accordingly consequently hence thereby therefore
+发表	announce deliver emit publish release
+发生	generate happen occur occurrence result
+改变	alter change conversion transform vary
+容忍	bear endure patience tolerance tolerate
+解决	decide resolve settlement solution solve
+包	bag bundle pack package wrap
+提供	afford furnish offer offer vide
+的	every liable of used worth
+打	beat hit knock strike stroke
+杆	bar lever pole post rod
+可能	can may might perhaps possibility
+构成	compose composition comprise constitute formation
+柱	beam column pillar pole post
+选择	choice choose elect select selection
+行为	act behavior conduct deed performance
+释放	discharge discharge liberate liberty release
+管理	administration manage management regulate regulation
+斗争	battle conflict fight struggle war
+建议	advise hint posal suggest suggestion
+介绍	introduce introduction present recommend recommendation
+停止	cease halt off quit stop
+结束	close conclude end finish finish
+比赛	compete competition game match race
+设计	design design device devise layout
+询问	demand enquire enquiry inquire inquiry
+主要的	central chief main mostly principal
+基本的	basic elementary fundamental primary
+聚集	concentrate gather group meeting
+聪明的	bright clever intelligent wise
+也许	maybe might perhaps possibly
+联合	association combination union unite
+劝告	advice advise recommend recommendation
+观点	outlook perspective standpoint viewpoint
+允许	allow let permission permit
+有能力的	able capable competent efficient
+大的	big great heavy large
+感谢	appreciate gratitude thank thank
+存在	being exist existence occur
+破坏	break destroy destruction wreck
+非常	exceedingly highly much so
+原谅	excuse forgive pardon pardon
+碰撞	collision crash crash hit
+用	employ substitute use use
+地区	area district region zone
+坏的	bad evil ill wicked
+起源	beginning derive origin stem
+真的	genuine real TRUE very
+进入	admit enter entrance entry
+击	hit knock strike stroke
+教育	civilize educate education teach
+形成	develop form formation shape
+表示	express indicate indication render
+表明	declare indicate indication show
+环境	condition environment setting surroundings
+理由	argument cause reason sake
+事件	affair event incident occurrence
+画	draw paint picture picture
+刺	stick sting sting thrust
+战胜	conquer defeat overcome victory
+小屋	cabin cottage hut shed
+消灭	consume destroy destruction eliminate
+消息	information message news word
+测量	gauge measure measurement survey
+当	as when while whilst
+渴望的	anxious eager hungry thirsty
+注意	attention notice notice observation
+影响	affect impact influence influence
+路	path road route way
+唤醒	arouse awake rouse wake
+呼吸	breath breathe breathe wind
+连接	conjunction connect connection join
+连续	continue sequence series succession
+边缘	border edge margin skirt
+同事	associate brother colleague mate
+民族	nation nationality people race
+情况	case circumstance shape thing
+怀疑	doubt doubt suspect suspicion
+局	bureau department office station
+快的	fast quick rapid swift
+发觉	detect detection find perceive
+买	buy buy purchase purchase
+飞机	aeroplane aircraft airplane plane
+爆炸	blast burst explode explosion
+包括	comprise cover embrace include
+拒绝	refusal refuse refuse reject
+反映	mirror reflect reflection reflexion
+反射	mirror reflect reflection reflexion
+排	line range rank row
+摇	rock rock shake sway
+摇动	shake sway sway tremble
+看	look look show view
+看法	attitude opinion outlook viewpoint
+缺点	defect fault shortcoming vice
+所以	accordingly consequently hence therefore
+控制	command control control regulate
+招待	entertain invitation invite serve
+扩大	enlarge expand expansion extend
+可能的	feasible liable likely possible
+相当	correspond fairly quite rather
+相信	belief believe depend trust
+极好的	golden immense super wonderful
+种类	description kind sort variety
+向前	ahead along forth forward
+移动	move movement removal remove
+重要的	considerable important noticeable significant
+很	highly most much very
+系	attach department faculty tie
+装备	equip equipment furnish vide
+问题	blem blem issue question
+将	devote execute should would
+那	it that that the
+建造	construct construction erect structure
+建立	build establish establishment found
+供应	accommodate furnish supply vision
+估计	calculate compute estimate estimate
+传播	communicate convey spread spread
+传送	carry convey transmission transmit
+保持	keep maintenance remain retain
+保证	assure ensure guarantee undertake
+催促	hurry press rush urge
+伙伴	associate fellow mate partner
+任务	assignment mission role task
+分配	assign distribution divide division
+令人愉快的	grateful lovely nice pleasant
+价格	cost price rate value
+倾向	tend tendency trend trend
+信任	belief confidence faith trust
+经历	background career experience undergo
+结果	consequence effect outcome result
+结构	fabric framework machinery structure
+请求	application beg pray request
+证明	justify of ve verify
+评论	comment criticism criticize remark
+为	explain for lead serve
+调查	inquire inquiry investigate research
+谈论	discuss discussion remark talk
+这	it the this this
+旋转	revolution rotate rotation spin
+许多	hundred lot million numerous
+旅行	journey journey tour travel
+说	observe say speak utter
+工具	instrument means tool
+节约	economy saving spare
+欺骗	deceive fool lie
+基础	base basis foundation
+世界	globe universe world
+陈列	display exhibit exhibition
+障碍物	dam hedge obstacle
+陆地	continent earth land
+出口	exit export outlet
+出发	depart departure start
+预期	anticipate expect expectation
+预备	preparation prepare vision
+参加	enter join participate
+通过	pass passage via
+通道	access door passage
+对	couple okay right
+对照	compare comparison contrast
+有	have own possession
+压力	pressure pressure stress
+在下面	below down underneath
+而且	again also furthermore
+厕所	convenience lavatory toilet
+成功	succeed success triumph
+成果	fruit outcome result
+成为	become get specialize
+丰富的	abundant plentiful rich
+帮助	aid assist help
+碎片	fragment patch piece
+态度	attitude behavior manner
+爱	affection love love
+胜利	success triumph victory
+地点	place site spot
+运动	campaign motion sport
+运输	transport transport transportation
+支持	behalf encourage support
+真正地	indeed really truly
+走	go step walk
+协定	agreement treaty understanding
+协会	association institution union
+场地	ground space yard
+专家	expert specialist specialize
+索	cable cord rope
+过程	cedure cess course
+增长	grow growth swell
+堆	heap pile stack
+开发	develop development tap
+开端	beginning dawn outset
+到达	arrival arrive get
+到处	abroad everywhere throughout
+天	day heaven sky
+一些	any bit some
+还	even too yet
+不顾	despite ignore spite
+整洁的	neat orderly tidy
+理解	comprehension perceive understanding
+带	band belt ribbon
+整理	arrange arrangement sort
+现在	now nowadays today
+来到	appear appearance come
+理解力	comprehension intelligence understanding
+死亡	death die ending
+末端	end terminal tip
+严重的	bad grave gross
+整齐的	regular tidy trim
+上	on onto upon
+目标	destination end target
+目录	catalog content list
+点	dot point spot
+治理	govern government harness
+小说	fiction novel story
+渴望	anxiety hunger long
+没有	no not without
+学院	college institute school
+学习	learn learning study
+逃跑	escape escape flight
+汽油	gas gasoline petrol
+汽车	auto automobile car
+当时	meantime meanwhile then
+举止	behave behavior conduct
+兴旺	flourish sperity thrive
+流	run stream stream
+最后	eventually finally last
+坚持	insist keep persist
+最大的	best maximum supreme
+愚蠢的	foolish silly stupid
+时	at tense when
+时刻	hour moment occasion
+量	gauge measure quantity
+题目	subject title topic
+冒险	adventure risk venture
+日光	daylight sunlight sunshine
+明显的	apparent evident obvious
+映象	image reflection reflexion
+显示	discover display exhibit
+最初的	initial original primary
+最后的	final last ultimate
+吸引	attract attraction tempt
+唯一的	only sole unique
+跳	jump leap spring
+路线	line route way
+器械	apparatus appliance device
+足够的	adequate enough sufficient
+吃	eat have take
+呼喊	exclaim roar shout
+响应	answer respond response
+恩惠	benefit favour mercy
+因为	because for since
+转动	roll rotation turn
+转换	shift switch switch
+团体	association organization society
+国家	country nation state
+回	back chapter time
+回答	answer reply response
+边	border edge side
+图	chart graph map
+力	force power strength
+图表	chart diagram graph
+力量	force might strength
+财富	money treasure wealth
+财产	fortune perty wealth
+同情	pity sympathize sympathy
+由	arise by consist
+山脉	mountain range ridge
+展览	display exhibit exhibition
+忧虑	alarm anxiety distress
+居民	citizen inhabitant resident
+恢复	recovery restore resume
+情绪	mood spirit temper
+快	fast soon speed
+愉快的	cheerful merry sweet
+已经	already have yet
+快乐的	cheerful gay happy
+发现	discover discovery finding
+发明	devise invent invention
+发展	develop development evolution
+履行	fulfil perform performance
+憎恶	disgust hatred horror
+习惯	custom habit rule
+烘	bake roast toast
+烤	bake roast toast
+实际上	actually practically virtually
+完全	altogether quite very
+写	write write writing
+实例	example instance sample
+实施	apply enforce execute
+安排	arrangement layout settle
+安装	install installation setting
+完全地	absolutely well wholly
+察觉	detect detection perceive
+容器	can container vessel
+完全的	full perfect utter
+空的	empty hollow vacant
+视力	eyesight sight view
+危险	danger hazard risk
+外面的	external outer outward
+希望	hope like wish
+角	angle corner horn
+触	feel handle touch
+外表	aspect face surface
+盥洗室	bathroom lavatory toilet
+包含	comprise contain include
+外部的	exterior external outer
+反对	object objection oppose
+反抗	oppose revolt withstand
+反应	feedback greet reaction
+拥有	hold own possess
+援助	assist assistance help
+技术	art technique technology
+持续	duration last persist
+爬	climb climb crawl
+挑选	choose select selection
+揭露	expose exposure reveal
+的时候	as while whilst
+提高	advance lift raise
+提议	motion posal pose
+捆	bundle package wrap
+投	cast pitch throw
+制造	make manufacture manufacture
+缺乏	absence lack want
+擦	rub scrape wipe
+控告	charge complain complaint
+抓	grasp scratch take
+拖	drag draw pull
+制造厂	factory manufacturer mill
+拉	drag pull pull
+接受	accept acceptance reception
+接近	access near toward
+执照	certificate license permit
+热情	enthusiasm flame passion
+失败	fail failure loss
+推迟	delay postpone suspend
+推论	conclusion deduce infer
+指导	conduct direction guidance
+批准	apval apve confirm
+邀请	ask invitation invite
+模型	model mould pattern
+机动车	automobile motor vehicle
+想要	intend think wish
+相同的	alike parallel same
+机会	chance opportunity scope
+可怕的	fearful terrible ugly
+想象力	fancy imagination vision
+板	board panel plate
+根据	basis evidence ground
+极度的	excessive extreme terrible
+特有的	characteristic peculiar specific
+船	sail ship vessel
+赞成	apval apve consent
+行动	act action activity
+选举	elect election vote
+丢掉	disposal dispose reject
+毛毯	blanket carpet rug
+生长	development grow growth
+重复	echo repeat repetition
+处	bureau department office
+处理	disposal management treat
+利益	behalf benefit interest
+和	amount and with
+委员会	commission committee council
+和谐	accordance harmony tune
+翻译	translate translate translation
+管	canal tube vessel
+循环	circulate cycle rotation
+特性	character characteristic quality
+重要性	emphasis importance significance
+笑	laugh laugh laughter
+自行车	bicycle bike cycle
+复杂的	complex complicated elaborate
+符号	label sign symbol
+繁荣	flourish sperity thrive
+普通的	common conventional normal
+卷	coil coil volume
+关于	about concerning regarding
+减轻	lessen relief relieve
+关心	care concern consider
+关系	concern relation relationship
+剪	cut shear shear
+装置	device furniture installation
+壮丽的	glorious magnificent splendid
+意图	intention meaning purpose
+意指	imply intend mean
+总是	always forever would
+冲突	collision conflict war
+竞争	compete competition race
+总的	general gross total
+商号	company firm house
+旁	by on upon
+意外的	accident sudden unexpected
+姿势	attitude gesture position
+尊敬	honour regard respect
+新的	fresh new novel
+道路	avenue path road
+产品	duct duction manufacture
+产生	create duce generation
+准许	admit allow license
+辩论	argue argument debate
+建筑	build building construction
+群	crowd flock group
+供给	accommodate supply vide
+创造	create invent invention
+公司	company corporation firm
+仅仅	merely only scarcely
+优点	advantage merit virtue
+会	can might will
+传达	communicate communication transmit
+什么	any what what
+使用	apply employment usage
+全部	all whole wholly
+修补	mend repair restore
+伸展	extension stretch stretch
+保险	insurance insure safety
+像	image like resemble
+偶然的	accidental casual occasional
+作用	action impact role
+伤害	harm injure injury
+任命	appoint appointment constitute
+位置	location position situation
+货物	cargo freight goods
+倾斜	lean slope slope
+集中	centre concentrate concentration
+领导	guidance lead leadership
+领会	appreciate catch digest
+练习	exercise practice practise
+组成	compose consist constitute
+组织	organization organize tissue
+线	line string thread
+纯粹的	absolute mere pure
+给予	deal pay render
+比	portion ratio than
+比率	portion rate ratio
+试验	experiment test trial
+读	read read reading
+计划	calculate plan scheme
+计算	calculate compute count
+证据	evidence of witness
+评价	estimate evaluate value
+语言	language tongue word
+广泛的	broad comprehensive extensive
+高	altitude height high
+调整	adjust regulate setting
+设想	concept fancy imagine
+设备	equipment facility furniture
+雇用	employ employment hire
+变得	become get grow
+变化	change transformation variation
+诡计	scheme trap trick
+摩擦	friction rub rub
+诱惑	attract tempt temptation
+许可	liberty license permission
+谁	who whoever whom
+认出	identify recognition recognize
+认识	acquaintance know recognize
+认为	believe consider think
+高级的	advanced high sophisticated
+熟练的	expert neat skilled
+方式	fashion manner mode
+滥用	abuse abuse
+以后	after afterward
+活跃的	active alive
+之中	among amongst
+解析	analyse analysis
+分解	analyse analysis
+分析	analyse analysis
+任何人	anybody anyone
+无论如何	anyhow anyway
+靠近	apach apach
+道歉	apologize apology
+谢罪	apologize apology
+认错	apologize apology
+外观	air appearance
+约定	appoint appointment
+适当的	applicable appriate
+周围	about around
+装配	assemble assembly
+集合	assemble assembly
+助手	aid assistant
+空气	air atmosphere
+附加	add attach
+洗澡	bath bathe
+兽	animal beast
+以前	ago before
+在旁边	aside beside
+归咎于	accuse blame
+沸腾	boil bubble
+球状物	ball bulb
+束	beam bundle
+事务	affair business
+战役	battle campaign
+撤消	avoid cancel
+箱	box case
+盒	box case
+主席	chair chairman
+可能性	bability chance
+胸膛	breast chest
+抉择	alternative choice
+圆周	circle circumference
+分类	classification classify
+钟	bell clock
+被褥	clothes clothing
+衣服	clothes clothing
+笨拙的	awkward clumsy
+项圈	chain collar
+收集	collect collection
+安慰	comfort comfort
+指挥	boss command
+商业	business commerce
+通讯	communicate communication
+同伴	companion company
+比较	compare comparison
+抱怨	complain complaint
+浓缩	concentrate concentration
+指责	accuse condemn
+压缩	compress condense
+征服	conquer conquest
+意识到的	aware conscious
+考虑	consider consideration
+建筑物	building construction
+消耗	consume consumption
+容纳	accommodate contain
+容量	capacity content
+习惯的	accustomed conventional
+使确信	assure convince
+调节	adjust coordinate
+咳嗽	cough cough
+农村	country countryside
+兄弟	brother cousin
+奶油	butter cream
+动物	animal creature
+家畜	cattle creature
+生物	being creature
+爬行	crawl creep
+批评	criticism criticize
+文明	civilization culture
+文化	civilization culture
+通用的	available current
+黑色的	black dark
+日期	date date
+白昼	day daylight
+黎明	dawn daylight
+腐烂	decay decay
+行骗	cheat deceive
+契约	contract deed
+肯定的	certain definite
+投递	deliver delivery
+分娩	birth delivery
+司	bureau department
+起程	depart departure
+取得	acquire derive
+形容	describe description
+描写	describe description
+可取的	advisable desirable
+绝望	despair despair
+打破	break destroy
+侦察	detect detection
+灭亡	death die
+死	death die
+差	badly difference
+挖	bore dig
+面积	area dimension
+不一致	contradiction disagree
+抛弃	abandon discard
+丢弃	abandon discard
+讨论	discuss discussion
+论述	discuss discussion
+磁盘	disc disk
+唱片	disc disk
+圆盘	disc disk
+厌恶	disgust dislike
+销毁	disposal dispose
+不同	differ distinction
+差别	difference distinction
+分布	distribute distribution
+分发	distribute distribution
+区	belt district
+渠道	channel ditch
+沟渠	canal ditch
+分开	apart divide
+离婚	divorce divorce
+证件	certificate document
+宿舍	dorm dormitory
+服装	clothes dress
+漂流	drift drift
+生产	duce duction
+各	each each
+舒适	comfort ease
+喝	drink eat
+经济学的	economic economical
+第八	eight eighth
+电的	electric electrical
+消除	cure eliminate
+别的	another else
+强调	emphasis emphasize
+遭遇	encounter encounter
+结尾	conclusion ending
+能	can energy
+活力	activity energy
+欣赏	appreciate enjoy
+全部的	all entire
+入口	access entrance
+羡慕	admire envy
+配备	equip equipment
+相等的	equal equivalent
+时代	age era
+确立	establish establishment
+设立	establish establishment
+黄昏	dusk evening
+每人	everybody everyone
+人人	everybody everyone
+考试	exam examination
+细查	exam examination
+交换	exchange exchange
+生存	exist existence
+预料	anticipate expect
+期待	await expectation
+期望	anticipate expectation
+消费	consume expense
+费用	charge expense
+昂贵的	costly expensive
+辩解	explain explanation
+暴露	discover exposure
+程度	degree extent
+容易	ease facility
+便利	convenience facility
+事实	case fact
+信心	confidence faith
+样子	aspect fashion
+有利的	beneficial favourable
+害怕	fear fear
+害怕的	afraid fearful
+感情	emotion feeling
+知觉	consciousness feeling
+家伙	boy fellow
+栅栏	barrier fence
+影片	cinema film
+决定性的	critical final
+纤细的	delicate fine
+第五	fifth five
+平的	even flat
+肉体	clay flesh
+花	bloom flower
+开花	bloom flower
+飞行	flight fly
+食物	bread food
+强迫	compel force
+永远	always forever
+命运	fate fortune
+创立	build found
+框架	frame framework
+构架	frame framework
+直率的	direct frank
+经常的	constant frequent
+来	come from
+前部	forehead front
+肥沃的	fertile fruitful
+多产的	fertile fruitful
+娱乐	amuse fun
+功能	action function
+基金	foundation fund
+资金	capital fund
+基础的	basic fundamental
+熔炉	forge furnace
+更远地	farther further
+更远的	farther further
+注视	focus gaze
+细菌	bacteria germ
+天赋	genius gift
+女儿	daughter girl
+一瞥	glance glimpse
+地球	earth globe
+去	away go
+再会	farewell goodbye
+商品	brand goods
+谷物	corn grain
+程序	cedure gram
+克	gram gramme
+授予	accordance grant
+引力	attraction gravity
+招呼	greet greeting
+问候	greet greeting
+进展	advance gress
+前进	advance gress
+灰色	gray grey
+灰色的	gray grey
+健身房	gym gymnasium
+体育馆	gym gymnasium
+相当大的	considerable handsome
+困难的	difficult hard
+帽子	cap hat
+憎恨	hate hatred
+勇气	courage heart
+高处	altitude height
+高度	altitude height
+喂	feed hello
+今后	forward hence
+她的	her hers
+禁止	forbid hibit
+他	he him
+掌握	grasp hold
+节日	festival holiday
+空洞的	empty hollow
+家	family home
+家庭的	domestic home
+光荣	glory honour
+光荣的	glorious honourable
+诚实的	honest honourable
+绝望的	desperate hopeless
+家庭	family household
+庞大的	enormous huge
+百	cent hundred
+空闲的	free idle
+坏	badly ill
+病	disease illness
+疾病	disease illness
+图解	diagram illustration
+想象	imagination imagine
+直接的	direct immediate
+改善	imve imvement
+里	at in
+增加	gain increase
+自主	freedom independence
+工业	employment industry
+婴儿	baby infant
+推断	deduce infer
+有影响的	effective influential
+输入	import input
+打听	inquire inquiry
+例子	example instance
+立即的	immediate instant
+习俗	convention institution
+指示	indication instruct
+仪器	apparatus instrument
+干预	interfere interference
+干涉	interfere interference
+内的	interior internal
+口译	interpret interpretation
+打扰	disturb interrupt
+间隔	gap interval
+间距	distance interval
+进	in into
+入	in into
+引进	introduce introduction
+入侵	invade invasion
+侵略	invade invasion
+捏造	invent invention
+投入	invest investment
+投资	invest investment
+发行	issue issue
+条	bar item
+条款	article item
+工程	engineering ject
+日报	daily journal
+小孩	child kid
+少年	boy kid
+儿童	child kid
+友好的	friendly kind
+和蔼的	gentle kind
+吻	kiss kiss
+敲	beat knock
+知道	know knowledge
+研究室	lab laboratory
+实验室	lab laboratory
+持久	duration last
+后来	afterward later
+草地	grass lawn
+设置	install lay
+懒散的	idle lazy
+知识	knowledge learning
+课程	course lesson
+证书	certificate letter
+水平的	horizontal level
+慷慨的	generous liberal
+自由	freedom liberty
+盖	cover lid
+盖子	cover lid
+生命	being life
+一生	life lifetime
+电梯	elevator lift
+灯	lamp light
+喜爱	enjoy like
+又	and likewise
+臂	arm limb
+树枝	branch limb
+限度	limit limitation
+液体	fluid liquid
+公升	liter litre
+活的	live living
+生活	exist living
+装满	fill load
+找出	find locate
+远的	far long
+环	link loop
+上帝	god lord
+喜欢	like love
+忠诚的	faithful loyal
+运气	fortune luck
+幸运的	fortunate lucky
+行李	baggage luggage
+机器	machine machinery
+杂志	journal magazine
+有吸引力的	attractive magnetic
+华丽的	brave magnificent
+大陆	continent mainland
+维持	maintain maintenance
+维修	maintain maintenance
+使	let make
+对付	cope manage
+人类	man mankind
+结婚	marriage marry
+团	lump mass
+主人	host master
+垫子	cushion mat
+数学	mathematics maths
+事情	affair matter
+或许	bably maybe
+大概	bably maybe
+我	i me
+平均的	average mean
+作	give mean
+尺寸	dimension measurement
+肉	flesh meat
+机械	machine mechanic
+机械的	automatic mechanical
+会见	interview meeting
+智力的	intellectual mental
+菜肴	dish menu
+仁慈	kindness mercy
+仅仅的	bare mere
+信息	information message
+表	list meter
+方法	means method
+记忆	memory mind
+部	department ministry
+少数	handful minority
+痛苦的	bitter miserable
+错误	error mistake
+误解	mistake misunderstand
+混淆	confuse mix
+有节制的	moderate modest
+修饰	decorate modify
+瞬间	instant moment
+此外	furthermore moreover
+大部分	largely mostly
+促进	accelerate mote
+手势	gesture motion
+发动机	engine motor
+浇铸	cast mould
+山	mount mountain
+感动	affect move
+活动	activity movement
+电影院	cinema movie
+电影	cinema movie
+许多的	many much
+肌肉	flesh muscle
+共同的	common mutual
+我的	mine my
+钉	nail nail
+天然的	crude natural
+差不多	almost nearly
+必定	certainly necessarily
+必然的	inevitable necessary
+必要的	essential necessary
+缝补	mend needle
+忽视	ignore neglect
+胆量	courage nerve
+网状物	net network
+然而	however nevertheless
+美好的	fine nice
+北方的	north northern
+注释	comment note
+毫不	none nothing
+宣布	announce nounce
+核心	core nucleus
+数	count number
+数字	figure number
+物体	bulk object
+不喜欢	hate objection
+障碍	barrier obstacle
+显而易见的	noticeable obvious
+占领	occupation occupy
+由于	because of
+社	bureau office
+一次	once once
+曾经	ever once
+操作	operate operation
+主张	claim opinion
+对手	match opponent
+即	namely or
+矿	mine ore
+器官	apparatus organ
+机构	organ organization
+出身	birth origin
+另外	else otherwise
+我们的	our ours
+后果	consequence outcome
+大纲	gram outline
+输出	export output
+突出的	minent outstanding
+杰出的	excellent outstanding
+超过	exceed over
+克服	conquest overcome
+赶上	catch overtake
+牛	cattle ox
+痛	ache pain
+疼痛	ache pain
+绘画	paint painting
+盘子	dish pan
+文章	article paper
+游行	parade parade
+检阅	inspect parade
+节	knot paragraph
+小包	packet parcel
+包裹	package parcel
+父亲	father parent
+母亲	mother parent
+公园	garden park
+国会	congress parliament
+议会	congress parliament
+零件	detail part
+微粒	atom particle
+尤其	especially particularly
+格外	especially particularly
+特别	especially particularly
+配偶	mate partner
+通路	corridor passage
+旅客	guest passenger
+爱好	fancy passion
+消极的	negative passive
+轻拍	clap pat
+中止	interrupt pause
+脚爪	claw paw
+支付	pay payment
+和平的	pacific peaceful
+农民	farmer peasant
+特别的	extraordinary peculiar
+穿过	cross penetrate
+执行	enforce perform
+演出	perform performance
+个人的	intimate personal
+性质	nature perty
+石油	oil petroleum
+方面	aspect phase
+照片	photo photograph
+相片	photo photograph
+医生	doctor physician
+野餐	picnic picnic
+块	lump piece
+剌穿	bite pierce
+穿入	penetrate pierce
+针	needle pin
+打算	intend plan
+工厂	factory plant
+游戏	game play
+运动场	field playground
+舒适的	comfortable pleasant
+使高兴	delight please
+快乐	delight pleasure
+乐事	joy pleasure
+耕	cultivate plough
+犁	plough plough
+加	addition plus
+诗	poem poetry
+警察	police policeman
+政治	government politics
+污染	pollute pollution
+流行的	fashionable popular
+港口	harbour port
+一部分	part portion
+求婚	posal pose
+积极的	active positive
+所有	ownership possession
+职位	position post
+邮寄	mail post
+邮件	mail post
+盆	basin pot
+猛击	bang pound
+倒	backward pour
+几乎	almost practically
+赞扬	praise praise
+赞美	celebrate praise
+在前的	former preceding
+精确的	exact precise
+准确的	accurate precise
+预测	forecast predict
+准备	preparation prepare
+出席	attend presence
+礼物	gift present
+提出	offer present
+一会儿	minute presently
+目前	present presently
+保存	conservation preserve
+会长	chairman president
+压	press pressure
+按	press pressure
+预防	precaution prevent
+在前	ahead previous
+代价	cost price
+自夸	boast pride
+粗糙的	coarse primitive
+印刷	print print
+在先的	preceding prior
+出版	publication publish
+公布	publication publish
+购买	buy purchase
+纯洁的	clean pure
+效果	effect purpose
+钱包	bag purse
+进行	ceed pursue
+追赶	chase pursue
+推	push push
+数量	amount quantity
+分量	measure quantity
+行列	cession queue
+安静的	peaceful quiet
+退出	exit quit
+引用	quotation quote
+竞赛	match race
+铁路	railroad railway
+多雨的	moist rainy
+耗子	mouse rat
+宁愿	prefer rather
+宁可	prefer rather
+光线	light ray
+读者	audience reader
+实现	achieve realize
+实在	existence really
+王国	kingdom realm
+国土	country realm
+栽种	plant rear
+后面	behind rear
+推理	logic reason
+收到	receipt receive
+得到	obtain receive
+最近	lately recently
+接待	receive reception
+识别	identify recognition
+推荐	recommend recommendation
+记录	record record
+生殖	generate reduce
+减小	reduce reduction
+提及	mention reference
+思考	consideration reflect
+地带	climate region
+登记	entry register
+懊悔	regret regret
+家属	folk relation
+相对的	comparative relative
+救济	relief relieve
+信赖	confidence rely
+依赖	depend rely
+依靠	depend rely
+冷淡的	cold remote
+修理	mend repair
+报告	inform report
+描绘	describe represent
+代表	represent representative
+名声	fame reputation
+名誉	name reputation
+援救	relief rescue
+预定	book reserve
+居住	live residence
+放弃	abandon resign
+抵制	resist resistance
+抵抗	resist resistance
+办法	method resource
+作答	respond response
+职责	duty responsibility
+责任	duty responsibility
+休息	interval rest
+克制	control restraint
+遏制	restrain restraint
+抑制	restrain restraint
+限定	define restrict
+保留	reserve retain
+展现	duce reveal
+背面	rear reverse
+修改	modify revise
+造反	rebel revolt
+报答	reward reward
+米	metre rice
+正确的	correct right
+正好	just right
+公路	highway road
+岩	bank rock
+角色	character role
+房间	chamber room
+圆的	circular round
+唤起	arouse rouse
+日常的	everyday routine
+划	draw row
+行	range row
+废话	nonsense rubbish
+毁坏	damage ruin
+毁灭	destruction ruin
+统治	govern rule
+奔	run rush
+袋	bag sack
+航行	navigation sail
+同一的	identical same
+卫星	moon satellite
+满足	fulfil satisfy
+节省	economy save
+存款	fund saving
+天平	balance scale
+缺乏的	absent scarce
+几乎不	hardly scarcely
+余地	room scope
+成绩	achievement score
+得分	goal score
+海洋	ocean sea
+印记	impression seal
+大臣	minister secretary
+一段	length section
+安全的	safe secure
+安全	safety security
+遇见	meet see
+探索	explore seek
+试图	attempt seek
+似乎	appear seem
+逮捕	arrest seize
+难得	rarely seldom
+很少	rarely seldom
+自己	oneself self
+自私的	mean selfish
+卖	sale sell
+年少的	junior senior
+感觉	feeling sense
+见识	horizon sense
+明智的	advisable sensible
+个别的	individual separate
+次序	order sequence
+继续	continue sequence
+认真的	earnest serious
+雇工	employee servant
+服务	serve service
+会议	conference session
+放	put set
+殖民地	colony settlement
+几个	couple several
+严厉的	harsh severe
+阴影	cloud shadow
+必须	must shall
+浅的	pale shallow
+羞耻	ashamed shame
+形状	form shape
+刮	scrape shave
+她	her she
+散发	emit shed
+掩蔽	screen shelter
+庇护	harbour shelter
+光	light shine
+冲击	impact shock
+不足	lack shortage
+立刻	now shortly
+弹丸	bullet shot
+缩小	lessen shrink
+有病的	ill sick
+签名	sign signature
+意义	meaning significance
+简化	reduce simplify
+从	from since
+非凡的	remarkable singular
+单一的	single singular
+降低	drop sink
+姐妹	cousin sister
+地基	foundation site
+场所	location site
+大小	scale size
+滑冰	skate skate
+略图	outline sketch
+天空	heaven sky
+睡	sleep sleep
+切片	section slice
+部分	portion slice
+滑	slide slide
+细长的	slender slight
+裂缝	crack slit
+小的	little small
+气味	breath smell
+微笑	smile smile
+平静的	calm smooth
+泡	bubble soak
+浸	dip soak
+社会	community society
+土地	land soil
+弄脏	pollute soil
+泥土	clay soil
+单独的	alone sole
+解答	solution solve
+某人	somebody someone
+有人	somebody someone
+儿子	child son
+早	early soon
+恼火的	mad sore
+悲伤	distress sorrow
+灵魂	ghost soul
+健康的	healthy sound
+酸的	acid sour
+南方的	south southern
+空白	blank space
+一段时间	session span
+特殊的	particular special
+指定	assign specify
+标本	sample specimen
+样品	sample specimen
+展望	outlook spect
+演说	address speech
+方言	dialect speech
+拼字	spell spelling
+花费	expense spend
+度过	pass spend
+球	ball sphere
+使旋转	rotate spin
+精神	soul spirit
+精神的	mental spiritual
+损坏	break spoil
+斑点	mark spot
+跃	leap spring
+跳跃	leap spring
+挤	milk squeeze
+堆积	accumulate stack
+阶段	phase stage
+沾污	pollute stain
+着色	painting stain
+桩	post stake
+奖品	award stake
+跳起	bounce start
+状态	condition state
+阐明	clarify state
+陈述	state statement
+声明	declare statement
+静的	calm static
+台	stand station
+所	bureau station
+站	stand station
+地位	room status
+蒸发	evaporate steam
+驾驶	drive steer
+干	do stem
+步	pace step
+棒	rod stick
+硬的	hard stiff
+刺激	spur stimulate
+激励	motivate stimulate
+激发	motivate stimulate
+动	move stir
+激动	emotion stir
+食欲	appetite stomach
+石头	rock stone
+宝石	jewel stone
+贮藏	storage store
+商店	shop store
+炉	oven stove
+尽力	exert strain
+捆扎	pack strap
+河	river stream
+巩固	stability strengthen
+加强	reinforce strengthen
+重音	accent stress
+着重	emphasize stress
+严格的	severe strict
+细绳	cord string
+构造	constitution structure
+学者	scholar student
+学生	pupil student
+学	learn study
+塞	plug stuff
+材料	material stuff
+装	load stuff
+式样	pattern style
+服从	obey submit
+物质	matter substance
+物质的	physical substantial
+代替	instead substitute
+去掉	dispose subtract
+减	minus subtract
+郊区	skirt suburb
+成就	achievement success
+继承	inherit succession
+连续的	continual successive
+吸收	absorb suck
+适合	fit suit
+硫	sulfur sulphur
+硫黄	sulfur sulphur
+总数	amount sum
+摘要	abstract summary
+阳光	sunlight sunshine
+猜想	infer suppose
+假定	assume suppose
+让	let suppose
+最高的	peak supreme
+确实的	certain sure
+确信的	confident sure
+地面	earth surface
+表面	face surface
+使惊奇	amaze surprise
+围绕	environment surround
+悬	hang suspend
+疑心	suspect suspicion
+支撑	support sustain
+供养	support sustain
+诅咒	curse swear
+摇摆	swing swing
+刀	knife sword
+象征	represent symbol
+记号	mark symbol
+和谐的	musical sympathetic
+一致	accordance sympathy
+同感	sympathize sympathy
+制度	institution system
+标签	label tag
+拿	handle take
+故事	story tale
+传说	story tale
+才能	faculty talent
+天才	genius talent
+高的	high tall
+塞子	plug tap
+负担	bear tax
+税	duty tax
+先生	sir teacher
+撕开	slit tear
+技师	engineer technician
+技巧	skill technique
+技能	skill technique
+工艺	craft technology
+保卫	defend tect
+警戒	tect tection
+电报	cable telegram
+电话	phone telephone
+辨别	distinguish tell
+心情	mood temper
+温度	moisture temperature
+临时的	occasional temporary
+引诱	tempt temptation
+护理	attend tend
+趋向	tend tendency
+拉紧	strain tension
+学期	semester term
+条件	circumstance term
+恐怖	horror terror
+纺织品	fabric textile
+戏剧	stage theatre
+教室	classroom theatre
+他们	them they
+密度	density thickness
+物	object thing
+虽然	although though
+可是	but though
+思想	idea thought
+想法	idea thought
+丝	silk thread
+恐吓	threat threaten
+威胁	threat threaten
+扔	cast throw
+掷	pitch throw
+抛	cast throw
+插	thrust thrust
+因而	consequently thus
+这样	so thus
+时机	occasion time
+时间	hour time
+罐头	can tin
+疲劳	fatigue tire
+标题	heading title
+到	onto to
+浴室	bathroom toilet
+宽恕	forgive tolerate
+腔调	accent tone
+也	likewise too
+用具	appliance tool
+器具	appliance tool
+顶	roof top
+折磨	rack torture
+贸易	commerce trade
+交易	bargain trade
+惯例	convention tradition
+交通	communication traffic
+跟踪	trace trail
+痕迹	trace trail
+锻炼	exercise training
+转移	shift transfer
+转变	conversion transformation
+改造	transform transformation
+运送	convey transportation
+碟	dish tray
+盘	plate tray
+珍视	prize treasure
+治疗	remedy treatment
+待遇	deal treatment
+协议	agreement treaty
+哆嗦	shiver tremble
+审判	judgement trial
+军队	army troop
+困难	difficulty trouble
+烦恼	trouble trouble
+卡车	lorry truck
+皮箱	luggage trunk
+真实	reality truth
+尝试	attempt try
+试	trial try
+地道	subway tunnel
+十二个	dozen twelve
+拧	pinch twist
+型	pattern type
+代表性的	representative typical
+秘密的	secret underground
+承担	assume undertake
+取消	cancel undo
+解开	loosen undo
+忧虑的	anxious uneasy
+团结	union unity
+大学	college university
+不知道的	ignorant unknown
+卸货	unload unload
+为止	till until
+独特的	individual unusual
+地位较高的	senior upper
+正直的	straight upright
+现代的	modern up-to-date
+对待	treat usage
+有用的	helpful useful
+有益的	beneficial useful
+平常的	ordinary usual
+通常	normally usually
+利用	exploit utilize
+彻底的	thorough utter
+讲	teach utter
+假期	holiday vacation
+有效的	effective valid
+消失	disappear vanish
+不同的	unlike various
+大量的	abundant vast
+结果是	follow ve
+植物	plant vegetable
+速度	rate velocity
+速率	speed velocity
+证实	confirm verify
+译文	translation version
+垂直的	upright vertical
+经过	pass via
+电视	television video
+风景	scenery view
+部门	section vince
+看得见的	visible visual
+容积	bulk volume
+报酬	reward wage
+等待	expect wait
+等候	await wait
+醒来	wake waken
+冲出	punch wash
+垃圾	rubbish waste
+废物	rubbish waste
+方向	direction way
+我们	us we
+丰富	plenty wealth
+富的	rich wealthy
+富裕的	plentiful wealthy
+武器	arm weapon
+婚礼	marriage wedding
+哭泣	cry weep
+称	balance weigh
+重担	burden weight
+好	okay well
+西方的	west western
+下雨的	rainy wet
+小麦	corn wheat
+哪一个	which which
+完整的	complete whole
+普遍的	universal widespread
+宽度	breadth width
+将要	shall will
+愿意的	ready willing
+气息	breath wind
+翼	limb wing
+电缆	cable wire
+祝	may wish
+才智	wisdom wit
+智力	intelligence wit
+一起	together with
+收回	recall withdraw
+证人	evidence witness
+奇迹	miracle wonder
+森林	forest wood
+词	term word
+工人	worker workman
+车间	shop workshop
+虫	insect worm
+崇拜	worship worship
+价值	value worth
+无用的	useless worthless
+无价值的	useless worthless
+有价值的	valuable worthy
+愿	will would
+使受伤	hurt wound
+作者	author writer
+作家	author writer
+书写	write writing
+庭院	court yard
+每年的	annual yearly
+是	be yes
+而	while yet
+产量	output yield
+你们的	your yours
+青春	prime youth
+青年们	young youth
+区域	district zone
+艾滋病	AIDS
+调幅	AM
+非洲的	African
+非裔美国人	African-American
+美国	American
+阿拉伯	Arab
+阿拉伯	Arabian
+亚洲	Asian
+大西洋	Atlantic
+八月	August
+澳大利亚	Australia
+澳大利亚	Australian
+公元前	B.C.
+圣经	Bible
+英国	Britain
+英国人	British
+首席执行官	CEO
+加拿大	Canada
+加拿大	Canadian
+天主教徒	Catholic
+中国	Chinese
+基督教的	Christian
+基督教	Christianity
+圣诞节	Christmas
+国会	Congress
+库班	Cuban
+脱氧核糖核酸	DNA
+十二月	December
+民主主义者	Democrat
+荷兰人	Dutch
+英语	English
+欧洲的	European
+虚伪的	FALSE
+华氏	Fahrenheit
+二月	February
+法国	France
+法国	French
+德国	German
+德国	Germany
+上帝	God
+希腊语	Greek
+西班牙	Hispanic
+一世	I
+印度	India
+印度人	Indian
+因特网	Internet
+伊拉克人	Iraqi
+爱尔兰的	Irish
+伊斯兰教	Islam
+清真	Islamic
+以色列	Israeli
+意大利	Italian
+一月	January
+日本	Japanese
+犹太人	Jew
+犹	Jewish
+朝鲜的	Korean
+拉丁语	Latin
+马克思主义	Marxisim
+马克思主义者	Marxist
+地中海	Mediterranean
+水星	Mercury
+墨西哥人	Mexican
+先生	Mr
+太太	Mrs
+女士	Ms
+穆斯林	Muslim
+黑人	Negro
+十一月	November
+行	OK
+大洋洲	Oceania
+十月	October
+奥林匹克	Olympic
+奥运会	Olympics
+个人计算机	PC
+PM	PM
+巴勒斯坦的	Palestinian
+波斯语	Persian
+葡萄牙语	Portuguese
+共和党人	Republican
+罗马	Roman
+俄	Russian
+参议院	Senate
+九月	September
+苏联	Soviet
+西班牙语	Spanish
+最高	Supreme
+瑞士人	Swiss
+汗衫	T-shirt
+真实的	TRUE
+电视	TV
+感恩	Thanksgiving
+星期四	Thursday
+星期二	Tuesday
+联合的	United
+星期三	Wednesday
+X-射线	X-ray
+一个	a
+能	able
+异常	abnormal
+船上	aboard
+流产	abortion
+大约	about
+以上	above
+国外	abroad
+缺席	absent
+绝对	absolute
+绝对	absolutely
+吸收	absorb
+抽象	abstract
+丰富	abundant
+学者	academic
+学院	academy
+加快	accelerate
+促进	acceleration
+接受	accept
+可接受	acceptable
+访问	access
+访问	accessible
+附件	accessory
+事故	accident
+偶然	accidental
+住所	accommodation
+陪	accompany
+完成	accomplish
+成就	accomplishment
+符合	accord
+按照	accordance
+根据	according
+从而	accordingly
+帐户	account
+问责	accountability
+会计	accounting
+积累	accumulate
+准确性	accuracy
+准确	accurate
+准确	accurately
+指控	accusation
+控	accuse
+使习惯	accustom
+习惯	accustomed
+承认	acknowledge
+获得	acquisition
+英亩	acre
+法案	act
+活跃	active
+积极地	actively
+活动家	activist
+演员	actor
+女演员	actress
+实际	actual
+其实	actually
+急性	acute
+广告	ad
+适应	adapt
+添加	added
+另外	additional
+充足	adequate
+形容词	adjective
+调整	adjustment
+管理	administer
+管理	administration
+行政的	administrative
+管理员	administrator
+佩服	admire
+入场	admission
+青少年	adolescent
+采纳	adoption
+成人	adult
+推进	advance
+先进	advanced
+冒险	adventure
+副词	adverb
+广告	advertising
+可取	advisable
+劝	advise
+顾问	adviser
+主	advocate
+飞机	aeroplane
+审美	aesthetic
+事	affair
+影响	affect
+感情	affection
+给予	afford
+怕	afraid
+后	after
+下午	afternoon
+后来	afterward
+再次	again
+针对	against
+机构	agency
+议程	agenda
+经纪人	agent
+侵略	aggression
+激进	aggressive
+前	ago
+痛苦	agony
+同意	agree
+农业的	agricultural
+啊	ah
+先	ahead
+援助	aid
+助手	aide
+目的	aim
+飞机	aircraft
+航空公司	airline
+飞机	airplane
+机场	airport
+走道	aisle
+报警	alarm
+专辑	album
+酒精	alcohol
+外侨	alien
+一样	alike
+活着	alive
+所有	all
+断言	allegation
+所谓的	alleged
+据称	allegedly
+胡同	alley
+联盟	alliance
+合金	alloy
+盟友	ally
+几乎	almost
+独	alone
+沿	along
+靠	alongside
+字母	alphabet
+已经	already
+还	also
+替代	alternative
+虽然	although
+海拔	altitude
+共	altogether
+铝	aluminium
+铝	aluminum
+总	always
+惊奇	amaze
+惊人	amazing
+大使	ambassador
+志向	ambition
+有雄心	ambitious
+救护车	ambulance
+修订	amendment
+际	amid
+其中	among
+其中包括	amongst
+量	amount
+安培	ampere
+扩大	amplify
+游玩	amuse
+分析人士	analyst
+分析	analyze
+祖先	ancestor
+古	ancient
+和/或	and/or
+天使	angel
+角	angle
+愤怒	angry
+脚踝	ankle
+周年	anniversary
+公布	announce
+公告	announcement
+播音员	announcer
+搅扰	annoy
+全年	annual
+每年	annually
+匿名	anonymous
+另一	another
+答案	answer
+急	anxious
+任何	any
+任何人	anybody
+再	anymore
+任何人	anyone
+什么	anything
+无论如何	anyway
+随地	anywhere
+相距	apart
+公寓	apartment
+歉意	apology
+设备	apparatus
+明显的	apparent
+显然地	apparently
+上诉	appeal
+外形	appearance
+苹果	apple
+适用	applicable
+应用	application
+申请	apply
+升值	appreciation
+途径	approach
+适当	appropriate
+承认	approval
+批准	approve
+约	approximately
+随意	arbitrary
+建筑师	architect
+架构	architecture
+区域	area
+竞技场	arena
+算术	arithmetic
+武装	armed
+军队	army
+周围	around
+安排	arrange
+排列	array
+箭头	arrow
+说出	articulate
+神器	artifact
+人造	artificial
+艺术家	artist
+艺术的	artistic
+如	as
+惭愧	ashamed
+旁白	aside
+睡着	asleep
+屁股	ass
+突击	assault
+组合	assemble
+部件	assembly
+断言	assert
+评估	assess
+评定	assessment
+财富	asset
+分配	assignment
+助攻	assist
+援助	assistance
+联想	associate
+关联	associated
+联想	association
+假设	assume
+假设	assumption
+震惊	astonish
+宇航员	astronaut
+天文学家	astronomer
+运动员	athlete
+竞技	athletic
+大气的	atmospheric
+原子	atomic
+顶上	atop
+附	attach
+攻击	attack
+勤	attendance
+细心	attentive
+律师	attorney
+吸引力	attractive
+拍卖	auction
+姑妈	aunt
+听觉	aural
+笔者	author
+权威	authority
+授权	authorize
+汽车	auto
+自动	automatic
+自动	automatically
+自动化	automation
+汽车	automobile
+自治	autonomy
+辅	auxiliary
+可用性	availability
+可用的	available
+平均	average
+航空	aviation
+等待	await
+醒	awake
+察觉	aware
+意识	awareness
+远	away
+可怕	awful
+要命	awfully
+尴尬	awkward
+斧	ax
+轴	axis
+婴儿	baby
+背部	back
+后院	backyard
+菌	bacteria
+坏	bad
+惨	badly
+羽毛球	badminton
+行李	baggage
+平衡	balance
+均衡	balanced
+气球	balloon
+抽签	ballot
+禁令	ban
+香蕉	banana
+砰	bang
+银行家	banker
+银行业	banking
+破产	bankruptcy
+旗帜	banner
+酒吧	bar
+理发师	barber
+裸	bare
+仅仅	barely
+讨价还价	bargain
+吠	bark
+谷仓	barn
+棒球	baseball
+地下室	basement
+基本	basic
+基本上	basically
+依据	basis
+篮球	basketball
+蝙蝠	bat
+浴室	bathroom
+战斗	battle
+海湾	bay
+光束	beam
+豆	bean
+熊	bear
+胡子	beard
+击败	beat
+美丽	beautiful
+美女	beauty
+因为	because
+卧室	bedroom
+蜜蜂	bee
+牛肉	beef
+啤酒	beer
+前	before
+求	beg
+乞丐	beggar
+开始	begin
+代表	behalf
+行为	behavioral
+背后	behind
+相信	believe
+肚	belly
+属于	belong
+亲爱的	beloved
+下面	below
+弯	bend
+下面	beneath
+有利	beneficial
+好处	benefit
+浆果	berry
+旁	beside
+除了	besides
+最好	best
+赌注	bet
+背叛	betray
+更好	better
+之间	between
+外	beyond
+偏见	bias
+自行车	bicycle
+投标	bid
+大	big
+自行车	bike
+法案	bill
+十亿	billion
+传记	biography
+生物	biological
+生物学	biology
+鸟	bird
+生日	birthday
+饼干	biscuit
+主教	bishop
+位	bit
+苦	bitter
+痛	bitterly
+黑	black
+怪	blame
+空白	blank
+毯	blanket
+爆破	blast
+火焰	blaze
+混合	blend
+保佑	bless
+祝福	blessing
+盲	blind
+眨眼睛	blink
+块	block
+金发	blond
+血腥	bloody
+开花	blossom
+打击	blow
+蓝色	blue
+板	board
+夸	boast
+船	boat
+体	body
+熬	boil
+胆大	bold
+炸弹	bomb
+轰炸	bombing
+债券	bond
+骨	bone
+奖金	bonus
+繁荣	boom
+促进	boost
+靴	boot
+亭	booth
+边境	border
+孔	bore
+无聊	boring
+天生	born
+怀	bosom
+两	both
+瓶子	bottle
+树干	bough
+弹跳	bounce
+界	bound
+边界	boundary
+男朋友	boyfriend
+大脑	brain
+支	branch
+牌	brand
+白兰地	brandy
+黄铜	brass
+勇敢	brave
+宽	breadth
+破	break
+早餐	breakfast
+呼吸	breathe
+呼吸	breathing
+品种	breed
+微风	breeze
+新娘	bride
+简要	brief
+简要地	briefly
+光明	bright
+变亮	brighten
+辉煌	brilliant
+边	brim
+带	bring
+轻快	brisk
+鬃	bristle
+脆	brittle
+宽	broad
+广播	broadcast
+破	broken
+经纪人	broker
+青铜	bronze
+窝	brood
+溪	brook
+扫帚	broom
+哥	brother
+褐色	brown
+挫伤	bruise
+刷	brush
+残酷	brutal
+畜生	brute
+降压	buck
+桶	bucket
+芽	bud
+伙伴	buddy
+预算	budget
+错误	bug
+建	build
+建设者	builder
+建造	building
+灯泡	bulb
+块	bulk
+公牛	bull
+束	bunch
+负担	burden
+燃烧	burning
+爆	burst
+公共汽车	bus
+业务	business
+商人	businessman
+忙	busy
+但	but
+屠夫	butcher
+屁股	butt
+黄油	butter
+蝴蝶	butterfly
+钮	button
+买主	buyer
+出租车	cab
+卷心菜	cabbage
+客舱	cabin
+自助餐馆	cafeteria
+计算	calculation
+计算器	calculator
+呼叫	call
+平静	calm
+骆驼	camel
+相机	camera
+营	camp
+运动	campaign
+校园	campus
+能够	can
+候选人	candidate
+糖果	candy
+大炮	cannon
+独木舟	canoe
+食堂	canteen
+帆布	canvas
+帽	cap
+能力	capability
+能	capable
+队长	captain
+俘虏	captive
+糖类	carbohydrate
+碳	carbon
+关怀	care
+事业	career
+小心	careful
+小心	carefully
+粗心	careless
+货物	cargo
+木匠	carpenter
+马车	carriage
+支架	carrier
+胡萝卜	carrot
+购物车	cart
+动画片	cartoon
+雕刻	carve
+案件	case
+现金	cash
+赌场	casino
+暗盒	cassette
+城堡	castle
+随便	casual
+受害者	casualty
+目录	catalog
+抓	catch
+类别	category
+大教堂	cathedral
+黄牛	cattle
+停止	cease
+天花板	ceiling
+庆典	celebration
+名人	celebrity
+细胞	cell
+地窖	cellar
+墓地	cemetery
+中央	center
+摄氏	centigrade
+厘米	centimetre
+中央	central
+中央	centre
+世纪	century
+某些	certain
+肯定	certainty
+椅子	chair
+冠军	champion
+冠军	championship
+改变	changing
+通道	channel
+混乱	chaos
+字符	character
+特点	characteristic
+表征	characterize
+收费	charge
+慈善机构	charity
+魅力	charm
+迷人	charming
+宪章	charter
+廉价	cheap
+骗	cheat
+查	check
+脸颊	cheek
+欢呼	cheer
+快乐	cheerful
+起司	cheese
+厨师	chef
+化学	chemical
+化学家	chemist
+化学	chemistry
+查	cheque
+樱桃	cherry
+棋	chess
+胸部	chest
+咀嚼	chew
+鸡	chicken
+首席	chief
+孩子	child
+幼稚	childish
+寒意	chill
+下巴	chin
+中国	china
+芯片	chip
+巧克力	chocolate
+选择	choice
+呛	choke
+胆固醇	cholesterol
+斩	chop
+慢性	chronic
+块	chunk
+圈	circle
+通知	circular
+流通	circulate
+环境	circumstance
+引用	cite
+国籍	citizenship
+城市	city
+公民	civic
+国内	civil
+平民	civilian
+教化	civilize
+要求	claim
+澄清	clarify
+钩	clasp
+类	class
+经典	classic
+经典	classical
+分类	classify
+同学	classmate
+课堂	classroom
+清洁	clean
+明确	clear
+明确地	clearly
+营业员	clerk
+聪明	clever
+点击	click
+客户	client
+悬崖	cliff
+依偎	cling
+诊所	clinic
+临床	clinical
+夹	clip
+斗篷	cloak
+时钟	clock
+关闭	close
+关闭	closed
+密切	closely
+接近	closer
+最接近	closest
+壁橱	closet
+穿衣服	clothe
+服装	clothing
+俱乐部	club
+笨拙	clumsy
+簇	cluster
+教练	coach
+煤	coal
+联盟	coalition
+粗	coarse
+滨	coast
+沿海	coastal
+可卡因	cocaine
+咖啡	coffee
+认知	cognitive
+盘	coil
+硬币	coin
+合作	collaboration
+领	collar
+同事	colleague
+收集	collect
+集	collection
+集体	collective
+收藏家	collector
+学院	college
+碰撞	collision
+陆军上校	colonel
+殖民	colonial
+殖民地	colony
+华美	colorful
+专栏作家	columnist
+梳子	comb
+战斗	combat
+组合	combination
+结合	combine
+综合	combined
+喜剧	comedy
+自在	comfortable
+未来	coming
+指挥官	commander
+广告	commercial
+佣金	commission
+专员	commissioner
+承诺	commit
+承诺	commitment
+委员会	committee
+商品	commodity
+通用	common
+常用	commonly
+沟通	communicate
+沟通	communication
+共产主义	communism
+共产	communist
+可比	comparable
+比较	comparative
+强迫	compel
+引人注目	compelling
+赔偿金	compensation
+胜任	competent
+竞争	competition
+竞争的	competitive
+竞争者	competitor
+编	compile
+完成	complete
+全然	completely
+复	complex
+复杂性	complexity
+合规	compliance
+复杂	complicate
+复杂	complicated
+执行	comply
+零件	component
+撰写	compose
+组成	composition
+复合	compound
+全面	comprehensive
+压缩	compress
+妥协	compromise
+计算机	computer
+同志	comrade
+隐藏	conceal
+承认	concede
+怀孕	conceive
+浓度	concentration
+概念	conception
+忧虑	concern
+关心	concerned
+有关	concerning
+音乐会	concert
+断定	conclude
+具体	concrete
+凝结	condense
+条件	condition
+导体	conductor
+会议	conference
+自白书	confession
+置信度	confidence
+信心	confident
+局限	confine
+确认	confirm
+面对	confront
+对抗	confrontation
+迷惑	confuse
+混乱	confusion
+祝贺	congratulation
+国会	congressional
+关联	conjunction
+接	connect
+良心	conscience
+自觉	conscious
+连续	consecutive
+共识	consensus
+后果	consequence
+保守	conservative
+可观	considerable
+相当	considerably
+周到	considerate
+一贯	consistent
+始终如一	consistently
+阴谋	conspiracy
+不变	constant
+经常	constantly
+宪法	constitution
+构成	constitutional
+约束	constraint
+构造	construct
+施工	construction
+请教	consult
+顾问	consultant
+消费者	consumer
+消费	consumption
+含有	contain
+集装箱	container
+沉思	contemplate
+现代的	contemporary
+鄙视	contempt
+抗衡	contend
+竞赛	contest
+上下文	context
+持续	continual
+持续	continued
+继续	continuing
+连续	continuous
+承包商	contractor
+相反	contrary
+贡献	contribute
+贡献	contribution
+贡献者	contributor
+争论的	controversial
+争议	controversy
+便利	convenient
+常规	conventional
+谈话	conversation
+反过来	conversely
+兑换	convert
+传达	convey
+囚犯	convict
+信念	conviction
+说服	convince
+相信	convinced
+厨师	cook
+饼干	cookie
+烹饪	cooking
+冷静	cool
+合作	cooperation
+合作社	cooperative
+协调	coordinate
+协调员	coordinator
+警察	cop
+应付	cope
+绳	cord
+亲切	cordial
+核心	core
+玉米	corn
+角落	corner
+企业	corporate
+正确	correct
+更正	correction
+正确地	correctly
+关联	correlation
+对应	correspond
+通信者	correspondent
+相应	corresponding
+腐败	corruption
+费用	cost
+昂贵	costly
+服装	costume
+茅屋	cottage
+棉花	cotton
+卧榻	couch
+可能	could
+评议会	council
+法律顾问	counsel
+辅导服务	counseling
+辅导员	counselor
+算	count
+计数器	counter
+副本	counterpart
+县	county
+政变	coup
+法庭	courtroom
+表妹	cousin
+覆盖范围	coverage
+牛	cow
+懦夫	coward
+起重机	crane
+崩溃	crash
+爬行	crawl
+疯	crazy
+创建	create
+创作	creation
+创作的	creative
+创造力	creativity
+可信性	credibility
+信贷	credit
+爬行	creep
+船员	crew
+板球	cricket
+刑事	criminal
+削弱	cripple
+危机	crisis
+标准	criteria
+评论家	critic
+临界	critical
+作物	crop
+交	cross
+乌鸦	crow
+人群	crowd
+挤	crowded
+冠	crown
+关键	crucial
+原油	crude
+残酷	cruel
+巡航	cruise
+粉碎	crush
+痂	crust
+立方体	cube
+立方体	cubic
+黄瓜	cucumber
+球杆	cue
+培育	cultivate
+文化	cultural
+狡猾	cunning
+橱柜	cupboard
+好奇	curious
+卷曲	curl
+货币	currency
+当前	current
+目前	currently
+课程	curriculum
+保管	custody
+顾客	customer
+可爱	cute
+周期	cycle
+爸	dad
+日报	daily
+乳制品	dairy
+坝	dam
+破坏	damage
+该死的	damn
+潮湿	damp
+舞蹈	dance
+舞蹈家	dancer
+跳舞	dancing
+危险	danger
+危险	dangerous
+敢	dare
+大胆	daring
+黑暗	dark
+黑暗	darkness
+亲爱的	darling
+短跑	dash
+数据	data
+数据库	database
+女儿	daughter
+死	dead
+最后期限	deadline
+致命	deadly
+合同	deal
+零售商	dealer
+亲爱	dear
+辩论	debate
+废墟	debris
+登场	debut
+十	decade
+衰变	decay
+骗局	deceit
+像样	decent
+下降	decline
+减少	decrease
+奉献	dedicate
+契	deed
+认为	deem
+深	deep
+深化	deepen
+深	deeply
+鹿	deer
+败	defeat
+保卫	defend
+被告	defendant
+辩护人	defender
+防御	defense
+防御性	defensive
+赤字	deficit
+确定	define
+确定	definite
+无疑	definitely
+延迟	delay
+代表团	delegation
+删除	delete
+故意	deliberately
+精巧	delicate
+美味	delicious
+情趣	delight
+交付	deliver
+交货	delivery
+需求	demand
+民主	democracy
+民主的	democratic
+人口统计学	demographic
+演示	demonstrate
+示范	demonstration
+拒绝	denial
+密	dense
+否认	deny
+部门	department
+依赖的	dependent
+视	depending
+描绘	depict
+部署	deploy
+存款	deposit
+压抑	depress
+郁闷	depressed
+萧条	depression
+副	deputy
+派生	derive
+降	descend
+描述	describe
+描述	description
+值得	deserve
+设计师	designer
+合意	desirable
+欲望	desire
+办公桌	desk
+绝望	despair
+殊死	desperate
+拼命	desperately
+鄙视	despise
+尽管	despite
+甜点	dessert
+毁坏	destruction
+详细	detailed
+检测	detect
+发现	detection
+侦探	detective
+确定	determine
+破坏性的	devastating
+开发人员	developer
+发展	developing
+发展的	developmental
+设备	device
+魔鬼	devil
+设计	devise
+露	dew
+糖尿病	diabetes
+诊断	diagnose
+诊断	diagnosis
+图	diagram
+表盘	dial
+对话	dialog
+对话	dialogue
+直径	diameter
+日记	diary
+主宰	dictate
+听写	dictation
+词典	dictionary
+饮食	diet
+不同	differ
+差异	difference
+不同	different
+不同	differently
+难	difficult
+数字	digital
+尊严	dignity
+困境	dilemma
+勤奋	diligent
+暗淡	dim
+减少	diminish
+餐饮	dining
+晚餐	dinner
+倾角	dip
+外交官	diplomat
+外交	diplomatic
+直接	direct
+直	directly
+导向器	director
+脏	dirty
+失能	disability
+关闭	disable
+残	disabled
+坏处	disadvantage
+不同意	disagree
+辜负	disappoint
+失望	disappointed
+失望	disappointment
+放	discharge
+泄露	disclose
+折扣	discount
+阻碍	discourage
+演讲	discourse
+发现	discovery
+区别	discrimination
+伪装	disguise
+厌恶	disgust
+菜	dish
+羞辱	dishonour
+解雇	dismiss
+紊乱	disorder
+得罪	displease
+处置	disposal
+部署	dispose
+争议	dispute
+不满足	dissatisfy
+解散	dissolve
+遥远	distant
+不同	distinct
+分别	distinction
+独特	distinctive
+区分	distinguish
+转移	distract
+苦难	distress
+烦扰的	disturbing
+多种	diverse
+多样	diversity
+神圣	divine
+联赛	division
+码头	dock
+教义	doctrine
+记录片	documentary
+娃娃	doll
+域	domain
+国内	domestic
+优势	dominant
+主宰	dominate
+捐赠	donate
+捐款	donation
+驴	donkey
+捐赠者	donor
+门口	doorway
+宿舍	dorm
+宿舍	dormitory
+双	double
+疑问	doubt
+疑	doubtful
+毫无疑问，	doubtless
+生面团	dough
+向下	down
+市中心	downtown
+向下	downward
+打	dozen
+草案	draft
+龙	dragon
+排水	drain
+剧	drama
+戏剧性	dramatic
+显着	dramatically
+平局	draw
+抽屉	drawer
+画画	drawing
+恐惧	dread
+连衣裙	dress
+干的	dried
+漂移	drift
+演练	drill
+喝酒	drinking
+滴	drip
+驱动器	drive
+司机	driver
+车道	driveway
+主动	driving
+降	drop
+干旱	drought
+淹	drown
+醉	drunk
+干	dry
+应有	due
+平淡	dull
+哑	dumb
+耐用	durable
+长短	duration
+中	during
+尘	dust
+住宅	dwelling
+垂死	dying
+动态	dynamic
+动力学	dynamics
+电子邮件	e-mail
+每	each
+急于	eager
+老鹰	eagle
+赚	earn
+认真	earnest
+收益	earnings
+土	earth
+地震	earthquake
+缓解	ease
+容易	easily
+东	eastern
+易	easy
+吃	eating
+生态	ecological
+经济	economic
+经济	economical
+经济	economically
+经济学	economics
+经济学家	economist
+生态系统	ecosystem
+编辑	edit
+教育性	educational
+教育家	educator
+有效	effective
+有效	effectively
+效用	effectiveness
+高效	efficient
+功夫	effort
+自我	ego
+第八	eighth
+或	either
+阐述	elaborate
+弹	elastic
+弯头	elbow
+老年	elderly
+选	elect
+电	electric
+电动	electrical
+电力	electricity
+电子	electron
+电子	electronic
+电子	electronics
+优雅	elegant
+初级	elementary
+象	elephant
+电梯	elevator
+十一	eleven
+合格	eligible
+消除	elimination
+精英	elite
+其他	else
+别处	elsewhere
+阻碍	embarrass
+尴尬	embarrassed
+急	emergency
+新兴	emerging
+发射	emission
+情绪化	emotional
+情绪	emotionally
+皇帝	emperor
+强调	emphasize
+帝国	empire
+聘用	employ
+雇主	employer
+空	empty
+启用	enable
+制定	enact
+鼓舞人心的	encouraging
+无穷	endless
+拥护	endorse
+忍受	endure
+能源	energy
+强制	enforcement
+从事	engage
+订婚	engagement
+工程师	engineer
+工程	engineering
+提高	enhance
+巨大	enormous
+够了	enough
+注册	enroll
+企业	enterprise
+招待	entertain
+娱乐	entertainment
+热心	enthusiastic
+整个	entire
+完全	entirely
+有权	entitle
+实体	entity
+企业家	entrepreneur
+输入	entry
+环境的	environmental
+想像	envision
+羡慕	envy
+疫情	epidemic
+插曲	episode
+平等	equal
+一样	equally
+方程	equation
+装备	equip
+公平	equity
+当量	equivalent
+直立	erect
+逃生	escape
+文章	essay
+本质	essence
+必要	essential
+实质上	essentially
+编制	establishment
+房地产	estate
+预计	estimated
+等	etc
+合乎道德的	ethical
+伦理	ethics
+民族	ethnic
+评估	evaluate
+评估	evaluation
+蒸发	evaporate
+晚	evening
+终究	eventually
+曾经	ever
+一切	every
+每个人	everybody
+每天	everyday
+大家	everyone
+一切	everything
+到处	everywhere
+明显	evident
+发展	evolve
+确切	exact
+准确	exactly
+夸大	exaggerate
+检查	examine
+例	example
+好生	exceedingly
+优秀	excellent
+除	except
+例外	exception
+过度	excessive
+激发	excite
+兴奋	excited
+激动	excitement
+扣人心弦	exciting
+喊叫	exclaim
+排除	exclude
+独家	exclusive
+只	exclusively
+远足	excursion
+执行	execute
+执行	execution
+行政人员	executive
+发挥	exert
+排气	exhaust
+展示	exhibit
+现有	existing
+异国情调	exotic
+扩大	expand
+期待	expect
+预期	expected
+远征	expedition
+昂贵	expensive
+有经验	experienced
+实验	experiment
+试验	experimental
+专家	expert
+专门知识	expertise
+说明	explain
+明确的	explicit
+爆炸	explode
+勘探	exploration
+探索	explore
+爆炸物	explosive
+揭	expose
+表达	express
+扩展	extended
+延期	extension
+广泛	extensive
+外观	exterior
+外部	external
+额外	extra
+非凡	extraordinary
+极端	extreme
+极	extremely
+眼	eye
+眉	eyebrow
+眼力	eyesight
+布	fabric
+面	face
+便利	facilitate
+设施	facility
+工厂	factory
+褪色	fade
+失败	failure
+昏	faint
+公平	fair
+相当	fairly
+可信	faithful
+下跌	fall
+名誉	fame
+熟	familiar
+饥荒	famine
+著名	famous
+幻想	fancy
+奇妙	fantastic
+幻想	fantasy
+告别	farewell
+迷人	fascinating
+时尚	fashion
+时髦	fashionable
+系	fasten
+快点	faster
+致命	fatal
+命运	fate
+岳父	father-in-law
+疲劳	fatigue
+不完善的	faulty
+偏爱	favor
+有利	favorable
+喜爱	favorite
+偏爱	favour
+有利	favourable
+喜爱	favourite
+恐惧	fear
+可怕	fearful
+可行	feasible
+盛宴	feast
+羽	feather
+特点	feature
+联邦	federal
+微弱	feeble
+饲料	feed
+感觉	feel
+同伴	fellow
+女	female
+女权主义	feminist
+篱笆	fence
+沃	fertile
+化肥	fertilizer
+节日	festival
+取	fetch
+少数	few
+少	fewer
+纤维	fiber
+纤维	fibre
+场	field
+激烈	fierce
+十五	fifteen
+第五	fifth
+五十	fifty
+战斗	fight
+战斗机	fighter
+战斗	fighting
+文件	file
+补	fill
+过滤器	filter
+最后	final
+最后	finally
+财政	financial
+发现	find
+发现	finding
+细	fine
+手指	finger
+完	finish
+司炉	fireman
+企业	firm
+第一	first
+财	fiscal
+渔	fisherman
+钓鱼	fishing
+拳头	fist
+适合	fit
+身体素质	fitness
+确定	fix
+固定	fixed
+闪光	flare
+平	flat
+味	flavor
+逃跑	flee
+灵活性	flexibility
+灵活	flexible
+翻动	flip
+浮动	float
+洪水	flood
+地板	floor
+流	flow
+流感	flu
+流利	fluent
+流体	fluid
+红晕	flush
+飞	fly
+飞行	flying
+折	fold
+民间	folk
+跟随	follow
+以下	following
+喜欢	fond
+傻瓜	fool
+傻	foolish
+脚丫子	foot
+足球	football
+前额	forehead
+国外	foreign
+外国人	foreigner
+最重要的是	foremost
+林	forest
+忘记	forget
+正式	formal
+格式	format
+编队	formation
+前任的	former
+从前	formerly
+公式	formula
+两星期	fortnight
+幸运	fortunate
+好在	fortunately
+幸运	fortune
+四十	forty
+论坛	forum
+前锋	forward
+培育	foster
+发现	found
+基金会	foundation
+创办人	founder
+十四	fourteen
+第四	fourth
+狐狸	fox
+脆弱	fragile
+骨架	framework
+特许经营	franchise
+坦率	frank
+坦率地说	frankly
+骗局	fraud
+自由	free
+自由	freedom
+自如	freely
+冻结	freeze
+频繁	frequent
+频繁	frequently
+新鲜	fresh
+大一	freshman
+摩擦	friction
+冰箱	fridge
+朋友	friend
+友好	friendly
+友谊	friendship
+吓唬	frighten
+青蛙	frog
+面前	front
+皱眉	frown
+冻结的	frozen
+卓有成效	fruitful
+挫败	frustrate
+挫折	frustration
+鱼苗	fry
+他妈的	fucking
+满	full
+全职	full-time
+充分	fully
+开玩笑	fun
+实用	functional
+根本	fundamental
+资金	funding
+滑稽	funny
+狂怒	furious
+炉	furnace
+进一步	further
+此外	furthermore
+收益	gain
+星系	galaxy
+画廊	gallery
+加仑	gallon
+结伙	gang
+车库	garage
+垃圾	garbage
+园丁	gardener
+大蒜	garlic
+气	gas
+气	gaseous
+汽油	gasoline
+喘气	gasp
+门	gate
+收集	gather
+采集	gathering
+规	gauge
+同性恋者	gay
+齿轮	gear
+性别	gender
+基因	gene
+一般	general
+通常	generally
+生成	generate
+代	generation
+发电机	generator
+大方	generous
+遗传	genetic
+类型	genre
+温和	gentle
+绅士	gentleman
+平缓	gently
+真正	genuine
+地理	geography
+几何	geometry
+病菌	germ
+得到	get
+巨人	giant
+礼品	gift
+天才	gifted
+女孩	girl
+女朋友	girlfriend
+给	give
+特定	given
+高兴	glad
+一瞥	glance
+强光	glare
+玻璃	glass
+滑翔	glide
+闪光	glitter
+全球	global
+阴沉	gloomy
+辉煌	glorious
+荣耀	glory
+手套	glove
+发光	glow
+目标	goal
+山羊	goat
+金色	golden
+高尔夫球	golf
+良好	good
+善良	goodness
+货物	goods
+鹅	goose
+州长	governor
+袍	gown
+抢	grab
+恩	grace
+优雅	graceful
+亲切	gracious
+级	grade
+渐进	gradual
+逐渐	gradually
+毕业生	graduate
+毕业	graduation
+粮食	grain
+语法	grammar
+语法的	grammatical
+克	gramme
+盛大	grand
+孙子	grandchild
+孙女	granddaughter
+爷爷	grandfather
+奶奶	grandmother
+祖父母	grandparent
+孙子	grandson
+发放	grant
+葡萄	grape
+图形	graph
+把握	grasp
+感谢	grateful
+严重	grave
+灰	gray
+伟大	great
+最大	greatest
+非常	greatly
+贪婪	greedy
+绿	green
+温室	greenhouse
+迎接	greet
+欢迎	greeting
+灰	grey
+悲	grief
+伤心	grieve
+露齿而笑	grin
+碾	grind
+握	grip
+呻吟	groan
+杂货商	grocer
+杂货	grocery
+毛	gross
+地面	ground
+组	group
+成长	grow
+成长	growing
+发展	growth
+保证	guarantee
+猜想	guess
+指导	guide
+指南	guideline
+有罪	guilt
+有罪	guilty
+吉他	guitar
+海湾	gulf
+胶	gum
+火药	gunpowder
+胆	gut
+家伙	guy
+健身房	gym
+体育馆	gymnasium
+哈	ha
+习惯	habit
+栖息地	habitat
+惯常的	habitual
+理发	haircut
+中途	halfway
+大厅	hall
+门厅	hallway
+汉堡包	hamburger
+手帕	handkerchief
+处理	handle
+英俊	handsome
+手写	handwriting
+便利	handy
+高高兴兴	happily
+幸福	happiness
+高兴	happy
+骚扰	harassment
+港	harbour
+硬	hard
+硬化	harden
+几乎不	hardly
+困苦	hardship
+硬件	hardware
+野兔	hare
+危害	harm
+有害	harmful
+苛刻	harsh
+赶快	haste
+赶紧	hasten
+匆	hasty
+帽子	hat
+舱口	hatch
+可恨	hateful
+仇	hatred
+运输	haul
+鹰	hawk
+干草	hay
+风险	hazard
+他	he
+头痛	headache
+标题	headline
+校长	headmaster
+司令部	headquarters
+医治	heal
+健康	health
+健康	healthy
+堆	heap
+听	hear
+听力	hearing
+心脏	heart
+加热	heating
+严重	heavily
+重	heavy
+脚跟	heel
+继承者	heir
+直升机	helicopter
+地狱	hell
+您好	hello
+头盔	helmet
+帮帮我	help
+有帮助	helpful
+故	hence
+她的	her
+草本植物	herb
+群	herd
+这里	here
+遗产	heritage
+英勇	heroic
+女英雄	heroine
+她的	hers
+她自己	herself
+迟疑	hesitate
+哎	hey
+嗨	hi
+隐	hidden
+隐藏	hide
+高科技	high-tech
+突出	highlight
+高度	highly
+高速公路	highway
+远足	hike
+山	hill
+山坡	hillside
+他	him
+他自己	himself
+臀部	hip
+聘请	hire
+他的	his
+历史学家	historian
+历史性	historic
+历史的	historical
+历史	historically
+历史	history
+撞	hit
+爱好	hobby
+曲棍球	hockey
+持有	hold
+孔	hole
+空洞	hollow
+圣	holy
+家园	homeland
+无家可归	homeless
+家庭作业	homework
+诚实	honest
+老老实实	honestly
+诚实	honesty
+度蜜月	honeymoon
+荣誉	honor
+荣誉	honour
+光彩	honourable
+勾	hook
+希望	hope
+希望	hopefully
+绝望	hopeless
+横	horizontal
+激素	hormone
+可怕	horrible
+马	horse
+马力	horsepower
+医院	hospital
+主持人	host
+人质	hostage
+女主人	hostess
+敌对	hostile
+热	hot
+饭店	hotel
+房子	house
+家庭主妇	housewife
+住房	housing
+怎么样	how
+然而	however
+拥抱	hug
+巨大	huge
+呵呵	huh
+人性	humanity
+谦逊	humble
+湿	humid
+幽默	humor
+幽默	humorous
+饿	hungry
+狩猎	hunt
+猎人	hunter
+狩猎	hunting
+飓风	hurricane
+赶快	hurry
+伤	hurt
+丈夫	husband
+棚屋	hut
+氢	hydrogen
+假设	hypothesis
+即	i.e.
+冰淇淋	ice-cream
+图标	icon
+主意	idea
+理想	ideal
+相同	identical
+鉴定	identification
+身分	identity
+思想	ideological
+思想	ideology
+成语	idiom
+空闲	idle
+即	ie
+如果	if
+无知	ignorant
+忽略	ignore
+生病	ill
+非法	illegal
+疾病	illness
+错觉	illusion
+说明	illustrate
+插图	illustration
+图像	image
+假想	imaginary
+想像力	imagination
+想像	imagine
+即时	immediate
+马上	immediately
+巨大	immense
+移民	immigrant
+移民	immigration
+免疫的	immune
+碰撞	impact
+急躁	impatient
+实施	implement
+履行	implementation
+暗示	imply
+进口	import
+重要性	importance
+重要	important
+重要	importantly
+强加	impose
+不可能	impossible
+印	impress
+有声有色	impressive
+下狱	imprison
+提高	improve
+改进	improved
+起色	improvement
+冲动	impulse
+在	in
+奖励	incentive
+寸	inch
+事件	incident
+倾斜	incline
+包括	include
+包含	including
+合并	incorporate
+不正确	incorrect
+增加	increase
+增加	increased
+增加	increasing
+日益	increasingly
+难以置信	incredible
+令人难以置信	incredibly
+的确	indeed
+不定	indefinite
+独立	independent
+迹象	indication
+指示器	indicator
+无所谓	indifferent
+土著	indigenous
+愤怒	indignant
+间接	indirect
+必不可少	indispensable
+个人	individual
+在室内	indoors
+产业	industrial
+工业化	industrialize
+行业	industry
+低效	inefficient
+必然	inevitable
+必将	inevitably
+便宜	inexpensive
+婴儿	infant
+感染	infect
+感染	infection
+比量	infer
+下	inferior
+无限	infinite
+通货膨胀	inflation
+有影响	influential
+非正式的	informal
+基础设施	infrastructure
+成分	ingredient
+居住于	inhabit
+居民	inhabitant
+固有	inherent
+继承	inherit
+初始	initial
+原来	initially
+开始	initiate
+主动	initiative
+伤	injury
+墨	ink
+犯人	inmate
+客栈	inn
+内	inner
+无辜	innocent
+革新	innovation
+创新	innovative
+输入	input
+查询	inquire
+查询	inquiry
+昆虫	insect
+里面	inside
+眼光	insight
+咬定	insist
+检查	inspection
+检查员	inspector
+灵感	inspiration
+启发	inspire
+安装	install
+例	instance
+瞬间	instant
+即刻	instantly
+学院	institute
+机构	institution
+机构	institutional
+责成	instruct
+指令	instruction
+教学	instructional
+教练	instructor
+不足	insufficient
+侮辱	insult
+保险	insurance
+保险	insure
+完整	intact
+综合	integrate
+集成	integrated
+积分	integration
+廉正	integrity
+知识分子	intellectual
+智能	intelligent
+激烈	intense
+集约	intensive
+意图	intent
+故意	intentional
+相互作用	interact
+相互作用	interaction
+有兴趣	interested
+有趣	interesting
+干扰	interfere
+干扰	interference
+内部	interior
+中间	intermediate
+内部	internal
+国际	international
+译	interpret
+解释	interpretation
+翻译员	interpreter
+中断	interruption
+介入	intervention
+访问	interview
+亲密	intimate
+成	into
+侵入	invasion
+发明者	inventor
+库存	inventory
+投资	invest
+调查	investigate
+调查	investigation
+研究者	investigator
+投资者	investor
+无形	invisible
+请帖	invitation
+涉及	involve
+参与	involved
+参与	involvement
+向内	inward
+具有讽刺意味的	ironically
+讽刺	irony
+不规​​则	irregular
+岛	island
+隔离	isolate
+孤立	isolated
+隔离	isolation
+项目	item
+其	its
+本身	itself
+夹克	jacket
+监狱	jail
+果酱	jam
+罐	jar
+颚	jaw
+爵士乐	jazz
+眼红	jealous
+牛仔裤	jeans
+喷射	jet
+宝	jewel
+首饰	jewelry
+加入	join
+联合	joint
+笑话	joke
+欢乐	jolly
+刊物	journal
+新闻学	journalism
+记者	journalist
+快乐	joyful
+法官	judge
+判决	judgement
+判决	judgment
+司法	judicial
+果汁	juice
+初级	junior
+管辖权	jurisdiction
+陪审员	juror
+陪审团	jury
+刚	just
+辩解	justify
+敏锐	keen
+保持	keep
+管理人	keeper
+水壶	kettle
+关键	key
+键盘	keyboard
+踢	kick
+小子	kid
+杀	kill
+凶手	killer
+谋杀	killing
+公斤	kilogram
+公里	kilometer
+种	kind
+王	king
+套件	kit
+厨房	kitchen
+风筝	kite
+下跪	kneel
+针织	knit
+把手	knob
+结	knot
+已知	known
+实验室	lab
+劳动	labor
+实验室	laboratory
+花边	lace
+缺乏	lack
+阶梯	ladder
+淑女	lady
+落后	lag
+湖	lake
+羊肉	lamb
+跛	lame
+灯	lamp
+着陆	landing
+女房东	landlady
+里程碑	landmark
+景观	landscape
+车道	lane
+语言	language
+灯笼	lantern
+膝部	lap
+大	large
+主要	largely
+激光	laser
+最后	last
+晚了	late
+最近	lately
+后	later
+后者	latter
+笑声	laughter
+洗衣店	laundry
+厕所	lavatory
+法	law
+国会议员	lawmaker
+诉讼	lawsuit
+律师	lawyer
+领导者	leader
+领导	leadership
+领导	leading
+叶子	leaf
+泄漏	leak
+瘦	lean
+飞跃	leap
+学习	learn
+知道	learned
+至少	least
+皮革	leather
+离开	leave
+演讲	lecture
+剩下	left
+腿	leg
+遗产	legacy
+法律	legal
+法律上	legally
+传说	legend
+立法	legislation
+立法	legislative
+立法者	legislator
+立法机关	legislature
+合法	legitimate
+闲暇	leisure
+柠檬	lemon
+借	lend
+减	less
+教训	lesson
+免得	lest
+级别	level
+责任	liability
+容易	liable
+说谎者	liar
+自由	liberal
+解放	liberate
+解放	liberation
+图书管理员	librarian
+图书馆	library
+许可证	license
+舔	lick
+谎言	lie
+陆军中尉	lieutenant
+生活	life
+生活方式	lifestyle
+一生	lifetime
+举	lift
+减轻	lighten
+灯光	lighting
+轻轻	lightly
+闪电	lightning
+可能性	likelihood
+容易	likely
+同样	likewise
+酸橙	lime
+限	limit
+局限性	limitation
+有限	limited
+亚麻布	linen
+衬垫	liner
+链接	link
+狮子	lion
+唇	lip
+液体	liquid
+名单	list
+倾听者	listener
+升	liter
+从字面上	literally
+文	literary
+文学	literature
+小	little
+住	live
+热闹	lively
+肝	liver
+客厅	living-room
+面包	loaf
+前厅	lobby
+当地	local
+定位	locate
+位置	location
+机车	locomotive
+小屋	lodge
+登陆	log
+合乎逻辑的	logical
+寂寞	lonely
+长	long
+长期	long-term
+很久	longtime
+松	loose
+放松	loosen
+主	lord
+货车	lorry
+输	lose
+失利	loss
+迷路	lost
+很多	lot
+很多	lots
+响	loud
+扩音器	loudspeaker
+可爱	lovely
+低	low
+下	lower
+忠诚	loyal
+忠诚	loyalty
+幸运	lucky
+木料	lumber
+坨	lump
+午餐	lunch
+肺	lung
+豪华	luxury
+机	machine
+疯狂	mad
+女士	madam
+杂志	magazine
+魔术	magic
+磁	magnetic
+华丽的	magnificent
+大小	magnitude
+邮件	mail
+主	main
+大陆	mainland
+主要	mainly
+主流	mainstream
+保养	maintenance
+重大的	major
+多数	majority
+制作者	maker
+补偿	makeup
+男	male
+购物中心	mall
+经理	manager
+管理的	managing
+要求	mandate
+操纵	manipulate
+人类	mankind
+男子气	manly
+大厦	mansion
+手册	manual
+生产厂家	manufacturer
+制造业	manufacturing
+许多	many
+大理石	marble
+游行	march
+余量	margin
+海洋	marine
+马克	mark
+标记	marker
+市场营销	marketing
+市井	marketplace
+结婚了	married
+奇妙	marvelous
+面膜	mask
+块	mass
+大量	massive
+主	master
+杰作	masterpiece
+垫	mat
+伴侣	mate
+材料	material
+唯物主义	materialism
+数学	math
+数学的	mathematical
+数学	mathematics
+数学	maths
+事	matter
+成熟	mature
+最大	maximum
+可	may
+可能是	maybe
+市长	mayor
+我	me
+草地	meadow
+餐	meal
+意味着	mean
+富有意义的	meaningful
+与此同时	meantime
+与此同时	meanwhile
+测	measurable
+肉	meat
+机械师	mechanic
+机械	mechanical
+机械	mechanically
+机械学	mechanics
+机制	mechanism
+勋章	medal
+媒体	media
+医	medical
+药物治疗	medication
+药	medicine
+中	medium
+遇到	meet
+会议	meeting
+瓜	melon
+熔	melt
+成员	member
+会籍	membership
+纪念馆	memorial
+补	mend
+心理	mental
+精神上	mentally
+提	mention
+导师	mentor
+商人	merchant
+怜悯	mercy
+只	mere
+仅仅	merely
+快活	merry
+胡来	mess
+信使	messenger
+金属	metal
+隐喻	metaphor
+公	metric
+大都市的	metropolitan
+微电脑	microcomputer
+话筒	microphone
+显微镜	microscope
+中午	midday
+中间	middle
+中产阶级	middle-class
+中间	midst
+迁移	migration
+温和	mild
+军事	military
+磨	mill
+毫米	millimetre
+百万	million
+矿工	miner
+矿物	mineral
+最小	minimal
+最小化	minimize
+最低限度	minimum
+部	ministry
+未成年人	minor
+少数	minority
+减	minus
+奇迹	miracle
+镜	mirror
+惨	miserable
+误导	mislead
+思念	miss
+导弹	missile
+失踪	missing
+传教士	missionary
+雾	mist
+情妇	mistress
+混合	mix
+杂	mixed
+混合物	mixture
+MM-HMM	mm-hmm
+呻吟	moan
+移动	mobile
+模式	mode
+温和	moderate
+现代	modern
+谦虚	modest
+潮湿	moist
+分子	molecule
+妈妈	mom
+势头	momentum
+钱	money
+显示器	monitor
+猴子	monkey
+怪物	monster
+月	month
+每月一次	monthly
+纪念碑	monument
+道德	moral
+更多	more
+而且	moreover
+上午	morning
+凡人	mortal
+死亡	mortality
+抵押	mortgage
+蚊子	mosquito
+大多	mostly
+母亲	mother
+刺激	motivate
+动机	motivation
+动机	motive
+马达	motor
+模	mould
+安装	mount
+悼	mourn
+鼠标	mouse
+满口	mouthful
+举	move
+运动	movement
+电影	movie
+多	much
+泥	mud
+浑	muddy
+杯	mug
+多	multiple
+乘	multiply
+市政	municipal
+谋杀	murder
+凶手	murderer
+博物馆	museum
+蘑菇	mushroom
+音乐	musical
+音乐家	musician
+必须	must
+哑	mute
+喃喃	mutter
+羊肉	mutton
+互	mutual
+我的	my
+我自己	myself
+神秘	mysterious
+神秘	mystery
+神话	myth
+不	n't
+裸体	naked
+亦即	namely
+盹	nap
+叙述	narrative
+窄	narrow
+讨厌	nasty
+民族	nation
+国民	national
+全国	nationwide
+本地人	native
+自然	natural
+自然	naturally
+调皮	naughty
+海	naval
+海军	navy
+附近的	nearby
+将近	nearly
+整齐	neat
+一定	necessarily
+必要	necessary
+必要性	necessity
+颈部	neck
+项链	necklace
+需要	need
+不必要	needless
+负	negative
+谈判	negotiate
+谈判	negotiation
+邻居	neighbor
+邻里	neighborhood
+邻近	neighboring
+邻里	neighbourhood
+也不	neither
+侄子	nephew
+紧张	nervous
+净	net
+网络	network
+中性	neutral
+从来没有	never
+虽然	nevertheless
+新	new
+新	newly
+新闻	news
+报纸	newspaper
+下一个	next
+不错	nice
+侄女	niece
+夜晚	night
+梦魇	nightmare
+九	nine
+十九	nineteen
+九十	ninety
+第九	ninth
+氮	nitrogen
+高贵	noble
+没有人	nobody
+点头	nod
+噪音	noise
+吵闹	noisy
+提名	nomination
+被提名人	nominee
+没有	none
+尽管如此，	nonetheless
+非营利	nonprofit
+废话	nonsense
+中午	noon
+也不	nor
+规范	norm
+正常	normal
+常	normally
+东北	northeast
+北方	northern
+西北	northwest
+鼻子	nose
+不	not
+注意	note
+笔记本	notebook
+没什么	nothing
+引人注目	noticeable
+概念	notion
+名词	noun
+小说	novel
+无处	nowhere
+核	nuclear
+滋扰	nuisance
+众多	numerous
+苗圃	nursery
+养分	nutrient
+尼龙	nylon
+点	o'clock
+橡木	oak
+对象	object
+客观	objective
+义务	obligation
+责成	oblige
+意见	observation
+守	observe
+观察员	observer
+明显	obvious
+明显	obviously
+机会	occasion
+偶然	occasional
+偶尔	occasionally
+占据	occupy
+海洋	ocean
+奇	odd
+可能性	odds
+气味	odour
+的	of
+离	off
+得罪	offend
+犯罪分子	offender
+犯罪	offense
+进攻	offensive
+供	offering
+官方	official
+正式	officially
+常	often
+好	okay
+老	old
+过时	old-fashioned
+忽略	omit
+一旦	once
+一个	one
+三分之一	one-third
+不断的	ongoing
+洋葱	onion
+在线	online
+只要	only
+到	onto
+开放	open
+开盘	opening
+公然	openly
+歌剧	opera
+操作	operate
+操作	operating
+操作	operational
+操作者	operator
+机会	opportunity
+反对	oppose
+反对	opposed
+相反	opposite
+反对	opposition
+压迫	oppress
+选择	opt
+光纤	optical
+乐观	optimistic
+选项	option
+自选	optional
+要么	or
+口服	oral
+橙	orange
+轨道	orbit
+乐队	orchestra
+秩序	order
+秩序	orderly
+普通	ordinary
+有机	organic
+有机体	organism
+组织	organizational
+组织	organize
+有组织的	organized
+东方的	oriental
+方向	orientation
+来源	origin
+原版的	original
+原本	originally
+装饰	ornament
+孤儿	orphan
+其他	other
+其他	others
+除此以外	otherwise
+应该	ought
+盎司	ounce
+我们的	our
+我们的	ours
+我们自己	ourselves
+户外	outdoor
+户外	outdoors
+外	outer
+配备	outfit
+概要	outline
+开始	outset
+外	outside
+局外人	outsider
+郊区	outskirt
+优秀	outstanding
+向外	outward
+向外	outwards
+烤箱	oven
+以上	over
+总体	overall
+大衣	overcoat
+克服	overcome
+高架	overhead
+忽略	overlook
+过夜	overnight
+海外	overseas
+监视	oversee
+超车	overtake
+随着时间的推移	overtime
+压倒	overwhelm
+压倒性	overwhelming
+猫头鹰	owl
+自己	own
+业主	owner
+所有权	ownership
+氧	oxygen
+步伐	pace
+和平的	pacific
+包	packet
+页面	page
+桶	pail
+痛苦	painful
+对	pair
+宫	palace
+苍白	pale
+锅	pan
+熊猫	panda
+窗格	pane
+面板	panel
+恐慌	panic
+喘气	pant
+天堂	paradise
+段	paragraph
+并行	parallel
+亲	parent
+父母	parental
+教区	parish
+公园	park
+停车	parking
+议会	parliament
+部分	part
+局部	partial
+部分	partially
+参加者	participant
+参与	participation
+粒子	particle
+特别	particular
+部分地	partly
+合作关系	partnership
+派对	party
+传	pass
+通过	passing
+情	passion
+被动	passive
+护照	passport
+过去	past
+面食	pasta
+消遣	pastime
+牧师	pastor
+拍	pat
+补丁	patch
+专利	patent
+路径	path
+病人	patient
+巡逻	patrol
+顾客	patron
+模式	pattern
+暂停	pause
+铺	pave
+路面	pavement
+爪子	paw
+付	pay
+付款	payment
+豌豆	pea
+安宁	peaceful
+桃	peach
+高峰	peak
+花生	peanut
+梨	pear
+珍珠	pearl
+农	peasant
+卵石	pebble
+奇特	peculiar
+果皮	peel
+窥视	peep
+窥视	peer
+笔	pen
+刑罚	penalty
+铅笔	pencil
+穿透	penetrate
+半岛	peninsula
+一分钱	penny
+养老金	pension
+胡椒	pepper
+每	per
+感知	perceive
+感知	perceived
+百分比	percentage
+知觉	perception
+完美	perfect
+完美	perfectly
+性能	performance
+表演者	performer
+香水	perfume
+期	period
+永久	permanent
+永久	permanently
+许可证	permit
+个人	personal
+个性	personality
+亲自	personally
+人员	personnel
+说服	persuade
+悲观	pessimistic
+宠物	pet
+汽油	petrol
+石油	petroleum
+相	phase
+现象	phenomenon
+哲学家	philosopher
+哲学上	philosophical
+照片	photo
+照片	photograph
+摄影师	photographer
+相	photographic
+摄影	photography
+词组	phrase
+物理	physical
+物理	physically
+医师	physician
+物理学家	physicist
+物理学	physics
+钢琴	piano
+挑	pick
+拾起	pickup
+馅饼	pie
+片	piece
+刺穿	pierce
+鸽子	pigeon
+桩	pile
+丸	pill
+支柱	pillar
+枕头	pillow
+飞行员	pilot
+掐	pinch
+松	pine
+粉红色	pink
+品脱	pint
+先锋	pioneer
+管	pipe
+管道	pipeline
+手枪	pistol
+音高	pitch
+投手	pitcher
+比萨	pizza
+放置	placement
+川	plain
+原告	plaintiff
+计划	plan
+平面	plane
+行星	planet
+规划人员	planner
+规划	planning
+厂	plant
+种植园	plantation
+膏药	plaster
+塑料	plastic
+播放机	player
+挑拨	playoff
+恳求	plea
+辩护	plead
+宜人	pleasant
+请	please
+满意	pleased
+乐趣	pleasure
+丰满	plentiful
+情节	plot
+动物内脏	pluck
+跳水	plunge
+复数	plural
+口袋	pocket
+诗人	poet
+有毒	poisonous
+戳	poke
+极	pole
+警察	police
+警察	policeman
+政策	policy
+波兰语	polish
+有礼貌	polite
+政治	political
+政治	politically
+政治家	politician
+调查	poll
+污染	pollution
+池塘	pond
+池	pool
+较差的	poor
+流行的	pop
+流行	popular
+声望	popularity
+人口	population
+门廊	porch
+猪肉	pork
+稀饭	porridge
+港	port
+手提	portable
+门房	porter
+投资组合	portfolio
+一部分	portion
+肖像	portrait
+描写	portray
+提出	pose
+积极	positive
+具备	possess
+可能性	possibility
+可能	possible
+或者	possibly
+邮资	postage
+海报	poster
+邮差	postman
+土豆	potato
+潜力	potential
+可能	potentially
+英镑	pound
+贫穷	poverty
+粉	powder
+动力	power
+强大	powerful
+实用	practical
+几乎	practically
+实践	practise
+医生	practitioner
+赞	praise
+祈祷	pray
+祈祷	prayer
+传道	preach
+预防措施	precaution
+前	preceding
+珍贵	precious
+精确	precise
+恰恰	precisely
+捕食者	predator
+预测	prediction
+比较喜欢	prefer
+最好	preferable
+怀孕	pregnancy
+怀孕	pregnant
+偏见	prejudice
+初步	preliminary
+总理	premier
+前提	premise
+额外费用	premium
+准备	prepare
+介词	preposition
+规定	prescribe
+处方	prescription
+存在	presence
+当下	present
+介绍	presentation
+现	presently
+总统任期	presidency
+总统	presidential
+想必	presumably
+假装	pretend
+漂亮	pretty
+战胜	prevail
+预防	prevention
+前	previous
+先前	previously
+牧师	priest
+主要	primarily
+主	primary
+灌注	prime
+原始	primitive
+王子	prince
+公主	princess
+校长	principal
+打印	print
+先	prior
+优先	priority
+监狱	prison
+囚犯	prisoner
+隐私	privacy
+私人	private
+私自	privately
+特权	privilege
+奖品	prize
+亲	pro
+可能性	probability
+可能	probable
+大概	probably
+问题	problem
+步骤	procedure
+继续	proceed
+过程	process
+处理	processing
+游行	procession
+处理器	processor
+宣布	proclaim
+生产	produce
+制片人	producer
+产品	product
+生产	production
+生产的	productive
+生产率	productivity
+行业	profession
+专业的	professional
+教授	professor
+轮廓	profile
+利润	profit
+深刻	profound
+计划	program
+程序设计	programming
+进度	progress
+进步	progressive
+禁止	prohibit
+工程	project
+投影	projection
+突出	prominent
+承诺	promise
+有为	promising
+促进	promote
+提升	promotion
+提示	prompt
+代词	pronoun
+发音	pronounce
+发音	pronunciation
+证明	proof
+正确	proper
+正确	properly
+财产	property
+比例	proportion
+成比例的	proportional
+建议	proposal
+建议	propose
+建议	proposed
+检察官	prosecution
+原告	prosecutor
+展望	prospect
+繁荣	prosperity
+繁荣	prosperous
+保护	protect
+保护	protection
+保护的	protective
+蛋白质	protein
+抗议	protest
+协议	protocol
+骄傲	proud
+证明	prove
+提供	provide
+提供	provided
+提供商	provider
+省	province
+规定	provision
+惹	provoke
+心理	psychological
+心理学家	psychologist
+心理学	psychology
+上市	public
+发布	publication
+公开	publicity
+公然	publicly
+发布	publish
+出版者	publisher
+布丁	pudding
+噗	puff
+泵	pump
+冲床	punch
+守时	punctual
+惩罚	punishment
+瞳孔	pupil
+木偶	puppet
+纯	pure
+纯粹	purely
+净化	purify
+纯度	purity
+紫	purple
+追求	pursue
+追求	pursuit
+修饰	qualify
+夸脱	quart
+5美分硬币	quarter
+四分卫	quarterback
+季刊	quarterly
+女王	queen
+古怪	queer
+探索	quest
+题	question
+调查问卷	questionnaire
+队列	queue
+快	quick
+加速	quicken
+很快	quickly
+安静	quiet
+悄悄	quietly
+被子	quilt
+测验	quiz
+行情	quotation
+兔子	rabbit
+种族	racial
+种族主义	racism
+架	rack
+球拍	racket
+雷达	radar
+辐射	radiate
+辐射	radiation
+激进	radical
+无线电	radio
+放射性的	radioactive
+放射性	radioactivity
+萝卜	radish
+镭	radium
+半径	radius
+愤怒	rage
+袭击	raid
+轨	rail
+铁路	railroad
+铁路	railway
+彩虹	rainbow
+雨	rainy
+募集	raise
+耙	rake
+团结	rally
+牧场	ranch
+随机	random
+秩	rank
+强奸	rape
+快速	rapid
+急速	rapidly
+罕见	rare
+很少	rarely
+鼠	rat
+率	rate
+宁	rather
+等级	rating
+比	ratio
+合理的	rational
+生	raw
+剃刀	razor
+回覆	re
+到达	reach
+应对	react
+反应	reaction
+阅读	read
+容易	readily
+准备	ready
+现实	real
+实际	realistic
+现实	reality
+实现	realize
+真	really
+境界	realm
+收割	reap
+后	rear
+原因	reason
+合理	reasonable
+反叛	rebel
+暴动	rebellion
+重建	rebuild
+召回	recall
+接受	receive
+接收器	receiver
+最近	recent
+最近	recently
+不景气	recession
+食谱	recipe
+接受者	recipient
+背诵	recite
+回忆	recollect
+录音机	recorder
+记录	recording
+恢复	recover
+招	recruit
+红	red
+芦苇	reed
+卷轴	reel
+参考	refer
+提炼	refine
+改革	reform
+爽快	refreshment
+刷新刷新	refresh刷新
+冰箱	refrigerator
+避难所	refuge
+难民	refugee
+拒绝	refusal
+拒绝	refuse
+反驳	refute
+恢复	regain
+关于	regard
+关于	regarding
+而不管	regardless
+政权	regime
+区域	region
+区域性	regional
+登记	register
+遗憾	regret
+定期	regular
+经常	regularly
+调节	regulate
+条例	regulation
+调节器	regulator
+监管	regulatory
+复原	rehabilitation
+排演	rehearsal
+统治	reign
+缰绳	rein
+庆幸	rejoice
+涉及	relate
+有关	related
+关系	relationship
+相对的	relative
+相对	relatively
+相对论	relativity
+放松	relax
+发布	release
+相应	relevant
+可靠性	reliability
+可靠	reliable
+信赖	reliance
+浮雕	relief
+缓解	relieve
+宗教	religion
+宗教	religious
+舍不得	reluctant
+留	remain
+剩余	remaining
+遗体	remains
+备注	remark
+卓越	remarkable
+补救	remedy
+提醒	remind
+提醒	reminder
+远程	remote
+切除	removal
+拆除	remove
+出租	rental
+修复	repair
+反复	repeatedly
+忏悔	repent
+重	repetition
+更换	replace
+更换	replacement
+回复	reply
+报告	report
+据说	reportedly
+记者	reporter
+报告	reporting
+表示	representation
+代表	representative
+责备	reproach
+复制	reproduce
+共和国	republic
+声誉	reputation
+要求	request
+需要	required
+需求	requirement
+营救	rescue
+研究	research
+研究员	researcher
+像	resemble
+预订	reservation
+水库	reservior
+住所	residence
+居民	resident
+住宅	residential
+辞职	resign
+辞职	resignation
+抵制	resist
+抵抗性	resistance
+耐	resistant
+解析度	resolution
+解析	resolve
+度假区	resort
+尊重	respect
+恭	respectful
+各自	respective
+分别	respectively
+响应	respond
+回答者	respondent
+主管	responsible
+餐厅	restaurant
+不安	restless
+限制	restriction
+简历	resume
+零售	retail
+零售商	retailer
+复述	retell
+退休	retire
+退役	retired
+退休	retirement
+撤退	retreat
+回报	return
+启示	revelation
+复仇	revenge
+收入	revenue
+逆转	reverse
+回顾	review
+起义	revolt
+革命的	revolutionary
+奖励	reward
+修辞	rhetoric
+肋骨	rib
+色带	ribbon
+丰富	rich
+使摆脱	rid
+谜语	riddle
+骑	ride
+骑士	rider
+可笑	ridiculous
+步枪	rifle
+正确	right
+死板	rigid
+边	rim
+环	ring
+骚乱	riot
+安息	rip
+成熟	ripe
+熟	ripen
+上升	rise
+冒险的	risky
+仪式	ritual
+对手	rival
+抢	rob
+强盗	robber
+抢劫	robbery
+长袍	robe
+机器人	robot
+火箭	rocket
+滚	roll
+压延	rolling
+浪漫	romance
+浪漫	romantic
+房	room
+绳	rope
+玫瑰	rose
+腐烂	rot
+旋转	rotary
+回转	rotate
+回转	rotation
+烂	rotten
+粗	rough
+大致	roughly
+圆	round
+振奋	rouse
+航线	route
+常规	routine
+常规	routinely
+排	row
+皇族	royal
+橡胶	rubber
+粗暴	rude
+地毯	rug
+规则	rule
+统治	ruling
+传闻	rumor
+跑步者	runner
+赛跑	running
+乡村	rural
+抢	rush
+铁锈	rust
+生疏	rusty
+神圣	sacred
+牺牲	sacrifice
+伤心	sad
+鞍	saddle
+可悲的是	sadly
+悲	sadness
+安全	safe
+安然	safely
+安全	safety
+圣	saint
+为了	sake
+沙拉	salad
+薪水	salary
+销售	sales
+业务员	salesman
+三文鱼	salmon
+敬礼	salute
+同	same
+样本	sample
+制裁	sanction
+三明治	sandwich
+沙	sandy
+卫星	satellite
+满意的	satisfactory
+满足	satisfy
+酱	sauce
+茶托	saucer
+香肠	sausage
+规模	scale
+丑闻	scandal
+疤痕	scar
+稀缺	scarce
+几乎没有	scarcely
+吓	scare
+惊	scared
+围巾	scarf
+吓人	scary
+分散	scatter
+脚本	scenario
+现场	scene
+风光	scenery
+香味	scent
+时间表	schedule
+方案	scheme
+学者	scholar
+奖学金	scholarship
+科学	science
+科学	scientific
+科学家	scientist
+剪刀	scissors
+得分了	score
+蔑视	scorn
+侦察兵	scout
+争夺	scramble
+刮	scrape
+刮	scratch
+惊叫	scream
+筛查	screening
+螺丝钉	screw
+脚本	script
+雕塑	sculpture
+海	sea
+密封	seal
+水手	seaman
+海港	seaport
+搜索	search
+座位	seat
+第二	second
+次要	secondary
+其次	secondly
+秘密	secret
+部分	section
+扇形	sector
+世俗	secular
+安全	secure
+安全	security
+见	see
+种子	seed
+似乎	seem
+貌似	seemingly
+分割	segment
+抢占	seize
+选择	select
+选	selected
+自	self
+自尊	self-esteem
+自私	selfish
+卖	sell
+卖家	seller
+半导体	semiconductor
+研讨会	seminar
+参议员	senator
+发送	send
+前辈	senior
+感觉	sensation
+感	sense
+明智的	sensible
+敏感	sensitive
+灵敏度	sensitivity
+传感器	sensor
+情绪	sentiment
+分离	separate
+另	separately
+分割	separation
+序列	sequence
+严重	serious
+认真地	seriously
+服务	service
+服务	serving
+会议	session
+集	set
+解决	settle
+沉降	settlement
+七	seven
+第七	seventh
+几个	several
+严重	severe
+严重	severely
+缝	sew
+性别	sex
+有性	sexual
+性欲	sexuality
+性	sexually
+性感的	sexy
+阴	shade
+背阴	shady
+将	shall
+浅	shallow
+耻辱	shame
+洗发水	shampoo
+共享	share
+共享	shared
+股东	shareholder
+鲨鱼	shark
+锐	sharp
+磨	sharpen
+大幅	sharply
+刮胡子	shave
+她	she
+剪断	shear
+羊	sheep
+绝对	sheer
+片	sheet
+搁板	shelf
+牧羊人	shepherd
+移	shift
+先令	shilling
+闪耀	shine
+衬衫	shirt
+狗屁	shit
+震	shock
+鞋	shoe
+射击	shoot
+射击	shooting
+店	shop
+购物	shopping
+岸	shore
+短	short
+短期	short-term
+短缺	shortage
+缺点	shortcoming
+不久	shortly
+短裤	shorts
+镜头	shot
+应	should
+喊	shout
+推	shove
+演出	show
+尖叫	shriek
+虾	shrimp
+耸	shrug
+梭子	shuttle
+害羞	shy
+兄弟	sibling
+生病	sick
+侧	side
+人行道	sidewalk
+侧身	sideways
+叹息	sigh
+观光	sightseeing
+迹象	sign
+信号	signal
+显著	significant
+显著	significantly
+沉默	silence
+无声	silent
+丝绸	silk
+愚蠢	silly
+类似	similar
+相似	similarity
+同样	similarly
+简单	simple
+简化	simplify
+简单地	simply
+同时	simultaneously
+罪	sin
+真诚	sincere
+唱	sing
+歌手	singer
+单	single
+单数	singular
+妹妹	sister
+现场	site
+情况	situation
+六	six
+第六	sixth
+尺寸	size
+素描	sketch
+滑雪	ski
+熟练	skilled
+熟练	skillful
+撇去	skim
+皮肤	skin
+跳跃	skip
+短裙	skirt
+头骨	skull
+天空	sky
+猛撞	slam
+拍击	slap
+奴隶	slave
+奴隶制度	slavery
+睡觉	sleep
+套	sleeve
+苗条	slender
+片	slice
+轻微	slight
+略	slightly
+滑	slip
+拖鞋	slipper
+滑	slippery
+口号	slogan
+坡	slope
+插槽	slot
+慢	slow
+慢慢地	slowly
+贫民窟	slum
+狡猾	sly
+小	small
+聪明	smart
+闻	smell
+烟雾	smog
+平稳	smooth
+顺利	smoothly
+蛇	snake
+卡扣	snap
+潜行	sneak
+雪	snow
+似雪	snowy
+所以	so
+所谓	so-called
+肥皂	soap
+翱翔	soar
+哭泣	sob
+清醒	sober
+足球	soccer
+社会	social
+社会主义	socialism
+社会主义的	socialist
+社交上	socially
+袜子	sock
+苏打	soda
+钠	sodium
+沙发	sofa
+柔软的	soft
+软化	soften
+轻轻	softly
+软件	software
+泥	soil
+太阳的	solar
+战士	soldier
+唯一	sole
+独自	solely
+庄严	solemn
+固	solid
+可溶性	soluble
+解	solution
+一些	some
+谁	somebody
+日后	someday
+不知何故	somehow
+有人	someone
+某物	something
+某时	sometime
+有时	sometimes
+有些	somewhat
+某处	somewhere
+儿子	son
+歌	song
+复杂的	sophisticated
+疼	sore
+遗憾	sorry
+分类	sort
+汤	soup
+酸	sour
+资源	source
+东南	southeast
+南部的	southern
+西南	southwest
+主权	sovereignty
+母猪	sow
+宇宙飞船	spacecraft
+飞船	spaceship
+铲	spade
+跨度	span
+备用	spare
+火花	spark
+火花	sparkle
+麻雀	sparrow
+扬声器	speaker
+矛	spear
+特别	special
+专家	specialist
+特产	speciality
+特别	specially
+特产	specialty
+种类	species
+具体	specific
+特别是	specifically
+指定	specify
+场面	spectacle
+壮观	spectacular
+光谱	spectrum
+推测	speculate
+推测	speculation
+演讲	speech
+速度	speed
+拼	spell
+花	spend
+开支	spending
+蜘蛛	spider
+溢	spill
+脊柱	spine
+精神	spiritual
+吐	spit
+尽管	spite
+溅	splash
+辉煌	splendid
+分裂	split
+溺爱	spoil
+发言人	spokesman
+海绵	sponge
+赞助	sponsor
+自发	spontaneous
+勺子	spoon
+体育	sport
+现场	spot
+配偶	spouse
+春天	spring
+春天	springtime
+洒	sprinkle
+带动	spur
+间谍	spy
+队	squad
+广场	square
+松鼠	squirrel
+刺	stab
+稳定	stable
+体育场	stadium
+员工	staff
+污点	stain
+楼梯	stair
+楼梯	staircase
+赌注	stake
+陈旧	stale
+姿态	stance
+标准	standard
+地位	standing
+立场	standpoint
+凝视	stare
+起动机	starter
+开始	starting
+惊吓	startle
+饿死	starve
+声明	statement
+政治家	statesman
+静止	static
+统计	statistical
+统计	statistics
+状态	status
+法规	statute
+留	stay
+稳步	steadily
+稳定	steady
+牛排	steak
+偷	steal
+汽船	steamer
+钢	steel
+陡	steep
+驾驶	steer
+铅板	stereotype
+凛凛	stern
+服务员	steward
+空中小姐	stewardess
+黏	sticky
+僵硬	stiff
+变硬	stiffen
+还	still
+刺激物	stimulus
+蜇	sting
+轰动	stir
+缝	stitch
+股票	stock
+长袜	stocking
+石	stony
+凳	stool
+存储	storage
+店	store
+层	storey
+风暴	storm
+暴风雨	stormy
+直行	straight
+弄直	straighten
+应变	strain
+奇怪	strange
+陌生人	stranger
+背带	strap
+战略	strategic
+战略	strategy
+稻草	straw
+草莓	strawberry
+条纹	streak
+街头	street
+实力	strength
+加强	strengthen
+应力	stress
+严格	strict
+严格	strictly
+引人注目	striking
+串	string
+跳闸	strip
+条纹	stripe
+行程	stroke
+强	strong
+非常	strongly
+结构	structural
+结构体	structure
+斗争	struggle
+工作室	studio
+东东	stuff
+蹒跚	stumble
+笨	stupid
+STYPE	stype
+潜艇	submarine
+淹没	submerge
+提交	submit
+随后	subsequent
+补贴	subsidy
+大量	substantial
+实质上	substantially
+替代	substitute
+微妙	subtle
+市郊	suburb
+郊区的	suburban
+地铁	subway
+成功	successful
+顺利	successfully
+演替	succession
+连续	successive
+这样	such
+吮吸	suck
+突然	sudden
+突然	suddenly
+起诉	sue
+受	suffer
+痛苦	suffering
+充足	sufficient
+充分	sufficiently
+糖	sugar
+自杀	suicide
+合适	suitable
+套房	suite
+硫	sulphur
+总和	sum
+总结	summary
+夏	summer
+首脑会议	summit
+太阳	sun
+阳光	sunlight
+晴朗	sunny
+日出	sunrise
+日落	sunset
+阳光	sunshine
+超级	super
+浅	superficial
+优	superior
+超级市场	supermarket
+监	supervisor
+补充	supplement
+供应商	supplier
+供应	supply
+支持者	supporter
+支持	supportive
+假设	suppose
+假想的	supposed
+按说	supposedly
+肯定	sure
+定	surely
+外科医生	surgeon
+手术	surgery
+姓	surname
+惊	surprise
+诧异	surprised
+奇怪	surprising
+出奇	surprisingly
+投降	surrender
+环绕	surround
+周围	surrounding
+周围环境	surroundings
+监控	surveillance
+调查	survey
+生存	survival
+生存	survive
+幸存者	survivor
+疑似	suspect
+暂停	suspend
+可疑	suspicious
+支持	sustain
+可持续发展	sustainable
+吞	swallow
+沼泽	swamp
+天鹅	swan
+一群	swarm
+摇摆	sway
+发誓	swear
+汗	sweat
+毛线衣	sweater
+甜蜜	sweet
+迅速	swift
+泳	swimming
+剑	sword
+象征	symbolic
+有同情心	sympathetic
+症状	symptom
+综合征	syndrome
+合成的	synthetic
+系统性（AL）	systematic(al)
+表	table
+汤匙	tablespoon
+片剂	tablet
+滑车	tackle
+战术	tactic
+标签	tag
+尾	tail
+裁缝	tailor
+取	take
+故事	tale
+天赋	talent
+天才	talented
+谈话	talk
+高大	tall
+驯服	tame
+黄褐色	tan
+胶带	tape
+味道	taste
+纳税人	taxpayer
+教	teach
+教学	teaching
+球队	team
+队友	teammate
+撕	tear
+茶匙	teaspoon
+技术	technical
+技术员	technician
+技术性	technological
+乏味	tedious
+青少年	teen
+十几岁的	teenage
+青少年	teenager
+电报	telegram
+电报	telegraph
+电话	telephone
+望远镜	telescope
+电视	television
+告诉	tell
+脾气	temper
+温度	temperature
+寺庙	temple
+临时	temporary
+勾引	tempt
+诱惑	temptation
+十	ten
+房客	tenant
+投标	tender
+网球	tennis
+紧张	tense
+帐篷	tent
+术语	term
+终奌站	terminal
+术语	terms
+地形	terrain
+可怕	terrible
+可怕	terribly
+了不起	terrific
+恐怖	terror
+恐怖主义	terrorism
+恐怖分子	terrorist
+测试	test
+作证	testify
+证词	testimony
+测试	testing
+文本	text
+教科书	textbook
+纺织品	textile
+质地	texture
+比	than
+谢谢	thanks
+该	that
+该	the
+剧院	theater
+剧院	theatre
+他们的	their
+他们	them
+主题	theme
+他们自己	themselves
+神学	theological
+神学	theology
+理论	theoretical
+治疗师	therapist
+治疗	therapy
+那里	there
+因此	therefore
+温度计	thermometer
+这些	these
+他们	they
+厚	thick
+厚度	thickness
+贼	thief
+大腿	thigh
+瘦	thin
+思维	thinking
+第三	third
+渴	thirsty
+三十	thirty
+此	this
+刺	thorn
+彻底	thorough
+透	thoroughly
+那些	those
+虽然	though
+周到	thoughtful
+威胁	threaten
+三	three
+门槛	threshold
+颤抖	thrill
+宝座	throne
+人群	throng
+通过	through
+始终	throughout
+推力	thrust
+拇指	thumb
+雷声	thunder
+从而	thus
+蜱	tick
+整洁	tidy
+紧	tight
+紧缩	tighten
+紧紧	tightly
+瓦	tile
+直到	till
+木材	timber
+胆小	timid
+定时	timing
+锡	tin
+小	tiny
+轮胎	tire
+累	tired
+至	to
+烟草	tobacco
+今天	today
+脚趾	toe
+一起	together
+马桶	toilet
+收费	toll
+番茄	tomato
+墓	tomb
+明天	tomorrow
+吨	ton
+今晚	tonight
+牙齿	tooth
+最佳	top
+主题	topic
+激流	torrent
+乌龟	tortoise
+折腾	toss
+总	total
+完全	totally
+着陆	touchdown
+强硬	tough
+游	tour
+旅游	tourism
+游客	tourist
+比赛	tournament
+往	toward
+朝	towards
+毛巾	towel
+有毒的	toxic
+玩具	toy
+拖拉机	tractor
+贸易	trading
+传统	tradition
+传统	traditional
+传统	traditionally
+悲惨	tragic
+线索	trail
+拖车	trailer
+火车	train
+训练者	trainer
+特点	trait
+叛徒	traitor
+电车	tram
+流浪汉	tramp
+交易	transaction
+转让	transfer
+变压器	transformer
+晶体管	transistor
+过境	transit
+过渡	transition
+变速器	transmission
+发送	transmit
+透明	transparent
+运输	transport
+垃圾	trash
+创伤	trauma
+旅游	travel
+游客	traveler
+叛逆	treason
+宝	treasure
+治疗	treat
+树	tree
+颤抖	tremble
+巨大	tremendous
+趋势	trend
+审讯	trial
+三角形	triangle
+部落的	tribal
+部落	tribe
+招	trick
+琐事	trifle
+触发	trigger
+修剪	trim
+旅程	trip
+部队	troop
+热带	tropical
+麻烦	trouble
+麻烦的	troubled
+麻烦	troublesome
+裤子	trousers
+卡车	truck
+真	truly
+喇叭	trumpet
+真相	truth
+桶	tub
+掖	tuck
+学费	tuition
+下跌	tumble
+瘤	tumor
+调	tune
+涡轮	turbine
+汹涌	turbulent
+火鸡	turkey
+车削	turning
+芜菁	turnip
+导师	tutor
+第十二	twelfth
+十二	twelve
+第二十	twentieth
+二十	twenty
+两次	twice
+双胞胎	twin
+眨眼	twinkle
+两	two
+三分之二	two-thirds
+台风	typhoon
+典型	typical
+通常	typically
+打字员	typist
+轮胎	tyre
+丑陋	ugly
+呃	uh
+最终	ultimate
+最终	ultimately
+伞	umbrella
+无法	unable
+不堪忍受	unbearable
+不确定	uncertain
+不确定	uncertainty
+叔叔	uncle
+不舒服	uncomfortable
+昏迷	unconscious
+揭露	uncover
+下	under
+本科	undergraduate
+地下	underground
+强调	underline
+底层	underlying
+破坏	undermine
+下方	underneath
+了解	understand
+认识	understanding
+事业	undertaking
+复原	undo
+无疑	undoubtedly
+不安	uneasy
+失业	unemployment
+意外	unexpected
+不公平	unfair
+展开	unfold
+不幸	unfortunate
+可惜	unfortunately
+不快乐	unhappy
+制服	uniform
+联盟	union
+独特	unique
+团结	unite
+万能	universal
+宇宙	universe
+大学	university
+不公	unjust
+刻薄	unkind
+未知	unknown
+除非	unless
+不比	unlike
+不会	unlikely
+卸	unload
+不幸的	unlucky
+不必要	unnecessary
+不愉快	unpleasant
+史无前例	unprecedented
+差强人意	unsatisfactory
+不稳定	unstable
+不当	unsuitable
+直到	until
+异常	unusual
+异常	unusually
+不甘	unwilling
+最新	up-to-date
+更新	update
+上	upper
+直立	upright
+烦乱	upset
+倒挂	upside-down
+楼上	upstairs
+城市的	urban
+督促	urge
+急	urgent
+我们	us
+用法	usage
+使用	use
+旧	used
+有用	useful
+用户	user
+通常	usual
+平时	usually
+利用	utilize
+极	utmost
+绝对	utter
+空的	vacant
+假期	vacation
+疫苗	vaccine
+真空	vacuum
+模糊	vague
+徒然	vain
+有效	valid
+合法性	validity
+有价值	valuable
+值	value
+面包车	van
+消失	vanish
+虚荣	vanity
+汽	vapour
+变量	variable
+品种	variety
+各个	various
+变化	vary
+花瓶	vase
+广阔	vast
+蔬菜	vegetable
+车辆	vehicle
+面纱	veil
+速度	velocity
+丝绒	velvet
+供应商	vendor
+冒险	venture
+口头	verbal
+判决书	verdict
+确认	verify
+版本	version
+与	versus
+垂直	vertical
+船只	vessel
+背心	vest
+老将	veteran
+烦恼	vex
+通过	via
+颤动	vibrate
+振动	vibration
+副	vice
+受害者	victim
+获胜	victorious
+胜利	victory
+视频	video
+视图	view
+观众	viewer
+轰轰烈烈	vigorous
+村	village
+藤	vine
+醋	vinegar
+违反	violate
+违反	violation
+暴力	violent
+紫罗兰色	violet
+虚拟	virtual
+实质上	virtually
+病毒	virus
+可见	visible
+视力	vision
+访问	visit
+游客	visitor
+视觉	visual
+重要	vital
+维他命	vitamin
+生动	vivid
+声音的	vocal
+声音	voice
+火山	volcano
+排球	volleyball
+伏特	volt
+电压	voltage
+自主性	voluntary
+志愿者	volunteer
+选民	voter
+表决	voting
+航程	voyage
+对抗	vs
+弱势	vulnerable
+工资	wage
+车皮	waggon
+车皮	wagon
+腰	waist
+唤醒	waken
+走	walk
+步行	walking
+钱包	wallet
+漫步	wander
+仓库	warehouse
+温暖	warm
+热情	warmth
+警告	warn
+警告	warning
+战士	warrior
+看	watch
+瀑布	waterfall
+防水	waterproof
+波长	wavelength
+蜡	wax
+办法	way
+我们	we
+弱	weak
+削弱	weaken
+富裕	wealthy
+武器	weapon
+穿	wear
+厌倦	weary
+天气	weather
+编织	weave
+卷筒纸	web
+婚礼	wedding
+周	week
+周末	weekend
+周刊	weekly
+哭泣	weep
+称重	weigh
+重量	weight
+怪异	weird
+欢迎	welcome
+焊接	weld
+福利	welfare
+很好	well
+福利	well-being
+知名	well-known
+西	western
+湿	wet
+鲸鱼	whale
+什么	what
+随你	whatever
+小麦	wheat
+车轮	wheel
+轮椅	wheelchair
+每当	whenever
+哪里	where
+而	whereas
+哪里	wherever
+是否	whether
+哪	which
+而	whilst
+鞭	whip
+洄	whirl
+威士忌	whisky
+耳语	whisper
+哨	whistle
+白	white
+撇清	whitewash
+谁	who
+谁	whoever
+整个	whole
+全	wholly
+谁	whom
+谁的	whose
+为什么	why
+邪恶	wicked
+宽	wide
+广泛	widely
+扩大	widen
+普遍	widespread
+寡妇	widow
+妻子	wife
+野	wild
+荒野	wilderness
+野生动物	wildlife
+将	will
+愿	willing
+意愿	willingness
+葡萄酒	wine
+优胜者	winner
+冬季	winter
+擦拭	wipe
+线	wire
+无线	wireless
+明智	wise
+风趣	wit
+同	with
+撤	withdraw
+撤离	withdrawal
+内	within
+顶住	withstand
+见证	witness
+狼	wolf
+妇女	women
+怀疑	wonder
+精彩	wonderful
+木	wood
+木	wooden
+羊毛	woollen
+字	word
+工作的	working
+锻炼	workout
+职场	workplace
+作品	works
+作坊	workshop
+世界范围内的	world-wide
+全世界	worldwide
+蠕虫	worm
+担心	worried
+忧	worry
+更坏	worse
+值得	worth
+无用	worthless
+合算	worthwhile
+值得	worthy
+将会	would
+伤口	wound
+哇	wow
+花圈	wreath
+腕	wrist
+写作	writing
+书面	written
+码	yard
+打哈欠	yawn
+是啊	yeah
+年	year
+每年	yearly
+叫喊	yell
+黄	yellow
+是的	yes
+昨天	yesterday
+但	yet
+产量	yield
+你	you
+年轻	young
+少年	youngster
+您的	your
+你的	yours
+你自己	yourself
+青春的	youthful
+热情	zeal
+热心	zealous
+斑马	zebra
+区	zone

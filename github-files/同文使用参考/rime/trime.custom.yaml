@@ -1,0 +1,8 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime-JNI"
+  modified_time: "Fri Apr 20 16:44:09 2018"
+  rime_version: 1.2.9
+patch:    # 补丁开头(只能一个)
+  "style/color_scheme": modern_warfare

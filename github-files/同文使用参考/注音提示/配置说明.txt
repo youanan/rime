@@ -1,0 +1,15 @@
+# 把这些代码写入schema.yaml
+switches:
+  - name: pinyin_segestion
+    reset: 1
+    states: [ 音, 注 ]
+
+filters:
+    - simplifier@pinyin_switch
+
+pinyin_switch:
+  opencc_config: pinyin.json
+  option_name: pinyin_segestion
+  show_in_comment: true
+  excluded_types:  [ reverse_lookup ]
+  tips: all
