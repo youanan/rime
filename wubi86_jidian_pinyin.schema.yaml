@@ -11,17 +11,22 @@ schema:
     五笔字形 86 极点极爽版，方案由 KyleBing 修改 - 2019年11月08日 10:26
   dependencies:
     - pinyin_simp
-
+style:
+    canditade_font: syht-Light.otf
+    candidate_text_size: 14
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ 中文, 英文 ]
+    states: [ "中文", "英文" ]
   - name: full_shape
-    states: [ 半角, 全角 ]
-  - name: extended_charset
-    states: [ 常用, 扩展 ]
+    states: [ "半角", "全角" ]
+    #  - name: extended_charset
+  - name: samplification
+    states: [ "常用","繁体" ]
   - name: ascii_punct
-    states: [ 。，, ．， ]
+    states: [ "。，", ".," ]
+  - name: _hide_candidate
+    reset: 0
 
 engine:
   processors:

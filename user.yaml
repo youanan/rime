@@ -1,8 +1,11 @@
 var:
-  last_build_time: 1579332870
-  previously_selected_schema: wubi86_jidian_pinyin
+  last_build_time: 1582276565
+  option:
+    _hide_candidate: true
+    _hide_comment: false
+    _hide_key_hint: false
+    ascii_mode: false
+  previously_selected_schema: flypy
   schema_access_time:
-    wubi86: 1579332566
-    wubi86_jidian: 1579332558
-    wubi86_jidian_pinyin: 1579332755
-    zaoci_wubi86: 1579332721
+    flypy: 1572069905
+    flypyplus: 1572069855

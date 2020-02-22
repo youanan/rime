@@ -1,0 +1,25 @@
+# Rime schema
+# encoding: utf-8
+
+schame:
+  name: "游安五笔"
+  schame_id: ya001
+  author: youanan<youanan@163.com>
+  dependencies:
+    -pinyin
+  description: "测试新主题"
+  version: "0.0.1"
+
+switches:
+  - name: ascii_mode
+    rest: 0
+    states: ["中文","英文"]
+  - name: full_shape
+    states: ["半角","全角"]
+  - name: extended_charset
+    states: ["常用","扩展"]
+  - name: samplification
+    states: ["繁体","简体"]
+  - name: ascii_punct
+    states: ["，。",",."]
+  

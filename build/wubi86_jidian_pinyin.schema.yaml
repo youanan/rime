@@ -1,14 +1,10 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1579317475
-    default.custom: 1579332852
-    key_bindings: 1579317475
-    key_bindings.custom: 0
-    punctuation: 1579317475
-    punctuation.custom: 0
+    default: 1579693934
+    default.custom: 1579738793
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1579324022
+    wubi86_jidian_pinyin.schema: 1582276559
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -34,10 +30,6 @@ engine:
     - table_translator
 key_binder:
   bindings:
-    - {accept: semicolon, send: 2, when: has_menu}
-    - {accept: apostrophe, send: 3, when: has_menu}
-    - {accept: bracketleft, send: Page_Up, when: paging}
-    - {accept: bracketright, send: Page_Down, when: has_menu}
     - {accept: "Control+p", send: Up, when: composing}
     - {accept: "Control+n", send: Down, when: composing}
     - {accept: "Control+b", send: Left, when: composing}
@@ -51,22 +43,44 @@ key_binder:
     - {accept: "Control+bracketleft", send: Escape, when: composing}
     - {accept: "Alt+v", send: Page_Up, when: composing}
     - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+    - {accept: space, send: space, when: has_menu}
+    - {accept: space, send: Escape, when: composing}
+    - {accept: Tab, send: Escape, when: composing}
   import_preset: default
 menu:
-  page_size: 3
+  page_size: 5
 punctuator:
   full_shape:
     " ": {commit: "　"}
     "!": {commit: "！"}
     "\"": {pair: ["“", "”"]}
     "#": ["＃", "⌘"]
-    "$": "￥"
-    "%": "％"
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
     "&": "＆"
     "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
-    "*": ["＊", "・", "×"]
+    "*": ["＊", "·", "・", "×", "※", "❂"]
     "+": "＋"
     ",": {commit: "，"}
     "-": "－"
@@ -78,7 +92,7 @@ punctuator:
     "=": "＝"
     ">": ["》", "〉", "»", "›"]
     "?": {commit: "？"}
-    "@": "＠"
+    "@": ["＠", "☯"]
     "[": ["「", "【", "〔", "［"]
     "\\": ["、", "＼"]
     "]": ["」", "】", "〕", "］"]
@@ -93,13 +107,13 @@ punctuator:
     "!": {commit: "！"}
     "\"": {pair: ["“", "”"]}
     "#": "#"
-    "$": "￥"
-    "%": ["%", "％", "°", "℃"]
+    "$": {commit: "$"}
+    "%": {commit: "%"}
     "&": "&"
     "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
-    "*": ["*", "・", "×"]
+    "*": {commit: "*"}
     "+": "+"
     ",": {commit: "，"}
     "-": "-"
@@ -111,25 +125,24 @@ punctuator:
     "=": "="
     ">": {commit: "》"}
     "?": {commit: "？"}
-    "@": "@"
+    "@": ["@", "@qq.com"]
     "[": {commit: "【"}
     "\\": {commit: "、"}
     "]": {commit: "】"}
     "^": {commit: "……"}
     _: "——"
     "`": "`"
-    "{": "『"
-    "|": "|"
-    "}": "』"
-    "~": "~"
+    "{": {commit: "｛"}
+    "|": ["·", "|", "｜", "§", "¦"]
+    "}": {commit: "｝"}
+    "~": {commit: "～"}
   import_preset: default
 recognizer:
   import_preset: default
   patterns:
-    email: "^[-_.0-9A-Za-z]*@.*$"
+    punct: ""
     reverse_lookup: "`[a-z]*'?$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 reverse_lookup:
   dictionary: pinyin_simp
   preedit_format:
@@ -153,16 +166,21 @@ schema:
   version: 0.9
 speller:
   delimiter: " ;'"
+style:
+  candidate_text_size: 14
+  canditade_font: "syht-Light.otf"
 switches:
   - name: ascii_mode
     reset: 0
     states: ["中文", "英文"]
   - name: full_shape
     states: ["半角", "全角"]
-  - name: extended_charset
-    states: ["常用", "扩展"]
+  - name: samplification
+    states: ["常用", "繁体"]
   - name: ascii_punct
-    states: ["。，", "．，"]
+    states: ["。，", ".,"]
+  - name: _hide_candidate
+    reset: 0
 translator:
   db_class: tabledb
   dictionary: wubi86_jidian

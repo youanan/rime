@@ -1,0 +1,23 @@
+# Trime default style settings
+# encoding: utf-8
+config_version: "for小鹤高飞4.3"
+name: 芬芳高飞
+#本主题依附于小鹤高飞主题使用
+#本主题作用：恢复分号次选功能。另需启用flypy_top.txt文件内的冒号编码
+author: 散步的鹤 flypy.com#作者资讯
+style:
+  __include: 小鹤高飞.trime:/style
+android_keys:
+  __include: 小鹤高飞.trime:/android_keys
+preset_keys:
+  __include: 小鹤高飞.trime:/preset_keys
+fallback_colors:
+  __include: 小鹤高飞.trime:/fallback_colors
+preset_color_schemes:
+  __include: 小鹤高飞.trime:/preset_color_schemes
+preset_keyboards:
+  __include: 小鹤高飞.trime:/preset_keyboards
+  default:
+    __include: 小鹤高飞.trime:/preset_keyboards/default
+    __patch:
+        "keys/@33/composing": 

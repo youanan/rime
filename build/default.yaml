@@ -1,27 +1,21 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1579317475
-    default.custom: 1579332852
-    key_bindings: 1579317475
-    key_bindings.custom: 0
-    punctuation: 1579317475
-    punctuation.custom: 0
+    default: 1579693934
+    default.custom: 1579738793
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
-    Caps_Lock: commit_code
+    Caps_Lock: Escape
     Control_L: noop
     Control_R: noop
+    Eisu_toggle: clear
     Shift_L: commit_code
-    Shift_R: commit_code
-config_version: 0.40
+    Shift_R: Shift_L
+config_version: 0.36.custom.3391806683
+customization: 3391806683
 key_binder:
   bindings:
-    - {accept: semicolon, send: 2, when: has_menu}
-    - {accept: apostrophe, send: 3, when: has_menu}
-    - {accept: bracketleft, send: Page_Up, when: paging}
-    - {accept: bracketright, send: Page_Down, when: has_menu}
     - {accept: "Control+p", send: Up, when: composing}
     - {accept: "Control+n", send: Down, when: composing}
     - {accept: "Control+b", send: Left, when: composing}
@@ -35,21 +29,43 @@ key_binder:
     - {accept: "Control+bracketleft", send: Escape, when: composing}
     - {accept: "Alt+v", send: Page_Up, when: composing}
     - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+    - {accept: space, send: space, when: has_menu}
+    - {accept: space, send: Escape, when: composing}
+    - {accept: Tab, send: Escape, when: composing}
 menu:
-  page_size: 3
+  page_size: 5
 punctuator:
   full_shape:
     " ": {commit: "　"}
     "!": {commit: "！"}
     "\"": {pair: ["“", "”"]}
     "#": ["＃", "⌘"]
-    "$": "￥"
-    "%": "％"
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
     "&": "＆"
     "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
-    "*": ["＊", "・", "×"]
+    "*": ["＊", "·", "・", "×", "※", "❂"]
     "+": "＋"
     ",": {commit: "，"}
     "-": "－"
@@ -61,7 +77,7 @@ punctuator:
     "=": "＝"
     ">": ["》", "〉", "»", "›"]
     "?": {commit: "？"}
-    "@": "＠"
+    "@": ["＠", "☯"]
     "[": ["「", "【", "〔", "［"]
     "\\": ["、", "＼"]
     "]": ["」", "】", "〕", "］"]
@@ -76,13 +92,13 @@ punctuator:
     "!": {commit: "！"}
     "\"": {pair: ["“", "”"]}
     "#": "#"
-    "$": "￥"
-    "%": ["%", "％", "°", "℃"]
+    "$": {commit: "$"}
+    "%": {commit: "%"}
     "&": "&"
     "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
-    "*": ["*", "・", "×"]
+    "*": {commit: "*"}
     "+": "+"
     ",": {commit: "，"}
     "-": "-"
@@ -94,31 +110,32 @@ punctuator:
     "=": "="
     ">": {commit: "》"}
     "?": {commit: "？"}
-    "@": "@"
+    "@": ["@", "@qq.com"]
     "[": {commit: "【"}
     "\\": {commit: "、"}
     "]": {commit: "】"}
     "^": {commit: "……"}
     _: "——"
     "`": "`"
-    "{": "『"
-    "|": "|"
-    "}": "』"
-    "~": "~"
+    "{": {commit: "｛"}
+    "|": ["·", "|", "｜", "§", "¦"]
+    "}": {commit: "｝"}
+    "~": {commit: "～"}
 recognizer:
   patterns:
-    email: "^[-_.0-9A-Za-z]*@.*$"
+    punct: ""
+    reverse_lookup: "[a-z`]*`+[a-z`]*"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
-  - schema: pinyin_simp
-  - schema: wubi86_jidian
   - schema: wubi86_jidian_pinyin
-  - schema: wubi86_jidian_trad
-  - schema: zaoci_wubi86
 switcher:
-  abbreviate_options: true
-  caption: "【 输入法设置 】"
+  caption: "切换输入法"
   hotkeys:
-    - "Control+0"
-  option_list_separator: "｜"
+    - "Control+grave"
+    - "Control+Shift+grave"
+    - F4
+  save_options:
+    - ascii_mode
+    - _hide_key_hint
+    - _hide_candidate
+    - _hide_comment
