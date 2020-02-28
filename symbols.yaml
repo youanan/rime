@@ -3,11 +3,12 @@
 #
 # Usage: patch your Rime schema to enable /X symbols
 
+
 config_version: '1.3'
 
-patch:
-  punctuator/import_preset: symbols
-  recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$'
+#patch:
+#  punctuator/import_preset: symbols
+#  recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 punctuator:
   full_shape:

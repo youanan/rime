@@ -63,13 +63,58 @@ style:
   key_long_text_size: 18 #长标签字号
   key_text_size: 24 #键字号
   key_width: 10.0 #键宽，占屏幕宽的百分比
-  keyboards: [.default, default, number, symbols, edit, move, bqrw1, bqrw2, bqrw3, bqrw4, bqrw5, bqqt1, bqqt2, bqqt3, bqqt4, bqqz1, bqqz2, bqqz3, bqqz4, bqqz5, bqpt1, bqpt2, bqhd1, bqhd2, bqhc1, bqhc2, bqlx1, bqlx2, bqlx3, bqlx4, bqlx5, bqkj1, bqkj2, bqkj3, bqkj4, bqfh1, bqfh2, bqfh3, bqfh4, kao_fond, kao_sad, kao_mad, kao_astonished, kao_impotent, kao_happy] #键盘配置
+  keyboards: #键盘配置
+    - .default
+    - default
+    - number
+    - symbols
+    - edit
+    - move
+    - bqrw1
+    - bqrw2
+    - bqrw3
+    - bqrw4
+    - bqrw5
+    - bqqt1
+    - bqqt2
+    - bqqt3
+    - bqqt4
+    - bqqz1
+    - bqqz2
+    - bqqz3
+    - bqqz4
+    - bqqz5
+    - bqpt1
+    - bqpt2
+    - bqhd1
+    - bqhd2
+    - bqhc1
+    - bqhc2
+    - bqlx1
+    - bqlx2
+    - bqlx3
+    - bqlx4
+    - bqlx5
+    - bqkj1
+    - bqkj2
+    - bqkj3
+    - bqkj4
+    - bqfh1
+    - bqfh2
+    - bqfh3
+    - bqfh4
+    - kao_fond
+    - kao_sad
+    - kao_mad
+    - kao_astonished
+    - kao_impotent
+    - kao_happy
+    - symbols1
   label_text_size: 22 #标签字号
   label_font: label.ttf #编标签字体
   latin_font: latin.ttf #西文本体
   latin_locale: en_US #西文语言
   locale: zh_CN #缺省语言 zh_TW,zh_CN,zh_HK,""
-  longpress_timeout: 150 #按键超过800毫秒即为长按
   multitap_interval: 400 #800毫秒内快速按两次键
   preview_font: latin.ttf #按键提示字体
   preview_height: 56 #按键提示高度
@@ -215,8 +260,8 @@ preset_keyboards:
       - {click: s, long_click: '@', key_back_color: bh2, key_text_color: th2}
       - {click: d, long_click: '#', key_back_color: bh2, key_text_color: th2}
       - {click: f, long_click: '$', key_back_color: bh2, key_text_color: th2}
-      - {click: g, long_click: '%', swipe_down: "date_time", key_back_color: bh2, key_text_color: th2}
-      - {click: h, long_click: '!', swipe_down: "+", key_back_color: bh2, key_text_color: th2}
+      - {click: g, long_click: '%', key_back_color: bh2, key_text_color: th2}
+      - {click: h, long_click: '!', key_back_color: bh2, key_text_color: th2}
       - {click: j, long_click: '&', swipe_down: "-", key_back_color: bh2, key_text_color: th2}
       - {click: k, long_click: '*', swipe_down: "_", key_back_color: bh2, key_text_color: th2}
       - {click: l, long_click: '(){Left}', swipe_down: "=", key_back_color: bh2, key_text_color: th2}
@@ -233,9 +278,9 @@ preset_keyboards:
       - {click: BackSpace, width: 15, key_back_color: bbs, key_text_color: tbs}
 
       - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
-      - {click: Keyboard_bqrw, long_click: Theme_settings, width: 12.5, key_back_color: bgn, key_text_color: tgn}
+      - {click: Keyboard_symbols1, long_click: Theme_settings, width: 12.5, key_back_color: bgn, key_text_color: tgn}
       - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4}
-      - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg}
+      - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: date_time, width: 30, key_back_color: bkg, key_text_color: tkg}
       - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4}
       - {click: Return, swipe_up: Escape, width: 25, key_back_color: benter, key_text_color: tenter}
 
@@ -291,7 +336,7 @@ preset_keyboards:
       - {label: '🔶', click: Keyboard_bqqt1, width: 10, key_back_color: bgn, key_text_color: tgn}
       - {label: '🇨🇳', click: Keyboard_bqqz1, width: 10, key_back_color: bgn, key_text_color: tgn}
       - {label: '#!?', click: Keyboard_bqfh1, width: 10, key_back_color: bgn, key_text_color: tgn}
-      - {label: '更多', click: Keyboard_symbols, width: 10, key_text_size: "14", key_back_color: benter, key_text_color: tenter}
+      - {label: '常用', click: Keyboard_symbols1, width: 10, key_text_size: "14", key_back_color: benter, key_text_color: tenter}
 
       - {click: 符号, long_click: 一, key_text_size: "16"}
       - {click: 电脑, long_click: 二, key_text_size: "16"}
@@ -327,6 +372,11 @@ preset_keyboards:
       - {click: '备用', composing: Right, width: 16, key_back_color: bgn, key_text_color: tgn}
       - {label: '123', click: Keyboard_number, long_click: Schema_switchen, composing: Page_Up, width: 16, key_back_color: bgn, key_text_color: tgn}
       - {click: Keyboard_default, long_click: Menu, composing: Page_Down, width: 16, key_back_color: benter, key_text_color: tenter}
+  symbols1:
+    ascii_mode: 0
+    author: "依云"
+    height: 30
+    keys: [{click: Keyboard_bqrw1, height: 26, key_back_color: bgn, key_text_color: tgn, label: "🙂"}, {click: Keyboard_bqhc1, key_back_color: bgn, key_text_color: tgn, label: "🌼"}, {click: Keyboard_bqpt1, key_back_color: bgn, key_text_color: tgn, label: "🎂"}, {click: Keyboard_bqlx1, key_back_color: bgn, key_text_color: tgn, label: "🚖"}, {click: Keyboard_bqhd1, key_back_color: bgn, key_text_color: tgn, label: "🎉"}, {click: Keyboard_bqkj1, key_back_color: bgn, key_text_color: tgn, label: "🔌"}, {click: Keyboard_bqqt1, key_back_color: bgn, key_text_color: tgn, label: "🔶"}, {click: Keyboard_bqqz1, key_back_color: bgn, key_text_color: tgn, label: "🇨🇳"}, {click: Return, key_back_color: bgn, key_text_color: tgn, key_text_size: 14, label: "回车"}, {click: Keyboard_bqfh1, label: "下"}, {click: "，"}, {click: "。"}, {click: "？"}, {click: "！"}, {click: "："}, {click: "；"}, {click: "、"}, {click: "……"}, {click: "——"}, {click: "～"}, {click: "“”{Left}"}, {click: "‘’{Left}"}, {click: "「」{Left}"}, {click: "『』{Left}"}, {click: "（）{Left}"}, {click: "《》{Left}"}, {click: "￥"}, {click: "·"}, {click: "？"}, {click: "！"}, {click: "+"}, {click: "-"}, {click: "*"}, {click: "/"}, {click: "="}, {click: "&"}, {click: "#"}, {click: "|"}, {click: "\\"}, {click: _}, {click: "`"}, {click: "~"}, {click: "'"}, {click: "\""}, {click: "?"}, {click: "!"}, {click: "(){Left}"}, {click: "{}{Left}"}, {click: "<>{Left}"}, {click: "[]{Left}"}, {click: Keyboard_default, key_back_color: benter, key_text_color: tenter, key_text_size: 14}, {click: ","}, {click: .}, {click: ":"}, {click: ";"}, {click: "^"}, {click: "@"}, {click: "%"}, {click: "$"}, {click: BackSpace, key_back_color: benter, key_text_color: tenter, key_text_size: 14}]
 
   bqrw1:
     author: "风花絮"
@@ -2903,7 +2953,15 @@ android_keys:
     TV_INPUT_COMPOSITE_1, TV_INPUT_COMPOSITE_2, TV_INPUT_COMPONENT_1, TV_INPUT_COMPONENT_2, TV_INPUT_VGA_1,
     TV_AUDIO_DESCRIPTION, TV_AUDIO_DESCRIPTION_MIX_UP, TV_AUDIO_DESCRIPTION_MIX_DOWN,
     TV_ZOOM_MODE, TV_CONTENTS_MENU, TV_MEDIA_CONTEXT_MENU, TV_TIMER_PROGRAMMING,
-    Help, NAVIGATE_PREVIOUS, NAVIGATE_NEXT, NAVIGATE_IN, NAVIGATE_OUT, asciicircum, question, exclam, ampersand, less, greater, percent, semicolon]
+    Help, NAVIGATE_PREVIOUS, NAVIGATE_NEXT, NAVIGATE_IN, NAVIGATE_OUT,
+    STEM_PRIMARY, STEM_1, STEM_2, STEM_3,
+    Pointer_UpLeft, Pointer_DownLeft, Pointer_UpRight, Pointer_DownRight,
+    MEDIA_SKIP_FORWARD, MEDIA_SKIP_BACKWARD, MEDIA_STEP_FORWARD, MEDIA_STEP_BACKWARD,
+    SOFT_SLEEP, CUT, COPY, PASTE,
+    SYSTEM_NAVIGATION_UP, SYSTEM_NAVIGATION_DOWN, SYSTEM_NAVIGATION_LEFT, SYSTEM_NAVIGATION_RIGHT,
+    A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z,
+    exclam, quotedbl, dollar, percent, ampersand, colon, less, greater, question, asciicircum, underscore, braceleft, bar, braceright, asciitilde]
+  symbols: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ!"$%&:<>?^_{|}~'
   when:
     ascii: 西文标签
     paging: 翻页标签
@@ -3003,6 +3061,11 @@ preset_keys:
   Keyboard_switch: {label: 键盘, functional: true, send: Eisu_toggle, select: .next}
   Keyboard_number: {label: 123, functional: false, send: Eisu_toggle, select: number}
   Keyboard_symbols: {label: 更多, functional: false, send: Eisu_toggle, select: symbols}
+  Keyboard_symbols1:
+    functional: false
+    label: "✡"
+    select: symbols1
+    send: Eisu_toggle
   Keyboard_move: {label: ❖, functional: true, send: Eisu_toggle, select: move}
   Keyboard_last: {label: 后退, functional: false, send: Eisu_toggle, select: .next}
   Schema_switch: {label: 下一方案, functional: false, send: Control+Shift+1}

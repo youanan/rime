@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1579693934
-    default.custom: 1579738793
+    default: 1582464996
+    default.custom: 1582874275
 ascii_composer:
   good_old_caps_lock: true
   switch_key:

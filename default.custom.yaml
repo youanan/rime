@@ -2,7 +2,7 @@ customization:
   distribution_code_name: ""
   distribution_version: ""
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Jan 23 08:19:53 2020"
+  modified_time: "Fri Feb 28 15:17:55 2020"
   rime_version: 1.5.3
 patch:
   schema_list:

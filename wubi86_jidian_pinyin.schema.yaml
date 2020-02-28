@@ -23,6 +23,9 @@ switches:
     #  - name: extended_charset
   - name: samplification
     states: [ "常用","繁体" ]
+  - name: emoji_cn
+    reset: 1
+    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
   - name: ascii_punct
     states: [ "。，", ".," ]
   - name: _hide_candidate
@@ -48,10 +51,17 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+  filters:
+    - simplifier
+    - simplifier@emoji_cn
+
+recongnizer:
+     patterns:
+          punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 speller:
   delimiter: " ;'"
-  #max_code_length: 4  # 四碼頂字上屏
+  #  max_code_length: 4  # 四碼頂字上屏
 
 translator:
   dictionary: wubi86_jidian             # 翻译器将调取此字典文件
@@ -60,7 +70,7 @@ translator:
 
 
   # 开启自动造词相关设置
-  enable_sentence: false                # 是否开启自动造词
+  enable_sentence: true                # 是否开启自动造词
   enable_user_dict: false               # 是否开启用户词典（用户词典记录动态字词频，用户词）
   enable_encoder: true                  # 自动造词
   encode_commit_history: false          # 是否对已上屏的词自动造词
@@ -85,7 +95,13 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
 
 punctuator:
-  import_preset: default
+  #import_preset: default
+  import_preset: symbols
+
+emoji_cn:
+    opencc_config: emoji.json
+    option_name: emoji_cn
+    tips: all
 
 key_binder:
   import_preset: default

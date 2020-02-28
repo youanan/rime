@@ -1,11 +1,11 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1579693934
-    default.custom: 1579738793
+    default: 1582464996
+    default.custom: 1582874275
     pinyin_simp.custom: 0
-    pinyin_simp.schema: 1579324022
-    symbols: 1579317475
+    pinyin_simp.schema: 1559350350
+    symbols: 1582892449
     symbols.custom: 0
 engine:
   processors:
@@ -360,7 +360,7 @@ schema:
   description: |
     源自 Android 拼音
     
-  name: "简体拼音"
+  name: "拼音简体"
   schema_id: pinyin_simp
   version: 0.8
 speller:
@@ -372,21 +372,14 @@ speller:
     - "derive/un$/uen/"
     - "derive/ui$/uei/"
     - "derive/iu$/iou/"
-    - "derive/([aeiou])ng$/$1gn/"
     - "derive/([dtngkhrzcs])o(u|ng)$/$1o/"
     - "derive/ong$/on/"
-    - "derive/ao$/oa/"
-    - "derive/([iu])a(o|ng?)$/a$1$2/"
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
 switches:
   - name: ascii_mode
     reset: 0
     states: ["中文", "西文"]
-  - name: full_shape
-    states: ["半角", "全角"]
-  - name: ascii_punct
-    states: ["。，", "．，"]
 translator:
   dictionary: pinyin_simp
   preedit_format:

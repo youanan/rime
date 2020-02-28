@@ -5,8 +5,7 @@ config_version: 0.36.custom.3391806683
 customization: 3391806683
 
 schema_list:
-  - schema: flypy
-  - schema: flypyplus
+  - schema: wubi86_jidian_pinyin
 switcher:
   caption: "切换输入法"
   hotkeys:

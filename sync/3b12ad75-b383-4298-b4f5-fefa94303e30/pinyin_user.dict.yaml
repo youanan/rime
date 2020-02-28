@@ -1,0 +1,24 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# A minimal Pinyin dictionary for simplified Chinese script
+#
+# Derived from android open source project:
+# http://android.git.kernel.org/?p=platform/packages/inputmethods/PinyinIME.git
+#
+
+---
+name: pinyin_user
+version: "0.1"
+sort: by_weight
+...
+
+荸	bi	1
+荸	pu	1
+荠	qi	1
+荸荠	pu qi	1
+荸荠	bi qi	1
+洑	fu	2
+洑水	fu shui	 2
+洑水	fushui	 2
+

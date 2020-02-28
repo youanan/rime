@@ -1,0 +1,10 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Feb 26 17:24:42 2020"
+  rime_version: 1.5.3
+patch:
+  schema_list:
+    - {schema: pinyin_simp}
+    - {schema: wubi86_jidian_pinyin}

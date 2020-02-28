@@ -4,6 +4,7 @@ version: "2019-01-20"
 last_edit_time: "2019-02-28"
 
 sort: original
+#vim set:noexpandtab
 # 码表的排序方式
   # by_weight 权重
   # original 原始顺序
@@ -20,3 +21,11 @@ sort: original
 
 游安	iypv
 安陆	pvbf
+荸荠	afay
+荸荠	puqi
+荸	pu
+荠	qi
+面食	dmwy
+洑水	iwii
+洑水	fushui
+
