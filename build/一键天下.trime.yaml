@@ -3,7 +3,7 @@ __build_info:
   timestamps:
     trime: 1579701331
     trime.custom: 0
-    "一键天下.trime": 1582929694
+    "一键天下.trime": 1582938579
     "一键天下.trime.custom": 0
 android_keys:
   action:
@@ -1057,7 +1057,7 @@ preset_keyboards:
     ascii_mode: 0
     author: "youanan<youanan@163.com>"
     height: 44
-    keys: [{click: 1, long_click: "!", swipee_down: Candidate_switch}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")", swipe_down: Hide}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}"}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, width: 15}, {click: Keyboard_num20key, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, long_click: Deploy, width: 12}, {click: ",", long_click: ";", width: 10}, {click: space, key_text_size: 10, long_click: VOICE_ASSIST, width: 26}, {click: ., long_click: ":", width: 10}, {click: Mode_switch, long_click: Menu, width: 12}, {click: Return, long_click: Color_switch, width: 15}]
+    keys: [{click: 1, long_click: "!", swipee_down: Candidate_switch}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")", swipe_down: Hide}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}"}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: Page_Up, long_click: Deploy, width: 12}, {click: ",", has_menu: Page_Down, long_click: ";", width: 10}, {click: space, key_text_size: 10, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: select_next, long_click: ":", width: 10}, {click: Mode_switch, has_menu: select_third, long_click: Menu, width: 12}, {click: Return, long_click: Color_switch, width: 15}]
     lock: true
     name: mian_45key
     width: 10
@@ -1387,6 +1387,12 @@ preset_keys:
   select_all:
     label: "全選"
     send: "Control+a"
+  select_next:
+    label: ">2"
+    send: 2
+  select_third:
+    label: ">3"
+    send: 3
   share_text:
     label: "分享文本"
     send: "Control+Alt+s"

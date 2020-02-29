@@ -72,6 +72,8 @@ preset_keys:
     space: {repeatable: false, functional: false, preview: " ", long_click: Right, swipe_left: Left, send: space }
     Escape: {label: "空格", send: space}
     BackSpace: {label: ⌫ , repeatable: true, send: BackSpace}
+    select_next: {label: ">2",send: 2}
+    select_third: {label: ">3",send: 3}
     Return: {label: "Enter", send: Return}
     Keyboard_num20key: {label: 数字, send: Eisu_toggle, select: num20key}
     Keyboard_symkey: {label: 符号, send: Eisu_toggle, select: symkey_1}
@@ -137,14 +139,14 @@ preset_keyboards:
       - {click: 'b', long_click: '/'}
       - {click: 'n', long_click: "\\"}
       - {click: 'm', long_click: "?"}
-      - {click: BackSpace, width: 15}
+      - {click: BackSpace, width: 15,swipe_up: Delete}
       # 5
       - {click: Keyboard_num20key, long_click: IME_switch, width: 15}
-      - {click: Keyboard_symkey, long_click: Deploy,  width: 12 }
-      - {click: ',', long_click: ";", width: 10}
-      - {click: space,long_click: VOICE_ASSIST,width: 26, key_text_size: 10}
-      - {click: ".", long_click: ":", width: 10}
-      - {click: Mode_switch, long_click: Menu, width: 12 }
+      - {click: Keyboard_symkey, long_click: Deploy,  width: 12 ,has_menu: Page_Up}
+      - {click: ',', long_click: ";", width: 10,has_menu: Page_Down}
+      - {click: space,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
+      - {click: ".", long_click: ":", width: 10,has_menu: select_next}
+      - {click: Mode_switch, long_click: Menu, width: 12 ,has_menu: select_third}
       - {click: Return, long_click: Color_switch, width: 15}
   
 
