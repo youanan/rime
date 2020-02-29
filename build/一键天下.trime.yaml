@@ -3,7 +3,7 @@ __build_info:
   timestamps:
     trime: 1579701331
     trime.custom: 0
-    "一键天下.trime": 1582938579
+    "一键天下.trime": 1582966404
     "一键天下.trime.custom": 0
 android_keys:
   action:
@@ -369,7 +369,7 @@ android_keys:
     swipe_left: "左滑"
     swipe_right: "右滑"
     swipe_up: "上滑"
-author: youan
+author: "youanan<youanan@163.com>"
 config_version: v1.0
 fallback_colors:
   border_color: back_color
@@ -955,7 +955,7 @@ preset_keyboards:
     width: 10
   num20key:
     author: "youanan <youanan@163.com>"
-    height: 54
+    height: 57
     keys: [{click: "+"}, {click: 1, long_click: "("}, {click: 2}, {click: 3, long_click: ")"}, {click: BackSpace}, {click: "-"}, {click: 4, long_click: "["}, {click: 5}, {click: 6, long_click: "]"}, {click: Escape}, {click: "*"}, {click: 7, long_click: "{"}, {click: 8}, {click: 9, long_click: "}"}, {click: Return}, {click: "/"}, {click: ",", long_click: "@"}, {click: 0, long_click: "%"}, {click: ., long_click: .com}, {click: Keyboard_default}]
     name: num20key
     width: 20
@@ -1057,7 +1057,7 @@ preset_keyboards:
     ascii_mode: 0
     author: "youanan<youanan@163.com>"
     height: 44
-    keys: [{click: 1, long_click: "!", swipee_down: Candidate_switch}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")", swipe_down: Hide}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}"}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: Page_Up, long_click: Deploy, width: 12}, {click: ",", has_menu: Page_Down, long_click: ";", width: 10}, {click: space, key_text_size: 10, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: select_next, long_click: ":", width: 10}, {click: Mode_switch, has_menu: select_third, long_click: Menu, width: 12}, {click: Return, long_click: Color_switch, width: 15}]
+    keys: [{click: 1, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")", swipe_up: Candidate_switch}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}", swipe_down: Hide}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, has_menu: Esc1, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: Page_Up, long_click: Deploy, width: 12}, {click: ",", has_menu: Page_Down, long_click: ";", width: 10}, {click: space, key_text_size: 10, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: select_next, long_click: ":", width: 10}, {click: Mode_switch, has_menu: select_third, long_click: Candidate_switch, width: 12}, {click: Return, long_click: Color_switch, width: 15}]
     lock: true
     name: mian_45key
     width: 10
@@ -1089,8 +1089,9 @@ preset_keys:
     label: "電話簿"
     send: CONTACTS
   Candidate_switch:
+    label: "候选"
     send: Mode_switch
-    states: ["有候選", "無候選"]
+    states: ["显示", "隐藏"]
     toggle: _hide_candidate
   Charset_switch:
     send: Mode_switch
@@ -1152,6 +1153,9 @@ preset_keys:
   End:
     label: "行尾"
     send: End
+  Esc1:
+    label: Esc
+    send: Escpace
   Escape:
     label: "空格"
     send: space
@@ -1265,10 +1269,10 @@ preset_keys:
     label: "電源"
     send: POWER
   Page_Down:
-    label: "下頁"
+    label: "☛"
     send: Page_Down
   Page_Up:
-    label: "上頁"
+    label: "☚"
     send: Page_Up
   Punct_switch:
     send: Mode_switch
@@ -1388,10 +1392,10 @@ preset_keys:
     label: "全選"
     send: "Control+a"
   select_next:
-    label: ">2"
+    label: "❷"
     send: 2
   select_third:
-    label: ">3"
+    label: "❸"
     send: 3
   share_text:
     label: "分享文本"
@@ -1428,7 +1432,7 @@ style:
   candidate_font: "syht-Normal.otf"
   candidate_padding: 5
   candidate_spacing: 0.5
-  candidate_text_size: 20
+  candidate_text_size: 14
   candidate_use_cursor: true
   candidate_view_height: 28
   color_scheme: default
@@ -1447,8 +1451,6 @@ style:
   keyboards:
     - .default
     - default
-    - symbols
-    - qwerty
     - main_45key
     - num20key
     - symkey_1
@@ -1461,7 +1463,7 @@ style:
   latin_locale: en_US
   layout:
     all_phrases: false
-    alpha: 0xdd
+    alpha: 0xff
     background: background.png
     border: 0
     elevation: 8
@@ -1499,5 +1501,6 @@ style:
   vertical_correction: "-10"
   vertical_gap: 8
   window:
+    - {end: "", move: "💖 ", start: ""}
     - {composition: "%s", end: "", letter_spacing: 0.12, start: ""}
     - {candidate: "%s", comment: "%s", label: "%s:", sep: "☁️️"}

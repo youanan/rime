@@ -11,9 +11,6 @@ schema:
     五笔字形 86 极点极爽版，方案由 KyleBing 修改 - 2019年11月08日 10:26
   dependencies:
     - pinyin_simp
-style:
-    canditade_font: syht-Light.otf
-    candidate_text_size: 14
 switches:
   - name: ascii_mode
     reset: 0
@@ -21,15 +18,18 @@ switches:
   - name: full_shape
     states: [ "半角", "全角" ]
     #  - name: extended_charset
-  - name: samplification
-    states: [ "常用","繁体" ]
+    #  - name: samplification
+    #states: [ "常用","繁体" ]
   - name: emoji_cn
     reset: 1
-    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+    states: [ "☹", "😁" ]
+  - name: CnEnglish
+    reset: 0
+    states: [ "  cn   ", "  en  " ]
   - name: ascii_punct
     states: [ "。，", ".," ]
   - name: _hide_candidate
-    reset: 0
+    reset: 1
 
 engine:
   processors:
@@ -54,6 +54,7 @@ engine:
   filters:
     - simplifier
     - simplifier@emoji_cn
+    - simplifier@CnEnglish
 
 recongnizer:
      patterns:
@@ -101,6 +102,11 @@ punctuator:
 emoji_cn:
     opencc_config: emoji.json
     option_name: emoji_cn
+    tips: all
+
+CnEnglish:
+    opencc_config: CnEnglish.json
+    option_name: CnEnglish
     tips: all
 
 key_binder:
