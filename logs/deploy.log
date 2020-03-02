@@ -1,544 +1,536 @@
 --------- beginning of main
-[ 03-02 08:38:59.645 27765:27986 I/Rime-JNI ]
-finalize...
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-java.lang.RuntimeException: full_check true
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at com.osfans.trime.Rime.get(Unknown Source:24)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at com.osfans.trime.j.b(Unknown Source:4)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at com.osfans.trime.Pref$TrimePreferenceFragment$d.a(Unknown Source:14)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at com.osfans.trime.Pref$TrimePreferenceFragment$d.doInBackground(Unknown Source:2)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at android.os.AsyncTask$2.call(AsyncTask.java:333)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:245)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1162)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:636)
-
-[ 03-02 08:38:59.646 27765:27986 W/System.err ]
-	at java.lang.Thread.run(Thread.java:764)
-
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/core_module.cc:20 registering core components.
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: config_builder
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: config
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: schema
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: user_config
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/dict_module.cc:25 registering components from module 'dict'.
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: tabledb
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: stabledb
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: plain_userdb
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: userdb
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: corrector
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: dictionary
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: reverse_lookup_dictionary
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: user_dictionary
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: userdb_recovery_task
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/gears_module.cc:43 registering components from module 'gears'.
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: ascii_composer
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: chord_composer
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: express_editor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: fluid_editor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: fluency_editor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: key_binder
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: navigator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: punctuator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: recognizer
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: selector
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: speller
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: shape_processor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: abc_segmentor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: affix_segmentor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.651  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: ascii_segmentor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: matcher
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: punct_segmentor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: fallback_segmentor
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: echo_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: punct_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: table_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: script_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: r10n_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: reverse_lookup_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: schema_list_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: switch_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: codepoint_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: history_translator
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: simplifier
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: uniquifier
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: charset_filter
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: cjk_minifier
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: reverse_lookup_filter
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: single_char_filter
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: shape_formatter
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.652  6976: 7022 I/native   ]
+I/modules.cc:32 registering components from module 'lua'.
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/modules.cc:24 rime.lua error: cannot open /storage/emulated/0/rime/rime.lua: No such file or directory
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/registry.cc:14 registering component: lua_translator
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/registry.cc:14 registering component: lua_filter
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/registry.cc:14 registering component: lua_segmentor
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/registry.cc:14 registering component: lua_processor
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/grammar_module.cc:14 registering components from module 'grammar'.
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/registry.cc:14 registering component: grammar
+
+
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/levers_module.cc:23 registering components from module 'levers'.
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: detect_modifications
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: installation_update
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: workspace_update
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: schema_update
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: config_file_update
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: prebuild_all_schemas
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: user_dict_upgrade
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: cleanup_trash
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: user_dict_sync
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: backup_config_files
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/registry.cc:14 registering component: clean_old_log_files
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/deployment_tasks.cc:80 updating rime installation info.
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/installation.yaml'.
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/installation.yaml'.
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/deployment_tasks.cc:98 installation info exists. installation id: 17691996-b156-4999-adde-0555e7cdb6ee
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
-I/deployment_tasks.cc:106 sync dir: /sdcard/android/rime/sync
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
+I/deployment_tasks.cc:106 sync dir: /storage/emulated/0/rime/sync
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.653  6976: 7022 I/native   ]
 I/deployment_tasks.cc:114 previous Rime version: 1.5.3
 
 
-[ 03-02 08:38:59.798 27765:27986 I/native   ]
+[ 03-02 23:09:10.654  6976: 7022 I/native   ]
 I/deployer.cc:114 starting work thread for 3 tasks.
 
 
-[ 03-02 08:38:59.799 27765:27989 I/native   ]
+[ 03-02 23:09:10.654  6976: 7024 I/native   ]
 I/deployer.cc:83 running deployment tasks:
 
 
-[ 03-02 08:38:59.799 27765:27989 I/native   ]
+[ 03-02 23:09:10.654  6976: 7024 I/native   ]
 I/deployment_tasks.cc:160 updating workspace.
 
 
-[ 03-02 08:38:59.799 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/default.yaml'.
+[ 03-02 23:09:10.654  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/default.yaml'.
 
 
-[ 03-02 08:38:59.803 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/default.yaml'.
+[ 03-02 23:09:10.657  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/default.yaml'.
 
 
-[ 03-02 08:38:59.811 27765:27989 I/native   ]
+[ 03-02 23:09:10.660  6976: 7024 I/native   ]
 I/deployment_tasks.cc:183 updating schemas.
 
 
-[ 03-02 08:38:59.811 27765:27989 I/native   ]
+[ 03-02 23:09:10.660  6976: 7024 I/native   ]
 I/deployment_tasks.cc:193 schema: wubi86_jidian_pinyin
 
 
-[ 03-02 08:38:59.811 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/wubi86_jidian_pinyin.schema.yaml'.
+[ 03-02 23:09:10.660  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/wubi86_jidian_pinyin.schema.yaml'.
 
 
-[ 03-02 08:38:59.813 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/wubi86_jidian_pinyin.schema.yaml'.
+[ 03-02 23:09:10.661  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/wubi86_jidian_pinyin.schema.yaml'.
 
 
-[ 03-02 08:38:59.837 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/wubi86_jidian_pinyin.schema.yaml'.
+[ 03-02 23:09:10.689  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/wubi86_jidian_pinyin.schema.yaml'.
 
 
-[ 03-02 08:38:59.860 27765:27989 I/native   ]
+[ 03-02 23:09:10.712  6976: 7024 I/native   ]
 I/deployment_tasks.cc:358 preparing dictionary 'wubi86_jidian'.
 
 
-[ 03-02 08:38:59.860 27765:27989 I/native   ]
-I/dict_compiler.cc:41 compiling dictionary for /sdcard/android/rime/build/wubi86_jidian_pinyin.schema.yaml
+[ 03-02 23:09:10.712  6976: 7024 I/native   ]
+I/dict_compiler.cc:41 compiling dictionary for /storage/emulated/0/rime/build/wubi86_jidian_pinyin.schema.yaml
 
 
-[ 03-02 08:38:59.861 27765:27989 I/native   ]
+[ 03-02 23:09:10.713  6976: 7024 I/native   ]
 I/dict_compiler.cc:56 dict name: wubi86_jidian
 
 
-[ 03-02 08:38:59.861 27765:27989 I/native   ]
+[ 03-02 23:09:10.713  6976: 7024 I/native   ]
 I/dict_compiler.cc:57 dict version: 4.3
 
 
-[ 03-02 08:38:59.882 27765:27989 I/native   ]
-I/table.cc:299 loading table file: /sdcard/android/rime/build/wubi86_jidian.table.bin
+[ 03-02 23:09:10.727  6976: 7024 I/native   ]
+I/table.cc:299 loading table file: /storage/emulated/0/rime/build/wubi86_jidian.table.bin
 
 
-[ 03-02 08:38:59.883 27765:27989 I/native   ]
-I/prism.cc:77 loading prism file: /sdcard/android/rime/build/wubi86_jidian.prism.bin
+[ 03-02 23:09:10.728  6976: 7024 I/native   ]
+I/prism.cc:77 loading prism file: /storage/emulated/0/rime/build/wubi86_jidian.prism.bin
 
 
-[ 03-02 08:38:59.883 27765:27989 I/native   ]
+[ 03-02 23:09:10.728  6976: 7024 I/native   ]
 I/prism.cc:107 found double array image of size 163328.
 
 
-[ 03-02 08:38:59.883 27765:27989 I/native   ]
-I/dict_compiler.cc:109 /sdcard/android/rime/wubi86_jidian.dict.yaml[9 file(s)] (4261057857)
+[ 03-02 23:09:10.728  6976: 7024 I/native   ]
+I/dict_compiler.cc:109 /storage/emulated/0/rime/wubi86_jidian.dict.yaml[9 file(s)] (4261057857)
 
 
-[ 03-02 08:38:59.883 27765:27989 I/native   ]
-I/dict_compiler.cc:111 /sdcard/android/rime/build/wubi86_jidian_pinyin.schema.yaml (3120154563)
+[ 03-02 23:09:10.728  6976: 7024 I/native   ]
+I/dict_compiler.cc:111 /storage/emulated/0/rime/build/wubi86_jidian_pinyin.schema.yaml (3822775777)
 
 
-[ 03-02 08:38:59.883 27765:27989 I/native   ]
-I/reverse_lookup_dictionary.cc:33 loading reversedb: /sdcard/android/rime/build/wubi86_jidian.reverse.bin
+[ 03-02 23:09:10.728  6976: 7024 I/native   ]
+I/reverse_lookup_dictionary.cc:33 loading reversedb: /storage/emulated/0/rime/build/wubi86_jidian.reverse.bin
 
 
-[ 03-02 08:38:59.883 27765:27989 I/native   ]
+[ 03-02 23:09:10.728  6976: 7024 I/native   ]
 I/deployment_tasks.cc:376 dictionary 'wubi86_jidian' is ready.
 
 
-[ 03-02 08:38:59.884 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/wubi86_jidian_pinyin.schema.yaml'.
+[ 03-02 23:09:10.729  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/wubi86_jidian_pinyin.schema.yaml'.
 
 
-[ 03-02 08:38:59.908 27765:27989 I/native   ]
+[ 03-02 23:09:10.752  6976: 7024 I/native   ]
 I/deployment_tasks.cc:193 schema: pinyin_simp
 
 
-[ 03-02 08:38:59.908 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/pinyin_simp.schema.yaml'.
+[ 03-02 23:09:10.752  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/pinyin_simp.schema.yaml'.
 
 
-[ 03-02 08:38:59.909 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/pinyin_simp.schema.yaml'.
+[ 03-02 23:09:10.753  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/pinyin_simp.schema.yaml'.
 
 
-[ 03-02 08:38:59.934 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/pinyin_simp.schema.yaml'.
+[ 03-02 23:09:10.777  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/pinyin_simp.schema.yaml'.
 
 
-[ 03-02 08:38:59.956 27765:27989 I/native   ]
+[ 03-02 23:09:10.800  6976: 7024 I/native   ]
 I/deployment_tasks.cc:358 preparing dictionary 'pinyin_simp'.
 
 
-[ 03-02 08:38:59.956 27765:27989 I/native   ]
-I/dict_compiler.cc:41 compiling dictionary for /sdcard/android/rime/build/pinyin_simp.schema.yaml
+[ 03-02 23:09:10.800  6976: 7024 I/native   ]
+I/dict_compiler.cc:41 compiling dictionary for /storage/emulated/0/rime/build/pinyin_simp.schema.yaml
 
 
-[ 03-02 08:38:59.956 27765:27989 I/native   ]
+[ 03-02 23:09:10.800  6976: 7024 I/native   ]
 I/dict_compiler.cc:56 dict name: pinyin_simp
 
 
-[ 03-02 08:38:59.956 27765:27989 I/native   ]
+[ 03-02 23:09:10.800  6976: 7024 I/native   ]
 I/dict_compiler.cc:57 dict version: 0.1
 
 
-[ 03-02 08:39:00.590 27765:27989 I/native   ]
-I/table.cc:299 loading table file: /sdcard/android/rime/build/pinyin_simp.table.bin
+[ 03-02 23:09:11.207  6976: 7024 I/native   ]
+I/table.cc:299 loading table file: /storage/emulated/0/rime/build/pinyin_simp.table.bin
 
 
-[ 03-02 08:39:00.590 27765:27989 I/native   ]
-I/prism.cc:77 loading prism file: /sdcard/android/rime/build/pinyin_simp.prism.bin
+[ 03-02 23:09:11.207  6976: 7024 I/native   ]
+I/prism.cc:77 loading prism file: /storage/emulated/0/rime/build/pinyin_simp.prism.bin
 
 
-[ 03-02 08:39:00.590 27765:27989 I/native   ]
+[ 03-02 23:09:11.207  6976: 7024 I/native   ]
 I/prism.cc:107 found double array image of size 1280.
 
 
-[ 03-02 08:39:00.590 27765:27989 I/native   ]
-I/dict_compiler.cc:109 /sdcard/android/rime/pinyin_simp.dict.yaml[1 file(s)] (2420501598)
+[ 03-02 23:09:11.207  6976: 7024 I/native   ]
+I/dict_compiler.cc:109 /storage/emulated/0/rime/pinyin_simp.dict.yaml[1 file(s)] (2420501598)
 
 
-[ 03-02 08:39:00.590 27765:27989 I/native   ]
-I/dict_compiler.cc:111 /sdcard/android/rime/build/pinyin_simp.schema.yaml (3351092282)
+[ 03-02 23:09:11.207  6976: 7024 I/native   ]
+I/dict_compiler.cc:111 /storage/emulated/0/rime/build/pinyin_simp.schema.yaml (1263981646)
 
 
-[ 03-02 08:39:00.590 27765:27989 I/native   ]
-I/reverse_lookup_dictionary.cc:33 loading reversedb: /sdcard/android/rime/build/pinyin_simp.reverse.bin
+[ 03-02 23:09:11.207  6976: 7024 I/native   ]
+I/reverse_lookup_dictionary.cc:33 loading reversedb: /storage/emulated/0/rime/build/pinyin_simp.reverse.bin
 
 
-[ 03-02 08:39:00.591 27765:27989 I/native   ]
+[ 03-02 23:09:11.208  6976: 7024 I/native   ]
 I/deployment_tasks.cc:376 dictionary 'pinyin_simp' is ready.
 
 
-[ 03-02 08:39:00.592 27765:27989 I/native   ]
+[ 03-02 23:09:11.210  6976: 7024 I/native   ]
 I/deployment_tasks.cc:241 finished updating schemas: 2 success, 0 failure.
 
 
-[ 03-02 08:39:00.592 27765:27989 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/user.yaml'.
+[ 03-02 23:09:11.210  6976: 7024 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/user.yaml'.
 
 
-[ 03-02 08:39:00.593 27765:27989 I/native   ]
+[ 03-02 23:09:11.210  6976: 7024 I/native   ]
 I/config_data.cc:199 write: var/last_build_time
 
 
-[ 03-02 08:39:00.593 27765:27989 I/native   ]
-I/config_data.cc:85 saving config file '/sdcard/android/rime/user.yaml'.
+[ 03-02 23:09:11.210  6976: 7024 I/native   ]
+I/config_data.cc:85 saving config file '/storage/emulated/0/rime/user.yaml'.
 
 
-[ 03-02 08:39:00.593 27765:27989 I/native   ]
+[ 03-02 23:09:11.211  6976: 7024 I/native   ]
 I/deployment_tasks.cc:591 clean up trash.
 
 
-[ 03-02 08:39:00.594 27765:27989 I/native   ]
+[ 03-02 23:09:11.211  6976: 7024 I/native   ]
 I/deployer.cc:95 3 tasks ran: 3 success, 0 failure.
 
 
-[ 03-02 08:39:00.594 27765:27986 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/default.yaml'.
+[ 03-02 23:09:11.211  6976: 7022 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/default.yaml'.
 
 
-[ 03-02 08:39:00.597 27765:27986 I/native   ]
+[ 03-02 23:09:11.215  6976: 7022 I/native   ]
 I/engine.cc:71 starting engine.
 
 
-[ 03-02 08:39:00.597 27765:27986 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/user.yaml'.
+[ 03-02 23:09:11.215  6976: 7022 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/user.yaml'.
 
 
-[ 03-02 08:39:00.597 27765:27986 I/native   ]
+[ 03-02 23:09:11.216  6976: 7022 I/native   ]
 I/engine.cc:126 updated option: full_shape
 
 
-[ 03-02 08:39:00.597 27765:27986 I/native   ]
-I/engine.cc:126 updated option: simplification
+[ 03-02 23:09:11.216  6976: 7022 I/native   ]
+I/config_data.cc:65 loading config file '/storage/emulated/0/rime/build/wubi86_jidian_pinyin.schema.yaml'.
 
 
-[ 03-02 08:39:00.597 27765:27986 I/native   ]
-I/config_data.cc:65 loading config file '/sdcard/android/rime/build/wubi86_jidian_pinyin.schema.yaml'.
-
-
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.239  6976: 7022 I/native   ]
 I/engine.cc:126 updated option: _auto_commit
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
 I/dictionary.cc:261 loading dictionary 'wubi86_jidian'.
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
-I/table.cc:299 loading table file: /sdcard/android/rime/build/wubi86_jidian.table.bin
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
+I/table.cc:299 loading table file: /storage/emulated/0/rime/build/wubi86_jidian.table.bin
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
-I/prism.cc:77 loading prism file: /sdcard/android/rime/build/wubi86_jidian.prism.bin
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
+I/prism.cc:77 loading prism file: /storage/emulated/0/rime/build/wubi86_jidian.prism.bin
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
 I/prism.cc:107 found double array image of size 163328.
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
 I/engine.cc:126 updated option: ascii_mode
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
 I/engine.cc:126 updated option: emoji_cn
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
 I/engine.cc:126 updated option: CnEnglish
 
 
-[ 03-02 08:39:00.622 27765:27986 I/native   ]
+[ 03-02 23:09:11.240  6976: 7022 I/native   ]
 I/engine.cc:126 updated option: _hide_candidate
 
 
-[ 03-02 08:39:00.623 27765:27986 W/rime     ]
+[ 03-02 23:09:11.241  6976: 7022 W/rime     ]
 full_check: 
 

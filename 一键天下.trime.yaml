@@ -80,7 +80,8 @@ colors:
 fallback_colors:
   __include: trime:/fallback_colors
 preset_color_schemes:
-    #__include: trime:/preset_color_schemes
+  __include: 
+    trime:/preset_color_schemes/luna
   no_1:
     name: no_1
     #悬浮窗口
@@ -135,8 +136,8 @@ preset_keys:
     __include: trime:/preset_keys
     IME_switch: {label: ❇️, send: LANGUAGE_SWITCH,functional: false}
     Keyboard_default: {label: 返回, send: Eisu_toggle, select: .default,functional: false}
-    Deploy1: {label: ♻️, send: function,command: broadcast, option: "com.osfans.trime.accessibility.deploy"}
-    #Deploy1: {label: 部署, send: function, command: broadcast, option: "com.osfans.trime.deploy"}
+    #Deploy1: {label: ♻️, send: function,command: broadcast, option: "com.osfans.trime.accessibility.deploy"}
+    Deploy1: {label: ♻️, send: function, command: broadcast, option: "com.osfans.trime.deploy"}
     Shift_L: {label: Shift, send: Shift_L, shift_lock: ascii_long,functional: false}
     space1: {repeatable: false, functional: false, preview: " ",send: space }
     Color_switch: {label: 🎨, send: PROG_RED}
@@ -148,6 +149,8 @@ preset_keys:
     Page_Down: {label: ☛, send: Page_Down,functional: false}
     select_next: {label: "❷",send: 2,functional: false}
     select_third: {label: "❸",send: 3,functional: false}
+    select_four: {label: "❹",send: 4,functional: false}
+    select_fifth: {label: "❺",send: 5,functional: false}
     Return: {label: "Enter", send: Return}
     Keyboard_num20key: {label: 数字, send: Eisu_toggle, select: num20key,functional: false}
     Keyboard_symkey: {label: 符号, send: Eisu_toggle, select: symkey_1,functional: false}
@@ -223,8 +226,8 @@ preset_keyboards:
       - {click: BackSpace,width: 15,swipe_up: Delete}
       # 5
       - {click: Keyboard_num20key, long_click: IME_switch,has_menu: _Keyboard_candidate, width: 15}
-      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: Page_Up}
-      - {click: ',', long_click: ";", width: 10,has_menu: Page_Down}
+      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: select_fifth}
+      - {click: ',', long_click: ";", width: 10,has_menu: select_four}
       - {click: space1,long_click: VOICE_ASSIST,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
       - {click: ".", long_click: ":", width: 10,has_menu: select_next}
       - {click: Mode_switch, long_click: Candidate_switch, width: 12 ,has_menu: select_third}

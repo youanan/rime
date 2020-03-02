@@ -1,16 +1,21 @@
 [
+    "❺",
+    "❹",
+    "❸",
+    "aqua",
+    "preset_color_schemes",
+    "preset_color_schemes:\n  default:\n    name: 默认／default #方案名稱\n ",
+    "$PWD\/**",
     "_Keyboard_candidate",
     "com.osfans.trime.accessibility",
     "_phrase_board",
     "文本",
     "🎤",
-    "Deploy: {label: 部署, send: function, command: broadcast, option: \"com.osfans.trime.deploy\"}",
     "蛀",
     "hghghgjhjhghghgdgyty",
     "_add_phrase",
     "CommitRawInput",
     "编码",
-    "preview_font: latin.ttf #按鍵提示字型\n  preview_height: 60 #按鍵提示高度\n  preview_offset: -12 #按鍵提示縱向偏移\n  preview_text_size: 40 #按鍵提示字號",
     "proximity_correction",
     "color_scheme",
     "background_dim_amount",
@@ -19,6 +24,5 @@
     "_clip_board",
     "popup: [Menu, _Keyboard_clip, _Keyboard_phrase]}",
     "_Keyboard_edit",
-    "编辑",
-    "随时"
+    "编辑"
 ]
