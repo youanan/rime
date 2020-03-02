@@ -1,13 +1,5 @@
 var:
-  last_build_time: 1583056882
+  last_build_time: 1583109540
   option:
-    _hide_candidate: true
-    _hide_comment: false
-    _hide_key_hint: false
-    ascii_mode: true
-  previously_selected_schema: pinyin_simp
-  schema_access_time:
-    flypy: 1572069905
-    flypyplus: 1572069855
-    pinyin_simp: 1582874241
-    wubi86_jidian_pinyin: 1582709437
+    full_shape: false
+    simplification: false

@@ -6,6 +6,7 @@ author: youanan<youanan@163.com>
 #---------------------
 style:
   __include: trime:/style
+  color_scheme: no_1  #默认配色
   auto_caps: false
   round_corner: 20
   speech_opencc_config: none
@@ -14,6 +15,10 @@ style:
   symbol_font: syht-Normal.otf
   hanb_font: HanaMinB.ttf
   #candidate_font: syht-Bold.otf
+  preview_font: syht-Bold.otf #按鍵提示字型
+  preview_height: 20 #按鍵提示高度
+  preview_offset: -12 #按鍵提示縱向偏移
+  preview_text_size: 40 #按鍵提示字號
   candidate_font: syht-Regular.otf
   label_font: number2.ttf
   label_text_size: 16
@@ -130,13 +135,14 @@ preset_keys:
     __include: trime:/preset_keys
     IME_switch: {label: ❇️, send: LANGUAGE_SWITCH,functional: false}
     Keyboard_default: {label: 返回, send: Eisu_toggle, select: .default,functional: false}
-    Deploy: {label: ♻️, command: broadcast, option: "com.osfans.trime.deploy"}
+    Deploy1: {label: ♻️, send: function,command: broadcast, option: "com.osfans.trime.accessibility.deploy"}
+    #Deploy1: {label: 部署, send: function, command: broadcast, option: "com.osfans.trime.deploy"}
     Shift_L: {label: Shift, send: Shift_L, shift_lock: ascii_long,functional: false}
-    space: {repeatable: false, functional: false, preview: " ", long_click: Right, swipe_left: Left, send: space }
+    space1: {repeatable: false, functional: false, preview: " ",send: space }
     Color_switch: {label: 🎨, send: PROG_RED}
     Escape: {label: "空格", send: space,functional: false}
     Candidate_switch: {label: "候选",toggle: _hide_candidate, send: Mode_switch, states: [🔺,🔻]}
-    Esc1: {label: "Esc", send: Escpace,functional: false}
+    Esc1: {label: "Esc", commit: " ",functional: false}
     BackSpace: {label: ⌫ , repeatable: true, send: BackSpace,functional: false}
     Page_Up: {label: ☚, send: Page_Up,functional: false}
     Page_Down: {label: ☛, send: Page_Down,functional: false}
@@ -145,7 +151,7 @@ preset_keys:
     Return: {label: "Enter", send: Return}
     Keyboard_num20key: {label: 数字, send: Eisu_toggle, select: num20key,functional: false}
     Keyboard_symkey: {label: 符号, send: Eisu_toggle, select: symkey_1,functional: false}
-    VOICE_ASSIST: {label: "语音", send: VOICE_ASSIST}
+    VOICE_ASSIST: {label: "🎤", send: VOICE_ASSIST}
     symkey_left: {label: "◀", send: Eisu_toggle, select: symkey_1}
     symkey_right: {label: "▶", send: Eisu_toggle, select: symkey_2}
     symkey_top: {label: "▲", send: Eisu_toggle, select: symkey_2}
@@ -168,7 +174,7 @@ preset_keyboards:
     key_symbol_offset_y: -3
     key_text_offset_y: 1
     width: 10
-    height: 44
+    height: 50
     lock: true #切換程序時記憶鍵盤
     keys:
       #1
@@ -210,18 +216,18 @@ preset_keyboards:
       - {click: 'z', long_click: '`'}
       - {click: 'x', long_click: cut}
       - {click: 'c', long_click: copy}
-      - {click: 'v', long_click: paste}
+      - {click: 'v', long_click: paste, popup: [_Keyboard_clip, paste,_Keyboard_phrase]}
       - {click: 'b', long_click: '/'}
       - {click: 'n', long_click: "\\"}
       - {click: 'm', long_click: "?"}
       - {click: BackSpace,width: 15,swipe_up: Delete}
       # 5
-      - {click: Keyboard_num20key, long_click: IME_switch, width: 15}
-      - {click: Keyboard_symkey, long_click: Deploy,  width: 12 ,has_menu: Page_Up}
+      - {click: Keyboard_num20key, long_click: IME_switch,has_menu: _Keyboard_candidate, width: 15}
+      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: Page_Up}
       - {click: ',', long_click: ";", width: 10,has_menu: Page_Down}
-      - {click: space,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
+      - {click: space1,long_click: VOICE_ASSIST,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
       - {click: ".", long_click: ":", width: 10,has_menu: select_next}
-      - {click: Mode_switch, long_click: Candidate_switch, width: 12 ,has_menu: select_third,key_font: number_in.ttf}
+      - {click: Mode_switch, long_click: Candidate_switch, width: 12 ,has_menu: select_third}
       - {click: Return, long_click: Color_switch, width: 15}
   
 
