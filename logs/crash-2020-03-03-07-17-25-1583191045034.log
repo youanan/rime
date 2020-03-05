@@ -1,0 +1,100 @@
+versionName=1.0.20200227
+versionCode=1
+BOARD=sdm710
+BOOTLOADER=unknown
+BRAND=Xiaomi
+CPU_ABI=arm64-v8a
+CPU_ABI2=
+DEVICE=sirius
+DISPLAY=OPM1.171019.019
+FINGERPRINT=Xiaomi/sirius/sirius:8.1.0/OPM1.171019.019/V9.5.10.0.OEBCNFA:user/release-keys
+HARDWARE=qcom
+HOST=c3-miui-ota-bd148.bj
+ID=OPM1.171019.019
+IS_CONTAINER=false
+IS_DEBUGGABLE=false
+IS_EMULATOR=false
+IS_ENG=false
+IS_TREBLE_ENABLED=true
+IS_USER=true
+IS_USERDEBUG=false
+MANUFACTURER=Xiaomi
+MODEL=MI 8 SE
+PERMISSIONS_REVIEW_REQUIRED=false
+PRODUCT=sirius
+RADIO=unknown
+SERIAL=feab6adb
+SUPPORTED_32_BIT_ABIS=[armeabi-v7a, armeabi]
+SUPPORTED_64_BIT_ABIS=[arm64-v8a]
+SUPPORTED_ABIS=[arm64-v8a, armeabi-v7a, armeabi]
+TAG=Build
+TAGS=release-keys
+TIME=1531403018000
+TYPE=user
+UNKNOWN=unknown
+USER=builder
+ACTIVE_CODENAMES=[]
+ALL_CODENAMES=[REL]
+BASE_OS=
+CODENAME=REL
+INCREMENTAL=V9.5.10.0.OEBCNFA
+PREVIEW_SDK_INT=0
+RELEASE=8.1.0
+RESOURCES_SDK_INT=27
+SDK=27
+SDK_INT=27
+SECURITY_PATCH=2018-06-01
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at com.osfans.trime.g.b(Unknown Source:18)
+	at com.osfans.trime.e.<init>(Unknown Source:37)
+	at com.osfans.trime.Pref$TrimePreferenceFragment.onPreferenceTreeClick(Unknown Source:427)
+	at android.preference.Preference.performClick(Preference.java:1146)
+	at android.preference.PreferenceScreen.onItemClick(PreferenceScreen.java:249)
+	at android.widget.AdapterView.performItemClick(AdapterView.java:318)
+	at android.widget.AbsListView.performItemClick(AbsListView.java:1181)
+	at android.widget.AbsListView$PerformClick.run(AbsListView.java:3165)
+	at android.widget.AbsListView.onTouchUp(AbsListView.java:4160)
+	at android.widget.AbsListView.onTouchEvent(AbsListView.java:3877)
+	at android.view.View.dispatchTouchEvent(View.java:11796)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2964)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2643)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2970)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2657)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2970)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2657)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2970)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2657)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2970)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2657)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2970)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2657)
+	at com.android.internal.policy.DecorView.superDispatchTouchEvent(DecorView.java:451)
+	at com.android.internal.policy.PhoneWindow.superDispatchTouchEvent(PhoneWindow.java:1829)
+	at android.app.Dialog.dispatchTouchEvent(Dialog.java:817)
+	at com.android.internal.policy.DecorView.dispatchTouchEvent(DecorView.java:413)
+	at android.view.View.dispatchPointerEvent(View.java:12037)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:4885)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4696)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4232)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4285)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4251)
+	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:4378)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4259)
+	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4435)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4232)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4285)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4251)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4259)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4232)
+	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:6766)
+	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:6740)
+	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:6701)
+	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:6872)
+	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:187)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:325)
+	at android.os.Looper.loop(Looper.java:142)
+	at android.app.ActivityThread.main(ActivityThread.java:6618)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:518)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:822)

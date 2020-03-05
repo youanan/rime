@@ -1,0 +1,61 @@
+versionName=1.0.20200227
+versionCode=1
+BOARD=sdm710
+BOOTLOADER=unknown
+BRAND=Xiaomi
+CPU_ABI=arm64-v8a
+CPU_ABI2=
+DEVICE=sirius
+DISPLAY=OPM1.171019.019
+FINGERPRINT=Xiaomi/sirius/sirius:8.1.0/OPM1.171019.019/V9.5.10.0.OEBCNFA:user/release-keys
+HARDWARE=qcom
+HOST=c3-miui-ota-bd148.bj
+ID=OPM1.171019.019
+IS_CONTAINER=false
+IS_DEBUGGABLE=false
+IS_EMULATOR=false
+IS_ENG=false
+IS_TREBLE_ENABLED=true
+IS_USER=true
+IS_USERDEBUG=false
+MANUFACTURER=Xiaomi
+MODEL=MI 8 SE
+PERMISSIONS_REVIEW_REQUIRED=false
+PRODUCT=sirius
+RADIO=unknown
+SERIAL=feab6adb
+SUPPORTED_32_BIT_ABIS=[armeabi-v7a, armeabi]
+SUPPORTED_64_BIT_ABIS=[arm64-v8a]
+SUPPORTED_ABIS=[arm64-v8a, armeabi-v7a, armeabi]
+TAG=Build
+TAGS=release-keys
+TIME=1531403018000
+TYPE=user
+UNKNOWN=unknown
+USER=builder
+ACTIVE_CODENAMES=[]
+ALL_CODENAMES=[REL]
+BASE_OS=
+CODENAME=REL
+INCREMENTAL=V9.5.10.0.OEBCNFA
+PREVIEW_SDK_INT=0
+RELEASE=8.1.0
+RESOURCES_SDK_INT=27
+SDK=27
+SDK_INT=27
+SECURITY_PATCH=2018-06-01
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+	at com.osfans.trime.g.b(Unknown Source:26)
+	at com.osfans.trime.e.<init>(Unknown Source:37)
+	at com.osfans.trime.Trime.showColorDialog(Unknown Source:2)
+	at com.osfans.trime.Trime.onEvent(Unknown Source:522)
+	at com.osfans.trime.KeyboardView.a(Unknown Source:364)
+	at com.osfans.trime.KeyboardView.a(Unknown Source:58)
+	at com.osfans.trime.KeyboardView.a(Unknown Source:0)
+	at com.osfans.trime.KeyboardView$a.handleMessage(Unknown Source:18)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6618)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:518)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:822)

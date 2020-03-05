@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.4.0
+  rime_version: 1.5.3
   timestamps:
-    default: 1549035334
-    default.custom: 1549035334
-    luna_jiugong.custom: 1549035529
-    luna_jiugong.schema: 1549035334
-    symbols: 1549035334
+    default: 1577459800
+    default.custom: 1583245823
+    luna_jiugong.custom: 0
+    luna_jiugong.schema: 1577459813
+    symbols: 1577459816
     symbols.custom: 0
 custom_phrase:
   db_class: stabledb
@@ -75,59 +75,6 @@ key_binder:
   import_preset: default
 menu:
   page_size: 30
-preset_keyboards:
-  eng:
-    ascii_mode: 1
-    author: "osfans <waxaca@163.com>"
-    height: 44
-    keys: [{click: 1, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")"}, {click: q, long_click: _}, {click: w, long_click: "-"}, {click: e, long_click: "+"}, {click: r, long_click: "="}, {click: t, long_click: "|"}, {click: y, long_click: "\\"}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}"}, {width: 5}, {click: a, long_click: select_all}, {click: s, long_click: Home}, {click: d, long_click: End}, {click: f, long_click: Page_Up}, {click: g, long_click: Page_Down}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: ":"}, {click: l, long_click: ";"}, {width: 5}, {click: Shift_L, has_menu: "'", width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste}, {click: b, long_click: "~"}, {click: n, long_click: "\""}, {click: m, long_click: MoeDict}, {click: BackSpace, width: 15}, {click: Keyboard_default, long_click: Menu, width: 15}, {click: Keyboard_symbols, long_click: Keyboard_number}, {click: ",", long_click: "<"}, {click: space, width: 30}, {click: ., long_click: ">"}, {click: "/", long_click: "?"}, {click: Return, long_click: CommitComment, width: 15}]
-    label_transform: uppercase
-    name: "預設36鍵"
-    width: 10
-  letter:
-    ascii_mode: 0
-    author: "osfans <waxaca@163.com>"
-    height: 55
-    key_hint_offset_x: 0
-    key_hint_offset_y: 0
-    key_press_offset_x: 2
-    key_press_offset_y: 2
-    key_symbol_offset_x: 0
-    key_symbol_offset_y: 0
-    key_text_offset_x: 0
-    key_text_offset_y: 0
-    keys: [{click: q, long_click: "!", swipe_up: 1}, {click: w, long_click: "@", swipe_up: 2}, {click: e, long_click: "#", swipe_up: 3}, {click: r, long_click: "$", swipe_up: 4}, {click: t, long_click: "%", swipe_up: 5}, {click: y, long_click: "^", swipe_up: 6}, {click: u, long_click: "&", swipe_up: 7}, {click: i, long_click: "*", swipe_up: 8}, {click: o, long_click: "(){Left}", swipe_up: 9}, {click: p, long_click: Hide, swipe_up: 0}, {width: 5}, {click: a, long_click: select_all, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: s, long_click: "~", swipe_down: Page_Down, swipe_left: Home, swipe_right: End, swipe_up: Page_Up}, {click: d, long_click: "-", swipe_down: _}, {click: f, long_click: "+", swipe_down: "="}, {click: g, long_click: "\\", swipe_down: "|"}, {click: h, long_click: "[]{Left}", swipe_left: "[", swipe_right: "]"}, {click: j, long_click: "{}{Left}", swipe_left: "{", swipe_right: "}"}, {click: k, long_click: ":"}, {click: l, long_click: ";"}, {width: 5}, {click: Shift_L, send_bindings: false, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste}, {click: b, long_click: Time, swipe_up: Date}, {click: n, long_click: "\""}, {click: m, long_click: "'"}, {click: Keyboard_default, composing: BackSpace, swipe_left: Escape, width: 15}, {click: Keyboard_default, long_click: Menu, width: 15}, {click: Keyboard_symbols, long_click: Keyboard_number}, {click: ",", long_click: "<"}, {click: space, width: 30}, {click: ., long_click: ">"}, {click: "/", long_click: "?"}, {click: Return, long_click: CommitComment, width: 15}]
-    name: "預設26鍵"
-    width: 10
-  luna_jiugong:
-    ascii_mode: 0
-    author: "Uncle光 <467896722@qq.com>"
-    height: 48
-    horizontal_gap: 5
-    key_hint_offset_x: 0
-    key_hint_offset_y: 0
-    key_press_offset_x: 2
-    key_press_offset_y: 2
-    key_symbol_offset_x: 0
-    key_symbol_offset_y: 0
-    key_text_offset_x: 0
-    key_text_offset_y: 0
-    keys: [{height: 7, key_back_color: 0x00, width: 100}, {click: ",", long_click: "=", send_bindings: false, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up, width: 15}, {click: 1, composing: "'", label: "'", long_click: Zdic, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: 2, label: abc, long_click: select_all, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: 3, label: def, long_click: Hang, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: BackSpace, width: 16}, {height: 7, key_back_color: 0x00, width: 100}, {click: ";", long_click: "-", send_bindings: false, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up, width: 15}, {click: 4, label: ghi, long_click: Home, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: 5, label: jkl, long_click: Escape, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: 6, label: mno, long_click: End, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: Keyboard_number, long_click: "`{Keyboard_letter}", swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up, width: 16}, {height: 7, key_back_color: 0x00, width: 100}, {click: "?", long_click: "/", send_bindings: false, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up, width: 15}, {click: 7, label: pqrs, long_click: copy, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: 8, label: tuv, long_click: paste, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: 9, label: wxyz, long_click: cut, swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up}, {click: Keyboard_eng, long_click: "\"", swipe_down: Down, swipe_left: Left, swipe_right: Right, swipe_up: Up, width: 16}, {height: 7, key_back_color: 0x00, width: 100}, {click: Keyboard_symbols, height: 50, long_click: Keyboard_number, width: 15}, {click: ., long_click: "(){Left}", send_bindings: false, swipe_down: Down, swipe_left: "(", swipe_right: ")", swipe_up: Up}, {click: 0, long_click: "[]{Left}", send_bindings: false, swipe_down: Down, swipe_left: "[", swipe_right: "]", swipe_up: Up}, {click: space, key_back_color: Skyblue, swipe_down: Down, swipe_up: Up}, {click: Return, key_back_color: Skyblue, long_click: CommitComment, swipe_down: Down, swipe_up: Up, width: 16}, {height: 3, key_back_color: 0x00, width: 100}]
-    name: "朙月九宮"
-    vertical_gap: 0
-    width: 23
-preset_keys:
-  Hang:
-    label: "行選"
-    text: "{End}{Shift+Home}"
-  Keyboard_eng:
-    label: "英文"
-    select: eng
-    send: Eisu_toggle
-  Keyboard_letter:
-    label: "反查"
-    select: letter
-    send: Eisu_toggle
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -413,14 +360,6 @@ speller:
     - "derive/^(.*)$/\\U$1/"
   alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
   delimiter: " '"
-style:
-  keyboards:
-    - .default
-    - letter
-    - eng
-    - default
-    - number
-    - symbols
 switches:
   - name: ascii_punct
     states: ["。，", "．，"]

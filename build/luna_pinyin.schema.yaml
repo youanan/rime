@@ -1,11 +1,13 @@
 __build_info:
-  rime_version: 1.4.0
+  rime_version: 1.5.3
   timestamps:
-    default: 1549031964
-    default.custom: 1549034401
-    luna_pinyin.custom: 0
-    luna_pinyin.schema: 1549034108
-    symbols: 1549031964
+    default: 1577459800
+    default.custom: 1583245823
+    grammar: 1582714562
+    grammar.custom: 0
+    luna_pinyin.custom: 1582714917
+    luna_pinyin.schema: 1582731119
+    symbols: 1577459816
     symbols.custom: 0
 custom_phrase:
   db_class: stabledb
@@ -38,6 +40,8 @@ engine:
     - "table_translator@custom_phrase"
     - reverse_lookup_translator
     - script_translator
+grammar:
+  language: "zh-hant-t-essay-bgw"
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}
@@ -352,19 +356,9 @@ speller:
     - "derive/un$/uen/"
     - "derive/ui$/uei/"
     - "derive/iu$/iou/"
-    - "derive/([aeiou])ng$/$1gn/"
     - "derive/([dtngkhrzcs])o(u|ng)$/$1o/"
     - "derive/ong$/on/"
-    - "derive/ao$/oa/"
     - "derive/([iu])a(o|ng?)$/a$1$2/"
-    - "derive/^([a-z]+)ing$/$1ig/"
-    - "derive/^([a-z]+)uang$/$1ug/"
-    - "derive/^([a-z]+)ang$/$1ag/"
-    - "derive/^([a-z]+)eng$/$1eg/"
-    - "derive/^([a-z]+)ong$/$1og/"
-    - "derive/iao$/io/"
-    - "derive/([jqx])iang$/$1ag/"
-    - "derive/([jqx])iong$/$1og/"
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
 switches:
@@ -375,7 +369,10 @@ switches:
     reset: 1
     states: ["繁體", "简体"]
 translator:
+  contextual_suggestions: true
   dictionary: luna_pinyin
+  max_homographs: 7
+  max_homophones: 7
   preedit_format:
     - "xform/([nl])v/$1ü/"
     - "xform/([nl])ue/$1üe/"

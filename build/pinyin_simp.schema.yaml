@@ -1,11 +1,11 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1583155280
+    default: 1583295471
     default.custom: 1583154194
     pinyin_simp.custom: 0
     pinyin_simp.schema: 1559350350
-    symbols: 1583155281
+    symbols: 1583295471
     symbols.custom: 0
 engine:
   processors:
