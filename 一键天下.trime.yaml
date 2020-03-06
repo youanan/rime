@@ -150,6 +150,7 @@ preset_keys:
     Keyboard_default: {label: 返回, send: Eisu_toggle, select: .default,functional: false}
     #Deploy1: {label: ♻️, send: function,command: broadcast, option: "com.osfans.trime.accessibility.deploy"}
     Deploy1: {label: 布署, send: function, command: broadcast, option: "com.osfans.trime.deploy"}
+    Screencast: {label: 录屏,command: run,send: function,option: "com.miui.screenrecorder",functional: false}
     Shift_L: {label: Shift, send: Shift_L, shift_lock: ascii_long,functional: false}
     space1: {repeatable: false, functional: false, preview: " ",send: space }
     Color_switch: {label: 🎨, send: PROG_RED}
@@ -157,7 +158,7 @@ preset_keys:
     Candidate_switch: {label: "候选",toggle: _hide_candidate, send: Mode_switch, states: [🔺,🔻]}
     Esc1: {label: "Esc", commit: " ",functional: false}
     BackSpace: {label: ⌫ , repeatable: true, send: BackSpace,functional: false}
-    BackSpace2: {label: Del ,text: "{Control+a}{BackSpace}",functional: false}
+    BackSpace2: {label: Del ,text: "{Shift+Home}{BackSpace}",functional: false}
     Page_Up: {label: ☚, send: Page_Up,functional: false}
     Page_Down: {label: ☛, send: Page_Down,functional: false}
     select_next: {label: "❷",send: 2,functional: false}
@@ -179,7 +180,8 @@ preset_keys:
     select_all: {label: 全选, send: Control+a}
     cut: {label: 剪切, send: Control+x}
     copy: {label: 复制, send: Control+c}
-    paste: {label: 粘贴, send: Control+v}
+    paste: {label: 粘贴, send: Control+v,functional: false}
+    clip_board: {label: 剪切板, send: Control+Shift+v,functional: false}
     Mode_switch: {toggle: ascii_mode, send: Mode_switch,states: [中文,英文], functional: false}
 preset_keyboards:
   __include: trime:/preset_keyboards
@@ -233,7 +235,7 @@ preset_keyboards:
       - {click: 'z', long_click: '`'}
       - {click: 'x', long_click: cut}
       - {click: 'c', long_click: copy}
-      - {click: 'v', long_click: paste, popup: [_Keyboard_clip, paste,_Keyboard_phrase]}
+      - {click: 'v',swipe_up: paste, long_click: paste, popup: [_Keyboard_clip, paste,_Keyboard_phrase, Screencast]}
       - {click: 'b', long_click: '/'}
       - {click: 'n', long_click: "\\"}
       - {click: 'm', long_click: "?"}
