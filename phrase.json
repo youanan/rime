@@ -1,4 +1,9 @@
 [
+    "python -m http.server 8000",
+    "git commit - m \"changed:\"",
+    "git add .",
+    "git push origin master",
+    "git status",
     "# -*- coding: utf-8 *-*",
     "早上好"
 ]

@@ -10,7 +10,7 @@ __build_info:
     symbols: 1583295471
     symbols.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1582966619
+    wubi86_jidian_pinyin.schema: 1583494526
 abc_segmentor:
   extra_tags:
     - reverse_lookup

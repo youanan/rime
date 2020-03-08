@@ -33,10 +33,15 @@ switches:
 
 engine:
   processors:
+      #处理英文小写字母输入直接上屏，没有这个英文模式也将进入候选栏
     - ascii_composer
+      # 与matcher搭配处理特定规则的输入码
     - recognizer
+      # 绑定按键功能
     - key_binder
+      #处理字母编码
     - speller
+      # 
     - punctuator
     - selector
     - navigator
