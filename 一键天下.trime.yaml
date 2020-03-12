@@ -146,6 +146,8 @@ android_keys:
   __include: trime:/android_keys
 preset_keys:
     __include: trime:/preset_keys
+    __include: lua_preset:/preset_keys
+    #shareOuLu: {label: 欧陆, send: function, command: '欧路词典.lua', option: "%1$s"}
     IME_switch: {label: 输入法, send: LANGUAGE_SWITCH,functional: false}
     Keyboard_default: {label: 返回, send: Eisu_toggle, select: .default,functional: false}
     #Deploy1: {label: ♻️, send: function,command: broadcast, option: "com.osfans.trime.accessibility.deploy"}
@@ -168,7 +170,8 @@ preset_keys:
     Return: {label: "Enter", send: Return}
     Keyboard_num20key: {label: 数字, send: Eisu_toggle, select: num20key,functional: false}
     Keyboard_symkey: {label: 符号, send: Eisu_toggle, select: symkey_1,functional: false}
-    VOICE_ASSIST: {label: "🎤", send: VOICE_ASSIST}
+    # VOICE_ASSIST: {label: "🎤", send: VOICE_ASSIST}
+    VOICE_ASSIST0: {label: 🎤, send: function, command: '语音加提示.lua', option: "%1$s"}
     symkey_left: {label: "◀", send: Eisu_toggle, select: symkey_1,functional: false}
     symkey_right: {label: "▶", send: Eisu_toggle, select: symkey_2,functional: false}
     symkey_top: {label: "▲", send: Eisu_toggle, select: symkey_2,functional: false}
@@ -242,9 +245,9 @@ preset_keyboards:
       - {click: BackSpace,long_click: BackSpace2,width: 15,swipe_up: Delete,key_back_color: *color_i}
       # 5
       - {click: Keyboard_num20key, long_click: IME_switch,has_menu: _Keyboard_candidate, width: 15,key_back_color: *color_i}
-      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: select_fifth,key_back_color: *color_i}
-      - {click: ',', long_click: ";", width: 10,has_menu: select_four}
-      - {click: space1,long_click: VOICE_ASSIST,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
+      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: youdao_1,popup: [Deploy1,youdao_1,youdao_2,youdao_3,youdao_4,youdao_5],key_back_color: *color_i}
+      - {click: ',', long_click: ";", width: 10,has_menu: shareOuLu}
+      - {click: space1,long_click: VOICE_ASSIST0,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
       - {click: ".", long_click: ":", width: 10,has_menu: select_next}
       - {click: Mode_switch, long_click: Candidate_switch,hint: " ", width: 12 ,has_menu: select_third,key_back_color: *color_i}
       - {click: Return, long_click: Color_switch, width: 15}
@@ -267,13 +270,13 @@ preset_keyboards:
       #2
       - {click: '-'}
       - {click: '4', long_click: "["}
-      - {click: '5'}
+      - {click: '5', long_click: LuaNum1}
       - {click: '6', long_click: "]"}
       - {click: Escape,long_click: "="}
       #3
       - {click: '*'}
       - {click: '7', long_click: "{"}
-      - {click: '8'}
+      - {click: '8',long_click: LuaNum}
       - {click: '9', long_click: "}"}
       - {click: Return}
       #4

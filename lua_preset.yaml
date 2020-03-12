@@ -1,0 +1,22 @@
+preset_keys:
+  #有道翻译,将【当前候选】,【编辑框选中文字】的中文内容转其它语种
+  youdao_1: {label: 中英, send: function, command: 'youdao_translate.lua', option: "%1$s<ZH_CN2EN>"} #中文»英语
+  youdao_2: {label: 中日, send: function, command: 'youdao_translate.lua', option: "%1$s<ZH_CN2JA>"} #中文»日语
+  youdao_3: {label: 中韩, send: function, command: 'youdao_translate.lua', option: "%1$s<ZH_CN2KR>"} #中文»韩语
+  youdao_4: {label: 中法, send: function, command: 'youdao_translate.lua', option: "%1$s<ZH_CN2FR>"} #中文»法语
+  youdao_5: {label: 中俄, send: function, command: 'youdao_translate.lua', option: "%1$s<ZH_CN2RU>"} #中文»俄语
+
+ #有道翻译,将【当前候选】,【编辑框选中文字】内容翻译为中文,如英语单词及句子
+  youdao_7: {label: 英中, send: function, command: 'youdao_translate.lua', option: "%1$s<EN2ZH_CN>"} #英语»中文
+  youdao_8: {label: 日中, send: function, command: 'youdao_translate.lua', option: "%1$s<JA2ZH_CN>"} #日语»中文
+  youdao_9: {label: 韩中, send: function, command: 'youdao_translate.lua', option: "%1$s<KR2ZH_CN>"} #韩语»中文
+  youdao_10: {label: 法中, send: function, command: 'youdao_translate.lua', option: "%1$s<FR2ZH_CN>"} #法语»中文
+  youdao_11: {label: 俄中, send: function, command: 'youdao_translate.lua', option: "%1$s<RU2ZH_CN>"} #俄语»中文
+
+ #有道翻译,将【编码】转换为英语单词及句子,其中分隔符如'转换为空格,翻译成中文,
+  youdao_13: {label: 编中, send: function, command: 'youdao_translate.lua', option: "%2$s<EN2ZH_CN>"} #编码»英语»中文
+  shareOuLu: {label: 欧陆, send: function, command: '欧路词典.lua', option: "%1$s"}
+
+  lua_dic_4w_en: {label: Dict, send: function, command: '英语4w简明词典/英语4w简明词典.lua', option: "%2$s"} #英语单词»中文释义
+
+

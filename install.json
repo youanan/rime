@@ -1,0 +1,25 @@
+[
+    {
+        "name": "按键脚本",
+        "time": 1583664442571,
+        "list": [
+            "script\/",
+            "script\/英语4w简明词典\/",
+            "script\/英语4w简明词典\/dic_4w_en.txt",
+            "script\/英语4w简明词典\/英语4w简明词典.lua",
+            "script\/英语4w简明词典\/英语4w简明词典使用说明.jpg"
+        ]
+    },
+    {
+        "name": "语音脚本",
+        "time": 1583654552732,
+        "list": [
+            "data\/",
+            "data\/数据包\/",
+            "data\/数据包\/98wb_spelling.txt",
+            "data\/数据包\/wubi86编码.txt",
+            "data\/数据包\/wubi98编码.txt",
+            "speech.lua"
+        ]
+    }
+]

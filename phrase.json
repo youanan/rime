@@ -1,9 +1,10 @@
 [
+    "游雅萱",
+    "ffmpeg -r 15 -i \/storage\/emulated\/0\/DCIM\/ScreenRecorder\/002.mp4 002.gif",
+    "git commit -m \"changed:\"",
     "python -m http.server 8000",
-    "git commit - m \"changed:\"",
     "git add .",
     "git push origin master",
     "git status",
-    "# -*- coding: utf-8 *-*",
-    "早上好"
+    "# -*- coding: utf-8 *-*"
 ]

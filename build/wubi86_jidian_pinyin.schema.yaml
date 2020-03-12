@@ -5,12 +5,12 @@ CnEnglish:
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1583295471
+    default: 1583629539
     default.custom: 1583154194
-    symbols: 1583295471
+    symbols: 1583629540
     symbols.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1583494526
+    wubi86_jidian_pinyin.schema: 1583658331
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -316,12 +316,10 @@ recognizer:
   import_preset: default
   patterns:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    punct: "^/([0-9]0?|[A-Za-z]+)$"
     reverse_lookup: "`[a-z]*'?$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
-recongnizer:
-  patterns:
-    punct: "^/([0-9]0?|[A-Za-z]+)$"
 reverse_lookup:
   dictionary: pinyin_simp
   preedit_format:

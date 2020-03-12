@@ -61,9 +61,6 @@ engine:
     - simplifier@emoji_cn
     - simplifier@CnEnglish
 
-recongnizer:
-     patterns:
-          punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 speller:
   delimiter: " ;'"
@@ -121,3 +118,4 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
