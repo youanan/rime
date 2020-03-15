@@ -1,10 +1,25 @@
 [
+    "游雅婷一切正常",
+    "Http.get(url,nil,\"utf8\",nil,function(a,b)\n if a==200 then \n   t = \"b\" \n   task(100,function()\n   service.addCompositions({t}) end)\n else\n   print(\"网络似乎出了问题\")\n end\n end)",
+    "tostring(service.getSystemService(Context.CLIPBOARD_SERVICE).getText())",
+    "tostring(service.getLuaExtDir(\"script\/en.txt\"))",
+    "service.addCompositions(内容组)",
+    "service.commitText(d[1][\"content\"] )",
+    "service.sendEvent(\"Select_all\")",
+    "Toast.makeText(service,\"执行 全选并复制 命令\",2000).show()",
+    "Toast.makeText(service,txt,Toast.LENGTH_SHORT).show()",
+    "杨旺珍",
+    "游思进",
     "游雅萱",
+    "游雅婷",
+    "36.5-36.6",
+    "刘仁利",
+    "# -*- coding: utf-8 *-*",
+    "420982198302081474",
     "ffmpeg -r 15 -i \/storage\/emulated\/0\/DCIM\/ScreenRecorder\/002.mp4 002.gif",
     "git commit -m \"changed:\"",
     "python -m http.server 8000",
     "git add .",
     "git push origin master",
-    "git status",
-    "# -*- coding: utf-8 *-*"
+    "git status"
 ]

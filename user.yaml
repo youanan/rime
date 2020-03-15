@@ -1,11 +1,12 @@
 var:
-  last_build_time: 1584001235
+  last_build_time: 1584262806
   option:
     _hide_candidate: true
     _hide_comment: false
     _hide_key_hint: false
     ascii_mode: false
     ascii_punct: false
+    extended_charset: true
     full_shape: false
   previously_selected_schema: pinyin_simp
   schema_access_time:

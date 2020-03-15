@@ -5,5 +5,6 @@ clipboard.json
 cloud.dict.yaml
 github-files
 script/api.json
+script/key.lua
 data/chinese-poetry/
 

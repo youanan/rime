@@ -17,9 +17,8 @@ switches:
     states: [ "中文", "英文" ]
   - name: full_shape
     states: [ "半角", "全角" ]
-    #  - name: extended_charset
-    #  - name: samplification
-    #states: [ "常用","繁体" ]
+  - name: zh_trad
+    states: [ "常用","繁体" ]
   - name: emoji_cn
     reset: 1
     states: [ "☹", "😁" ]
@@ -111,6 +110,10 @@ CnEnglish:
     option_name: CnEnglish
     tips: all
 
+simplifier:
+  opencc_config: s2t.json
+  option_name: zh_trad
+
 key_binder:
   import_preset: default
 
@@ -119,3 +122,4 @@ recognizer:
   patterns:
     reverse_lookup: "`[a-z]*'?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
+

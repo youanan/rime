@@ -5,12 +5,12 @@ CnEnglish:
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    default: 1583629539
-    default.custom: 1583154194
-    symbols: 1583629540
+    default: 1584185081
+    default.custom: 1584259598
+    symbols: 1584185081
     symbols.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1583658331
+    wubi86_jidian_pinyin.schema: 1584257397
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -341,6 +341,9 @@ schema:
   name: "极点五笔拼音混输"
   schema_id: wubi86_jidian_pinyin
   version: 0.9
+simplifier:
+  opencc_config: s2t.json
+  option_name: zh_trad
 speller:
   delimiter: " ;'"
 switches:
@@ -349,6 +352,8 @@ switches:
     states: ["中文", "英文"]
   - name: full_shape
     states: ["半角", "全角"]
+  - name: zh_trad
+    states: ["常用", "繁体"]
   - name: emoji_cn
     reset: 1
     states: ["☹", "😁"]

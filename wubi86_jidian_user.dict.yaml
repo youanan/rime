@@ -16,16 +16,12 @@ sort: original
 # 格式：字词 键码  权重 （中间是tab，不是空格）
 # '#'开头的只是注释，所以可以随便分类了
 # 注释只能另起一行写，不能在词条后面写
-
+# vim: set sw=2 sts=2 noet:
 
 
 游安	iypv
 安陆	pvbf
 荸荠	afay
-荸荠	puqi
-荸	pu
-荠	qi
 面食	dmwy
 洑水	iwii
-洑水	fushui
-
+雅婷	ahvy

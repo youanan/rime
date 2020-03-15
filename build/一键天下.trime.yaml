@@ -1,11 +1,11 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    lua_preset: 1583763680
+    lua_preset: 1584189708
     lua_preset.custom: 0
-    trime: 1583629540
+    trime: 1584185081
     trime.custom: 0
-    "一键天下.trime": 1583764060
+    "一键天下.trime": 1584262800
     "一键天下.trime.custom": 0
 android_keys:
   action:
@@ -369,15 +369,18 @@ android_keys:
     swipe_up: "上滑"
 author: "youanan<youanan@163.com>"
 colors:
-  a: 0xd9d9d6
-  b: 0xEFEFEF
+  a: 0xCFD8DC
+  b: 0xECEFf1
   c: 0xa2a9af
   d: 0x3E4348
-  e: 0x2470a0
-  f: 0x334252
+  e: 0xB0BEC5
+  f: 0x607D8B
   g: 0x2470a0
   h: 0xfd5f00
-  i: 0xbac2c6
+  i: 0x212121
+  j: 0xcc424242
+  k: 0x0D47A1
+  l: 0x181818
 config_version: v1.0
 fallback_colors:
   border_color: back_color
@@ -688,40 +691,45 @@ preset_color_schemes:
     name: NBA
     text_color: 0xffffff
   no_1:
-    back_color: 0xEFEFEF
+    back_color: 0xECEFf1
     border_color: 0x3E4348
     candidate_separator_color: 0xfd5f00
-    candidate_text_color: 0x334252
+    candidate_text_color: 0x3E4348
     comment_text_color: 0x3E4348
     hilited_back_color: 0x00
     hilited_candidate_text_color: 0x2470a0
     hilited_comment_text_color: 0x2470a0
-    hilited_key_back_color: 0x3E4348
-    hilited_key_symbol_color: 0xEFEFEF
-    hilited_key_text_color: 0xEFEFEF
-    hilited_off_key_back_color: 0xa2a9af
-    hilited_off_key_text_color: 0xd9d9d6
-    hilited_on_key_back_color: 0xEFEFEF
-    hilited_on_key_text_color: 0xEFEFEF
+    hilited_key_back_color: 0x607D8B
+    hilited_key_symbol_color: 0xECEFf1
+    hilited_key_text_color: 0xECEFf1
+    hilited_off_key_back_color: 0x607D8B
+    hilited_off_key_text_color: 0xCFD8DC
+    hilited_on_key_back_color: 0x607D8B
+    hilited_on_key_text_color: 0xECEFf1
     hilited_text_color: 0xfd5f00
-    key_back_color: 0xEFEFEF
+    key_back_color: 0xECEFf1
     key_border_color: 0x3E4348
     key_symbol_color: 0xa2a9af
     key_text_color: 0x3E4348
-    keyboard_back_color: 0xd9d9d6
+    keyboard_back_color: 0xCFD8DC
     label_color: 0x3E4348
     name: "No.1/白天模式"
-    off_key_back_color: 0x2470a0
-    off_key_text_color: 0xEFEFEF
-    on_key_back_color: 0xfd5f00
-    on_key_text_color: 0xEFEFEF
-    preview_back_color: 0xEFEFEF
+    off_key_back_color: 0xB0BEC5
+    off_key_text_color: 0x3E4348
+    on_key_back_color: 0x607D8B
+    on_key_text_color: 0xECEFf1
+    preview_back_color: 0xECEFf1
     preview_text_color: 0x3E4348
-    shadow_color: 0xd9d9d6
+    shadow_color: 0xCFD8DC
     text_color: 0xfd5f00
   no_2:
-    "<<": {back_color: 0xEFEFEF, border_color: 0x3E4348, candidate_separator_color: 0xfd5f00, candidate_text_color: 0x334252, comment_text_color: 0x3E4348, hilited_back_color: 0x00, hilited_candidate_text_color: 0x2470a0, hilited_comment_text_color: 0x2470a0, hilited_key_back_color: 0x3E4348, hilited_key_symbol_color: 0xEFEFEF, hilited_key_text_color: 0xEFEFEF, hilited_off_key_back_color: 0xa2a9af, hilited_off_key_text_color: 0xd9d9d6, hilited_on_key_back_color: 0xEFEFEF, hilited_on_key_text_color: 0xEFEFEF, hilited_text_color: 0xfd5f00, key_back_color: 0xEFEFEF, key_border_color: 0x3E4348, key_symbol_color: 0xa2a9af, key_text_color: 0x3E4348, keyboard_back_color: 0xd9d9d6, label_color: 0x3E4348, name: "No.1/白天模式", off_key_back_color: 0x2470a0, off_key_text_color: 0xEFEFEF, on_key_back_color: 0xfd5f00, on_key_text_color: 0xEFEFEF, preview_back_color: 0xEFEFEF, preview_text_color: 0x3E4348, shadow_color: 0xd9d9d6, text_color: 0xfd5f00}
+    "<<": {back_color: 0xECEFf1, border_color: 0x3E4348, candidate_separator_color: 0xfd5f00, candidate_text_color: 0x3E4348, comment_text_color: 0x3E4348, hilited_back_color: 0x00, hilited_candidate_text_color: 0x2470a0, hilited_comment_text_color: 0x2470a0, hilited_key_back_color: 0x607D8B, hilited_key_symbol_color: 0xECEFf1, hilited_key_text_color: 0xECEFf1, hilited_off_key_back_color: 0x607D8B, hilited_off_key_text_color: 0xCFD8DC, hilited_on_key_back_color: 0x607D8B, hilited_on_key_text_color: 0xECEFf1, hilited_text_color: 0xfd5f00, key_back_color: 0xECEFf1, key_border_color: 0x3E4348, key_symbol_color: 0xa2a9af, key_text_color: 0x3E4348, keyboard_back_color: 0xCFD8DC, label_color: 0x3E4348, name: "No.1/白天模式", off_key_back_color: 0xB0BEC5, off_key_text_color: 0x3E4348, on_key_back_color: 0x607D8B, on_key_text_color: 0xECEFf1, preview_back_color: 0xECEFf1, preview_text_color: 0x3E4348, shadow_color: 0xCFD8DC, text_color: 0xfd5f00}
+    key_back_color: 0xcc424242
+    key_text_color: 0xECEFf1
+    keyboard_back_color: 0x212121
     name: "No.2/夜间模式"
+    off_key_back_color: 0x181818
+    off_key_text_color: 0xECEFf1
   ps4:
     author: "Patricivs <ipatrickmac@me.com>"
     back_color: 0x000000
@@ -1074,9 +1082,9 @@ preset_keyboards:
     key_hint_offset_y: 9
     key_symbol_offset_y: "-3"
     key_text_offset_y: 1
-    keys: [{click: 1, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")", swipe_up: Candidate_switch}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}", swipe_down: Hide}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, has_menu: Esc1, key_back_color: 0xbac2c6, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste, popup: [_Keyboard_clip, paste, _Keyboard_phrase, Screencast], swipe_up: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, key_back_color: 0xbac2c6, long_click: BackSpace2, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, has_menu: _Keyboard_candidate, key_back_color: 0xbac2c6, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: youdao_1, key_back_color: 0xbac2c6, long_click: Deploy1, popup: [Deploy1, youdao_1, youdao_2, youdao_3, youdao_4, youdao_5], width: 12}, {click: ",", has_menu: shareOuLu, long_click: ";", width: 10}, {click: space1, key_text_size: 10, long_click: VOICE_ASSIST0, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: select_next, long_click: ":", width: 10}, {click: Mode_switch, has_menu: select_third, hint: " ", key_back_color: 0xbac2c6, long_click: Candidate_switch, width: 12}, {click: Return, long_click: Color_switch, width: 15}]
+    keys: [{click: 1, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, long_click: ")"}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}", swipe_down: Hide}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, has_menu: Esc1, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste, popup: [_Keyboard_clip, paste, _Keyboard_phrase, Screencast], swipe_up: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, long_click: BackSpace2, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, has_menu: _Keyboard_candidate, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: youdao_1, long_click: Deploy1, popup: [Deploy1, youdao_1, youdao_2, youdao_3, youdao_4, youdao_5], width: 12}, {click: ",", has_menu: shareOuLu, long_click: ";", width: 10}, {click: space1, key_text_size: 10, long_click: VOICE_ASSIST0, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: select_next, long_click: ":", width: 10}, {click: Mode_switch, has_menu: select_third, hint: " ", long_click: Candidate_switch, width: 12}, {click: Return, key_back_color: 0x1565C0, key_text_color: 0xECEFF1, long_click: Color_switch, width: 15}]
     lock: true
-    name: mian_45key
+    name: main_45key
     width: 10
 preset_keys:
   BRIGHTNESS_DOWN:
@@ -1087,14 +1095,13 @@ preset_keys:
     send: BRIGHTNESS_UP
   BackSpace:
     description: "删除"
-    functional: false
     label: "⌫"
     repeatable: true
     send: BackSpace
   BackSpace2:
     functional: false
     label: Del
-    text: "{Shift+Home}{BackSpace}"
+    text: "{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}"
   BackToPreviousSyllable:
     label: "删音节"
     send: "Control+BackSpace"
@@ -1189,7 +1196,7 @@ preset_keys:
     send: End
   Esc1:
     commit: " "
-    functional: false
+    functional: true
     label: Esc
   Escape:
     functional: false
@@ -1234,7 +1241,6 @@ preset_keys:
     select: .next
     send: LANGUAGE_SWITCH
   IME_switch:
-    functional: false
     label: "输入法"
     send: LANGUAGE_SWITCH
   Info:
@@ -1261,7 +1267,6 @@ preset_keys:
     select: letter
     send: Eisu_toggle
   Keyboard_num20key:
-    functional: false
     label: "数字"
     select: num20key
     send: Eisu_toggle
@@ -1278,7 +1283,6 @@ preset_keys:
     select: symbols
     send: Eisu_toggle
   Keyboard_symkey:
-    functional: false
     label: "符号"
     select: symkey_1
     send: Eisu_toggle
@@ -1313,7 +1317,6 @@ preset_keys:
     label: "菜单"
     send: Menu
   Mode_switch:
-    functional: false
     send: Mode_switch
     states: ["中文", "英文"]
     toggle: ascii_mode
@@ -1339,6 +1342,7 @@ preset_keys:
     toggle: ascii_punct
   Return:
     description: "回车"
+    functional: false
     label: Enter
     send: Return
   Right:
@@ -1367,7 +1371,6 @@ preset_keys:
     label: "设置"
     send: SETTINGS
   Shift_L:
-    functional: false
     label: Shift
     send: Shift_L
     shift_lock: ascii_long
@@ -1464,6 +1467,11 @@ preset_keys:
     command: add_phrase
     functional: true
     label: "添加"
+    send: function
+  adduserdict:
+    command: adduserdict.lua
+    label: "加词"
+    option: "%2$s|%1$s"
     send: function
   clip_board:
     functional: false
@@ -1656,7 +1664,6 @@ style:
   key_width: 10.0
   keyboards:
     - .default
-    - default
     - main_45key
     - num20key
     - symkey_1
