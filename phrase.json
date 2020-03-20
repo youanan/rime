@@ -1,8 +1,11 @@
 [
+    "local file = assert(io.open(fileName, 'r'), 'Error loading file : ' .. fileName)",
+    "require \"import\"\nimport \"android.app.*\"\nimport \"android.os.*\"\nimport \"android.widget.*\"\nimport \"android.view.*\"\nimport \"android.content.Context\" ",
+    "tostring(service.getLuaExtDir(\"script\/en.txt\"))",
+    "原来，这个世界上并没有真正稳定的工作，没有稳定的行业，也没有稳定的岗位。\n\n能真正让你稳定的，只有你的能力，和你每天都在进步的生活。\n\n不要等到一艘船从舱顶开始漏水的时候，你才知道已经沉了。",
     "游雅婷一切正常",
     "Http.get(url,nil,\"utf8\",nil,function(a,b)\n if a==200 then \n   t = \"b\" \n   task(100,function()\n   service.addCompositions({t}) end)\n else\n   print(\"网络似乎出了问题\")\n end\n end)",
     "tostring(service.getSystemService(Context.CLIPBOARD_SERVICE).getText())",
-    "tostring(service.getLuaExtDir(\"script\/en.txt\"))",
     "service.addCompositions(内容组)",
     "service.commitText(d[1][\"content\"] )",
     "service.sendEvent(\"Select_all\")",

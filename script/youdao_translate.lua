@@ -117,6 +117,7 @@ if string.sub(候选,1,1)=="<" then
 end
 
 
+--http://fanyi.youdao.com/translate?&doctype=json&type="<ZH_CN2EN>"&i=你好"
 
 
 --Toast.makeText(service, 翻译类型,Toast.LENGTH_SHORT).show() --弹出信息

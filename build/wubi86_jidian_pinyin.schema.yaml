@@ -10,7 +10,7 @@ __build_info:
     symbols: 1584185081
     symbols.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1584257397
+    wubi86_jidian_pinyin.schema: 1584314640
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -373,7 +373,7 @@ translator:
   enable_completion: true
   enable_encoder: true
   enable_sentence: true
-  enable_user_dict: false
+  enable_user_dict: true
   encode_commit_history: false
   max_phrase_length: 10
   user_dict: user

@@ -1,11 +1,37 @@
-﻿
-function jokes()
-  local host = "https://www.mxnzp.com/api"
-  local sjxh = "/jokes/list/random"
+﻿require "import"
+--import "android.app.*"
+import "android.os.File"
+import "android.widget.*"
+import "android.view.*"
+import "android.content.Context"
+
+local condidate = (...)
+
+local host = "https://openapi.youdao.com/api"
+local q = "你好"
+local from = "zh-CHS"
+local to = "en"
+local appKey = "0ed0548eec422432"
+local salt = 
+local sign = 
+local curtime = 
+--[[
+]]
+
+
+
+
+
+
+
+
+
+
+
   local f,e= tostring(service.getLuaExtDir("script/key.lua"))
   if e == nil then
     require "script.key"
-    local id,keys = idkey()
+    local id,keys = youdaokey()
     url = host..sjxh.."?"..id..keys
   else
     url = host..sjxh
@@ -20,7 +46,6 @@ function jokes()
       print("网络似乎出了问题")
     end
   end)
-end
 
 
 

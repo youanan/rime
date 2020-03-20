@@ -19,5 +19,6 @@ preset_keys:
 
   lua_dic_4w_en: {label: Dict, send: function, command: '英语4w简明词典/英语4w简明词典.lua', option: "%2$s"} #英语单词»中文释义
   adduserdict: {label: 加词,send: function, command: 'adduserdict.lua',option: "%2$s|%1$s"}
+  heweather: {label: 天气,send: function, command: 'heweather.lua',option: "%2$s"}
 
 

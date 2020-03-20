@@ -3,7 +3,7 @@ name: wubi86_jidian_user
 version: "2019-01-20"
 last_edit_time: "2019-02-28"
 
-sort: original
+sort: by_weight
 #vim set:noexpandtab
 # 码表的排序方式
   # by_weight 权重
@@ -19,9 +19,9 @@ sort: original
 # vim: set sw=2 sts=2 noet:
 
 
-游安	iypv
-安陆	pvbf
-荸荠	afay
-面食	dmwy
-洑水	iwii
-雅婷	ahvy
+游安	iypv	90%
+安陆	pvbf	90%
+荸荠	afay	90%
+面食	dmwy	90%
+洑水	iwii	90%
+雅婷	ahvy	90%

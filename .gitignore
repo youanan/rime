@@ -7,4 +7,8 @@ github-files
 script/api.json
 script/key.lua
 data/chinese-poetry/
+data/chinese-poetry-simplified/
+data/chinese-gushiwen/
+
+
 
