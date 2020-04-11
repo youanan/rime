@@ -55,34 +55,32 @@ Http.get(url,nil,"utf-8",nil,function(a,b)
     local d3_wind=day3.wind_dir --风向
     local d3_wind_sc=day3.wind_sc --风力
     local d3wind = d3_wind..d3_wind_sc.."级"     --后天风向风级
-    --[[67 lines emoji
+    --67 lines emoji
     local emoji = {}
-    function toemoji(x)
-    local x = tostring(x)
-    emoji[100] = "⛅⛱️"   --Sunny/Clearg
-    emoji[101] = "🌥️"   --Cloudyg
-    emoji["少云"] = "🌥️"  --Few Cloudsg
-    emoji["晴间多云"] = "🌥️"   --Partly Cloudyg
-    emoji[104] = "☁️"  --Overcastg
+    emoji["晴"] = "☀"   --Sunny/Clearg
+    emoji["多云"] = "⛅"   --Cloudyg
+    emoji["少云"] = "⛅"  --Few Cloudsg
+    emoji["晴间多云"] = "⛅"   --Partly Cloudyg
+    emoji["阴"] = "☁️"  --Overcastg
     emoji["有风"] = "🌬️"   --Windyg
     emoji["平静"] = "🏕️"  --Calmg
     emoji["微风"] = "🌬️"  --Light Breezeg
     emoji["和风"] = "🌬️" --Moderate/Gentle Breezeg
     emoji["清风"] = "🌬️"   --Fresh Breezeg
     emoji["强风/劲风"] ="🌬️🌬️"  --Strong Breezeg
-    emoji["疾风"] = "🌬️🌬️🌬️"  --High Wind, Near Galeg
-    emoji["大风"] = "🌬️🌬️🌬️"  --Galeg
-    emoji["烈风"] = "🌬️🌬️🌬️🌬️"  --Strong Galeg
-    emoji["风暴"] = "🌬️🌬️🌬️🌬️🌬️"  --Stormg
-    emoji["狂爆风"] = "🌬️🌬️🌬️🌬️🌬️🌬️"  --Violent Stormg
+    emoji["疾风"] = "🌬️🌬️"  --High Wind, Near Galeg
+    emoji["大风"] = "🌬️🌬️"  --Galeg
+    emoji["烈风"] = "🌬️🌬️"  --Strong Galeg
+    emoji["风暴"] = "🌬️🌬️🌬️"  --Stormg
+    emoji["狂爆风"] = "🌬️🌬️🌬️"  --Violent Stormg
     emoji["飓风"] = "🌀" --Hurricaneg
     emoji["龙卷风"] = "🌪️"  --Tornadog
     emoji["热带风暴"] = "🌀🌀"  --Tropical Stormg
-    emoji["阵雨"] = "☀️🌧️☀️"  --Shower Raing
-    emoji["强阵雨"] = "☀️🌧️🌧️☀️"  --Heavy Shower Raing
-    emoji["雷阵雨"] = "☀️⛈️☀️"  --Thundershowerg
-    emoji["强雷阵雨"] = "☀️⛈️⛈️☀️"  --Heavy Thunderstormg
-    emoji["雷阵雨伴有冰雹"] = "☀️⛈️☄️☀️"  --Thundershower with hailg
+    emoji["阵雨"] = "🌧️"  --Shower Raing
+    emoji["强阵雨"] = "🌧️"  --Heavy Shower Raing
+    emoji["雷阵雨"] = "⛈️"  --Thundershowerg
+    emoji["强雷阵雨"] = "⛈️"  --Heavy Thunderstormg
+    emoji["雷阵雨伴有冰雹"] = "⛈️☄️"  --Thundershower with hailg
     emoji["小雨"] = "🌧️"   --Light Raing
     emoji["中雨"] = "🌧️" --Moderate Raing
     emoji["大雨"] = "🌧️"  --Heavy Raing
@@ -127,33 +125,31 @@ Http.get(url,nil,"utf-8",nil,function(a,b)
     emoji["热"] = "🔥"   --Hotg
     emoji["冷"] = "⛄"  --Coldg
     emoji["未知"] = "🌝"   --Unknowng
-    for k,v in ipairs(emoji) do
-      if k == x then
-        print(type(x)..emoji[k])
-        return emoji.k
-      end
-    end
-   end
-   ]]
 
     local l1 = city
     local l2 = update
     local l3 ="▃▃▃▃▃▃▃▃▃▃▃\n"
-    local l4_1 = day1.cond_txt_n
-    local l4_2 = day1.cond_txt_d
-    local l4 = "今天 :"..l4_1.."/"..l4_2.."\n"
-    local l5 = "╚🌡️: "..d1tmp..d1wind.."\n"
-    local l6_1 = day2.cond_txt_n
-    local l6_2 = day2.cond_txt_d
-    local l6 = "明天: "..l6_1.."/"..l6_2.."\n"
-    local l7 = "╚🌡️: "..d2tmp..d2wind.."\n"
-    local l8_1 = day3.cond_txt_n
-    local l8_2 = day3.cond_txt_d
-    local l8 = "后天: "..l8_1.."/"..l8_2.."\n"
-    local l9 = "╚🌡️: "..d3tmp..d3wind
+    local shu ="🌴🌴🌴🌴🌴🌴🌴🌴🌴\n"
+
+    local l4_1 = emoji[day1.cond_txt_n]
+    local l4_2 = emoji[day1.cond_txt_d]
+    local l4_3 = day1.cond_txt_n.."/"..day1.cond_txt_n
+    --local l4 = "今天 :"..l4_1.."/"..l4_2..l4_3.."\n"
+    local l4 = "今天 :"..l4_1.."/"..l4_2..d1tmp.."\n"
+    --local l5 = "╚🔥: "..d1tmp..d1wind.."\n"
+    local l6_1 = emoji[day2.cond_txt_n]
+    local l6_2 = emoji[day2.cond_txt_d]
+    --local l6_3 = day2.cond_txt_n.."/"..day2.cond_txt_n
+    local l6 = "明天 : "..l6_1.."/"..l6_2..d2tmp.."\n"
+    --local l7 = "╚🔥: "..d2tmp..d2wind.."\n"
+    local l8_1 = emoji[day3.cond_txt_n]
+    local l8_2 = emoji[day3.cond_txt_d]
+    --local l8_3 = day3.cond_txt_n.."/"..day3.cond_txt_n
+    local l8 = "后天: "..l8_1.."/"..l8_2..d3tmp.."\n"
+    --local l9 = "╚🔥: "..d3tmp..d3wind
     task(10,function()
       --重新取得天气文字
-      local totxt = l1..l2..l3..l4..l5..l6..l7..l8..l9
+      local totxt = l1..l2..shu..l4..l6..l8
       service.addCompositions({totxt}) 
     end)
   else

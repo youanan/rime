@@ -1,11 +1,11 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    lua_preset: 1584663447
+    lua_preset: 1586131044
     lua_preset.custom: 0
-    trime: 1584185081
+    trime: 1584768193
     trime.custom: 0
-    "一键天下.trime": 1584663579
+    "一键天下.trime": 1586181757
     "一键天下.trime.custom": 0
 android_keys:
   action:
@@ -1078,11 +1078,11 @@ preset_keyboards:
   wubi86_jidian_pinyin:
     ascii_mode: 1
     author: "youanan<youanan@163.com>"
-    height: 50
+    height: 45
     key_hint_offset_y: 9
     key_symbol_offset_y: "-3"
     key_text_offset_y: 1
-    keys: [{click: 1, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, long_click: "&"}, {click: 8, long_click: "*"}, {click: 9, long_click: "("}, {click: 0, has_menu: heweather, long_click: ")"}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}", swipe_down: Hide}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, has_menu: Esc1, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste, popup: [_Keyboard_clip, paste, _Keyboard_phrase, Screencast], swipe_up: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, long_click: BackSpace2, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, has_menu: _Keyboard_candidate, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: youdao_1, long_click: Deploy1, popup: [Deploy1, youdao_1, youdao_2, youdao_3, youdao_4, youdao_5], width: 12}, {click: ",", has_menu: shareOuLu, long_click: ";", width: 10}, {click: space1, key_text_size: 10, long_click: VOICE_ASSIST1, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: select_next, long_click: ":", width: 10}, {click: Mode_switch, has_menu: select_third, hint: " ", long_click: Candidate_switch, width: 12}, {click: Return, key_back_color: 0x1565C0, key_text_color: 0xECEFF1, long_click: Color_switch, width: 15}]
+    keys: [{click: 1, height: 40, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, long_click: "^"}, {click: 7, has_menu: express, long_click: "&"}, {click: 8, has_menu: userdict, long_click: "*"}, {click: 9, has_menu: dictionary, long_click: "("}, {click: 0, has_menu: heweather, long_click: ")"}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}", swipe_down: Hide}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste, popup: [_Keyboard_clip, paste, _Keyboard_phrase, Screencast], swipe_up: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\"}, {click: m, long_click: "?"}, {click: BackSpace, long_click: BackSpace2, swipe_up: Delete, width: 15}, {click: Keyboard_num20key, has_menu: _Keyboard_candidate, long_click: IME_switch, width: 15}, {click: Keyboard_symkey, has_menu: delimiter, long_click: Deploy1, popup: [Deploy1, youdao_1, youdao_2, youdao_3, youdao_4, youdao_5, userdict], width: 12}, {click: ",", long_click: ";", width: 10}, {click: space1, key_text_size: 10, long_click: VOICE_ASSIST1, swipe_left: Home, swipe_right: End, width: 26}, {click: ., long_click: ":", width: 10}, {click: Mode_switch, hint: " ", long_click: Candidate_switch, width: 12}, {click: Return, key_back_color: 0x1565C0, key_text_color: 0xECEFF1, long_click: Color_switch, width: 15}]
     lock: true
     name: main_45key
     width: 10
@@ -1101,7 +1101,7 @@ preset_keys:
   BackSpace2:
     functional: false
     label: Del
-    text: "{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}"
+    text: "{Shift_L+Home}"
   BackToPreviousSyllable:
     label: "删音节"
     send: "Control+BackSpace"
@@ -1127,6 +1127,9 @@ preset_keys:
     send: Mode_switch
     states: ["🔺", "🔻"]
     toggle: _hide_candidate
+  Caps_Lock:
+    label: Caps
+    send: Caps_Lock
   Charset_switch:
     send: Mode_switch
     states: ["常用", "增廣"]
@@ -1467,11 +1470,6 @@ preset_keys:
     functional: true
     label: "添加"
     send: function
-  adduserdict:
-    command: adduserdict.lua
-    label: "加词"
-    option: "%2$s|%1$s"
-    send: function
   clip_board:
     functional: false
     label: "剪切板"
@@ -1492,6 +1490,15 @@ preset_keys:
     description: "分词"
     label: "分词"
     text: "'"
+  dictionary:
+    command: test.lua
+    label: "字典"
+    option: "%1$s"
+    send: function
+  express:
+    command: express.lua
+    label: "快递"
+    send: function
   heweather:
     command: heweather.lua
     label: "天气"
@@ -1550,7 +1557,7 @@ preset_keys:
   shareOuLu:
     command: "欧路词典.lua"
     label: "欧陆"
-    option: "%1$s"
+    option: "%2$s"
     send: function
   share_text:
     label: "分享文本"
@@ -1588,6 +1595,11 @@ preset_keys:
   undo:
     label: "撤销"
     send: "Control+z"
+  userdict:
+    command: userdict.lua
+    label: "加词"
+    option: "%4$s"
+    send: function
   youdao_1:
     command: youdao_translate.lua
     label: "中英"
@@ -1674,7 +1686,7 @@ style:
     - symkey_2
     - symkey_3
     - symkey_4
-  label_font: number2.ttf
+  label_font: label.ttf
   label_text_size: 16
   latin_font: latin.ttf
   latin_locale: en_US

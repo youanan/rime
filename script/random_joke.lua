@@ -10,12 +10,22 @@ function jokes()
   else
     url = host..sjxh
   end
-  Http.get(url,function(a,b)
+
+  Http.get(url,nil,"utf-8",nil,function(a,b)
     if a==200 then
       local json = require "cjson"
-      t = json.decode(b).data
+      t = json.decode(b)
+      if t.code == 0 then
+        print(t.msg)
+      else
+      list = {}
+      for i=1,3 do
+        list[i] = t.data[i].content
+        end
       task(10,function()
-        service.addCompositions({t[1]["content"]}) end)
+      service.addCompositions(list)
+      end)
+      end
     else
       print("网络似乎出了问题")
     end

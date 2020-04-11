@@ -5,6 +5,7 @@ config_version: "v1.0"
 name: 一键天下
 author: youanan<youanan@163.com>
 #---------------------
+
 style:
   __include: trime:/style
   color_scheme: no_1  #默认配色
@@ -21,20 +22,22 @@ style:
   preview_offset: -12 #按鍵提示縱向偏移
   preview_text_size: 40 #按鍵提示字號
   candidate_font: syht-Regular.otf
-  label_font: number2.ttf
+  #label_font: number2.ttf
   label_text_size: 16
   candidate_text_size: 16
   comment_text_size: 12
   horizontal_gap: 5
   vertical_gap: 8
-  keyboards:
-    - .default
-    - main_45key  #主键盘
-    - num20key
-    - symkey_1
-    - symkey_2
-    - symkey_3
-    - symkey_4
+
+  keyboards: [.default, default, letter, number, symbols01, symbols02, symbols03, symbols11, symbols12, symbols13, symbols14, symbols21, symbols22, symbols31, symbols32, symbols33, symbols34, symbols35, symbols36, symbols41, symbols42, symbols43, symbols44, symbols51, symbols52, symbols53, symbols54, symbols55, symbols56, symbols61, symbols62, symbols63, symbols64, symbols65, symbols71, symbols72, symbols73, symbols74, symbols75, symbols81, symbols82, symbols83, symbols91, symbols92, symbols93, symbolsA1, symbolsA2, symbolsA3, symbolsA4, symbolsA5, symbolsB1, symbolsB2, symbolsB3, symbolsC1, symbolsC2, symbolsC3, symbolsC4, symbolsC5, symbolsD1, symbolsD2] #键盘配置
+  #keyboards:
+    #- .default
+      #- main_45key  #主键盘
+      #- num20key
+      #    - symkey_1
+      #    - symkey_2
+      #- symkey_3
+      #- symkey_4
   # 悬浮窗口
   layout:
     position: fixed
@@ -65,24 +68,25 @@ style:
 
 # 定义颜色
 colors:
-    a: &color_a 0xCFD8DC  #键盘底蓝灰色100
-    b: &color_b 0xECEFf1   #按键底白色
-    c: &color_c 0xa2a9af   #功能键浅灰色
-    d: &color_d 0x3E4348   #按键字深灰色
-    e: &color_e 0xB0BEC5   #功能键蓝灰200
-    f: &color_f 0x607D8B   #蓝灰500
-    g: &color_g 0x2470a0   #蓝色
-    h: &color_h 0xfd5f00   #橙色
-    i: &color_i 0x212121   #深黑灰色900
-    j: &color_j 0xcc424242 #深黑灰色800
-    k: &color_k 0x0D47A1   #深蓝900
-    l: &color_l 0x181818   #深灰700
+  a: &color_a 0xCFD8DC  #键盘底蓝灰色100
+  b: &color_b 0xECEFf1   #按键底白色
+  c: &color_c 0xa2a9af   #功能键浅灰色
+  d: &color_d 0x3E4348   #按键字深灰色
+  e: &color_e 0xB0BEC5   #功能键蓝灰200
+  f: &color_f 0x607D8B   #蓝灰500
+  g: &color_g 0x2470a0   #蓝色
+  h: &color_h 0xfd5f00   #橙色
+  i: &color_i 0x212121   #深黑灰色900
+  j: &color_j 0xcc424242 #深黑灰色800
+  k: &color_k 0x0D47A1   #深蓝900
+  l: &color_l 0x181818   #深灰700
 
 #
 #---------------------
 
 fallback_colors:
   __include: trime:/fallback_colors
+
 preset_color_schemes:
   __include: trime:/preset_color_schemes
   __patch:
@@ -93,6 +97,19 @@ preset_color_schemes:
     tantsing:
     flypy:
 
+colors:
+  a: &color_a 0xCFD8DC  #键盘底蓝灰色100
+  b: &color_b 0xECEFf1   #按键底白色
+  c: &color_c 0xa2a9af   #功能键浅灰色
+  d: &color_d 0x3E4348   #按键字深灰色
+  e: &color_e 0xB0BEC5   #功能键蓝灰200
+  f: &color_f 0x607D8B   #蓝灰500
+  g: &color_g 0x2470a0   #蓝色
+  h: &color_h 0xfd5f00   #橙色
+  i: &color_i 0x212121   #深黑灰色900
+  j: &color_j 0xcc424242 #深黑灰色800
+  k: &color_k 0x0D47A1   #深蓝900
+  l: &color_l 0x181818   #深灰700
   no_1: &no_1
     name: No.1/白天模式
     #悬浮窗口
@@ -159,6 +176,7 @@ preset_keys:
     __include: lua_preset:/preset_keys
     #shareOuLu: {label: 欧陆, send: function, command: '欧路词典.lua', option: "%1$s"}
     IME_switch: {label: 输入法, send: LANGUAGE_SWITCH}
+    Caps_Lock: {label: Caps, send: Caps_Lock}
     Keyboard_default: {label: 返回, send: Eisu_toggle, select: .default,functional: false}
     #Deploy1: {label: ♻️, send: function,command: broadcast, option: "com.osfans.trime.accessibility.deploy"}
     Deploy1: {label: 布署, send: function, command: broadcast, option: "com.osfans.trime.deploy"}
@@ -167,10 +185,11 @@ preset_keys:
     space1: {repeatable: false, functional: false, preview: " ",send: space }
     Color_switch: {label: 🎨, send: PROG_RED}
     Escape: {label: "空格", send: space,functional: false}
+    delimiter: {label: 分词, text: ''''}
     Candidate_switch: {label: "候选",toggle: _hide_candidate, send: Mode_switch, states: [🔺,🔻]}
     Esc1: {label: "Esc", commit: " ",functional: true}
     BackSpace: {label: ⌫ , repeatable: true, send: BackSpace}
-    BackSpace2: {label: Del ,text: "{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}{BackSpace}",functional: false}
+    BackSpace2: {label: Del ,text: "{Shift_L+Home}",functional: false}
     Page_Up: {label: ☚, send: Page_Up,functional: false}
     Page_Down: {label: ☛, send: Page_Down,functional: false}
     select_next: {label: "❷",send: 2,functional: false}
@@ -179,7 +198,7 @@ preset_keys:
     select_fifth: {label: "❺",send: 5,functional: false}
     Return: {label: "Enter", send: Return,functional: false}
     Keyboard_num20key: {label: 数字, send: Eisu_toggle, select: num20key}
-    Keyboard_symkey: {label: 符号, send: Eisu_toggle, select: symkey_1}
+    Keyboard_symkey: {label: 符号, send: Eisu_toggle, select: symbols01}
     VOICE_ASSIST: {label: "🎤", send: VOICE_ASSIST}
     VOICE_ASSIST1: {label: 🎤, send: function, command: '语音加提示.lua'}
     symkey_left: {label: "◀", send: Eisu_toggle, select: symkey_1,functional: false}
@@ -196,29 +215,175 @@ preset_keys:
     paste: {label: 粘贴, send: Control+v,functional: false}
     clip_board: {label: 剪切板, send: Control+Shift+v,functional: false}
     Mode_switch: {toggle: ascii_mode, send: Mode_switch,states: [中文,英文]}
+
+  K_back: {label: 返回, send: Eisu_toggle, select: .last_lock}
+  K_back1: {label: ☞, functional: false, send: Eisu_toggle, select: .last_lock}
+  K_back2: {label: EN, send: Eisu_toggle, select: .last_lock}
+  K_default: {label: 默认, functional: false, send: Eisu_toggle, select: .default}
+  K_default1: {label: EN, functional: false, send: Eisu_toggle, select: .default}
+  K_defaultMR: {label: "⌨", functional: false, send: Eisu_toggle, select: .default}
+  K_default2: {label: 默认, functional: false, send: Eisu_toggle, select: default2}
+  K_default3: {label: 默认, functional: false, send: Eisu_toggle, select: default3}
+  K_default4: {label: 默认, functional: false, send: Eisu_toggle, select: default4}
+  K_menu: {label: ❖, preview: ' ', functional: false, send: Eisu_toggle, select: menu}
+  K_menu1: {label: ●, preview: ' ', functional: false, send: Eisu_toggle, select: menu}
+  K_menu2: {label: 选单, preview: ' ', functional: false, send: Eisu_toggle, select: menu}
+  K_menux: {label: 菜单2, preview: ' ', functional: false, send: Eisu_toggle, select: menux}
+  K_menux1: {label: ●, preview: ' ', functional: false, send: Eisu_toggle, select: menux}
+  K_letter: {label: abc, send: Eisu_toggle, select: letter}
+  K_letter1: {label: 中文, send: Eisu_toggle, select: letter}
+  K_switch: {label: 键盘, send: Eisu_toggle, select: .next}
+  K_number: {label: "#!?", send: Eisu_toggle, select: number}
+  K_symbols: {label: "❅", send: Eisu_toggle, select: symbols11}
+  K_symbols123: {label: "#!?...", send: Eisu_toggle, select: symbols01}
+  K_symbols0z: {label: "<", send: Eisu_toggle, select: symbols01}
+  K_symbols0y: {label: ">", send: Eisu_toggle, select: symbols71}
+  K_symbols00: {label: "数字", send: Eisu_toggle, select: symbols01}
+  K_symbols01: {label: "▲", send: Eisu_toggle, select: symbols01}
+  K_symbols0g: {label: "功能", send: Eisu_toggle, select: symbols02}
+  K_symbols0x: {label: "‹ɪ›", send: Eisu_toggle, select: symbols02}
+  K_symbols02: {label: "▲", send: Eisu_toggle, select: symbols02}
+  K_symbols02x: {label: "▼", send: Eisu_toggle, select: symbols02}
+  K_symbols0w: {label: "应用", send: Eisu_toggle, select: symbols03}
+  K_symbols03: {label: "▲", send: Eisu_toggle, select: symbols03}
+  K_symbols03x: {label: "▼", send: Eisu_toggle, select: symbols03}
+  K_symbols10: {label: "英文", send: Eisu_toggle, select: symbols11}
+  K_symbols11: {label: "▲", send: Eisu_toggle, select: symbols11}
+  K_symbols12: {label: "▲", send: Eisu_toggle, select: symbols12}
+  K_symbols12x: {label: "▼", send: Eisu_toggle, select: symbols12}
+  K_symbols13: {label: "▲", send: Eisu_toggle, select: symbols13}
+  K_symbols13x: {label: "▼", send: Eisu_toggle, select: symbols13}
+  K_symbols14: {label: "▲", send: Eisu_toggle, select: symbols14}
+  K_symbols14x: {label: "▼", send: Eisu_toggle, select: symbols14}
+  K_symbols20: {label: "中文", send: Eisu_toggle, select: symbols21}
+  K_symbols21: {label: "▲", send: Eisu_toggle, select: symbols21}
+  K_symbols22: {label: "▲", send: Eisu_toggle, select: symbols22}
+  K_symbols22x: {label: "▼", send: Eisu_toggle, select: symbols22}
+  K_symbols30: {label: "^_^", send: Eisu_toggle, select: symbols31}
+  K_symbols31: {label: "▲", send: Eisu_toggle, select: symbols31}
+  K_symbols32: {label: "▲", send: Eisu_toggle, select: symbols32}
+  K_symbols32x: {label: "▼", send: Eisu_toggle, select: symbols32}
+  K_symbols33: {label: "▲", send: Eisu_toggle, select: symbols33}
+  K_symbols33x: {label: "▼", send: Eisu_toggle, select: symbols33}
+  K_symbols34: {label: "▲", send: Eisu_toggle, select: symbols34}
+  K_symbols34x: {label: "▼", send: Eisu_toggle, select: symbols34}
+  K_symbols35: {label: "▲", send: Eisu_toggle, select: symbols35}
+  K_symbols35x: {label: "▼", send: Eisu_toggle, select: symbols35}
+  K_symbols36: {label: "▲", send: Eisu_toggle, select: symbols36}
+  K_symbols36x: {label: "▼", send: Eisu_toggle, select: symbols36}
+  K_symbols40: {label: "😊", send: Eisu_toggle, select: symbols41}
+  K_symbols41: {label: "▲", send: Eisu_toggle, select: symbols41}
+  K_symbols42: {label: "▲", send: Eisu_toggle, select: symbols42}
+  K_symbols42x: {label: "▼", send: Eisu_toggle, select: symbols42}
+  K_symbols43: {label: "▲", send: Eisu_toggle, select: symbols43}
+  K_symbols43x: {label: "▼", send: Eisu_toggle, select: symbols43}
+  K_symbols44: {label: "▲", send: Eisu_toggle, select: symbols44}
+  K_symbols44x: {label: "▼", send: Eisu_toggle, select: symbols44}
+  K_symbols50: {label: "特殊", send: Eisu_toggle, select: symbols51}
+  K_symbols51: {label: "▲", send: Eisu_toggle, select: symbols51}
+  K_symbols52: {label: "▲", send: Eisu_toggle, select: symbols52}
+  K_symbols52x: {label: "▼", send: Eisu_toggle, select: symbols52}
+  K_symbols53: {label: "▲", send: Eisu_toggle, select: symbols53}
+  K_symbols53x: {label: "▼", send: Eisu_toggle, select: symbols53}
+  K_symbols54: {label: "▲", send: Eisu_toggle, select: symbols54}
+  K_symbols54x: {label: "▼", send: Eisu_toggle, select: symbols54}
+  K_symbols55: {label: "▲", send: Eisu_toggle, select: symbols55}
+  K_symbols55x: {label: "▼", send: Eisu_toggle, select: symbols55}
+  K_symbols56: {label: "▲", send: Eisu_toggle, select: symbols56}
+  K_symbols56x: {label: "▼", send: Eisu_toggle, select: symbols56}
+  K_symbols60: {label: "数学", send: Eisu_toggle, select: symbols61}
+  K_symbols61: {label: "▲", send: Eisu_toggle, select: symbols61}
+  K_symbols62: {label: "▲", send: Eisu_toggle, select: symbols62}
+  K_symbols62x: {label: "▼", send: Eisu_toggle, select: symbols62}
+  K_symbols63: {label: "▲", send: Eisu_toggle, select: symbols63}
+  K_symbols63x: {label: "▼", send: Eisu_toggle, select: symbols63}
+  K_symbols64: {label: "▲", send: Eisu_toggle, select: symbols64}
+  K_symbols64x: {label: "▼", send: Eisu_toggle, select: symbols64}
+  K_symbols65: {label: "▲", send: Eisu_toggle, select: symbols65}
+  K_symbols65x: {label: "▼", send: Eisu_toggle, select: symbols65}
+  K_symbols70: {label: "序号", send: Eisu_toggle, select: symbols71}
+  K_symbols71: {label: "▲", send: Eisu_toggle, select: symbols71}
+  K_symbols72: {label: "▲", send: Eisu_toggle, select: symbols72}
+  K_symbols72x: {label: "▼", send: Eisu_toggle, select: symbols72}
+  K_symbols73: {label: "▲", send: Eisu_toggle, select: symbols73}
+  K_symbols73x: {label: "▼", send: Eisu_toggle, select: symbols73}
+  K_symbols74: {label: "▲", send: Eisu_toggle, select: symbols74}
+  K_symbols74x: {label: "▼", send: Eisu_toggle, select: symbols74}
+  K_symbols75: {label: "▲", send: Eisu_toggle, select: symbols75}
+  K_symbols75x: {label: "▼", send: Eisu_toggle, select: symbols75}
+  K_symbols80: {label: "制表", send: Eisu_toggle, select: symbols81}
+  K_symbols81: {label: "▲", send: Eisu_toggle, select: symbols81}
+  K_symbols82: {label: "▲", send: Eisu_toggle, select: symbols82}
+  K_symbols82x: {label: "▼", send: Eisu_toggle, select: symbols82}
+  K_symbols83: {label: "▲", send: Eisu_toggle, select: symbols83}
+  K_symbols83x: {label: "▼", send: Eisu_toggle, select: symbols83}
+  K_symbols90: {label: "注音", send: Eisu_toggle, select: symbols91}
+  K_symbols91: {label: "▲", send: Eisu_toggle, select: symbols91}
+  K_symbols92: {label: "▲", send: Eisu_toggle, select: symbols92}
+  K_symbols92x: {label: "▼", send: Eisu_toggle, select: symbols92}
+  K_symbols93: {label: "▲", send: Eisu_toggle, select: symbols93}
+  K_symbols93x: {label: "▼", send: Eisu_toggle, select: symbols93}
+  K_symbolsA0: {label: "希俄", send: Eisu_toggle, select: symbolsA1}
+  K_symbolsA1: {label: "▲", send: Eisu_toggle, select: symbolsA1}
+  K_symbolsA2: {label: "▲", send: Eisu_toggle, select: symbolsA2}
+  K_symbolsA2x: {label: "▼", send: Eisu_toggle, select: symbolsA2}
+  K_symbolsA3: {label: "▲", send: Eisu_toggle, select: symbolsA3}
+  K_symbolsA3x: {label: "▼", send: Eisu_toggle, select: symbolsA3}
+  K_symbolsA4: {label: "▲", send: Eisu_toggle, select: symbolsA4}
+  K_symbolsA4x: {label: "▼", send: Eisu_toggle, select: symbolsA4}
+  K_symbolsA5: {label: "▲", send: Eisu_toggle, select: symbolsA5}
+  K_symbolsA5x: {label: "▼", send: Eisu_toggle, select: symbolsA5}
+  K_symbolsB0: {label: "拉丁", send: Eisu_toggle, select: symbolsB1}
+  K_symbolsB1: {label: "▲", send: Eisu_toggle, select: symbolsB1}
+  K_symbolsB2: {label: "▲", send: Eisu_toggle, select: symbolsB2}
+  K_symbolsB2x: {label: "▼", send: Eisu_toggle, select: symbolsB2}
+  K_symbolsB3: {label: "▲", send: Eisu_toggle, select: symbolsB3}
+  K_symbolsB3x: {label: "▼", send: Eisu_toggle, select: symbolsB3}
+  K_symbolsC0: {label: "韩文", send: Eisu_toggle, select: symbolsC1}
+  K_symbolsC1: {label: "▲", send: Eisu_toggle, select: symbolsC1}
+  K_symbolsC2: {label: "▲", send: Eisu_toggle, select: symbolsC2}
+  K_symbolsC2x: {label: "▼", send: Eisu_toggle, select: symbolsC2}
+  K_symbolsC3: {label: "▲", send: Eisu_toggle, select: symbolsC3}
+  K_symbolsC3x: {label: "▼", send: Eisu_toggle, select: symbolsC3}
+  K_symbolsC4: {label: "▲", send: Eisu_toggle, select: symbolsC4}
+  K_symbolsC4x: {label: "▼", send: Eisu_toggle, select: symbolsC4}
+  K_symbolsC5: {label: "▲", send: Eisu_toggle, select: symbolsC5}
+  K_symbolsC5x: {label: "▼", send: Eisu_toggle, select: symbolsC5}
+  K_symbolsD0: {label: "音标", send: Eisu_toggle, select: symbolsD1}
+  K_symbolsD1: {label: "▲", send: Eisu_toggle, select: symbolsD1}
+  K_symbolsD2: {label: "▲", send: Eisu_toggle, select: symbolsD2}
+  K_symbolsD2x: {label: "▼", send: Eisu_toggle, select: symbolsD2}
+  K_move: {label: ❖, send: Eisu_toggle, select: move}
+  K_last: {label: 后退, functional: false, send: Eisu_toggle, select: .next}
+  Schema_switch: {label: ⇄, functional: false, send: Control+Shift+1}
+  Schema_Eng: {label: En, send: Control+Shift+0}
+  Color_switch: {label: "◲", functional: false, send: PROG_RED}
+  Color_switch2: {label: "配色", functional: false, send: PROG_RED}
+
+
 preset_keyboards:
-  __include: trime:/preset_keyboards
+  #__include: trime:/preset_keyboards
   wubi86_jidian_pinyin:
-    name: main_45key
+    name: default
     author: "youanan<youanan@163.com>"
     ascii_mode: 1
     key_symbol_offset_y: -3
     key_text_offset_y: 1
     key_hint_offset_y: 9  #移开hint提示
     width: 10
-    height: 50
+    height: 45
     lock: true #切換程序時記憶鍵盤
     keys:
       #1
-      - {click: '1', long_click: '!'}
+      - {click: '1', long_click: '!',height: 40}
       - {click: '2', long_click: '@'}
       - {click: '3', long_click: '#'}
       - {click: '4', long_click: '$'}
       - {click: '5', long_click: '%'}
       - {click: '6', long_click: '^'}
-      - {click: '7', long_click: '&'}
-      - {click: '8', long_click: '*'}
-      - {click: '9', long_click: '('}
+      - {click: '7', long_click: '&',has_menu: express}
+      - {click: '8', long_click: '*',has_menu: userdict}
+      - {click: '9', long_click: '(',has_menu: dictionary}
       - {click: '0', long_click: ')',has_menu: heweather}
       # 2
       - {click: 'q', long_click: '~',swipe_down: ":q"}
@@ -244,7 +409,7 @@ preset_keyboards:
       - {click: 'l', long_click: Right}
       - {width: 5}
       # 4
-      - {click: Shift_L,has_menu: Esc1,width: 15}
+      - {click: Shift_L, width: 15}
       - {click: 'z', long_click: '`'}
       - {click: 'x', long_click: cut}
       - {click: 'c', long_click: copy}
@@ -255,11 +420,11 @@ preset_keyboards:
       - {click: BackSpace,long_click: BackSpace2,width: 15,swipe_up: Delete}
       # 5
       - {click: Keyboard_num20key, long_click: IME_switch,has_menu: _Keyboard_candidate, width: 15}
-      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: youdao_1,popup: [Deploy1,youdao_1,youdao_2,youdao_3,youdao_4,youdao_5]}
-      - {click: ',', long_click: ";", width: 10,has_menu: shareOuLu}
+      - {click: Keyboard_symkey, long_click: Deploy1,  width: 12 ,has_menu: delimiter,popup: [Deploy1,youdao_1,youdao_2,youdao_3,youdao_4,youdao_5,userdict]}
+      - {click: ',', long_click: ";", width: 10}
       - {click: space1,long_click: VOICE_ASSIST1,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
-      - {click: ".", long_click: ":", width: 10,has_menu: select_next}
-      - {click: Mode_switch, long_click: Candidate_switch,hint: " ", width: 12 ,has_menu: select_third}
+      - {click: ".", long_click: ":", width: 10}
+      - {click: Mode_switch, long_click: Candidate_switch,hint: " ", width: 12}
       - {click: Return, long_click: Color_switch, width: 15,key_text_color: 0xECEFF1,key_back_color: 0x1565C0}
 
 
@@ -465,3 +630,2218 @@ preset_keyboards:
       - {click: "j"}
       - {click: "w"}
       - {click: "/"}
+
+  #符号大全
+  symbols01:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "+"}
+      - {click: 1}
+      - {click: 2}
+      - {click: 3}
+      - {click: K_back, width: 19}
+      - {click: "-"}
+      - {click: 4}
+      - {click: 5}
+      - {click: 6}
+      - {click: K_symbols0g, width: 19}
+      - {click: "*"}
+      - {click: 7}
+      - {click: 8}
+      - {click: 9}
+      - {click: Return1, width: 19}
+      - {click: "/"}
+      - {click: "="}
+      - {click: 0}
+      - {click: "."}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "数字1"
+    width: 20.25
+  symbols02:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: select_all1}
+      - {click: ClearH}
+      - {click: Up}
+      - {click: copyH}
+      - {click: K_back, width: 19}
+      - {click: cut1}
+      - {click: Left}
+      - {click: Shift1}
+      - {click: Right}
+      - {click: K_symbols00, width: 19}
+      - {click: copy1}
+      - {click: undo}
+      - {click: Down}
+      - {click: redo}
+      - {click: Return1, width: 19}
+      - {click: paste1}
+      - {click: Tab}
+      - {click: space1}
+      - {click: Delete}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols0g, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "功能2"
+    width: 20.25
+  symbols03:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: CALCULATOR, key_text_color: yyt}
+      - {click: Youjian, key_text_color: yyt}
+      - {click: VNV, key_text_color: yyt}
+      - {click: JUB, key_text_color: yyt}
+      - {click: K_back, long_click: Flypy, swipe_up: Flypy, key_symbol_color: gms, width: 19}
+      - {click: THU, key_text_color: yyt}
+      - {click: Toutiao, key_text_color: yyt}
+      - {click: Tieba, key_text_color: yyt}
+      - {click: Weixin, key_text_color: yyt}
+      - {click: XHIX, width: 19}
+      - {click: Feizhu, key_text_color: yyt}
+      - {click: Meituan, key_text_color: yyt}
+      - {click: Taobao, key_text_color: yyt}
+      - {click: QQ, key_text_color: yyt}
+      - {click: BDSS, width: 19}
+      - {click: GTGJ, key_text_color: yyt}
+      - {click: Didi, key_text_color: yyt}
+      - {click: GDDT, key_text_color: yyt}
+      - {click: BDDT, key_text_color: yyt}
+      - {click: share_text, width: 19}
+      - {click: K_symbols0w, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "应用3"
+    width: 20.25
+  symbols11:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: ","}
+      - {click: "."}
+      - {click: "?"}
+      - {click: "!"}
+      - {click: K_back, width: 19}
+      - {click: ":"}
+      - {click: "/"}
+      - {click: "^"}
+      - {click: "*"}
+      - {click: K_symbols11, key_text_color: fyt, width: 19}
+      - {click: ";"}
+      - {click: '"'}
+      - {click: "'"}
+      - {click: "#"}
+      - {click: K_symbols12x, width: 19}
+      - {click: "{"}
+      - {click: "}"}
+      - {click: "_"}
+      - {click: "@"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "英文1"
+    width: 20.25
+  symbols12:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "("}
+      - {click: ")"}
+      - {click: "["}
+      - {click: "]"}
+      - {click: K_back, width: 19}
+      - {ascii: "\\", click: "、"}
+      - {click: '`'}
+      - {click: '~'}
+      - {click: "$"}
+      - {click: K_symbols11, width: 19}
+      - {click: "|"}
+      - {click: "+"}
+      - {click: "-"}
+      - {click: "="}
+      - {click: K_symbols13x, width: 19}
+      - {click: "<"}
+      - {click: ">"}
+      - {click: "..."}
+      - {click: "&"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "英文2"
+    width: 20.25
+  symbols13:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "Ⓐ"}
+      - {click: "Ⓑ"}
+      - {click: "Ⓒ"}
+      - {click: "Ⓓ"}
+      - {click: K_back, width: 19}
+      - {click: "Ⓔ"}
+      - {click: "Ⓕ"}
+      - {click: "Ⓖ"}
+      - {click: "Ⓗ"}
+      - {click: K_symbols12, width: 19}
+      - {click: "Ⓘ"}
+      - {click: "Ⓙ"}
+      - {click: "Ⓚ"}
+      - {click: "Ⓛ"}
+      - {click: K_symbols14x, width: 19}
+      - {click: "Ⓜ"}
+      - {click: "Ⓝ"}
+      - {click: "Ⓞ"}
+      - {click: "Ⓟ"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "英文3"
+    width: 20.25
+  symbols14:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "Ⓠ"}
+      - {click: "Ⓡ"}
+      - {click: "Ⓢ"}
+      - {click: "Ⓣ"}
+      - {click: K_back, width: 19}
+      - {click: "Ⓤ"}
+      - {click: "Ⓥ"}
+      - {click: "Ⓦ"}
+      - {click: "Ⓧ"}
+      - {click: K_symbols13, width: 19}
+      - {click: "Ⓨ"}
+      - {click: "Ⓩ"}
+      - {click: ""}
+      - {click: ""}
+      - {click: K_symbols14x, key_text_color: fyt, width: 19}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "英文4"
+    width: 20.25
+  symbols21:
+    ascii_mode: 0
+    author: flypy.com
+    keys:
+      - {click: "，"}
+      - {click: "。"}
+      - {click: "？"}
+      - {click: "！"}
+      - {click: K_back, width: 19}
+      - {click: "："}
+      - {click: "、"}
+      - {click: "@"}
+      - {click: "……"}
+      - {click: K_symbols21, key_text_color: fyt, width: 19}
+      - {click: "“”{Left}"}
+      - {click: "；"}
+      - {click: "‘’{Left}"}
+      - {click: "——"}
+      - {click: K_symbols22x, width: 19}
+      - {click: "（）{Left}"}
+      - { click: "《》{Left}"}
+      - {click: "〈〉{Left}"}
+      - {click: "〔〕{Left}"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "中文1"
+    width: 20.25
+  symbols22:
+    ascii_mode: 0
+    author: flypy.com
+    keys:
+      - {click: "［］{Left}"}
+      - {click: "【】{Left}"}
+      - {click: "*"}
+      - {click: "&"}
+      - {click: K_back, width: 19}
+      - {click: "+"}
+      - {click: "-"}
+      - {click: "×"}
+      - {click: "÷"}
+      - {click: K_symbols21, width: 19}
+      - {click: "="}
+      - {click: "#"}
+      - {click: "￥"}
+      - {click: "%"}
+      - {click: K_symbols22x, key_text_color: fyt, width: 19}
+      - {click: "ˇ"}
+      - {click: "·"}
+      - {click: "•"}
+      - {click: "～"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "中文2"
+    width: 20.25
+  symbols31:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "^_^", key_text_size: "11"}
+      - {click: "^ω^", key_text_size: "11"}
+      - {click: "^o^", key_text_size: "11"}
+      - {click: "*^_^*", key_text_size: "11"}
+      - {click: K_back, width: 19}
+      - {click: "↖(^ω^)↗", key_text_size: "11"}
+      - {click: "(^o^)／", key_text_size: "11"}
+      - {click: "(=^▽^=)", key_text_size: "11"}
+      - {click: "=^_^=", key_text_size: "11"}
+      - {click: K_symbols31, key_text_color: fyt, width: 19}
+      - {click: "(*^ω^*)", key_text_size: "11"}
+      - {click: "٩(๑^o^๑)۶", key_text_size: "11"}
+      - {click: "o(￣▽￣)o", key_text_size: "11"}
+      - {click: "Y(^_^)Y", key_text_size: "11"}
+      - {click: K_symbols32x, width: 19}
+      - {click: "٩( 'ω' )و", key_text_size: "11"}
+      - {click: "╰(*´︶`*)╯", key_text_size: "11"}
+      - {click: "*罒▽罒*", key_text_size: "11"}
+      - {click: "ヾ ^_^♪", key_text_size: "11"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "颜文1"
+    width: 20.25
+  symbols32:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "QwQ", key_text_size: "11"}
+      - {click: "(●—●)", key_text_size: "11"}
+      - {click: "(๑• . •๑)", key_text_size: "11"}
+      - {click: "(๑•̀ㅂ•́)و✧", key_text_size: "11"}
+      - {click: K_back, width: 19}
+      - {click: "罒ω罒", key_text_size: "11"}
+      - {click: "(｡ì _ í｡)", key_text_size: "11"}
+      - {click: "(๑•ี_เ•ี๑)", key_text_size: "11"}
+      - {click: "ㄟ(≧◇≦)ㄏ", key_text_size: "11"}
+      - {click: K_symbols31, width: 19}
+      - {click: "(*/ω＼*)", key_text_size: "11"}
+      - {click: "٩(๑òωó๑)۶", key_text_size: "11"}
+      - {click: "( σ'ω')σ", key_text_size: "11"}
+      - {click: "♡＾▽＾♡", key_text_size: "11"}
+      - {click: K_symbols33x, width: 19}
+      - {click: "(ง •̀_•́)ง", key_text_size: "11"}
+      - {click: "(｡･ω･｡)ﾉ♡", key_text_size: "11"}
+      - {click: "(๑°3°๑)", key_text_size: "11"}
+      - {click: "_(•̀ω•́ 」∠)_", key_text_size: "11"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "颜文2"
+    width: 20.25
+  symbols33:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "(＞﹏＜)", key_text_size: "11"}
+      - {click: "T_T", key_text_size: "11"}
+      - {click: "⊙︿⊙", key_text_size: "11"}
+      - {click: "〒▽〒", key_text_size: "11"}
+      - {click: K_back, width: 19}
+      - {click: "⊙﹏⊙", key_text_size: "11"}
+      - {click: "π_π", key_text_size: "11"}
+      - {click: "(｡•́︿•̀｡)", key_text_size: "11"}
+      - {click: "(ToT)/~~~", key_text_size: "11"}
+      - {click: K_symbols32, width: 19}
+      - {click: "╯﹏╰", key_text_size: "11"}
+      - {click: "ಥ_ಥ", key_text_size: "11"}
+      - {click: "(╥╯^╰╥)", key_text_size: "11"}
+      - {click: "(〃′o`)", key_text_size: "11"}
+      - {click: K_symbols34x, width: 19}
+      - {click: "( •̥́ ˍ •̀ू )", key_text_size: "11"}
+      - {click: "(つд⊂)", key_text_size: "11"}
+      - {click: "心塞(´-ωก`)", key_text_size: "11"}
+      - {click: "(╥﹏╥)", key_text_size: "11"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "颜文3"
+    width: 20.25
+  symbols34:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "(*￣︿￣)", key_text_size: "11"}
+      - {click: ">o<", key_text_size: "11"}
+      - {click: "(-`ェ´-怒)", key_text_size: "11"}
+      - {click: "ヽ(‘⌒´メ)ノ", key_text_size: "11"}
+      - {click: K_back, width: 19}
+      - {click: "(*｀Ω´*)v", key_text_size: "11"}
+      - {click: "(｡•ˇ‸ˇ•｡)", key_text_size: "11"}
+      - {click: "(怒｀Д´怒)", key_text_size: "11"}
+      - {click: "٩(๑`^´๑)۶", key_text_size: "11"}
+      - {click: K_symbols33, width: 19}
+      - {click: "<(｀^´)>", key_text_size: "11"}
+      - {click: "（｀Δ´）！", key_text_size: "11"}
+      - {click: "ψ(｀∇´)ψ", key_text_size: "11"}
+      - {click: "(；′⌒`)", key_text_size: "11"}
+      - {click: K_symbols35x, width: 19}
+      - {click: "（▼へ▼メ）", key_text_size: "11"}
+      - {click: "☄ฺ(◣д◢)☄ฺ", key_text_size: "11"}
+      - {click: "→_→", key_text_size: "11"}
+      - {click: "(;｀O´)o", key_text_size: "11"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "颜文4"
+    width: 20.25
+  symbols35:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "⊙_⊙", key_text_size: "11"}
+      - {click: "d(ŐдŐ๑)", key_text_size: "11"}
+      - {click: "┑(￣Д ￣)┍", key_text_size: "11"}
+      - {click: "╭(°A°`)╮", key_text_size: "11"}
+      - {click: K_back, width: 19}
+      - {click: "⊙▽⊙", key_text_size: "11"}
+      - {click: "(๑òᆺó๑)", key_text_size: "11"}
+      - {click: "(#ﾟДﾟ)", key_text_size: "11"}
+      - {click: "Σ⊙▃⊙川", key_text_size: "11"}
+      - {click: K_symbols34, width: 19}
+      - {click: "⊙ω⊙", key_text_size: "11"}
+      - {click: "(๑ŐдŐ)b", key_text_size: "11"}
+      - {click: "┌(。Д。)┐", key_text_size: "11"}
+      - {click: "(°ー°〃)", key_text_size: "11"}
+      - {click: K_symbols36x, width: 19}
+      - {click: "(⊙x⊙;)", key_text_size: "11"}
+      - {click: "!!!∑(°Д°ノ)ノ", key_text_size: "11"}
+      - {click: "Σ(っ °Д °;)っ", key_text_size: "11"}
+      - {click: "ヽ(*。>Д<)o゜", key_text_size: "11"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "颜文5"
+    width: 20.25
+  symbols36:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "=_=", key_text_size: "11"}
+      - {click: "╮(╯_╰)╭", key_text_size: "11"}
+      - {click: "（︶︿︶）", key_text_size: "11"}
+      - {click: "_(:з」∠)_", key_text_size: "11"}
+      - {click: K_back, width: 19}
+      - {click: "@_@", key_text_size: "11"}
+      - {click: "╮(╯▽╰)╭", key_text_size: "11"}
+      - {click: "(＠￣ー￣＠)", key_text_size: "11"}
+      - {click: "_(:3」∠❀)_", key_text_size: "11"}
+      - {click: K_symbols35, width: 19}
+      - {click: "눈_눈", key_text_size: "11"}
+      - {click: "╭(╯ε╰)╮", key_text_size: "11"}
+      - {click: "(ー_ー)!!", key_text_size: "11"}
+      - {click: "_(:D)∠)_", key_text_size: "11"}
+      - {click: K_symbols36x, key_text_color: fyt, width: 19}
+      - {click: "o_O", key_text_size: "11"}
+      - {click: "╭(╯^╰)╮", key_text_size: "11"}
+      - {click: "(；一_一)", key_text_size: "11"}
+      - {click: "´_>`", key_text_size: "11"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "颜文6"
+    width: 20.25
+  symbols41:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "😃"}
+      - {click: "😄"}
+      - {click: "😅"}
+      - {click: "😀"}
+      - {click: "😁"}
+      - {click: "😂"}
+      - {click: K_back, width: 19}
+      - {click: "😆"}
+      - {click: "😉"}
+      - {click: "😊"}
+      - {click: "😋"}
+      - {click: "😎"}
+      - {click: "😍"}
+      - {click: K_symbols41, key_text_color: fyt, width: 19}
+      - {click: "😘"}
+      - {click: "😗"}
+      - {click: "😙"}
+      - {click: "😚"}
+      - {click: "☺"}
+      - {click: "🙂"}
+      - {click: K_symbols42x, width: 19}
+      - {click: "🤗"}
+      - {click: "😇"}
+      - {click: "🤓"}
+      - {click: "🤔"}
+      - {click: "😐"}
+      - {click: "😑"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "Emoji1"
+    width: 13.5
+  symbols42:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "😣"}
+      - {click: "😥"}
+      - {click: "😮"}
+      - {click: "😶"}
+      - {click: "🙄"}
+      - {click: "😏"}
+      - {click: K_back, width: 19}
+      - {click: "🙃"}
+      - {click: "😯"}
+      - {click: "😪"}
+      - {click: "😫"}
+      - {click: "😴"}
+      - {click: "😌"}
+      - {click: K_symbols41, width: 19}
+      - {click: "😛"}
+      - {click: "😜"}
+      - {click: "😝"}
+      - {click: "😒"}
+      - {click: "😓"}
+      - {click: "😔"}
+      - {click: K_symbols43x, width: 19}
+      - {click: "😕"}
+      - {click: "🤑"}
+      - {click: "😲"}
+      - {click: "😷"}
+      - {click: "🤒"}
+      - {click: "🤐"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "Emoji2"
+    width: 13.5
+  symbols43:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "☝"}
+      - {click: "🖖"}
+      - {click: "✌"}
+      - {click: "👌"}
+      - {click: "💅"}
+      - {click: "🙏"}
+      - {click: K_back, width: 19}
+      - {click: "🖕"}
+      - {click: "👎"}
+      - {click: "✊"}
+      - {click: "🤘"}
+      - {click: "👏"}
+      - {click: "👍"}
+      - {click: K_symbols42, width: 19}
+      - {click: "💋"}
+      - {click: "🎂"}
+      - {click: "🍻"}
+      - {click: "🍚"}
+      - {click: "🍷"}
+      - {click: "☕"}
+      - {click: K_symbols44x, width: 19}
+      - {click: "💔"}
+      - {click: "🌹"}
+      - {click: "💣"}
+      - {click: "💪"}
+      - {click: "💯"}
+      - {click: "💤"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "Emoji3"
+    width: 13.5
+  symbols44:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "🤕"}
+      - {click: "🙁"}
+      - {click: "😖"}
+      - {click: "😞"}
+      - {click: "😟"}
+      - {click: "😤"}
+      - {click: K_back, width: 19}
+      - {click: "😢"}
+      - {click: "😭"}
+      - {click: "😦"}
+      - {click: "😧"}
+      - {click: "😨"}
+      - {click: "😩"}
+      - {click: K_symbols43, width: 19}
+      - {click: "😬"}
+      - {click: "😰"}
+      - {click: "😱"}
+      - {click: "😳"}
+      - {click: "😵"}
+      - {click: "😡"}
+      - {click: K_symbols44x, key_text_color: fyt, width: 19}
+      - {click: "😠"}
+      - {click: "🌝"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "Emoji4"
+    width: 13.5
+  symbols51:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "△"}
+      - {click: "▽"}
+      - {click: "○"}
+      - {click: "◇"}
+      - {click: "□"}
+      - {click: "☆"}
+      - {click: K_back, width: 19}
+      - {click: "▲"}
+      - {click: "▼"}
+      - {click: "●"}
+      - {click: "◆"}
+      - {click: "■"}
+      - {click: "★"}
+      - {click: K_symbols51, key_text_color: fyt, width: 19}
+      - {click: "▷"}
+      - {click: "◁"}
+      - {click: "▶"}
+      - {click: "◀"}
+      - {click: "√"}
+      - {click: "×"}
+      - {click: K_symbols52x, width: 19}
+      - {click: "⌫"}
+      - {click: "✡"}
+      - {click: "☑"}
+      - {click: "☒"}
+      - {click: "✔"}
+      - {click: "✘"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "特殊1"
+    width: 13.5
+  symbols52:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "☼"}
+      - {click: "☽"}
+      - {click: "♀"}
+      - {click: "☻"}
+      - {click: "◐"}
+      - {click: "㏂"}
+      - {click: K_back, width: 19}
+      - {click: "☀"}
+      - {click: "☾"}
+      - {click: "♂"}
+      - {click: "☹"}
+      - {click: "◑"}
+      - {click: "㏘"}
+      - {click: K_symbols51, width: 19}
+      - {click: "☜"}
+      - {click: "☝"}
+      - {click: "☞"}
+      - {click: "☚"}
+      - {click: "☟"}
+      - {click: "☛"}
+      - {click: K_symbols53x, width: 19}
+      - {click: "▪"}
+      - {click: "•"}
+      - {click: "‥"}
+      - {click: "…"}
+      - {click: "∷"}
+      - {click: "※"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "特殊2"
+    width: 13.5
+  symbols53:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "♩"}
+      - {click: "♪"}
+      - {click: "♫"}
+      - {click: "♬"}
+      - {click: "§"}
+      - {click: "°"}
+      - {click: K_back, width: 19}
+      - {click: "♭"}
+      - {click: "♯"}
+      - {click: "♮"}
+      - {click: "‖"}
+      - {click: "¶"}
+      - {click: "№"}
+      - {click: K_symbols52, width: 19}
+      - {click: "◎"}
+      - {click: "¤"}
+      - {click: "۞"}
+      - {click: "℗"}
+      - {click: "®"}
+      - {click: "©"}
+      - {click: K_symbols54x, width: 19}
+      - {click: "卍"}
+      - {click: "卐"}
+      - {click: "℡"}
+      - {click: "™"}
+      - {click: "㏇"}
+      - {click: "Φ"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "特殊3"
+    width: 13.5
+  symbols54:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "↖"}
+      - {click: "↑"}
+      - {click: "↗"}
+      - {click: "◤"}
+      - {click: "㊤"}
+      - {click: "◥"}
+      - {click: K_back, width: 19}
+      - {click: "←"}
+      - {click: "↔"}
+      - {click: "→"}
+      - {click: "㊧"}
+      - {click: "㊥"}
+      - {click: "㊨"}
+      - {click: K_symbols53, width: 19}
+      - {click: "↙"}
+      - {click: "↓"}
+      - {click: "↘"}
+      - {click: "◣"}
+      - {click: "㊦"}
+      - {click: "◢"}
+      - {click: K_symbols55x, width: 19}
+      - {click: "⇄"}
+      - {click: "⇅"}
+      - {click: "⇆"}
+      - {click: "⇤"}
+      - {click: "↩"}
+      - {click: "⇥"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "特殊4"
+    width: 13.5
+  symbols55:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "❏"}
+      - {click: "❐"}
+      - {click: "◲"}
+      - {click: "〼"}
+      - {click: "▢"}
+      - {click: "▣"}
+      - {click: K_back, width: 19}
+      - {click: "⇦"}
+      - {click: "⇧"}
+      - {click: "⇨"}
+      - {click: "⇩"}
+      - {click: "⇪"}
+      - {click: "↶"}
+      - {click: K_symbols54, width: 19}
+      - {click: "▸"}
+      - {click: "◂"}
+      - {click: "▴"}
+      - {click: "▾"}
+      - {click: "✁"}
+      - {click: "☏"}
+      - {click: K_symbols56x, width: 19}
+      - {click: "✍"}
+      - {click: "❅"}
+      - {click: "ϟ"}
+      - {click: "📝"}
+      - {click: "✎"}
+      - {click: "✆"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "特殊5"
+    width: 13.5
+  symbols56:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "☴"}
+      - {click: "☲"}
+      - {click: "☷"}
+      - {click: "⚿"}
+      - {click: "⛮"}
+      - {click: "⚙"}
+      - {click: K_back, width: 19}
+      - {click: "☳"}
+      - {click: "☯"}
+      - {click: "☱"}
+      - {click: "⛶"}
+      - {click: "☩"}
+      - {click: "☐"}
+      - {click: K_symbols55, width: 19}
+      - {click: "☶"}
+      - {click: "☵"}
+      - {click: "☰"}
+      - {click: "💬"}
+      - {click: "🗨"}
+      - {click: "💭"}
+      - {click: K_symbols56x, key_text_color: fyt, width: 19}
+      - {click: "ღ"}
+      - {click: "✈"}
+      - {click: "☂"}
+      - {click: "🎤"}
+      - {click: "🌐"}
+      - {click: "🔍"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols60, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "特殊6"
+    width: 13.5
+  symbols61:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "﹢"}
+      - {click: "﹣"}
+      - {click: "·"}
+      - {click: "/"}
+      - {click: "="}
+      - {click: "≡"}
+      - {click: K_back, width: 19}
+      - {click: "﹤"}
+      - {click: "﹥"}
+      - {click: "≦"}
+      - {click: "≧"}
+      - {click: "≮"}
+      - {click: "≯"}
+      - {click: K_symbols61, key_text_color: fyt, width: 19}
+      - {click: "＋"}
+      - {click: "－"}
+      - {click: "×"}
+      - {click: "÷"}
+      - {click: "＝"}
+      - {click: "≠"}
+      - {click: K_symbols62x, width: 19}
+      - {click: "＜"}
+      - {click: "＞"}
+      - {click: "≤"}
+      - {click: "≥"}
+      - {click: "≈"}
+      - {click: "≒"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "数学1"
+    width: 13.5
+  symbols62:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "㎎"}
+      - {click: "㎏"}
+      - {click: "μm"}
+      - {click: "㎜"}
+      - {click: "㎝"}
+      - {click: "㎞"}
+      - {click: K_back, width: 19}
+      - {click: "℃"}
+      - {click: "¥"}
+      - {click: "$"}
+      - {click: "€"}
+      - {click: "฿"}
+      - {click: "￡"}
+      - {click: K_symbols61, width: 19}
+      - {click: "㎡"}
+      - {click: "m³"}
+      - {click: "㏄"}
+      - {click: "ml"}
+      - {click: "mol"}
+      - {click: "㏕"}
+      - {click: K_symbols63x, width: 19}
+      - {click: "℉"}
+      - {click: "￥"}
+      - {click: "£"}
+      - {click: "￠"}
+      - {click: "₠"}
+      - {click: "〒"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "数学2"
+    width: 13.5
+  symbols63:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "∝"}
+      - {click: "∽"}
+      - {click: "∈"}
+      - {click: "∩"}
+      - {click: "∧"}
+      - {click: "⊙"}
+      - {click: K_back, width: 19}
+      - {click: "⌒"}
+      - {click: "∥"}
+      - {click: "∟"}
+      - {click: "∣"}
+      - {click: "∂"}
+      - {click: "∆"}
+      - {click: K_symbols62, width: 19}
+      - {click: "∞"}
+      - {click: "≌"}
+      - {click: "∉"}
+      - {click: "∪"}
+      - {click: "∨"}
+      - {click: "⊕"}
+      - {click: K_symbols64x, width: 19}
+      - {click: "⊿"}
+      - {click: "⊥"}
+      - {click: "∠"}
+      - {click: "∫"}
+      - {click: "∬"}
+      - {click: "∭"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "数学3"
+    width: 13.5
+  symbols64:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "¹"}
+      - {click: "²"}
+      - {click: "³"}
+      - {click: "⁴"}
+      - {click: "⁵"}
+      - {click: "ⁿ"}
+      - {click: K_back, width: 19}
+      - {click: "⁶"}
+      - {click: "⁷"}
+      - {click: "⁸"}
+      - {click: "⁹"}
+      - {click: "⁰"}
+      - {click: "ˣ"}
+      - {click: K_symbols63, width: 19}
+      - {click: "⁺"}
+      - {click: "⁻"}
+      - {click: "⁼"}
+      - {click: "⁽"}
+      - {click: "⁾"}
+      - {click: "‰"}
+      - {click: K_symbols65x, width: 19}
+      - {click: "½"}
+      - {click: "⅓"}
+      - {click: "¼"}
+      - {click: "⅔"}
+      - {click: "¾"}
+      - {click: "％"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "数学4"
+    width: 13.5
+  symbols65:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "₁"}
+      - {click: "₂"}
+      - {click: "₃"}
+      - {click: "₄"}
+      - {click: "₅"}
+      - {click: "ₙ"}
+      - {click: K_back, width: 19}
+      - {click: "₆"}
+      - {click: "₇"}
+      - {click: "₈"}
+      - {click: "₉"}
+      - {click: "₀"}
+      - {click: "ₓ"}
+      - {click: K_symbols64, width: 19}
+      - {click: "₊"}
+      - {click: "₋"}
+      - {click: "₌"}
+      - {click: "₍"}
+      - {click: "₎"}
+      - {click: "℅"}
+      - {click: K_symbols65x, key_text_color: fyt, width: 19}
+      - {click: "°"}
+      - {click: "′"}
+      - {click: "″"}
+      - {click: "∮"}
+      - {click: "∯"}
+      - {click: "∰"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols00, height: *FHD, width: 12.5}
+      - {click: K_symbols10, width: 12.5}
+      - {click: K_symbols20, width: 12.5}
+      - {click: K_symbols30, width: 12.5}
+      - {click: K_symbols40, width: 12.5}
+      - {click: K_symbols50, width: 12.5}
+      - {click: K_symbols60, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0y, width: 12.5}
+    name: "数学5"
+    width: 13.5
+  symbols71:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "①"}
+      - {click: "②"}
+      - {click: "③"}
+      - {click: "④"}
+      - {click: "⑤"}
+      - {click: K_back, width: 19}
+      - {click: "⑥"}
+      - {click: "⑦"}
+      - {click: "⑧"}
+      - {click: "⑨"}
+      - {click: "⑩"}
+      - {click: K_symbols71, key_text_color: fyt, width: 19}
+      - {click: "⒈"}
+      - {click: "⒉"}
+      - {click: "⒊"}
+      - {click: "⒋"}
+      - {click: "⒌"}
+      - {click: K_symbols72x, width: 19}
+      - {click: "⒍"}
+      - {click: "⒎"}
+      - {click: "⒏"}
+      - {click: "⒐"}
+      - {click: "⒑"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "序号1"
+    width: 16.2
+  symbols72:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "⒒"}
+      - {click: "⒓"}
+      - {click: "⒔"}
+      - {click: "⒕"}
+      - {click: "⒖"}
+      - {click: K_back, width: 19}
+      - {click: "⒗"}
+      - {click: "⒘"}
+      - {click: "⒙"}
+      - {click: "⒚"}
+      - {click: "⒛"}
+      - {click: K_symbols71, width: 19}
+      - {click: "⑴"}
+      - {click: "⑵"}
+      - {click: "⑶"}
+      - {click: "⑷"}
+      - {click: "⑸"}
+      - {click: K_symbols73x, width: 19}
+      - {click: "⑹"}
+      - {click: "⑺"}
+      - {click: "⑻"}
+      - {click: "⑼"}
+      - {click: "⑽"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "序号2"
+    width: 16.2
+  symbols73:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "⑾"}
+      - {click: "⑿"}
+      - {click: "⒀"}
+      - {click: "⒁"}
+      - {click: "⒂"}
+      - {click: K_back, width: 19}
+      - {click: "⒃"}
+      - {click: "⒄"}
+      - {click: "⒅"}
+      - {click: "⒆"}
+      - {click: "⒇"}
+      - {click: K_symbols72, width: 19}
+      - {click: "㈠"}
+      - {click: "㈡"}
+      - {click: "㈢"}
+      - {click: "㈣"}
+      - {click: "㈤"}
+      - {click: K_symbols74x, width: 19}
+      - {click: "㈥"}
+      - {click: "㈦"}
+      - {click: "㈧"}
+      - {click: "㈨"}
+      - {click: "㈩"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "序号3"
+    width: 16.2
+  symbols74:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "➊"}
+      - {click: "➋"}
+      - {click: "➌"}
+      - {click: "➍"}
+      - {click: "➎"}
+      - {click: K_back, width: 19}
+      - {click: "➏"}
+      - {click: "➐"}
+      - {click: "➑"}
+      - {click: "➒"}
+      - {click: "➓"}
+      - {click: K_symbols73, width: 19}
+      - {click: "㊀"}
+      - {click: "㊁"}
+      - {click: "㊂"}
+      - {click: "㊃"}
+      - {click: "㊄"}
+      - {click: K_symbols75x, width: 19}
+      - {click: "㊅"}
+      - {click: "㊆"}
+      - {click: "㊇"}
+      - {click: "㊈"}
+      - {click: "㊉"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "序号4"
+    width: 16.2
+  symbols75:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ⅰ"}
+      - {click: "ⅱ"}
+      - {click: "ⅲ"}
+      - {click: "ⅳ"}
+      - {click: "ⅴ"}
+      - {click: K_back, width: 19}
+      - {click: "ⅵ"}
+      - {click: "ⅶ"}
+      - {click: "ⅷ"}
+      - {click: "ⅸ"}
+      - {click: "ⅹ"}
+      - {click: K_symbols74, width: 19}
+      - {click: "Ⅰ"}
+      - {click: "Ⅱ"}
+      - {click: "Ⅲ"}
+      - {click: "Ⅳ"}
+      - {click: "Ⅴ"}
+      - {click: K_symbols75x, key_text_color: fyt, width: 19}
+      - {click: "Ⅵ"}
+      - {click: "Ⅶ"}
+      - {click: "Ⅷ"}
+      - {click: "Ⅸ"}
+      - {click: "Ⅹ"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "序号5"
+    width: 16.2
+  symbols81:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "┌"}
+      - {click: "┬"}
+      - {click: "┐"}
+      - {click: "┏"}
+      - {click: "┳"}
+      - {click: "┓"}
+      - {click: K_back, width: 19}
+      - {click: "├"}
+      - {click: "┼"}
+      - {click: "┤"}
+      - {click: "┣"}
+      - {click: "╋"}
+      - {click: "┫"}
+      - {click: K_symbols81, key_text_color: fyt, width: 19}
+      - {click: "└"}
+      - {click: "┴"}
+      - {click: "┘"}
+      - {click: "┗"}
+      - {click: "┻"}
+      - {click: "┛"}
+      - {click: K_symbols82x, width: 19}
+      - {click: "┍"}
+      - {click: "┑"}
+      - {click: "┕"}
+      - {click: "┙"}
+      - {click: "┄"}
+      - {click: "┆"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "制表1"
+    width: 13.5
+  symbols82:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "╔"}
+      - {click: "╦"}
+      - {click: "╗"}
+      - {click: "╭"}
+      - {click: "─"}
+      - {click: "╮"}
+      - {click: K_back, width: 19}
+      - {click: "╠"}
+      - {click: "╬"}
+      - {click: "╣"}
+      - {click: "│"}
+      - {click: "╳"}
+      - {click: "┃"}
+      - {click: K_symbols81, width: 19}
+      - {click: "╚"}
+      - {click: "╩"}
+      - {click: "╝"}
+      - {click: "╰"}
+      - {click: "━"}
+      - {click: "╯"}
+      - {click: K_symbols83x, width: 19}
+      - {click: "┎"}
+      - {click: "┒"}
+      - {click: "┖"}
+      - {click: "┚"}
+      - {click: "┅"}
+      - {click: "┇"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "制表2"
+    width: 13.5
+  symbols83:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "╒"}
+      - {click: "╕"}
+      - {click: "╓"}
+      - {click: "╖"}
+      - {click: "╱"}
+      - {click: "╲"}
+      - {click: K_back, width: 19}
+      - {click: "╘"}
+      - {click: "╛"}
+      - {click: "╙"}
+      - {click: "╜"}
+      - {click: "╲"}
+      - {click: "╱"}
+      - {click: K_symbols82, width: 19}
+      - {click: "╞"}
+      - {click: "╡"}
+      - {click: "╥"}
+      - {click: "╨"}
+      - {click: "╪"}
+      - {click: "╫"}
+      - {click: K_symbols83x, key_text_color: fyt, width: 19}
+      - {click: "╟"}
+      - {click: "╢"}
+      - {click: "╤"}
+      - {click: "╧"}
+      - {click: "═"}
+      - {click: "║"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "制表3"
+    width: 13.5
+  symbols91:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ā"}
+      - {click: "á"}
+      - {click: "ǎ"}
+      - {click: "à"}
+      - {click: "ō"}
+      - {click: "ó"}
+      - {click: K_back, width: 19}
+      - {click: "ē"}
+      - {click: "é"}
+      - {click: "ě"}
+      - {click: "è"}
+      - {click: "ǒ"}
+      - {click: "ò"}
+      - {click: K_symbols91, key_text_color: fyt, width: 19}
+      - {click: "ī"}
+      - {click: "í"}
+      - {click: "ǐ"}
+      - {click: "ì"}
+      - {click: "ū"}
+      - {click: "ú"}
+      - {click: K_symbols92x, width: 19}
+      - {click: "ǖ"}
+      - {click: "ǘ"}
+      - {click: "ǚ"}
+      - {click: "ǜ"}
+      - {click: "ǔ"}
+      - {click: "ù"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "注音1"
+    width: 13.5
+  symbols92:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ê"}
+      - {click: ""}
+      - {click: "ü"}
+      - {click: "ń"}
+      - {click: "ň"}
+      - {click: ""}
+      - {click: K_back, width: 19}
+      - {click: "ㄚ"}
+      - {click: "ㄛ"}
+      - {click: "ㄜ"}
+      - {click: "ㄧ"}
+      - {click: "ㄨ"}
+      - {click: "ㄩ"}
+      - {click: K_symbols91, width: 19}
+      - {click: "ㄝ"}
+      - {click: "ㄞ"}
+      - {click: "ㄟ"}
+      - {click: "ㄠ"}
+      - {click: "ㄡ"}
+      - {click: "ㄢ"}
+      - {click: K_symbols93x, width: 19}
+      - {click: "ㄣ"}
+      - {click: "ㄤ"}
+      - {click: "ㄥ"}
+      - {click: "ㄦ"}
+      - {click: "ㄅ"}
+      - {click: "ㄆ"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "注音2"
+    width: 13.5
+  symbols93:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ㄇ"}
+      - {click: "ㄈ"}
+      - {click: "ㄉ"}
+      - {click: "ㄊ"}
+      - {click: "ㄋ"}
+      - {click: "ㄌ"}
+      - {click: K_back, width: 19}
+      - {click: "ㄍ"}
+      - {click: "ㄎ"}
+      - {click: "ㄏ"}
+      - {click: "ㄐ"}
+      - {click: "ㄑ"}
+      - {click: "ㄒ"}
+      - {click: K_symbols92, width: 19}
+      - {click: "ㄓ"}
+      - {click: "ㄔ"}
+      - {click: "ㄕ"}
+      - {click: "ㄖ"}
+      - {click: "ㄗ"}
+      - {click: "ㄘ"}
+      - {click: K_symbols93x, key_text_color: fyt, width: 19}
+      - {click: "ㄙ"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "注音3"
+    width: 13.5
+  symbolsA1:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "Α"}
+      - {click: "Β"}
+      - {click: "Γ"}
+      - {click: "Δ"}
+      - {click: "Ε"}
+      - {click: "Ζ"}
+      - {click: K_back, width: 19}
+      - {click: "Η"}
+      - {click: "Θ"}
+      - {click: "Ι"}
+      - {click: "Κ"}
+      - {click: "Λ"}
+      - {click: "Μ"}
+      - {click: K_symbolsA1, key_text_color: fyt, width: 19}
+      - {click: "Ν"}
+      - {click: "Ξ"}
+      - {click: "Ο"}
+      - {click: "Π"}
+      - {click: "Ρ"}
+      - {click: "Σ"}
+      - {click: K_symbolsA2x, width: 19}
+      - {click: "Τ"}
+      - {click: "Υ"}
+      - {click: "Φ"}
+      - {click: "Χ"}
+      - {click: "Ψ"}
+      - {click: "Ω"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "希腊1"
+    width: 13.5
+  symbolsA2:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "α"}
+      - {click: "β"}
+      - {click: "γ"}
+      - {click: "δ"}
+      - {click: "ε"}
+      - {click: "ζ"}
+      - {click: K_back, width: 19}
+      - {click: "η"}
+      - {click: "θ"}
+      - {click: "ι"}
+      - {click: "κ"}
+      - {click: "λ"}
+      - {click: "μ"}
+      - {click: K_symbolsA1, width: 19}
+      - {click: "ν"}
+      - {click: "ξ"}
+      - {click: "ο"}
+      - {click: "π"}
+      - {click: "ρ"}
+      - {click: "σ"}
+      - {click: K_symbolsA3x, width: 19}
+      - {click: "τ"}
+      - {click: "υ"}
+      - {click: "φ"}
+      - {click: "χ"}
+      - {click: "ψ"}
+      - {click: "ω"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "希腊2"
+    width: 13.5
+  symbolsA3:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "А"}
+      - {click: "Б"}
+      - {click: "В"}
+      - {click: "Г"}
+      - {click: "Д"}
+      - {click: "Е"}
+      - {click: K_back, width: 19}
+      - {click: "Ё"}
+      - {click: "Ж"}
+      - {click: "З"}
+      - {click: "И"}
+      - {click: "Й"}
+      - {click: "К"}
+      - {click: K_symbolsA2, width: 19}
+      - {click: "Л"}
+      - {click: "М"}
+      - {click: "Н"}
+      - {click: "О"}
+      - {click: "П"}
+      - {click: "Р"}
+      - {click: K_symbolsA4x, width: 19}
+      - {click: "С"}
+      - {click: "Т"}
+      - {click: "У"}
+      - {click: "Ф"}
+      - {click: "Х"}
+      - {click: "Ц"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "俄文1"
+    width: 13.5
+  symbolsA4:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "Ч"}
+      - {click: "Ш"}
+      - {click: "Щ"}
+      - {click: "Ъ"}
+      - {click: "Ы"}
+      - {click: "Ь"}
+      - {click: K_back, width: 19}
+      - {click: "Э"}
+      - {click: "Ю"}
+      - {click: "Я"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: K_symbolsA3, width: 19}
+      - {click: "а"}
+      - {click: "б"}
+      - {click: "в"}
+      - {click: "г"}
+      - {click: "д"}
+      - {click: "е"}
+      - {click: K_symbolsA5x, width: 19}
+      - {click: "ё"}
+      - {click: "ж"}
+      - {click: "з"}
+      - {click: "и"}
+      - {click: "й"}
+      - {click: "к"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "俄文2"
+    width: 13.5
+  symbolsA5:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "л"}
+      - {click: "м"}
+      - {click: "н"}
+      - {click: "о"}
+      - {click: "п"}
+      - {click: "р"}
+      - {click: K_back, width: 19}
+      - {click: "с"}
+      - {click: "т"}
+      - {click: "у"}
+      - {click: "ф"}
+      - {click: "х"}
+      - {click: "ц"}
+      - {click: K_symbolsA4, width: 19}
+      - {click: "ч"}
+      - {click: "ш"}
+      - {click: "щ"}
+      - {click: "ъ"}
+      - {click: "ы"}
+      - {click: "ь"}
+      - {click: K_symbolsA5x, key_text_color: fyt, width: 19}
+      - {click: "э"}
+      - {click: "ю"}
+      - {click: "я"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "俄文3"
+    width: 13.5
+  symbolsB1:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "À"}
+      - {click: "Á"}
+      - {click: "Â"}
+      - {click: "Ã"}
+      - {click: "Ä"}
+      - {click: "Å"}
+      - {click: K_back, width: 19}
+      - {click: "Æ"}
+      - {click: "Ç"}
+      - {click: "È"}
+      - {click: "É"}
+      - {click: "Ê"}
+      - {click: "Ë"}
+      - {click: K_symbolsB1, key_text_color: fyt, width: 19}
+      - {click: "Ì"}
+      - {click: "Í"}
+      - {click: "Î"}
+      - {click: "Ï"}
+      - {click: "Ð"}
+      - {click: "Ñ"}
+      - {click: K_symbolsB2x, width: 19}
+      - {click: "Ò"}
+      - {click: "Ó"}
+      - {click: "Ô"}
+      - {click: "Õ"}
+      - {click: "Ö"}
+      - {click: "Ø"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "拉丁1"
+    width: 13.5
+  symbolsB2:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "Ù"}
+      - {click: "Ú"}
+      - {click: "Û"}
+      - {click: "Ü"}
+      - {click: "Ý"}
+      - {click: "Þ"}
+      - {click: K_back, width: 19}
+      - {click: "Š"}
+      - {click: "Ÿ"}
+      - {click: "Œ"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: K_symbolsB1, width: 19}
+      - {click: "à"}
+      - {click: "á"}
+      - {click: "â"}
+      - {click: "ã"}
+      - {click: "ä"}
+      - {click: "å"}
+      - {click: K_symbolsB3x, width: 19}
+      - {click: "æ"}
+      - {click: "ç"}
+      - {click: "è"}
+      - {click: "é"}
+      - {click: "ê"}
+      - {click: "ë"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "拉丁2"
+    width: 13.5
+  symbolsB3:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ì"}
+      - {click: "í"}
+      - {click: "î"}
+      - {click: "ï"}
+      - {click: "ð"}
+      - {click: "ñ"}
+      - {click: K_back, width: 19}
+      - {click: "ò"}
+      - {click: "ó"}
+      - {click: "õ"}
+      - {click: "ô"}
+      - {click: "ö"}
+      - {click: "ø"}
+      - {click: K_symbolsB2, width: 19}
+      - {click: "ù"}
+      - {click: "ú"}
+      - {click: "û"}
+      - {click: "ü"}
+      - {click: "ý"}
+      - {click: "þ"}
+      - {click: K_symbolsB3x, key_text_color: fyt, width: 19}
+      - {click: "š"}
+      - {click: "ÿ"}
+      - {click: "œ"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "拉丁3"
+    width: 13.5
+  symbolsC1:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ㅏ"}
+      - {click: "ㅑ"}
+      - {click: "ㅓ"}
+      - {click: "ㅕ"}
+      - {click: "ㅗ"}
+      - {click: "ㅛ"}
+      - {click: K_back, width: 19}
+      - {click: "ㅜ"}
+      - {click: "ㅠ"}
+      - {click: "ㅡ"}
+      - {click: "ㅣ"}
+      - {click: "ㅐ"}
+      - {click: "ㅒ"}
+      - {click: K_symbolsC1, key_text_color: fyt, width: 19}
+      - {click: "ㅔ"}
+      - {click: "ㅖ"}
+      - {click: "ㅘ"}
+      - {click: "ㅙ"}
+      - {click: "ㅚ"}
+      - {click: "ㅝ"}
+      - {click: K_symbolsC2x, width: 19}
+      - {click: "ㅞ"}
+      - {click: "ㅟ"}
+      - {click: "ㅢ"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "韩文1"
+    width: 13.5
+  symbolsC2:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "ㄱ"}
+      - {click: "ㄴ"}
+      - {click: "ㄷ"}
+      - {click: "ㄹ"}
+      - {click: "ㅁ"}
+      - {click: "ㅂ"}
+      - {click: K_back, width: 19}
+      - {click: "ㅅ"}
+      - {click: "ㅇ"}
+      - {click: "ㅈ"}
+      - {click: "ㅊ"}
+      - {click: "ㅋ"}
+      - {click: "ㅌ"}
+      - {click: K_symbolsC1, width: 19}
+      - {click: "ㅍ"}
+      - {click: "ㅎ"}
+      - {click: "ㄲ"}
+      - {click: "ㄸ"}
+      - {click: "ㅚ"}
+      - {click: "ㅆ"}
+      - {click: K_symbolsC3x, width: 19}
+      - {click: "ㅉ"}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "韩文2"
+    width: 13.5
+  symbolsC3:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "㉠"}
+      - {click: "㉡"}
+      - {click: "㉢"}
+      - {click: "㉣"}
+      - {click: "㉤"}
+      - {click: "㉥"}
+      - {click: K_back, width: 19}
+      - {click: "㉦"}
+      - {click: "㉧"}
+      - {click: "㉨"}
+      - {click: "㉩"}
+      - {click: "㉪"}
+      - {click: "㉫"}
+      - {click: K_symbolsC2, width: 19}
+      - {click: "㉬"}
+      - {click: "㉭"}
+      - {click: "㉮"}
+      - {click: "㉯"}
+      - {click: "㉰"}
+      - {click: "㉱"}
+      - {click: K_symbolsC4x, width: 19}
+      - {click: "㉲"}
+      - {click: "㉳"}
+      - {click: "㉴"}
+      - {click: "㉵"}
+      - {click: "㉶"}
+      - {click: "㉷"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "韩文3"
+    width: 13.5
+  symbolsC4:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "㉸"}
+      - {click: "㉹"}
+      - {click: "㉺"}
+      - {click: "㉻"}
+      - {click: ""}
+      - {click: ""}
+      - {click: K_back, width: 19}
+      - {click: "㈀"}
+      - {click: "㈁"}
+      - {click: "㈂"}
+      - {click: "㈃"}
+      - {click: "㈄"}
+      - {click: "㈅"}
+      - {click: K_symbolsC3, width: 19}
+      - {click: "㈆"}
+      - {click: "㈇"}
+      - {click: "㈈"}
+      - {click: "㈉"}
+      - {click: "㈊"}
+      - {click: "㈋"}
+      - {click: K_symbolsC5x, width: 19}
+      - {click: "㈌"}
+      - {click: "㈍"}
+      - {click: "㈎"}
+      - {click: "㈏"}
+      - {click: "㈐"}
+      - {click: "㈑"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "韩文4"
+    width: 13.5
+  symbolsC5:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "㈒"}
+      - {click: "㈓"}
+      - {click: "㈔"}
+      - {click: "㈕"}
+      - {click: "㈖"}
+      - {click: "㈗"}
+      - {click: K_back, width: 19}
+      - {click: "㈘"}
+      - {click: "㈙"}
+      - {click: "㈚"}
+      - {click: "㈛"}
+      - {click: ""}
+      - {click: ""}
+      - {click: K_symbolsC4, width: 19}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: K_symbolsC5x, key_text_color: fyt, width: 19}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: ""}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbolsD0, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "韩文5"
+    width: 13.5
+  symbolsD1:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "a:"}
+      - {click: "ɔ:"}
+      - {click: "ɜː"}
+      - {click: "i:"}
+      - {click: "u:"}
+      - {click: "ʌ"}
+      - {click: K_back, width: 19}
+      - {click: "ɒ"}
+      - {click: "ə"}
+      - {click: "ɪ"}
+      - {click: "ʊ"}
+      - {click: "e"}
+      - {click: "æ"}
+      - {click: K_symbolsD1, key_text_color: fyt, width: 19}
+      - {click: "eɪ"}
+      - {click: "aɪ"}
+      - {click: "ɔɪ"}
+      - {click: "ɪə"}
+      - {click: "eə"}
+      - {click: "ʊə"}
+      - {click: K_symbolsD2x, width: 19}
+      - {click: "əʊ"}
+      - {click: "aʊ"}
+      - {click: "p"}
+      - {click: "t"}
+      - {click: "k"}
+      - {click: "f"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "音标1"
+    width: 13.5
+  symbolsD2:
+    ascii_mode: 1
+    author: flypy.com
+    keys:
+      - {click: "θ"}
+      - {click: "s"}
+      - {click: "b"}
+      - {click: "d"}
+      - {click: "g"}
+      - {click: "v"}
+      - {click: K_back, width: 19}
+      - {click: "ð"}
+      - {click: "z"}
+      - {click: "ʃ"}
+      - {click: "h"}
+      - {click: "ts"}
+      - {click: "tʃ"}
+      - {click: K_symbolsD1, width: 19}
+      - {click: "j"}
+      - {click: "tr"}
+      - {click: "ʒ"}
+      - {click: "r"}
+      - {click: "dz"}
+      - {click: "dʒ"}
+      - {click: K_symbolsD2x, key_text_color: fyt, width: 19}
+      - {click: "dr"}
+      - {click: "w"}
+      - {click: "m"}
+      - {click: "n"}
+      - {click: "ŋ"}
+      - {click: "l"}
+      - {click: BackSpace, width: 19}
+      - {click: K_symbols70, height: *FHD, width: 12.5}
+      - {click: K_symbols80, width: 12.5}
+      - {click: K_symbols90, width: 12.5}
+      - {click: K_symbolsA0, width: 12.5}
+      - {click: K_symbolsB0, width: 12.5}
+      - {click: K_symbolsC0, width: 12.5}
+      - {click: K_symbolsD0, key_text_color: cdt, key_back_color: cdh, width: 12.5}
+      - {click: K_symbols0z, width: 12.5}
+    name: "音标2"
+    width: 13.5
+

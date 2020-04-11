@@ -15,10 +15,13 @@ preset_keys:
 
  #有道翻译,将【编码】转换为英语单词及句子,其中分隔符如'转换为空格,翻译成中文,
   youdao_13: {label: 编中, send: function, command: 'youdao_translate.lua', option: "%2$s<EN2ZH_CN>"} #编码»英语»中文
-  shareOuLu: {label: 欧陆, send: function, command: '欧路词典.lua', option: "%1$s"}
+  shareOuLu: {label: 欧陆, send: function, command: '欧路词典.lua', option: "%2$s"}
 
   lua_dic_4w_en: {label: Dict, send: function, command: '英语4w简明词典/英语4w简明词典.lua', option: "%2$s"} #英语单词»中文释义
-  adduserdict: {label: 加词,send: function, command: 'adduserdict.lua',option: "%2$s|%1$s"}
   heweather: {label: 天气,send: function, command: 'heweather.lua',option: "%2$s"}
+  dictionary: {label: 字典,send: function, command: 'test.lua',option: "%1$s"}
+  #dictionary: {label: 字典,send: function, command: 'dictionary.lua',option: "%1$s"}
+  userdict: {label: 加词,send: function, command: 'userdict.lua',option: "%4$s"}
+  express: {label: 快递,send: function, command: 'express.lua'}
 
 

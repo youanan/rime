@@ -1,0 +1,91 @@
+# luyinxing 输入法
+# encoding: utf-8
+# 机器生成，请勿修改
+
+
+schema:
+  schema_id: luyinxing
+  name: Lu音形输入方案
+  version: "2020.3.21"
+  author: 
+    - ledao/xiuyingbala <790717479@qq.com> 
+  description: |
+     一款简单、舒服的音形输入方案
+
+switches:
+  - name: ascii_mode 
+    reset: 0
+  - name: full_shape
+  - name: zh_simp
+    reset: 1
+    states: [ 繁, 简 ]
+  - name: ascii_punct
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: '/;zyxwvutsrqponmlkjihgfedcba'
+  initials: 'abcdefghijklmnopqrstuvwxyz;'
+  finals: '/'
+  auto_select: true
+  auto_select_pattern: ^\w{4}$|^\w{5}$|^\w{6}$|^\w{7}$|^\w{8}$|^\w{9}$|^\w{10}$|^\w{11}$|^\w{12}$|^\w{13}$|^\w{14}$|^\w{15}$|^\w{16}$|^\w{17}$|^\w{18}$
+
+translator:
+  dictionary: luyinxing
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_completion: true
+  enable_user_dict: true
+
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {accept: bracketleft, send: Page_Up, when: paging} # [上翻页
+    - {accept: bracketright, send: Page_Down, when: has_menu} # ]下翻页
+    - {accept: comma, send: comma, when: paging} #注销逗号翻页
+    - {accept: period, send: period, when: has_menu} #注销句号翻页
+    - {accept: semicolon, send: 2, when: has_menu} #分号次选
+    - {accept:  dollar, send: 2, when: composing}
+    - {accept: Release+dollar, send: period, when: composing}
+    - {accept: Release+period, send: period, when: composing}
+    - {accept: bar, send: 2, when: composing}
+    - {accept: Release+bar, send: comma, when: composing}
+    - {accept: Release+comma, send: comma, when: composing}
+
+    - {accept: "Tab", send: Page_Down, when: has_menu}
+    - {accept: "Tab", send: Escape, when: composing}
+    - {accept: "Caps_Lock", send: Escape, when: composing}
+    - {accept: "Shift_R", send: Escape, when: composing}
+    - {accept: "Shift+space", toggle: full_shape, when: always} #切换全半角
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+
+menu:
+  page_size: 6
+style:
+  horizontal: true

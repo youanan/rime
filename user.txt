@@ -2,511 +2,3331 @@
 #@/db_name	user.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
-#@/tick	1663
-工	a	9
-荫	abe	6
-其实	adpu	1
-基本	adsg	2
-其余	adwt	1
-散	aet	1
-巧	agnn	1
+#@/tick	1601
+式	aa	1
+项	adm	1
+其它	adpx	2
+七	ag	1
+雅	ahty	4
+雅婷	ahvy	1
+东	ai	1
+蓝牙	ajah	1
+莫	ajd	1
 或	akg	1
-英语	amyg	3
-英文	amyy	1
-获取	aqbc	1
-区域	aqfa	1
-芊	atf	1
-切	av	2
-药	axq	1
-了	b	21
-随	bde	1
-随机	bdsm	4
-阴	be	2
-阴天	begd	1
-际	bfi	1
-陆	bfm	1
-出	bm	5
-出来	bmgo	2
-出错	bmqa	1
-出门	bmuy	1
-也	bn	10
-除	bwt	1
-防止	byhh	1
-以	c	7
+或许	akyt	1
+功能	alce	3
+英雄	amdc	1
+英语	amyg	9
+世纪	anxn	1
+营业	apog	2
+区	aq	1
+获取	aqbc	6
+切换	avrq	1
+共享	awyb	2
+了	b	17
+随机	bdsm	1
+陌生	bdtg	1
+阴	be	1
+隔	bgk	1
+耳穴	bgpw	1
+出	bm	1
+出现	bmgm	1
+也	bn	3
+聊天	bqgd	1
+聊	bqt	4
+孩子	bybb	3
+以	c	8
 双	cc	1
-又	ccc	1
-能	ce	5
-能量	cejg	1
-通知	cetd	1
-对	cf	1
-马	cn	3
-允	cq	1
-鸡子	cqbb	2
-鸡汤	cqin	6
-鸡	cqy	3
-矣	ctd	1
-难	cwy	1
-在	d	13
-大	dd	2
-大路	ddkh	1
-套	ddu	1
+又	cccc	1
+参数	cdov	1
+能	ce	4
+马	cn	2
+→	coj	1
+验证	cwyg	1
+在	d	25
+左	da	1
+友	dc	2
+码	dcg	3
+大	dd	3
+硕	ddm	1
+大写	ddpg	1
 三	dg	1
+古	dghg	1
+感	dgkn	2
 石	dgtg	1
-威	dgv	1
-破	dhc	1
-百	dj	2
-非	djd	1
-百科	djtu	1
-百姓	djvt	1
+硬件	dgwr	1
+丰	dh	1
+存	dhb	3
+在在	dhd	1
+存在	dhdh	1
+大跃进	dkfj	2
 面	dm	1
-页	dmu	1
-成	dn	2
-成功	dnal	1
-万	dnv	4
-成语	dnyg	1
-奇怪	dsnc	1
-龙	dx	3
-太	dy	1
-太阳	dybj	1
-矿	dyt	1
-有	e	30
+布	dmh	2
+帮忙	dtny	1
+龙城	dxfd	1
+太	dy	2
+砇	dyy	1
+有	e	29
+服	eb	2
 月	eeee	1
-脚本	efsg	2
-爱	ep	2
-用	et	7
-胜利	ettj	1
-脑	eyb	2
-地	f	5
-支持	fcrf	1
-云	fcu	1
-去	fcu	2
-需	fdm	1
-封	fffy	1
-款	ffi	2
-堵	fftj	2
-二	fg	1
-十	fgh	2
-直	fh	1
-址	fhg	2
-起来	fhgo	1
-盐	fhl	1
-超市	fhym	3
-求	fiy	1
-进	fjp	1
-声卡	fnhh	1
-声	fnr	1
-过	fp	5
-过去	fpfc	1
-无	fq	4
-元	fqb	3
-霜	fs	1
-才	ft	3
-都	ftjb	4
-老	ftx	1
-增	fu	6
-零	fwyc	2
-坑	fym	2
-一	g	23
-开	ga	1
-武汉	gaic	3
-开放	gayt	1
-到	gc	14
-至	gcf	1
-致	gcft	1
-天	gd	14
-天气	gdrn	4
-于	gf	1
-下	gh	7
-正	ghd	1
-下载	ghfa	2
-正常	ghip	3
-还	gip	9
-理	gj	1
+脚本	efsg	1
+膛	ei	1
+胆	ej	1
+用	et	8
+用户	etyn	3
+胶	euq	1
+及	ey	1
+地	f	12
+动	fcl	1
+云	fcu	2
+去	fcu	6
+需	fdm	2
+款	ffi	1
+直播	fhrt	8
+真	fhw	3
+进	fjp	4
+喜欢	fkcq	1
+过	fp	2
+过来	fpgo	1
+无	fq	8
+无法	fqif	1
+无论	fqyw	1
+才	ft	4
+孝	ftb	2
+教	ftbt	1
+孝感	ftdg	2
+考古	ftdg	1
+考虑	ftha	2
+都	ftjb	5
+老师	ftjg	1
+夫	fw	1
+进化论	fwyw	1
+一	g	26
+开	ga	3
+一切正常	gagi	3
+武汉	gaic	2
+开关	gaud	1
+再也不喜欢我民	gbgn	3
+到	gc	15
+天	gd	9
+玩	gfq	2
+王	ggg	1
+下	gh	8
+正	ghd	2
+下载	ghfa	1
+否	gik	2
+还	gip	6
 更	gjq	1
-更新	gjus	1
-事	gk	1
-疈	gkll	1
-带	gkp	1
-事件	gkwr	2
-速度	gkya	1
-画	gl	1
-画面	gldm	1
-现	gm	1
-再	gmf	2
-来	go	6
-列表	gqge	1
-夹	guw	2
-班	gyt	1
-上	h	7
-卡	hhu	4
+画图省识春风面，环佩空归夜月魂	glif	0
+现	gm	9
+再	gmf	4
+与	gn	1
+与	gng	2
+来	go	4
+严	god	1
+平板	gusr	1
+上	h	4
+卡	hhu	1
 目前	hhue	1
-目录	hhvi	3
-占	hk	1
-战事	hkgk	1
-点	hko	3
-贞	hm	1
-瞩	hnty	1
-盼	hwv	2
-些	hxf	3
-不	i	18
-水落石出	iadb	1
-治	ick	1
-源	idr	1
+目录	hhvi	1
+点	hko	2
+瞎	hpd	1
+些	hxf	2
+不	i	25
+游雅婷	iavy	1
+湖	ide	1
 湖北	idux	2
+浮	ieb	1
 法	ifc	2
-清	ige	7
-小	ih	3
-小区	ihaq	2
-小学	ihip	1
-滤镜	ihqu	1
-水	ii	1
-消灭	iigo	1
-混进	ijfj	1
-没	im	14
-油	img	1
-测试	imya	3
-觉得	iptj	2
-河上	ishh	1
-酒店	isyh	1
+小	ih	7
+小区	ihaq	1
+小米	ihoy	2
+浏览器	ijkk	1
+涢	ikmy	1
+没	im	12
+测试	imya	2
+学	ip	2
+堂	ipkf	1
+学习	ipnu	5
+觉得	iptj	1
+尝试	ipya	1
+汽车	irlg	1
 少	it	1
-活	itd	4
-渡	iya	1
-注明	iyje	1
-游	iytb	1
-是	j	18
-最	jb	3
-坚持	jcrf	1
-明	je	9
-时	jf	1
-里	jfd	4
-晴	jge	22
-晴天	jggd	1
-题目	jghh	1
-题	jghm	3
-题为	jgyl	4
+活	itd	1
+沃	itdy	2
+省	ith	2
+当	iv	3
+游戏	iyca	2
+流量	iyjg	1
+游安	iypv	2
+游	iytb	4
+注释	iyto	1
+是	j	17
+晓	jat	1
+竖	jcu	1
+明	je	4
+时	jf	8
+里	jfd	3
+时间	jfuj	4
+晴	jge	1
+题	jghm	1
+早	jh	1
+冒	jhf	1
+日期	jjad	15
 日	jjjj	1
-遇	jm	1
-电脑	jney	5
-显	jo	2
-显能	joce	1
-显示	jofi	2
+电脑	jney	2
+电视	jnpy	13
+显示	jofi	6
 昨天	jtgd	1
 影响	jykt	2
-中	k	4
-啊	kb	4
+中	k	10
 吗	kcg	3
-吧	kcn	2
-贵	khgm	2
-路	khtk	1
-喝	kjq	1
-口	kkkk	2
-口罩	kklh	1
-别	klj	1
-呢	knx	2
-啦	kru	1
-吃	ktn	1
+吧	kcn	5
+咕	kdg	6
+顺	kdm	1
+呈	kg	1
+号	kgn	3
+跑	khqn	1
+器	kkd	1
+口	kkkk	1
+另	kl	1
+嗯	kldn	1
+员	km	1
+听	kr	1
 哦	ktr	2
 哪	kv	1
-只	kw	9
-哈	kwg	1
-国	l	22
-转出	lfbm	1
-转	lfn	4
+只	kw	2
+国	l	1
+固定	ldpg	1
+转	lfn	1
 黑	lfo	1
-默认	lfyw	1
-车	lg	3
-加	lk	2
+署	lftj	1
+车	lg	1
+四	lh	3
+加	lk	5
 回	lkd	2
-回来	lkgo	1
-加油	lkim	2
-边	lp	4
-软件	lqwr	4
-图	ltu	1
+加油	lkim	1
+贺词	lkyn	1
+思路	lnkh	1
+边	lp	1
+连	lpk	1
+连接	lpru	1
+软	lqw	1
+软件	lqwr	2
+图片	ltth	1
+图	ltui	1
 输出	lwbm	2
+界面	lwdm	1
 办法	lwif	1
-输入	lwty	5
-同	m	1
-典	maw	1
-由	mh	1
-则	mj	1
-风	mq	4
+输入	lwty	10
+典	maw	3
+由	mh	2
+则	mj	2
+风	mq	3
 刚	mqj	1
-风力	mqlt	1
-几	mt	6
-赂	mtk	2
-赚钱	muqg	2
-怪	nc	6
-恢复	ndtj	1
-收集	nhwy	2
-已	nnnn	2
-快	nnw	1
-改	nty	3
-屏	nua	1
-买	nudu	4
-飞	nui	5
-心	ny	2
-为	o	2
-烧	oat	1
-糗事	otgk	1
-数量	ovjg	2
-数字	ovpb	1
+网	mqq	5
+几乎	mttu	1
+内容	mwpw	3
+民	n	2
+懂	nat	3
+悱	ndjd	1
+导	nf	2
+情况	nguk	1
+收	nh	1
+收获	nhaq	1
+收到	nhgc	2
+快递	nnux	2
+改造	nttf	1
+改	nty	1
+习	nu	1
+屏	nua	5
+屏幕	nuaj	1
+买	nudu	1
+心	ny	1
+为	o	8
+类	od	3
+业	og	1
+断	on	1
+烽	ot	1
+料	ou	2
+数字	ovpb	3
+数据	ovrn	1
+数	ovt	1
 这	p	6
-宽度	paya	1
-字典	pbma	1
-字条	pbts	1
-字符	pbtw	2
-家	pe	5
-完全	pfwg	1
-定	pg	3
-写	pgn	1
-定位	pgwu	1
-定义	pgyq	1
-之	pp	2
-宋	psu	3
-字符串	ptkk	1
-实用	puet	2
-宰	puj	1
+字	pb	5
+家	pe	2
+守	pf	1
+守护	pfry	1
+定	pg	1
+宇	pgf	1
+之	pp	1
+客服	pteb	1
+实现	pugm	1
 安	pv	1
 安陆	pvbf	1
-安装	pvuf	1
-空	pw	2
-穷	pwl	1
-空格	pwst	1
-我	q	14
-解	qev	1
-外	qh	1
-名	qk	1
-名堂	qkip	1
-免费	qkxj	3
-包	qn	1
-多	qq	5
+案	pvs	1
+空	pw	1
+窗口	pwkk	2
+容	pww	1
+视频	pyhi	3
+我	q	19
+希沃	qdit	2
+希	qdm	2
+希	qdmh	1
+然后	qdrg	1
+外	qh	2
+名	qk	14
+句	qkd	2
+包	qn	6
+馅	qnqv	2
+多	qq	9
+多云	qqfc	1
 金	qqqq	2
-金秋	qqto	1
-键	qvfp	2
-的	r	41
-找	ra	2
-返回	rclk	1
+钓竿	qqtf	1
+钉	qs	21
+独立	qtuu	1
+键	qvfp	1
+的	r	27
+找	ra	1
 把	rcn	1
-排查	rdsj	1
-排版	rdth	1
-挂	rffg	2
-后	rg	6
-年	rh	3
-看	rhf	1
-操作	rkwt	2
-气	rnb	2
-气温	rnij	4
-按	rpv	1
+排	rdj	1
+后	rg	1
+年	rh	2
+看	rhf	21
+年级	rhxe	1
+提示	rjfi	1
+操作	rkwt	1
+投	rmc	3
+搂	ro	1
+控制	rprm	3
+按	rpv	2
+换	rq	1
+打印机	rqsm	1
 折腾	rreu	1
-白	rrr	2
-打	rs	1
-手	rt	3
-手机	rtsm	5
-接龙	rudx	1
-接	ruv	4
-搜索	rvfp	1
+白	rrrr	1
+打	rs	3
+打印	rsqg	2
+手	rt	1
+手机	rtsm	8
+拼	rua	1
+接收	runh	2
+接	ruv	1
+扫	rv	4
+热	rvyo	1
 失败	rwmt	1
-搞	rym	5
-要	s	12
-横七竖八	sajw	1
-极	se	2
-桂	sff	1
-本	sg	3
-本来	sggo	1
-西	sghg	1
-想	shn	2
-相应	shyi	1
-查	sjg	1
-可	sk	5
-板	src	1
-林	ss	1
-楚	ssn	1
-格式	staa	3
-样	su	3
-梓	suh	1
-检查	swsj	1
-和	t	2
+要	s	9
+框	sagg	2
+树莓派	sair	3
+李	sb	1
+票	sfiu	1
+本	sg	11
+西洋	sgiu	1
+相	sh	2
+想	shn	5
+相关	shud	1
+档	si	1
+西游记	siyn	1
+查	sjg	3
+查询	sjyq	2
+可	sk	10
+可取	skbc	1
+哥	sks	1
+机	sm	6
+板	src	3
+格式	staa	2
+样	su	6
+和	t	3
 长	ta	1
-么	tc	4
-智能	tdce	1
-智力	tdlt	1
+知	tdk	4
 知道	tdut	1
+适合	tdwg	1
 知识	tdyk	1
-般	tem	1
-透	tep	1
-航	tey	1
-行	tf	1
-等	tffu	2
-千	tfk	2
-先生	tftg	1
-重	tgj	1
+盘	tel	1
+行	tf	9
+等	tffu	1
+算	tha	1
 自	thd	1
-版	thgc	4
-牌	thgf	1
-自带	thgk	1
-自己	thnn	1
-版本	thsg	1
+版	thgc	3
+自己	thnn	6
 怎么	thtc	3
-短小精悍	tion	6
-稍等	titf	1
-稍微	titm	1
-得	tj	1
-复制	tjrm	1
+得	tj	2
 复	tjt	1
-复杂	tjvs	1
-备	tlf	1
-向	tmk	2
-微信	tmwy	2
-秋	to	2
-翻译	toyc	5
+各	tk	2
+程	tkgg	1
+程序	tkyc	2
+微	tmg	2
+微信	tmwy	8
+自己不会	tngw	1
 管	tp	1
-御前	true	6
 条	ts	1
-笑话	ttyt	1
-科技	turf	1
+笑	ttd	2
 简单	tuuj	1
-简体	tuws	3
-很	tve	7
-答	tw	1
-符	twf	2
-符号	twkg	1
-答案	twpv	1
-签名	twqk	1
-第	tx	1
-每	txg	1
-第	txh	3
-每日	txjj	1
+很	tve	4
+每	txg	2
+敏	txgt	1
+每日	txjj	4
 系统	txxy	1
 产	u	1
-关	ud	1
-着	udh	1
-送	udp	3
-关键	udqv	2
-养	udyj	1
-前	ue	5
-半	uf	3
+头	udi	2
+判断	udon	2
+送	udp	2
+头像	udwq	1
+剪切	ueav	1
+半	uf	1
 装	ufye	1
-病毒	uggx	1
-间	uj	2
-音响	ujkt	1
-单杠	ujsa	2
-音效	ujuq	2
-问题	ukjg	3
+单	ujfj	1
+单纯	ujxg	1
+问	ukd	4
+问题	ukjg	2
 总	ukn	1
-问答	uktw	3
 曾	ul	1
-普通	uoce	1
-效果	uqjs	2
-新鲜	usqg	1
-新	usr	2
-道理	utgj	1
-道	uthp	1
-冷	uwyc	1
-门	uyh	2
-门口	uykk	1
-发	v	2
-好	vb	15
+端	umdj	1
+次	uqw	1
+颜色	utqc	2
+立	uu	1
+痒痒	uuuu	1
+立	uuuu	3
+准备	uwtl	2
+北	ux	1
+发	v	8
+好	vb	11
+好处	vbth	1
 好像	vbwq	1
-那	vfb	3
-录	vi	2
-录制	virm	1
-如果	vkjs	1
+始终	vcxt	1
+叟	vh	1
+录音	viuj	1
+如下	vkgh	1
+如果	vkjs	3
 群	vtk	2
-人	w	15
-代码	wadc	1
-他	wb	1
-公鸡	wccq	2
-估	wdg	1
-做	wdt	1
-会	wfc	2
-什么	wftc	1
+婷	vyp	4
+人	w	8
+供应	wayi	1
+优	wdn	2
+估计	wdyf	1
+会	wfc	4
+值	wfhg	1
+什么	wftc	7
 全	wg	1
+例子	wgbb	1
+盒子	wgbb	1
 使用	wget	1
-拿	wgkr	3
-例	wgq	1
-例如	wgvk	1
-个	wh	12
-修	wht	1
-保存	wkdh	1
-你	wq	6
-像	wqj	2
-休	ws	1
-作者	wtft	1
-作文	wtyy	1
-们	wu	1
-位	wug	2
-位置	wulf	2
-分布	wvdm	1
-分析	wvsr	1
-伊始	wvvc	1
-坐	wwf	1
-份	wwv	1
-华	wxf	1
-领	wycm	1
-今天	wygd	3
+个	wh	7
+候选	whtf	5
+但	wjg	1
+保存	wkdh	2
+追加	wnlk	1
+你	wq	26
+像	wqj	1
+你好	wqvb	3
+件	wrh	4
+体	wsg	1
+作	wt	1
+作业	wtog	1
+任何	wtws	1
+们	wu	4
+分	wv	1
+分享	wvyb	2
+价	wwj	1
+化	wx	1
+货	wxm	2
+信	wy	1
+今天	wygd	11
+今日	wyjj	3
+念	wynn	1
+信息	wyth	4
+偏向	wytm	1
 经	x	1
-级	xe	3
+练	xan	3
+绑	xdt	1
+级	xe	2
+组件	xewr	5
 线	xg	1
-母	xgu	2
-引擎	xhaq	2
-绝望	xqyn	1
-终于	xtgf	1
-丝	xxg	1
-编码	xydc	3
-统计	xyyf	1
-主	y	3
-试	yaa	3
-读取	yfbc	2
-诗	yff	1
-诗	yffy	2
-讲习	yfnu	1
-计算	yfth	1
-诗词	yfyn	4
-主	ygd	1
-请	yge	1
-语	ygk	2
-语音	yguj	9
-就	yi	9
+费	xjm	1
+绿色	xvqc	1
+给	xw	1
+比	xx	1
+主	y	1
+试	yaa	1
+读取	yfbc	1
+讲	yfj	1
+讲解	yfqe	1
+请教	ygft	1
+证明	ygje	1
+语句	ygqk	1
+主意	yguj	1
+语音	yguj	1
+让	yh	2
+就	yi	1
+应用	yiet	4
 应该	yiyy	3
-识别	ykkl	5
-库	ylk	7
+课堂	yjip	2
+课	yjs	5
+库	ylk	1
 高	ym	1
-调	ymfk	2
-设置	ymlf	2
-记	yn	4
-讯	ynf	5
-词	yngk	3
-刻	ynt	1
-记得	yntj	1
-词库	ynyl	1
-变	yoc	1
-蛮	yoj	1
-变量	yojg	1
-麻烦	ysod	2
-说	yu	2
-唐	yvh	1
-夜间	ywuj	2
-方	yy	1
-文	yygy	2
-广西	yysg	1
-文本	yysg	1
+市	ymhj	2
+设置	ymlf	1
+高亮	ymyp	2
+房子	ynbb	1
+词	yngk	4
+永	yni	1
+词赋	ynmg	1
+订	ys	1
+麻烦	ysod	1
+谢谢	ytyt	2
+详情	yung	1
+方式	yyaa	1
+文	yygy	5
+文字	yypb	2
+方案	yypv	1
+文档	yysi	2
 广告	yytf	1
-文件	yywr	9
-增怪短小精悍工国	encfntl	1
-一是没	encgjim	1
-显卡	encjohh	1
-中威	enckdg	1
-中威	enckhdg	1
-国荫国	enclal	1
-国荫国	enclalg	1
-国人人的	enclwwr	1
-宋词	encpsyn	1
-要试	encsvya	1
-要试	encsya	1
-答休	enctwws	1
-估我	encwdq	1
-估我	encwdtr	1
-人瞩	encwhn	1
-人瞩	encwwhn	1
-讲习不	encyngi	1
-讲习不	encyni	1
+方便	yywg	1
+文件	yywr	14
+蓝牙方便钉	encaayq	0
+蓝牙方便钉钉	encaayq	0
+蓝牙方便	encaayw	0
+获取到	encabgc	0
+获取到其它内容吗	encabgk	0
+获取到其它	encabgp	0
+获取到其它内容	encabgp	0
+获取网上	encabmh	0
+获取网上内容	encabmp	0
+获取网	encabmq	0
+获取后	encabrg	0
+功能实现	encacpg	0
+英雄是	encadj	0
+英雄是	encadjg	0
+项会	encadwf	0
+七地	encagf	0
+七地	encagfb	0
+雅婷	encahvy	0
+或练	encakxa	0
+营业了	encaob	0
+营业了到时应该可取	encaobb	0
+营业了到	encaobg	0
+营业了到时	encaobj	0
+营业了	encaobn	0
+营业了到时应该	encaoby	0
+营业的	encaor	0
+营业的	encaorq	0
+其它内容吗	encapmk	0
+其它内容	encapmp	0
+其它方式	encapya	0
+其它方式学习	encapyn	0
+区管	encaqtp	0
+切换输入法才能	encarlc	0
+切换输入法才	encarlf	0
+切换输入法	encarli	0
+切换输入	encarlt	0
+切换输入法才能输入	encarlt	0
+区管的	encatr	0
+区管的还	encatrg	0
+区管的还是	encatrj	0
+区管的	encatrq	0
+区管的还是很	encatrt	0
+雅婷直播	encavfr	0
+雅婷学习	encavin	0
+雅婷痒痒	encavuu	0
+项会影响	encawjk	0
+世纪龙城小区	encaxda	0
+世纪龙城	encaxdf	0
+世纪龙城小区进	encaxdf	0
+或练习题的其它方式	encaxna	0
+或练习题	encaxnj	0
+或练习题的其它	encaxnp	0
+或练习题的	encaxnr	0
+或练习	encaxnu	0
+英语随机语句	encaybq	0
+英语随机	encaybs	0
+或许不一	encaygg	0
+或许不	encaygi	0
+或许不一样	encaygs	0
+共享目录分享一	encayhg	0
+共享目录分享一些	encayhh	0
+共享目录	encayhv	0
+共享目录分享一些文件	encayhw	0
+共享目录分享	encayhy	0
+或许不	encayi	0
+或许不一	encayig	0
+或许不一样	encayis	0
+英语显示在	encayjd	0
+英语显示	encayjf	0
+英语显示在这窗口	encayjk	0
+英语显示在这	encayjp	0
+英语显示在候选	encayjt	0
+英语显示在这	encayjy	0
+英语录音一切正常	encayvi	0
+英语录音	encayvu	0
+英语作业	encaywo	0
+了七地	encbaf	0
+了七地	encbafb	0
+了七	encbag	0
+了也冒	encbbjh	0
+了也冒得	encbbjt	0
+了也	encbbn	0
+孩子准备电脑	encbbue	0
+孩子准备电脑这样真	encbbuf	0
+孩子装	encbbuf	0
+孩子准备电脑这样真是	encbbuj	0
+孩子准备电脑这	encbbup	0
+孩子准备电脑这样	encbbus	0
+孩子准备	encbbut	0
+孩子准备电脑这	encbbuy	0
+孩子们学习使用	encbbwe	0
+孩子们学习	encbbwn	0
+孩子们	encbbwu	0
+了服	encbeb	0
+了服了	encbeb	0
+了服了	encbebn	0
+了到	encbgc	0
+也不喜欢	encbgfc	0
+也不喜欢我民	encbgfn	0
+也不喜欢我	encbgfq	0
+也不喜欢我	encbgft	0
+了到时应该可取	encbgjb	0
+了到时	encbgjf	0
+了到时应该可取供应吧	encbgjk	0
+了到时应该	encbgjy	0
+了到时应该可取供应	encbgjy	0
+聊天软件了	encbglb	0
+聊天软	encbglq	0
+聊天软件	encbglw	0
+隔空	encbgpw	0
+也不喜欢	encbifc	0
+也不喜欢我	encbifq	0
+也不喜欢我	encbift	0
+也冒得	encbjtj	0
+了吧	encbkc	0
+出本	encbmsg	0
+了七	encbnag	0
+了也	encbnbn	0
+了服	encbneb	0
+了到	encbngc	0
+也不	encbngi	0
+也不	encbni	0
+也冒	encbnjh	0
+了吧	encbnkc	0
+了我	encbnq	0
+也找	encbnra	0
+了我	encbntr	0
+隔空投	encbprm	0
+隔空投屏	encbprn	0
+了我	encbq	0
+聊天	encbqgd	0
+了我想	encbqsh	0
+了我想买	encbqsn	0
+了我想买这	encbqsp	0
+了我想买这个数据	encbqsr	0
+了我想买这个	encbqsw	0
+了我想买这	encbqsy	0
+也找不到一款简单的聊	encbrgb	0
+也找不到一款	encbrgf	0
+也找不到	encbrgg	0
+也找不到一	encbrgg	0
+也找不	encbrgi	0
+也找不到一款简单的	encbrgr	0
+也找不到一款简单	encbrgu	0
+也找不	encbri	0
+也找不到一款	encbrif	0
+也找不到	encbrig	0
+也找不到一	encbrig	0
+了手机	encbrsm	0
+出本地	encbsf	0
+出本地	encbsfb	0
+随机语句	encbsyq	0
+了我	encbtr	0
+了我想	encbtsh	0
+了我想买	encbtsn	0
+了我想买这	encbtsp	0
+了我想买这个	encbtsw	0
+了我想买这	encbtsy	0
+陌生微信的信息为	encbtto	0
+陌生微信的	encbttr	0
+陌生微信的信息	encbttt	0
+陌生微信的信息为什么	encbttt	0
+陌生微信	encbttw	0
+陌生微信的信息为	encbtty	0
+了房子	encbyb	1
+了房子	encbybb	1
+以获取	enccabc	0
+以获取到	enccabg	0
+以获取到其它内容吗	enccabk	0
+以获取到其它	enccabp	0
+以获取到其它内容	enccabp	0
+双用	encccet	0
+又打	encccrs	0
+以在	enccd	0
+以在	enccdh	0
+以在电视上	enccdjh	0
+以在电视	enccdjp	0
+以在电视上看	enccdjr	0
+能不	enccegi	0
+能不	enccei	0
+能学	encceip	0
+以用是	enccej	0
+以用是	enccejg	0
+以用是吧	enccejk	0
+双用的	enccer	0
+双用的	enccerq	0
+以用	enccet	0
+能考虑	enccfha	0
+能不能	enccgce	0
+能不能考虑	enccgch	0
+能不能	enccice	0
+能不能考虑	enccich	0
+能学懂	enccina	0
+能学懂一	enccing	0
+能学懂一些	enccinh	0
+能学懂一些吧	enccink	0
+以中	encck	0
+以顺	encckd	0
+以顺丰不	encckdg	0
+以顺丰	encckdh	0
+以顺丰不	encckdi	0
+以中	encckh	0
+能输入	encclty	0
+以收到	enccngc	0
+马与	enccngn	1
+马呈	enccnkg	1
+以看到	enccrgc	0
+以看	enccrh	0
+又打	enccrs	0
+又打算改到	enccrtg	0
+又打算	enccrth	0
+又打算改	enccrtn	0
+验证码	enccydc	0
+验证码输入界面	enccydd	0
+验证码输入	enccydt	0
+大马与	encdcgn	0
+码类	encdcod	0
+在在	encdd	0
+在在在	encddd	0
+在在在	encdddh	0
+在在	encddh	0
+有太多游戏	encddqc	0
+大多	encddqq	0
+有太多	encddqq	0
+大人	encddw	0
+大人	encddww	0
+有了	encdeb	0
+有了	encdebn	0
+有太	encdedy	0
+有再	encdegm	0
+有没	encdeim	0
+有当	encdeiv	0
+有风	encdemq	0
+有的	encder	0
+有的	encderq	0
+有人	encdew	0
+有个	encdewh	0
+有人	encdeww	0
+龙城小区	encdfia	0
+龙城小区进	encdfif	0
+在进	encdfj	0
+有再也找不到一款	encdgbf	0
+有再也找不	encdgbg	0
+有再也找不到	encdgbg	0
+有再也找不到一	encdgbg	0
+有再也找不	encdgbi	0
+有再也	encdgbn	0
+有再也找	encdgbr	0
+有再也找不到一款简单	encdgbu	0
+三体	encdgws	0
+古文	encdgyy	0
+石文	encdgyy	0
+在在	encdhd	0
+存在	encdhd	0
+在在	encdhdh	0
+存在	encdhdh	0
+在进	encdhfj	0
+丰不	encdhgi	0
+丰不	encdhi	0
+在是	encdhj	0
+在是	encdhjg	0
+在网	encdhmq	0
+在发	encdhnt	0
+在这	encdhp	0
+在钉	encdhqs	0
+在本	encdhsg	0
+在发	encdhv	0
+在这	encdhyp	0
+有没有	encdide	0
+有没有办法	encdidi	0
+有没有人把宇	encdidp	0
+有没有人把	encdidr	0
+有没有人	encdidw	0
+有没有	encdie	0
+有没有办法	encdiei	0
+有没有人把宇	encdiep	0
+有没有人把	encdier	0
+有没有人	encdiew	0
+在湖北这边发货了	encdiub	0
+在湖北这边发货了吧	encdiuk	0
+在湖北这边	encdiul	0
+在湖北这边发	encdiun	0
+在湖北这	encdiup	0
+在湖北这边发	encdiuv	0
+在湖北这边发货	encdiuw	0
+在湖北	encdiux	0
+在湖北这	encdiuy	0
+在是	encdj	0
+在是	encdjg	0
+在电视上	encdjph	0
+在电视上看	encdjpr	0
+在电视	encdjpy	0
+在是半断	encdjuo	0
+布署才有	encdlfd	0
+布署才有	encdlfe	0
+布署才	encdlft	0
+有办法	encdlif	0
+在输入框左	encdltd	0
+码输入界面	encdltd	0
+在输入框	encdlts	0
+在输入	encdlty	0
+码输入	encdlty	0
+布在	encdmd	0
+布在	encdmdh	0
+在网上	encdmh	0
+在网上看到有的小区	encdmha	0
+在网上看到有	encdmhd	0
+在网上看到有	encdmhe	0
+在网上看到	encdmhg	0
+在网上	encdmhh	0
+在网上看到有的小	encdmhi	0
+在网上看	encdmhr	0
+在网上看到有的	encdmhr	0
+在网上看到有的小区管	encdmht	0
+布署	encdmlf	0
+在网	encdmq	0
+面可	encdmsk	0
+帮忙看	encdnrh	0
+帮忙看看	encdnrr	0
+在发	encdnt	0
+在发货不	encdnwg	0
+在发货不	encdnwi	0
+在发货	encdnwx	0
+码类名	encdoqk	0
+在这	encdp	0
+在这窗口	encdppk	0
+太多游戏	encdqic	0
+大多数	encdqov	0
+在钉钉验证码	encdqqd	0
+在钉钉验证码输入界面	encdqqd	0
+在钉钉	encdqqs	0
+在钉钉验证码输入	encdqqt	0
+在钉钉验证	encdqqy	0
+太多的	encdqr	0
+太多的功能	encdqrc	0
+太多的	encdqrq	0
+在钉	encdqs	0
+有的小区	encdria	0
+有的小区管的还	encdrig	0
+有的小	encdrih	0
+有的小区管的还是	encdrij	0
+有的小区管的	encdrir	0
+有的小区管	encdrit	0
+有的小区管的还是很	encdrit	0
+面可以	encdsc	0
+面可以获取	encdscb	0
+面可以获取到	encdscg	0
+面可以获取到其它	encdscp	0
+面可以获取到其它内容	encdscp	0
+在本地	encdsf	0
+在本地	encdsfb	0
+在本	encdsg	0
+面可以获取	encdsnb	0
+面可以获取到	encdsng	0
+面可以	encdsny	0
+在发	encdv	0
+在发货不	encdvwg	0
+在发货不	encdvwi	0
+在发货	encdvwx	0
+有个功能	encdwac	0
+有个功能实现	encdwag	0
+有今天日期	encdwga	0
+有今天的日期	encdwga	0
+有今天	encdwgd	0
+大人来讲解不	encdwgg	0
+大人来讲解不	encdwgi	0
+大人来	encdwgo	0
+大人来讲解	encdwgq	0
+有今天的	encdwgr	0
+有今日	encdwj	0
+有今日	encdwjj	0
+有人把	encdwrc	0
+有人把宇	encdwrp	0
+在候选	encdwtf	0
+有候选	encdwtf	0
+在这	encdyp	0
+在这窗口	encdypk	0
+砇方案	encdypv	0
+砇方案你	encdypw	0
+太多	encdyqq	0
+石文	encdyy	0
+有了	enceb	0
+服了	encebb	0
+服了	encebbn	0
+有了	encebn	0
+有太多游戏	encedqc	0
+有太多	encedqq	0
+有太	encedy	0
+有再也找不	encegbg	0
+有再也找不	encegbi	0
+有再也	encegbn	0
+有再也找	encegbr	0
+有再	encegm	0
+有没有	enceide	0
+有没有人把宇	enceidp	0
+有没有人把	enceidr	0
+有没有人	enceidw	0
+有没有	enceie	0
+有没有人把宇	enceiep	0
+有没有人把	enceier	0
+有没有人	enceiew	0
+有没	enceim	0
+有当	enceiv	0
+用是吧	encejkc	0
+有办法	encelif	0
+有风	encemq	0
+用钉钉	enceqqs	0
+有的	encer	0
+有的小区	enceria	0
+有的小	encerih	0
+有的	encerq	0
+用打印机	encerqs	0
+用的人	encerw	0
+用的人	encerww	0
+脚本分享	enceswy	0
+用是	encetj	0
+用是	encetjg	0
+用吗	encetkc	0
+用钉	encetqs	0
+用的	encetr	0
+用的	encetrq	0
+用给	encetxw	0
+有人	encew	0
+有个功能	encewac	0
+有今天日期	encewga	0
+有今天的日期	encewga	0
+有今天	encewgd	0
+有今天的	encewgr	0
+有个	encewh	0
+有今日	encewj	0
+有今日	encewjj	0
+有人把	encewrc	0
+有人把宇	encewrp	0
+有候选	encewtf	0
+有人	enceww	0
+用给孩子	encexbb	0
+用给孩子装	encexbu	0
+及组件名	encexwq	0
+及组件	encexwr	0
+用户词典	enceyym	1
+用户词赋典	enceyym	1
+用户词	enceyyn	0
+用户词赋典看看自己	enceyyn	0
+用户词赋典看	enceyyr	0
+用户词赋典看看	enceyyr	0
+用户词库	enceyyy	0
+都了在	encfbd	1
+都了在送了	encfbdb	0
+才了感	encfbdg	1
+都了在	encfbdh	1
+都了在送了我想买	encfbdn	0
+都了在送了我想买这	encfbdp	0
+都了在送了我	encfbdq	0
+都了在送了我想	encfbds	0
+都了在送了我	encfbdt	0
+都了在送	encfbdu	0
+都了在送了我想买这个	encfbdw	0
+都了在送了我想买这	encfbdy	0
+地的	encfbr	0
+地的	encfbrq	0
+去去	encfcfc	0
+去是	encfcj	0
+去是	encfcjg	0
+才能输入	encfclt	0
+喜欢我	encfcq	0
+喜欢我民	encfcqn	0
+喜欢我民	encfctn	0
+喜欢我	encfctr	0
+需不	encfdgi	0
+需不	encfdi	0
+需要	encfds	0
+需要	encfdsv	0
+进需不需	encffgf	0
+进需不	encffgi	0
+进需不需要什么证明	encffgj	0
+进需不需要什么证明之	encffgp	0
+进需不需要	encffgs	0
+进需不需要什么	encffgt	0
+进需不	encffi	0
+进需不需	encffif	0
+进需不需要	encffis	0
+进需不需要什么	encffit	0
+进去是	encffj	0
+进去是	encffjg	0
+进去是单	encffju	0
+进去是单个	encffjw	0
+进去是单个人	encffjw	0
+进去是单个人头像	encffjw	0
+需不需	encfgfd	0
+需不需要什么证明	encfgfj	0
+需不需要什么证明之类	encfgfo	0
+需不需要什么证明之	encfgfp	0
+需不需要	encfgfs	0
+需不需要什么	encfgft	0
+考虑一	encfhg	0
+考虑一下用	encfhge	0
+考虑一	encfhgg	0
+考虑一下	encfhgg	0
+考虑一下用钉	encfhgq	0
+考虑一下用钉钉	encfhgq	0
+真是	encfhj	0
+真是	encfhjg	0
+真心	encfhny	0
+真要	encfhs	0
+真要	encfhsv	0
+需不需	encfifd	0
+需不需要	encfifs	0
+需不需要什么	encfift	0
+无法输入	encfilt	0
+都是大	encfjdd	0
+都是大人来	encfjdg	0
+都是大人来讲解不	encfjdg	0
+都是大人来讲解不	encfjdi	0
+都是大人来讲解	encfjdq	0
+都是大人	encfjdw	0
+进去	encfjfc	0
+进需	encfjfd	0
+去是单	encfjuj	0
+去是单个	encfjuw	0
+去是单个人	encfjuw	0
+去是单个人头像	encfjuw	0
+老师们	encfjwu	0
+真是麻烦了	encfjyb	0
+真是麻烦	encfjyo	0
+真是麻烦了手机	encfjys	0
+才发现不是好友	encfngd	0
+才发现不	encfngg	0
+真心不好操作不	encfngg	0
+才发现不	encfngi	0
+真心不	encfngi	0
+真心不好操作不	encfngi	0
+才发现不是	encfngj	0
+才发现	encfngm	0
+才发现不是好	encfngv	0
+真心不好	encfngv	0
+真心不好操作	encfngw	0
+真心不	encfni	0
+真心不好	encfniv	0
+真心不好操作	encfniw	0
+动窗口	encfpk	0
+动窗口	encfpkk	0
+无名一切正常	encfqgi	0
+无名	encfqqk	0
+无本	encfqsg	0
+地的	encfr	0
+直播或许不	encfrag	0
+直播或许不一	encfrag	0
+直播或许不	encfrai	0
+直播或许不一样	encfras	0
+直播或许	encfray	0
+直播流量	encfrij	0
+地的日期	encfrja	0
+地的	encfrq	0
+直播课堂	encfryi	0
+无本地	encfsf	0
+无本地	encfsfb	0
+真要直播	encfsfr	0
+无本地文件	encfsfw	0
+需要什么证明	encfswj	0
+需要什么证明之类	encfswo	0
+需要什么证明之	encfswp	0
+需要什么	encfswt	0
+需要什么证明之类和	encfswt	0
+才能	encftce	0
+才有	encftde	0
+孝感	encftdg	1
+才有	encfte	0
+都玩	encftgf	0
+都是	encftj	0
+都是	encftjg	0
+才发	encftnt	0
+教版金	encftq	0
+教版金	encftqq	0
+教版金板	encftqs	0
+教版	encftth	0
+款简单的聊	encftub	0
+款简单的聊天软件了	encftub	0
+款简单的聊天	encftug	0
+款简单	encftuj	0
+款简单的	encftur	0
+款简单的聊天软件	encftuw	0
+才发	encftv	0
+都会	encftwf	0
+都试	encftya	0
+才发现不	encfvgg	0
+才发现不	encfvgi	0
+才发现	encfvgm	0
+无今天日期	encfwga	0
+无今天	encfwgd	0
+都会跑一	encfwkg	0
+都会跑一个字到	encfwkg	0
+都会跑一个字到高一	encfwkg	0
+都会跑	encfwkh	0
+都会跑一个字	encfwkp	0
+都会跑一个字到高一行	encfwkt	0
+都会跑一个	encfwkw	0
+都会跑一个字到高	encfwky	0
+无候选	encfwtf	0
+都试过	encfyfp	0
+无论我	encfyq	0
+无论我输入	encfyqt	0
+无论我输入什么	encfyqt	0
+无广告	encfytf	0
+无论我	encfytr	0
+无论我输入	encfytt	0
+无论我输入什么	encfytt	0
+地文件布	encfywd	0
+地文件布在	encfywd	0
+地文件有	encfywd	0
+地文件有	encfywe	0
+地文件有当	encfywi	0
+地文件	encfywr	0
+地主文件不存	encfyyd	0
+地主文件不存在	encfyyd	0
+地主文件不	encfyyg	0
+地主文件不	encfyyi	0
+去高亮	encfyyp	0
+地主文件	encfyyw	0
+天获取	encgabc	0
+天获取后	encgabr	0
+一切正常咕	encgagk	0
+一切正常咕咕	encgagk	0
+一切正常咕咕机	encgags	0
+开发	encgant	0
+到其它内容吗	encgapk	0
+到其它内容	encgapp	0
+到其它	encgapx	0
+开头	encgaud	0
+开发	encgav	0
+再也不喜欢	encgbgc	0
+再也不	encgbgi	0
+再也不喜欢我民	encgbgn	0
+再也不喜欢我	encgbgq	0
+再也不喜欢我	encgbgt	0
+再也不	encgbi	0
+再也不喜欢	encgbic	0
+再也不喜欢我	encgbiq	0
+再也不喜欢我	encgbit	0
+再也找	encgbra	0
+再也找不到一款	encgbrf	0
+再也找不	encgbrg	0
+再也找不到	encgbrg	0
+再也找不到一	encgbrg	0
+再也找不	encgbri	0
+再也找不到一款简单的	encgbrr	0
+再也找不到一款简单	encgbru	0
+到有	encgcde	0
+到有	encgce	0
+不能考虑	encgcfh	0
+到一	encgcg	0
+到一	encgcgg	0
+到时	encgcjf	0
+到本	encgcsg	0
+到你	encgcwq	0
+到高	encgcym	0
+不存在	encgdd	0
+现在在	encgdd	0
+现在在在	encgddd	0
+不存在	encgddh	0
+现在在	encgddh	0
+现在进	encgdfj	0
+天到	encgdgc	0
+现在湖北这边发货了	encgdib	0
+还有没有	encgdid	0
+还有没有	encgdie	0
+现在湖北这边发货了吧	encgdik	0
+现在湖北这边	encgdil	0
+还有没	encgdim	0
+现在湖北这边发	encgdin	0
+现在湖北这	encgdip	0
+还有没有人把宇	encgdip	0
+还有没有人把	encgdir	0
+现在湖北	encgdiu	0
+现在湖北这边发	encgdiv	0
+现在湖北这边发货	encgdiw	0
+还有没有人	encgdiw	0
+现在湖北这	encgdiy	0
+现在是	encgdj	0
+现在是	encgdjg	0
+现在是半断	encgdjo	0
+天软	encgdlq	0
+现在发货不	encgdng	0
+现在发货不	encgdni	0
+现在发	encgdnt	0
+现在发货	encgdnw	0
+到有的	encgdr	0
+到有的小区	encgdra	0
+到有的小区管的还	encgdrg	0
+到有的小	encgdri	0
+到有的小区管的还是	encgdrj	0
+到有的	encgdrq	0
+到有的小区管的	encgdrr	0
+到有的小区管	encgdrt	0
+到有的小区管的还是很	encgdrt	0
+现在发	encgdv	0
+现在发货不	encgdvg	0
+现在发货不	encgdvi	0
+现在发货	encgdvw	0
+还有没有	encgeid	0
+还有没有	encgeie	0
+还有没	encgeim	0
+还有没有人把宇	encgeip	0
+还有没有人把	encgeir	0
+还有没有人	encgeiw	0
+下用钉钉	encgeqq	0
+下用钉	encgeqs	0
+到有的	encger	0
+到有的小区	encgera	0
+到有的小	encgeri	0
+到有的	encgerq	0
+不用给孩子	encgexb	0
+不用给孩子装	encgexu	0
+不用给	encgexw	0
+下用户词赋典	encgeym	0
+下用户词赋典看看自己	encgeyn	0
+下用户词赋典看	encgeyr	0
+下用户词赋典看看	encgeyr	0
+不喜欢我民	encgfcn	0
+不喜欢	encgfcq	0
+不喜欢我	encgfcq	0
+不喜欢我	encgfct	0
+一款	encgff	0
+天过来	encgfgo	0
+否考虑	encgfha	0
+否考虑一下用	encgfhe	0
+否考虑一	encgfhg	0
+否考虑一下	encgfhg	0
+否考虑一下用钉	encgfhq	0
+否考虑一下用钉钉	encgfhq	0
+不需要	encgfs	0
+不需要什么证明	encgfsj	0
+不需要什么证明之类	encgfso	0
+不需要什么证明之	encgfsp	0
+不需要什么	encgfst	0
+不需要什么证明之类和	encgfst	0
+不需要	encgfsv	0
+一款简单的聊	encgftb	0
+一款简单的聊天软件了	encgftb	0
+一款简单的聊天	encgftg	0
+一款简单的	encgftr	0
+一款简单	encgftu	0
+一款简单的聊天软件	encgftw	0
+下载文件	encgfyw	0
+一天	encggd	0
+一下用户词赋典	encggem	0
+一下用钉	encggeq	0
+一下用钉钉	encggeq	0
+一下用户词赋典看	encgger	0
+一下用户词赋典看看	encgger	0
+一下用	encgget	0
+到一款简单的聊	encggfb	0
+一款	encggff	0
+到一款	encggff	0
+到一款简单的聊天	encggfg	0
+到一款简单的	encggfr	0
+到一款简单	encggfu	0
+到一款简单的聊天软件	encggfw	0
+不到一	encggg	0
+不到一款简单的聊	encgggb	0
+一天	encgggd	0
+不到一款	encgggf	0
+不到一	encgggg	0
+不到一款简单的聊天	encgggg	0
+一下	encgggh	0
+不到一款简单的	encgggr	0
+不到一款简单	encgggu	0
+一下	encggh	0
+王卡	encgghh	0
+一些	encgghx	0
+现不是	encggj	0
+还不晓	encggja	0
+现不是好友	encggjd	0
+现不是	encggjg	0
+还不晓得武汉	encggji	0
+还不晓得	encggjt	0
+现不是好	encggjv	0
+一外	encggqh	0
+现一外	encggqh	0
+一句	encggqk	0
+一扫	encggrv	0
+天到本地	encggsf	0
+天到本	encggsg	0
+一样	encggsu	0
+不一样	encggsu	0
+一行	encggtf	0
+一条	encggts	0
+到一条	encggts	0
+到一条偏向	encggtt	0
+一下群	encggvt	0
+一个	encggwh	0
+一天估计人很	encggwt	0
+一天估计人	encggww	0
+一天估计	encggwy	0
+下用	encghet	0
+王卡	encghh	0
+一些吧	encghkc	0
+正则	encghmj	0
+下群	encghvt	0
+一些	encghx	0
+一些文件	encghyw	0
+不了	encgib	0
+不了	encgibn	0
+不能	encgice	0
+还有	encgide	0
+还没有	encgide	0
+不存	encgidh	0
+还有	encgie	0
+还没有	encgie	0
+不用	encgiet	0
+不需	encgifd	0
+不一	encgig	0
+不到	encgigc	0
+不一	encgigg	0
+还不	encgigi	0
+还不	encgii	0
+还没	encgiim	0
+不是	encgij	0
+现不是	encgij	0
+还是	encgij	0
+不晓	encgija	0
+还不晓	encgija	0
+现不是好友	encgijd	0
+不是	encgijg	0
+现不是	encgijg	0
+还是	encgijg	0
+还不晓得	encgijt	0
+现不是好	encgijv	0
+不懂	encgina	0
+不好	encgivb	0
+不会	encgiwf	0
+不像	encgiwq	0
+天日期	encgjad	0
+天日期内容不	encgjag	0
+天日期内容不	encgjai	0
+天日期内容	encgjap	0
+不影响	encgjkt	0
+到电视	encgjpy	0
+还是手机	encgjrs	0
+不晓得武汉	encgjti	0
+不晓得	encgjtj	0
+还是很	encgjtv	0
+还是判断为无	encgjuf	0
+还是判断	encgjuo	0
+还是判断为	encgjuo	0
+还是判断为	encgjuy	0
+不是好	encgjvb	0
+不是好友	encgjvd	0
+到时应该可取	encgjyb	0
+到时应该可取供应吧	encgjyk	0
+到时应该	encgjyy	0
+到时应该可取供应	encgjyy	0
+现中文输入法	encgkyi	0
+现中文输入	encgkyt	0
+现中文	encgkyy	0
+天软件了	encglwb	0
+天软件	encglwr	0
+再也	encgmbn	0
+现在	encgmd	0
+现在	encgmdh	0
+现一	encgmg	0
+现一	encgmgg	0
+再不	encgmgi	0
+现不	encgmgi	0
+再不	encgmi	0
+现不	encgmi	0
+现中	encgmk	0
+现中	encgmkh	0
+与立	encgnu	0
+与立	encgnuu	0
+一句英语	encgqay	0
+一外	encgqh	0
+一句	encgqk	0
+一扫	encgrv	0
+到本地	encgsf	0
+到本地	encgsfb	0
+一样	encgsu	0
+一行	encgtf	0
+一条	encgts	0
+不知道怎么样查看到	encgtug	0
+不知道怎么样查看	encgtur	0
+不知道怎么样	encgtus	0
+不知道怎么样查	encgtus	0
+不知道	encgtut	0
+不知道怎么	encgtut	0
+更适合	encgtwg	0
+更适合小	encgtwi	0
+一条偏向	encgtwt	0
+与立知	encgutd	0
+不好操作不	encgvrg	0
+不好操作不	encgvri	0
+不好操作	encgvrw	0
+一个	encgwh	0
+到你没有	encgwid	0
+到你没有	encgwie	0
+到你没	encgwim	0
+一个字	encgwpb	0
+一个字到	encgwpg	0
+一个字到高一	encgwpg	0
+一个字换	encgwpr	0
+一个字到高一行	encgwpt	0
+一个字换行	encgwpt	0
+一个字到高	encgwpy	0
+不像微信有太多游戏	encgwtc	0
+不像微信有	encgwtd	0
+不像微信有太	encgwtd	0
+不像微信有	encgwte	0
+不像微信有太多	encgwtq	0
+不像微信	encgwtw	0
+天估计	encgwyf	0
+天估计人很	encgwyt	0
+天估计人	encgwyw	0
+到组件名要自己	encgxwn	0
+到组件名	encgxwq	0
+到组件	encgxwr	0
+到组件名要	encgxws	0
+到高一	encgyg	0
+到高一	encgygg	0
+到高一行	encgygt	0
+来讲解	encgyqe	0
+来讲解不	encgyqg	0
+来讲解不	encgyqi	0
+上获取	enchabc	0
+点进去	enchffc	0
+点进去是	enchffj	0
+点进去是单	enchffu	0
+点进去是单个	enchffw	0
+点进去是单个人	enchffw	0
+点进去是单个人头像	enchffw	0
+上看	enchhrh	0
+点小问题	enchiuj	0
+点小问题我	enchiuq	0
+点小问题我	enchiut	0
+点进	enchkfj	0
+点小	enchkih	0
+上内容	enchmpw	0
+瞎折腾的	enchrer	0
+瞎折腾	enchreu	0
+上看到有的小区	enchrga	0
+上看到	enchrgc	0
+上看到有	enchrgd	0
+上看到有	enchrge	0
+上看到有的小区管的还	enchrgg	0
+上看到有的小	enchrgi	0
+上看到有的	enchrgr	0
+上看到有的小区管的	enchrgr	0
+上看到有的小区管	enchrgt	0
+上看	enchrh	0
+目前的	enchur	0
+目前的设置	enchurl	0
+目前的	enchurq	0
+目录分享一	enchvwg	0
+目录分享一些	enchvwh	0
+目录分享一些文件	enchvww	0
+目录分享	enchvwy	0
+些吧	enchxkc	0
+些文件	enchywr	0
+小区进	enciafj	0
+小区管的还	enciatg	0
+小区管的还是	enciatj	0
+小区管	enciatp	0
+小区管的	enciatr	0
+小区管的还是很	enciatt	0
+游雅婷直播	enciavr	0
+游雅婷痒痒	enciavu	0
+游雅婷	enciavy	0
+不了	encib	0
+小孩子	encibb	0
+小孩子	encibbb	0
+小孩子们学习使用	encibbe	0
+小孩子们学习	encibbn	0
+小孩子们	encibbw	0
+不了	encibn	0
+游戏功能	encicac	0
+不能	encice	0
+不能考虑	encicfh	0
+不存在	encidd	0
+不存在	enciddh	0
+没有再也	encidgb	0
+没有再也找不到一款	encidgf	0
+没有再也找不	encidgg	0
+没有再也找不到	encidgg	0
+没有再也找不到一	encidgg	0
+没有再也找不	encidgi	0
+没有再	encidgm	0
+没有再也找	encidgr	0
+不存	encidh	0
+没有办法	encidli	0
+没有人	encidw	0
+没有今天日期	encidwa	0
+没有今天	encidwg	0
+没有今日	encidwj	0
+没有人把宇	encidwp	0
+没有人把	encidwr	0
+没有人	encidww	0
+没有再也	enciegb	0
+没有再也找不	enciegg	0
+没有再也找不	enciegi	0
+没有再	enciegm	0
+没有再也找	enciegr	0
+没有办法	encieli	0
+不用	enciet	0
+没有人	enciew	0
+没有今天日期	enciewa	0
+没有今天	enciewg	0
+没有今日	enciewj	0
+没有人把宇	enciewp	0
+没有人把	enciewr	0
+没有人	encieww	0
+不用给	enciexw	0
+法才能	encifce	0
+不喜欢	encifcq	0
+不喜欢我	encifcq	0
+不喜欢我	encifct	0
+法才能输入	encifct	0
+不需	encifd	0
+法才	encifft	0
+不需要	encifs	0
+不需要什么	encifst	0
+不需要	encifsv	0
+不一	encig	0
+不到	encigc	0
+不一	encigg	0
+不到一	encigg	0
+当天到	enciggc	0
+不到一款	enciggf	0
+当天到本地	enciggf	0
+不到一	enciggg	0
+当天到本	enciggs	0
+当天日期	encigja	0
+当天日期内容不	encigjg	0
+当天日期内容不	encigji	0
+当天日期内容	encigjp	0
+不一样	encigsu	0
+不是	encij	0
+不晓	encija	0
+不是	encijg	0
+不影响	encijkt	0
+不晓得	encijtj	0
+不是好	encijvb	0
+不是好友	encijvd	0
+涢东	encikai	0
+汽车西洋	encilsi	0
+没加好	encilvb	0
+没加好友	encilvd	0
+没有	encimde	0
+没有	encime	0
+没加	encimlk	0
+没为	encimo	0
+没为	encimyl	0
+不懂	encina	0
+学懂一	encing	0
+学懂一	encingg	0
+学懂一些	encingh	0
+学懂一些吧	encingk	0
+少快递费有	encinud	0
+少快递费有没有	encinud	0
+少快递费有	encinue	0
+少快递费有没有	encinue	0
+少快递费有没	encinui	0
+少快递	encinux	0
+少快递费	encinux	0
+学习使用	encinwe	0
+没为孩子	enciobb	0
+没为孩子准备电脑	enciobe	0
+没为孩子准备电脑这	enciobp	0
+没为孩子准备电脑这样	enciobs	0
+没为孩子准备	enciobt	0
+没为孩子准备电脑这	encioby	0
+学懂	encipna	0
+学案	encippv	0
+沃白板	encirsr	0
+沃白	encitr	0
+沃白	encitrr	0
+不知道	encitut	0
+不知道怎么	encitut	0
+小程序	encityc	0
+小程序游戏	encityc	0
+小程序游戏功能	encityc	0
+小程序直播流量	encityj	0
+小程序直播	encityr	0
+湖北现在	enciugd	0
+湖北现在发货不	enciugg	0
+湖北现在发货不	enciugi	0
+湖北现	enciugm	0
+湖北现在发	enciugn	0
+湖北现在发	enciugv	0
+湖北现在发货	enciugw	0
+湖北省	enciuit	0
+小问题	enciujg	0
+小问题我	enciujq	0
+小问题我	enciujt	0
+湖北这	enciup	0
+湖北这边发货了	enciupb	0
+湖北这边发货了吧	enciupk	0
+湖北这边	enciupl	0
+湖北这边发	enciupn	0
+湖北这边发	enciupv	0
+湖北这边发货	enciupw	0
+湖北这边发货了	enciuyb	0
+湖北这边	enciuyl	0
+湖北这边发	enciuyn	0
+湖北这	enciuyp	0
+湖北这边发	enciuyv	0
+湖北这边发货	enciuyw	0
+不好	encivb	0
+当天	encivgd	0
+不好操作	encivrw	0
+不会	enciwf	0
+不像	enciwq	0
+不像微信	enciwtw	0
+游雅	enciyah	0
+没为孩子	enciybb	0
+没为孩子准备	enciybt	0
+测试叟你现在	enciyvd	0
+测试叟你现在在	enciyvd	0
+测试叟你现在在在	enciyvd	0
+测试叟你现	enciyvg	0
+测试叟	enciyvh	0
+测试叟你	enciyvw	0
+日期时	encjajf	0
+日期内容不	encjamg	0
+日期内容不	encjami	0
+日期内容	encjamp	0
+晓得	encjatj	0
+日英语	encjayg	0
+日英语录音一切正常	encjayi	0
+日英语录音	encjayu	0
+早了也冒	encjbbj	0
+早了也	encjbbn	0
+早了也冒得	encjbbt	0
+竖排	encjcrd	0
+是大	encjdd	0
+里面可以获取	encjdsb	0
+里面可以	encjdsc	0
+里面可以获取到	encjdsg	0
+里面可	encjdsk	0
+里面可以	encjdsn	0
+里面可以获取到其它	encjdsp	0
+是大人	encjdw	0
+明有今天的日期	encjdwa	0
+明有今天	encjdwg	0
+是大人来	encjdwg	0
+是大人来讲解不	encjdwg	0
+是大人来讲解不	encjdwi	0
+是大人来讲解	encjdwq	0
+明有今天的	encjdwr	0
+是大人	encjdww	0
+明有	encjede	0
+明有	encjee	0
+明天	encjegd	0
+电脑还	encjegi	0
+电脑还是	encjegj	0
+电脑还是手机	encjegs	0
+明明	encjeje	0
+电脑这	encjep	0
+电脑这样真是麻烦了	encjepb	0
+电脑这样真	encjepf	0
+电脑这样真是	encjepj	0
+电脑这样真是麻烦	encjepo	0
+电脑这样	encjeps	0
+明有今天的日期	encjewa	0
+明有今天	encjewg	0
+明有今天的	encjewr	0
+电脑这样真	encjeyf	0
+电脑这样真是	encjeyj	0
+电脑这	encjeyp	0
+电脑这样	encjeys	0
+显示在	encjfd	0
+显示在输入框左	encjfdd	0
+显示在	encjfdh	0
+显示在这窗口	encjfdk	0
+里面	encjfdm	0
+显示在这	encjfdp	0
+显示在输入框	encjfds	0
+显示在候选	encjfdt	0
+显示在输入	encjfdt	0
+显示在这	encjfdy	0
+时才	encjfft	0
+显示器	encjfkk	0
+里员	encjfkm	0
+显示器平板	encjfks	0
+时才发现不是好友	encjfnd	0
+时才发现	encjfng	0
+时才发现不	encjfng	0
+时才发现不	encjfni	0
+时才发现不是	encjfnj	0
+时才发	encjfnt	0
+时才发现不是好	encjfnv	0
+显示的	encjfr	0
+里的	encjfr	0
+显示的是群聊	encjfrb	0
+显示的是	encjfrj	0
+显示的	encjfrq	0
+里的	encjfrq	0
+显示的是群	encjfrv	0
+时才发	encjfv	0
+时才发现	encjfvg	0
+时才发现不	encjfvg	0
+时才发现不	encjfvi	0
+是大	encjgdd	0
+明天过来	encjgfg	0
+明天到	encjggc	0
+是不	encjggi	0
+是不	encjgi	0
+是吧	encjgkc	0
+昨天的	encjgr	0
+题的	encjgr	0
+昨天的英语作业	encjgro	0
+昨天的	encjgrq	0
+题的	encjgrq	0
+昨天的英语	encjgry	0
+是要	encjgs	0
+是想	encjgsh	0
+是要	encjgsv	0
+是不知道怎么样查看到	encjgtg	0
+是不知道怎么样查看	encjgtr	0
+是不知道怎么样	encjgts	0
+是不知道怎么样查	encjgts	0
+是不知道怎么	encjgtt	0
+是不知道	encjgtu	0
+是很	encjgtv	0
+是单	encjguj	0
+是好	encjgvb	0
+是群	encjgvt	0
+早了	encjhb	0
+早了	encjhbn	0
+冒得	encjhtj	0
+是不	encji	0
+是不知道怎么	encjitt	0
+是不知道	encjitu	0
+明明有今天的日期	encjjda	0
+明明有	encjjde	0
+明明有今天	encjjdg	0
+明明有今天的	encjjdr	0
+明明有	encjje	0
+明明有今天的日期	encjjea	0
+明明有今天	encjjeg	0
+明明有今天的	encjjer	0
+时显示	encjjfi	0
+是吧	encjkc	0
+是为式	encjoaa	1
+电视有了	encjpdb	0
+电视有	encjpde	0
+电视有	encjpe	0
+电视有了	encjpeb	0
+电视开关	encjpgu	0
+电视上	encjph	0
+电视上	encjphh	0
+电视上看	encjphr	0
+电视时间控制	encjpjr	0
+电视时间	encjpju	0
+电视黑	encjplf	0
+电视黑屏	encjpln	0
+电视端	encjpum	0
+电视例子	encjpwb	0
+电视绿色	encjpxq	0
+电视绿色守护	encjpxr	0
+题的其它方式	encjraa	0
+题的其它方式学习	encjran	0
+题的其它	encjrap	0
+里的快递都了在送了	encjrnb	0
+里的快递都了在	encjrnd	0
+里的快递都了在送了我	encjrnq	0
+里的快递都了在送了我	encjrnt	0
+里的快递	encjrnu	0
+里的快递都了在送	encjrnu	0
+是手机	encjrsm	0
+是要	encjs	0
+是想	encjsh	0
+是要多一	encjsqg	0
+是要多一个字	encjsqp	0
+是要多	encjsqq	0
+是要多一个字换	encjsqr	0
+是要多一个字换行	encjsqt	0
+是要多一个	encjsqw	0
+是想每天获取	encjstb	0
+是想每天	encjstg	0
+是想每天获取后	encjstr	0
+是想每	encjstx	0
+是相关	encjsud	0
+是要	encjsv	0
+晓得武汉	encjtgi	0
+是很	encjtv	0
+时间与	encjugn	0
+是单	encjuj	0
+是判断为无	encjuof	0
+是判断	encjuon	0
+是半断	encjuon	0
+是判断为	encjuoo	0
+是判断为	encjuoy	0
+时间控制	encjurr	0
+是单个	encjuwh	0
+是单个人	encjuww	0
+是单个人头像	encjuww	0
+是好	encjvb	0
+是群聊	encjvbq	0
+是好友	encjvdc	0
+是群	encjvt	0
+是为式	encjyaa	1
+是麻烦了	encjyob	0
+是麻烦	encjyod	0
+是麻烦了手机	encjyos	0
+时应该可取	encjyyb	0
+时应该可取供应吧	encjyyk	0
+时应该	encjyyy	0
+时应该可取供应	encjyyy	0
+号营业了	enckaob	0
+号营业了到时应该可取	enckaob	0
+号营业	enckaog	0
+号营业了到	enckaog	0
+号营业了到时	enckaoj	0
+号营业的	enckaor	0
+号营业了到时应该	enckaoy	0
+哪项会	enckawf	0
+哪项会影响	enckawk	0
+顺丰	enckddh	0
+咕一	enckdg	1
+咕一	enckdgg	1
+顺丰不	enckdgi	0
+顺丰不	enckdi	0
+咕咕	enckdkd	0
+咕机	enckdsm	0
+器平板	enckgsr	0
+跑一个字到	enckgwg	0
+跑一个字到高一	enckgwg	0
+跑一个	enckgwh	0
+跑一个字	enckgwp	0
+跑一个字到高一行	enckgwt	0
+跑一个字到高	enckgwy	0
+跑一	enckhg	0
+跑一	enckhgg	0
+中信	enckhwy	0
+中文	enckhyy	0
+咕咕一	enckkg	0
+咕咕一	enckkgg	0
+咕咕机咕咕一	enckksg	0
+咕咕机咕	enckksk	0
+咕咕机	enckksm	0
+另外	encklqh	0
+咕机咕	enckskd	0
+咕机咕咕一	enckskg	0
+只想要	enckss	0
+只想要文字	enckssp	0
+只想要	enckssv	0
+哪项	enckvad	0
+只要	enckws	0
+只想	enckwsh	0
+只要	enckwsv	0
+中信	enckwy	0
+中文输入法	enckyli	0
+中文输入	enckylt	0
+中文件	enckywr	0
+中文	enckyy	0
+输出当天日期	enclbia	0
+输出当天	enclbig	0
+输出当天日期内容不	enclbig	0
+输出当天日期内容不	enclbii	0
+输出当天日期内容	enclbip	0
+输出当	enclbiv	0
+署才有	enclfde	0
+署才有	enclfe	0
+署才	enclfft	0
+黑屏	enclfnu	0
+四年	enclhrh	0
+车汽车	enclilg	0
+车汽车西洋	enclili	0
+连电视	encljpy	0
+回复	enclktj	0
+加好	enclkvb	0
+思路如下	enclkvg	0
+加价	enclkww	0
+加词	enclkyn	0
+边发货了	enclnwb	0
+边发货了吧	enclnwk	0
+边发货	enclnwx	0
+边发	enclpnt	0
+固定格式	enclpsa	0
+固定格式是为式	enclpsa	0
+边发	enclpv	0
+软件	enclqwr	0
+连接电视	enclrjp	0
+四年级	enclrxe	0
+输入法才能	encltic	0
+输入法	encltif	0
+输入法才	encltif	0
+图省	encltit	1
+输入法才能输入	encltit	0
+回复时	encltjf	0
+回复时显示	encltjf	0
+输入界面	encltld	0
+输入框	encltsa	0
+输入框左	encltsd	0
+输入什么	encltwt	0
+加好友	enclvdc	0
+边发货了	enclvwb	0
+边发货了吧	enclvwk	0
+边发货	enclvwx	0
+软件了	enclwb	0
+软件了	enclwbn	0
+回信息时才	enclwtf	0
+回信息时才发现	enclwtg	0
+回信息时才发现不	enclwtg	0
+回信息	enclwth	0
+回信息时才发现不	enclwti	0
+回信息时	enclwtj	0
+回信息时才发现不是	enclwtj	0
+回信息时才发	enclwtn	0
+回信息时才发	enclwtv	0
+回信息时才发现不是好	enclwtv	0
+典吗	encmakc	0
+网上获取	encmhab	0
+网上内容	encmhmp	0
+网上看到有的小区	encmhra	0
+网上看到有	encmhrd	0
+网上看到有	encmhre	0
+网上看到	encmhrg	0
+网上看	encmhrh	0
+网上看到有的小	encmhri	0
+网上看到有的	encmhrr	0
+网上看到有的小区管的	encmhrr	0
+网上看到有的小区管	encmhrt	0
+由你	encmhwq	0
+由改造	encmntf	0
+由改造吧	encmntk	0
+内容不	encmpgi	0
+内容不	encmpi	0
+内容吗	encmpkc	0
+刚到	encmqgc	0
+网上	encmqh	0
+网上	encmqhh	0
+网课	encmqyj	0
+几乎讲	encmtyf	0
+几乎讲的看不	encmtyg	0
+几乎讲的看不	encmtyi	0
+几乎讲的看不懂	encmtyn	0
+几乎讲的	encmtyr	0
+几乎讲的看	encmtyr	0
+由你们来	encmwwg	0
+由你们	encmwwu	0
+屏幕共享	encnaay	0
+以获取	encnabc	0
+以获取到	encnabg	0
+懂一	encnag	0
+懂一	encnagg	0
+收获不一	encnagg	0
+收获不	encnagi	0
+收获不一样	encnags	0
+收获不	encnai	0
+收获不一	encnaig	0
+收获不一样	encnais	0
+懂的	encnar	0
+懂的	encnarq	0
+以在电视	encndjp	0
+以用是	encnej	0
+以用是	encnejg	0
+以用是吧	encnejk	0
+发现一	encngg	0
+收到一	encngg	0
+发现不是好友	encnggd	0
+发现一	encnggg	0
+收到一	encnggg	0
+发现不	encnggi	0
+发现不是	encnggj	0
+发现一外	encnggq	0
+收到一条	encnggt	0
+收到一条偏向	encnggt	0
+发现不是好	encnggv	0
+懂一些吧	encnghk	0
+懂一些	encnghx	0
+发现不	encngi	0
+发现不是好友	encngid	0
+发现不是	encngij	0
+发现不是好	encngiv	0
+屏到电视	encngjp	0
+发现中	encngk	0
+发现中	encngkh	0
+发现中文输入法	encngki	0
+发现中文输入	encngkt	0
+发现中文	encngky	0
+心不好	encngvb	0
+心不好操作不	encngvg	0
+心不好操作不	encngvi	0
+心不好操作	encngvw	0
+心不好	encnivb	0
+心不好操作	encnivw	0
+习题的	encnjr	0
+习题的其它方式	encnjra	0
+习题的其它方式学习	encnjrn	0
+习题的其它	encnjrp	0
+习题的	encnjrq	0
+以顺丰不	encnkdg	0
+以顺丰	encnkdh	0
+以顺丰不	encnkdi	0
+以收到	encnngc	0
+买这个	encnpwh	0
+买这个数据	encnpwr	0
+以看到	encnrgc	0
+改到	encntgc	0
+发现	encntgm	0
+改造吧	encntkc	0
+发送	encntud	0
+发货	encntwx	0
+屏在	encnud	1
+屏在	encnudh	1
+快递都了在送了	encnufb	0
+快递都了在	encnufd	0
+快递都了在送了我想买	encnufn	0
+快递都了在送了我	encnufq	0
+快递都了在送了我想	encnufs	0
+快递都了在送了我	encnuft	0
+快递都了在送	encnufu	0
+屏到	encnugc	0
+习题	encnujg	0
+买这	encnup	0
+发送信息失败	encnuwm	0
+发送信息	encnuwt	0
+快递费有	encnuxd	0
+快递费有没有	encnuxd	0
+快递费有	encnuxe	0
+快递费有没有	encnuxe	0
+快递费有没	encnuxi	0
+快递费	encnuxj	0
+买这	encnuyp	0
+发货了	encnwb	0
+发货了吧	encnwbk	0
+发货了	encnwbn	0
+发货不	encnwgi	0
+发货不	encnwi	0
+以在	encnyd	0
+以在	encnydh	0
+以用	encnyet	0
+心不	encnygi	0
+心不	encnyi	0
+以中	encnyk	0
+以顺	encnykd	0
+以中	encnykh	0
+以看	encnyrh	0
+买这个	encnywh	0
+买这个数据	encnywr	0
+为孩子	encobb	0
+为孩子	encobbb	0
+为孩子准备电脑	encobbe	0
+为孩子准备电脑这样真	encobbf	0
+为孩子准备电脑这	encobbp	0
+为孩子准备电脑这样	encobbs	0
+为孩子准备	encobbt	0
+为孩子准备电脑这	encobby	0
+类名	encodqk	0
+类和	encodt	0
+类和	encodtk	0
+为无	encofq	0
+为固定格式	encolpa	0
+为固定格式是为式	encolpa	0
+为固定	encolpg	0
+为什么	encowtc	0
+为什么我可以	encowtc	0
+为什么我的要布	encowtd	0
+为什么我的要布署才有	encowtd	0
+为什么我的要布署才有	encowte	0
+为什么我的要布署才	encowtf	0
+为什么总是要多一	encowtg	0
+为什么我可以收到	encowtg	0
+为什么总是	encowtj	0
+为什么我的要布署	encowtl	0
+为什么我可以	encowtn	0
+为什么总是要多一个字	encowtp	0
+为什么总是要多	encowtq	0
+为什么我	encowtq	0
+为什么我的	encowtr	0
+为什么总是要	encowts	0
+为什么我可	encowts	0
+为什么我的要	encowts	0
+为什么我	encowtt	0
+为什么总	encowtu	0
+为什么总是要多一个	encowtw	0
+字到	encpbgc	0
+字小	encpbih	0
+字换	encpbrq	0
+字练	encpbxa	0
+安陆市	encpbym	0
+家里	encpejf	0
+字到高一	encpgyg	0
+字到高	encpgym	0
+字到高一行	encpgyt	0
+视频看过	encphrf	0
+视频看	encphrh	0
+这是	encpj	0
+这里面可以获取	encpjdb	0
+这里面可以	encpjdc	0
+这里面可以获取到	encpjdg	0
+这里面	encpjdm	0
+这里面可以	encpjdn	0
+这里面可以获取到其它	encpjdp	0
+这里面可	encpjds	0
+这里	encpjf	0
+这是	encpjg	0
+家里员	encpjkm	0
+这是相关	encpjsu	0
+容输出	encplbm	0
+这边发货了	encplnb	0
+这边发货了吧	encplnk	0
+这边发	encplnt	0
+这边发货	encplnw	0
+这边	encplp	0
+这边发	encplv	0
+这边发货了	encplvb	0
+这边发货了吧	encplvk	0
+这边发货	encplvw	0
+之类	encpod	0
+之类和	encpot	0
+之类和	encpotk	0
+这窗口	encppk	0
+这窗口	encppkk	0
+之类	encppod	0
+空投屏	encprnu	0
+字换行	encprtf	0
+这样真是麻烦了	encpsfb	0
+这样真	encpsfh	0
+这样真是	encpsfj	0
+这样真是麻烦	encpsfo	0
+这样真是麻烦了手机	encpsfs	0
+这样	encpsu	0
+这个	encpwh	0
+这个数据	encpwor	0
+空投	encpwrm	0
+字练优	encpxwd	0
+句英语	encqayg	0
+我聊天	encqbgd	0
+我聊	encqbq	0
+钉验证码	encqcyd	0
+钉验证码输入界面	encqcyd	0
+钉验证	encqcyg	0
+钉验证码输入	encqcyt	0
+希沃	encqdit	0
+希希	encqdqd	0
+名及组件名	encqexq	0
+名及组件	encqexw	0
+名一切正常	encqgai	0
+钉与立	encqgu	0
+钉与立知	encqgut	0
+钉与立	encqguu	0
+多一个	encqgwh	0
+多一个字	encqgwp	0
+多一个字换	encqgwr	0
+多一个字换行	encqgwt	0
+我目前	encqhue	0
+我目前的设置	encqhul	0
+我目前的	encqhur	0
+多游戏	encqica	0
+多少快递费有	encqind	0
+多少快递费有没有	encqind	0
+多少快递费有	encqine	0
+多少快递费有没有	encqine	0
+多少快递费有没	encqini	0
+多少快递	encqinu	0
+多少快递费	encqinx	0
+希沃希沃	encqiqi	0
+希沃白	encqir	0
+希沃白	encqirr	0
+希沃白板	encqirs	0
+我是	encqj	0
+我明	encqje	0
+我是	encqjg	0
+我明天	encqjgd	0
+我明天到	encqjgg	0
+钉电视	encqjpy	0
+我是想每天获取	encqjsb	0
+我是想每天	encqjsg	0
+我是想	encqjsh	0
+我是想每天获取后	encqjsr	0
+我是想每	encqjst	0
+名及	encqkey	0
+名要	encqks	0
+名要	encqksv	0
+我回	encqlk	0
+我输入什么	encqltt	0
+我输入	encqlty	0
+我回信息时才	encqlwf	0
+我回信息时才发现	encqlwg	0
+我回信息时才发现不	encqlwg	0
+我回信息时才发现不	encqlwi	0
+我回信息时	encqlwj	0
+我回信息时才发现不是	encqlwj	0
+我回信息时才发	encqlwn	0
+我回信息	encqlwt	0
+我回信息时才发	encqlwv	0
+我民	encqn	0
+我民	encqna	0
+馅料	encqnou	1
+包名	encqnqk	0
+馅料还没有	encqogd	0
+馅料还没有	encqoge	0
+馅料还	encqogi	0
+馅料还没	encqogi	0
+钉钉验证码	encqqcd	0
+钉钉验证码输入界面	encqqcd	0
+钉钉验证码输入	encqqct	0
+钉钉验证	encqqcy	0
+包名及组件名	encqqeq	0
+包名及组件	encqqew	0
+包名及	encqqey	0
+多去	encqqfc	0
+多一	encqqg	0
+多一	encqqgg	0
+希希沃白	encqqir	0
+希希沃白板	encqqis	0
+多少	encqqit	0
+希希沃	encqqit	0
+钉钉电视	encqqjp	0
+多数	encqqov	0
+钉钉独立	encqqqu	0
+多的	encqqr	0
+多的	encqqrq	0
+钉钉手机直播	encqqrr	0
+钉钉手机	encqqrs	0
+钉钉手	encqqrt	0
+金板	encqqsr	0
+包名查询	encqqsy	0
+多行	encqqtf	0
+金版	encqqth	0
+钉独立	encqqu	0
+钉独立	encqquu	0
+包名组件	encqqxw	0
+我的	encqr	0
+多的功能	encqrac	0
+我的思路如下	encqrlg	0
+我的思路	encqrlk	0
+然后为	encqro	0
+然后为固定格式	encqroa	0
+然后为固定格式是为式	encqroa	0
+然后为固定	encqrop	0
+我的	encqrq	0
+我的要	encqrs	0
+我的要布	encqrsd	0
+我的要布署才有	encqrsd	0
+我的要布署才有	encqrse	0
+我的要布署才	encqrsf	0
+我的要布署	encqrsl	0
+钉手机	encqrsm	0
+钉手机直播	encqrsr	0
+我的要	encqrsv	0
+然后为固定格式	encqrya	0
+然后为	encqryl	0
+然后为固定	encqryp	0
+我可以	encqsc	0
+我可以收到	encqscg	0
+钉与	encqsgn	0
+我想	encqsh	0
+我可	encqsk	0
+我可以收到	encqsng	0
+我想买这	encqsnp	0
+我想买这个数据	encqsnr	0
+我想买	encqsnu	0
+我想买这个	encqsnw	0
+我可以	encqsny	0
+我想买这	encqsny	0
+钉钉	encqsqs	0
+金板	encqsr	0
+钉手	encqsrt	0
+名要自己	encqstn	0
+名查询	encqsyq	0
+金版	encqth	0
+多行注释	encqtit	0
+金版人	encqtw	0
+金版人教	encqtwf	0
+金版人教版金	encqtwq	0
+金版人教版金板	encqtws	0
+金版人教版	encqtwt	0
+金版人	encqtww	0
+我准备	encqutl	0
+我好像都	encqvwf	0
+我好像都试过	encqvwf	0
+我好像	encqvwq	0
+我好像都试	encqvwy	0
+我始终	encqvxt	0
+我始终觉得	encqvxt	0
+我们	encqwu	0
+名组件	encqxwr	0
+我市里的快递都了在	encqyjd	0
+我市里	encqyjf	0
+我市里的	encqyjr	0
+我市里的快递	encqyju	0
+我市里的快递都了在送	encqyju	0
+我市	encqym	0
+的功能	encrace	0
+找不	encragi	0
+找不	encrai	0
+的其它方式	encrapa	0
+的其它方式学习	encrapn	0
+的其它	encrapx	0
+的英语	encrayg	0
+的英语作业	encrayo	0
+的聊天软件了	encrbgb	0
+的聊天	encrbgd	0
+的聊天软件	encrbgw	0
+的聊	encrbq	0
+把宇	encrcpg	0
+打码类	encrdod	0
+打码类名	encrdoq	0
+折腾的	encrer	0
+折腾的	encrerq	0
+看直播或许不	encrfrg	0
+看直播或许不一	encrfrg	0
+看直播或许不	encrfri	0
+看直播或许不一样	encrfrs	0
+看直播	encrfrt	0
+看直播或许	encrfry	0
+提示西游记	encrfsy	0
+看到有的小区	encrgda	0
+看到有	encrgde	0
+看到有的小区管的还	encrgdg	0
+看到有的小	encrgdi	0
+看到有的小区管的还是	encrgdj	0
+看到有的	encrgdr	0
+看到有的小区管的	encrgdr	0
+看到有的小区管	encrgdt	0
+看到有	encrge	0
+看到有的小区	encrgea	0
+看到有的小	encrgei	0
+看到有的	encrger	0
+找不到一款简单的聊	encrggb	0
+找不到	encrggc	0
+找不到一款	encrggf	0
+找不到一	encrggg	0
+找不到一款简单的聊天	encrggg	0
+找不到一款简单的	encrggr	0
+找不到一款简单	encrggu	0
+的还	encrgi	0
+的还是	encrgj	0
+的还是	encrgjg	0
+的还是很	encrgjt	0
+看不懂	encrgna	0
+扫一扫	encrgrv	0
+看到你没有	encrgwd	0
+看到你没有	encrgwe	0
+看到你没	encrgwi	0
+看到你	encrgwq	0
+看到组件名要自己	encrgxn	0
+看到组件名	encrgxq	0
+看到组件名要	encrgxs	0
+看到组件	encrgxw	0
+看过	encrhfp	0
+看到	encrhgc	0
+看下	encrhgh	0
+看不	encrhgi	0
+看不	encrhi	0
+看包	encrhqn	0
+看看	encrhrh	0
+看作	encrhwt	0
+年级	encrhxe	0
+的小区管的还	encriag	0
+的小区管的还是	encriaj	0
+的小区	encriaq	0
+的小区管的	encriar	0
+的小区管	encriat	0
+的小区管的还是很	encriat	0
+找不到	encrigc	0
+找不到一款	encrigf	0
+找不到一	encrigg	0
+的小	encrih	0
+看不懂	encrina	0
+的是	encrj	0
+的日期	encrjad	0
+的是	encrjg	0
+的是群聊	encrjvb	0
+的是群	encrjvt	0
+拼车汽车西洋	encrlii	0
+拼车汽车	encrlil	0
+的思路如下	encrlkg	0
+的思路	encrlkh	0
+投屏	encrmnu	0
+接收参数	encrnco	0
+投屏到	encrngc	0
+投屏到电视	encrngp	0
+的快递都了在送了	encrnub	0
+的快递都了在	encrnud	0
+的快递都了在送了我	encrnuq	0
+的快递都了在送了我想	encrnus	0
+的快递都了在送了我	encrnut	0
+的快递都了在送	encrnuu	0
+的快递	encrnux	0
+接收文件	encrnyw	0
+搂烽	encroot	1
+按键	encrpqv	0
+打印或练习题	encrqaj	0
+打印或	encrqak	0
+打印或练习	encrqan	0
+打印或练习题的其它	encrqap	0
+打印或练习题的	encrqar	0
+打印或练	encrqax	0
+的聊	encrqbq	0
+的还	encrqgi	0
+的小	encrqih	0
+的是	encrqj	0
+的是	encrqjg	0
+的包	encrqn	0
+的馅料还没有	encrqod	0
+的馅料还没有	encrqoe	0
+的馅料还	encrqog	0
+的馅料还没	encrqoi	0
+的馅料	encrqou	0
+的包名及	encrqqe	0
+的包名	encrqqk	0
+看包名	encrqqk	0
+的包	encrqqn	0
+的包名及组件名	encrqqq	0
+的包名及组件	encrqqw	0
+的看	encrqrh	0
+的要	encrqs	0
+打印机	encrqsm	1
+的要	encrqsv	0
+换行	encrqtf	0
+的人	encrqw	0
+的人	encrqww	0
+看看直播或许不	encrrfg	0
+看看直播或许不一	encrrfg	0
+看看直播或许不	encrrfi	0
+看看直播	encrrfr	0
+看看直播或许不一样	encrrfs	0
+看看直播或许	encrrfy	0
+的看不	encrrgi	0
+的看不懂	encrrgn	0
+的看	encrrh	0
+的看不	encrri	0
+的看不懂	encrrin	0
+控制电视	encrrjp	0
+白板	encrrsr	0
+看看自己	encrrtn	0
+看看应该会听	encrryk	0
+看看应该会	encrryw	0
+看看应该	encrryy	0
+的要	encrs	0
+打码	encrsdc	0
+的要布署才有	encrsdd	0
+的要布署才有	encrsde	0
+的要布署才	encrsdf	0
+的要布署	encrsdl	0
+的要布	encrsdm	0
+手机直播	encrsfr	0
+手机连	encrslp	0
+手机连电视	encrslp	0
+手机字	encrspb	0
+手机字小	encrspi	0
+白板	encrsr	0
+打算	encrsth	0
+的要	encrsv	0
+手机文档	encrsys	0
+打算改到	encrtng	0
+看自己	encrtnn	0
+打算改	encrtnt	0
+接和我	encrtq	0
+接和我聊	encrtqb	0
+接和我聊天	encrtqg	0
+接和我聊	encrttb	0
+接和我聊天	encrttg	0
+接和我	encrttr	0
+拼车	encrulg	0
+接和	encrut	0
+接和	encrutk	0
+扫码	encrvdc	0
+扫一	encrvg	0
+扫一	encrvgg	0
+的人	encrw	0
+操作不	encrwgi	0
+操作不	encrwi	0
+看作业	encrwog	0
+的信息为什么我可以	encrwtc	0
+的信息	encrwth	0
+的信息为什么我可以	encrwtn	0
+的信息为	encrwto	0
+的信息为什么我	encrwtq	0
+的信息为什么我可	encrwts	0
+的信息为什么	encrwtt	0
+的信息为什么我	encrwtt	0
+的信息为	encrwty	0
+的人	encrww	0
+的设置	encrylf	0
+看应该会听	encryyk	0
+看应该会	encryyw	0
+看应该	encryyy	0
+样获取	encsabc	0
+框左	encsada	0
+树莓派接收	encsain	0
+树莓派打印机	encsais	0
+树莓派接收文件	encsaiw	0
+格式是为式	encsaja	0
+框为	encsao	0
+格式化	encsawx	0
+框为	encsayl	0
+李一	encsbg	0
+李一	encsbgg	0
+可取供应吧	encsbwk	0
+可取供应	encsbwy	0
+可以获取	encscab	0
+可以获取到	encscag	0
+可以获取到其它内容吗	encscak	0
+可以获取到其它	encscap	0
+可以获取到其它内容	encscap	0
+可以在	encscd	0
+可以在	encscdh	0
+可以在电视上	encscdh	0
+可以在电视	encscdp	0
+可以在电视上看	encscdr	0
+可以用是	encscej	0
+可以用是吧	encscek	0
+可以用	encscet	0
+可以中	encsck	0
+可以顺	encsckd	0
+可以顺丰	encsckd	0
+可以顺丰不	encsckg	0
+可以中	encsckh	0
+可以顺丰不	encscki	0
+可以收到	encscng	0
+可以看到	encscrg	0
+可以看	encscrh	0
+要布署才有	encsdld	0
+要布署才有	encsdle	0
+要布署	encsdlf	0
+要布署才	encsdlf	0
+要布	encsdm	0
+相胆膛在	encseed	1
+样真是	encsfj	0
+样真是麻烦了	encsfjb	0
+样真是	encsfjg	0
+样真是麻烦	encsfjo	0
+样真是麻烦了手机	encsfjs	0
+本地的	encsfr	0
+本地的日期	encsfra	0
+本地的	encsfrq	0
+机直播	encsfrt	0
+要直播	encsfrt	0
+本地主文件不存	encsfyd	0
+本地主文件不存在	encsfyd	0
+本地文件布	encsfyd	0
+本地文件布在	encsfyd	0
+本地文件有	encsfyd	0
+本地文件有	encsfye	0
+本地主文件不	encsfyg	0
+本地主文件不	encsfyi	0
+本地文件有当	encsfyi	0
+本地主文件	encsfyw	0
+本地文件	encsfyw	0
+本地	encsgf	0
+本地	encsgfb	0
+可否考虑一下用	encsgfe	0
+可否考虑一	encsgfg	0
+可否考虑一下	encsgfg	0
+可否考虑	encsgfh	0
+可否考虑一下用钉	encsgfq	0
+可否考虑一下用钉钉	encsgfq	0
+想买	encshnu	0
+想要	encshs	0
+想要	encshsv	0
+想每	encshtx	0
+想念	encshwy	0
+想让	encshyh	0
+查看	encsjrh	0
+可以	encskc	0
+可否	encskgi	0
+机咕咕一	encskkg	0
+可以	encskny	0
+机咕	encsmkd	0
+机可	encsmsk	0
+可以获取	encsnab	0
+可以获取到	encsnag	0
+可以在	encsnd	0
+要悱	encsnd	1
+可以在	encsndh	0
+可以在电视	encsndp	0
+可以用是	encsnej	0
+可以用是吧	encsnek	0
+可以用	encsnet	0
+可以中	encsnk	0
+可以顺	encsnkd	0
+可以顺丰	encsnkd	0
+可以顺丰不	encsnkg	0
+可以中	encsnkh	0
+可以顺丰不	encsnki	0
+可以收到	encsnng	0
+想买这	encsnp	0
+想买这个数据	encsnpr	0
+想买这个	encsnpw	0
+可以看到	encsnrg	0
+可以看	encsnrh	0
+想买这	encsnyp	0
+想买这个数据	encsnyr	0
+想买这个	encsnyw	0
+框为什么总是要多一	encsowg	0
+框为什么总是	encsowj	0
+框为什么总是要多	encsowq	0
+框为什么总是要	encsows	0
+框为什么	encsowt	0
+框为什么总	encsowu	0
+框为什么总是要多一个	encsoww	0
+要多一	encsqg	0
+要多一	encsqgg	0
+要多一个字	encsqgp	0
+要多一个字换	encsqgr	0
+要多一个字换行	encsqgt	0
+要多一个	encsqgw	0
+要多	encsqq	0
+查看到	encsrgc	0
+查看到组件名要自己	encsrgn	0
+查看到组件名	encsrgq	0
+查看到组件名要	encsrgs	0
+查看到组件	encsrgw	0
+查看包	encsrqn	0
+查看包名	encsrqq	0
+机可以	encssc	0
+机可以中	encssck	0
+机可以中	encssnk	0
+机可以	encssny	0
+样查看到	encssrg	0
+样查看	encssrh	0
+样查看到组件名要自己	encssrn	0
+样查看到组件名	encssrq	0
+样查看到组件名要	encssrs	0
+样查看到组件	encssrw	0
+想要文字	encssyp	0
+想每天获取	encstgb	0
+想每天	encstgd	0
+想每天获取后	encstgr	0
+要自己	encstnn	0
+样真	encsufh	0
+样查	encsusj	0
+要布	encsvdm	0
+要悱	encsvnd	1
+要多	encsvqq	0
+要什么	encswtc	0
+要什么证明	encswtj	0
+要什么证明之类	encswto	0
+要什么证明之	encswtp	0
+要什么证明之类和	encswtt	0
+想念曾	encswul	0
+想念曾经单纯的	encswur	0
+想念曾经	encswux	0
+想念曾经单纯	encswux	0
+要文字	encsypb	0
+想让每日英语显示在	encsytd	0
+想让每日英语显示	encsytf	0
+想让每日	encsytj	0
+想让每日英语显示在这	encsytp	0
+想让每日英语	encsyty	0
+想让每日英语显示在这	encsyty	0
+框为什么总是	encsywj	0
+框为什么	encsywt	0
+框为什么总	encsywu	0
+很英雄	enctadc	0
+很英雄是	enctadj	0
+长按	enctarp	0
+我聊天	enctbgd	0
+和→	enctco	1
+行开	enctfga	0
+等钉	enctfqs	0
+知直播课堂	enctfri	0
+知直播	enctfrt	0
+行行	enctftf	0
+每天获取	enctgab	0
+每天获取后	enctgar	0
+得武汉	enctgic	0
+行开头	enctgud	0
+版学	encthip	0
+自由	encthmh	0
+算改	encthnt	0
+版金	encthq	0
+版金	encthqq	0
+我目前	encthue	0
+我目前的	encthur	0
+版人	encthw	0
+版人	encthww	0
+版学案	enctipv	0
+每日英语显示在	enctjad	0
+每日英语显示	enctjaf	0
+每日英语显示在这窗口	enctjak	0
+每日英语显示在这	enctjap	0
+每日英语显示在候选	enctjat	0
+每日英语	enctjay	0
+每日英语显示在这	enctjay	0
+我明天	enctjgd	0
+我明天到	enctjgg	0
+复时	enctjjf	0
+复时显示	enctjjf	0
+我是想每天	enctjsg	0
+我是想	enctjsh	0
+我是想每	enctjst	0
+和→	enctkco	1
+和我	enctkq	0
+行中的	enctkr	1
+行中的	enctkrq	1
+程哥	enctksk	0
+和我	enctktr	0
+我输入什么	enctltt	0
+我输入	enctlty	0
+我回信息时才	enctlwf	0
+我回信息时	enctlwj	0
+我回信息	enctlwt	0
+自由改造吧	enctmnk	0
+自由改造	enctmnt	0
+算改到	enctngc	0
+自己不	enctngi	0
+自己不会	enctngw	0
+自己瞎折腾	enctnhe	0
+自己瞎	enctnhp	0
+自己瞎折腾的	enctnhr	0
+自己不	enctni	0
+自己测试叟你现在	enctnid	0
+自己测试叟你现在在	enctnid	0
+自己测试叟你现在在在	enctnid	0
+自己测试一	enctnig	0
+自己测试一下	enctnig	0
+自己测试叟你现	enctnig	0
+自己测试叟	enctniv	0
+自己不会	enctniw	0
+自己测试叟你	enctniw	0
+自己测试	enctniy	1
+管的	enctpr	0
+管的	enctprq	0
+和我	enctq	0
+和我聊天	enctqbg	0
+和我聊	enctqbq	0
+等钉钉	enctqqs	0
+等钉钉独立	enctqqu	0
+版金板	enctqsr	0
+我聊	enctrbq	0
+管的还	enctrgi	0
+管的还是	enctrgj	0
+管的还是很	enctrgt	0
+我是	enctrj	0
+我明	enctrje	0
+我是	enctrjg	0
+我回	enctrlk	0
+我的思路	enctrlk	0
+我民	enctrn	0
+我民	enctrna	0
+我的	enctrr	0
+我的	enctrrq	0
+我的要	enctrs	0
+我的要布	enctrsd	0
+我想	enctrsh	0
+我可	enctrsk	0
+我的要布署	enctrsl	0
+我的要	enctrsv	0
+我们	enctrwu	0
+我市	enctrym	0
+我可以	enctsc	0
+我想买这	enctsnp	0
+我想买	enctsnu	0
+我想买这个	enctsnw	0
+我可以	enctsny	0
+我想买这	enctsny	0
+和我聊天	encttbg	0
+和我聊	encttbq	0
+每行开	encttga	0
+每行开头	encttgu	0
+和我	encttr	0
+怎么样获取	encttsb	0
+怎么样查看到	encttsg	0
+怎么样查看到组件名	encttsq	0
+怎么样查看	encttsr	0
+怎么样查	encttss	0
+怎么样查看到组件名要	encttss	0
+怎么样	encttsu	0
+怎么样查看到组件	encttsw	0
+简单的	enctur	0
+简单的聊	encturb	0
+简单的聊天软件了	encturb	0
+简单的聊天	encturg	0
+简单的	encturq	0
+简单的聊天软件	encturw	0
+知道怎么样查看到	enctutg	0
+我准备	enctutl	0
+知道怎么样查看	enctutr	0
+知道怎么样	enctuts	0
+知道怎么样查	enctuts	0
+知道怎么	enctutt	0
+知道怎么样查看到组件	enctutw	0
+我好像都	enctvwf	0
+我好像都试过	enctvwf	0
+我好像	enctvwq	0
+我好像都试	enctvwy	0
+我始终	enctvxt	0
+我始终觉得	enctvxt	0
+微信有太多游戏	enctwdc	0
+微信有太	enctwdd	0
+微信有	enctwde	0
+微信有太多	enctwdq	0
+微信有	enctwe	0
+微信有太多游戏	enctwec	0
+微信有太	enctwed	0
+微信有太多	enctweq	0
+版人教版金	enctwfq	0
+版人教版金板	enctwfs	0
+版人教	enctwft	0
+版人教版	enctwft	0
+微信小	enctwih	0
+适合小	enctwih	0
+微信小程序直播流量	enctwij	0
+微信小程序直播	enctwir	0
+微信小程序	enctwiy	0
+微信的	enctwr	0
+微信打码	enctwrd	0
+微信打码类	enctwro	0
+微信的信息为	enctwro	0
+微信打码类名	enctwrq	0
+微信的	enctwrq	0
+微信的信息为什么我	enctwrq	0
+微信打	enctwrs	0
+微信的信息为什么我可	enctwrs	0
+微信的信息	enctwrt	0
+微信的信息为什么	enctwrt	0
+微信的信息为什么我	enctwrt	0
+微信的信息为	enctwry	0
+条偏向	enctwtm	0
+微信信息	enctwwt	0
+每天	enctxgd	0
+每行	enctxtf	0
+系统剪切	enctxua	0
+系统剪切板	enctxus	0
+程序直播流量	enctyfj	0
+程序直播	enctyfr	0
+程序游戏	enctyic	0
+程序游戏功能	enctyic	0
+知课堂	enctyip	0
+我市里	enctyjf	0
+我市里的	enctyjr	0
+我市里的快递	enctyju	0
+剪切板	encuasr	0
+送了我	encubq	0
+送了我想买	encubqn	0
+送了我想买这	encubqp	0
+送了我想买这个数据	encubqr	0
+送了我想	encubqs	0
+送了我想买这个	encubqw	0
+送了我想买这	encubqy	0
+送了我想买	encubtn	0
+送了我想买这	encubtp	0
+送了我	encubtr	0
+送了我想	encubts	0
+送了我想买这个	encubtw	0
+送了我想买这	encubty	0
+送了	encudb	0
+送了	encudbn	0
+头一	encudg	0
+头一	encudgg	0
+半断	encufon	1
+北现在	encugd	0
+北现在发货不	encugdg	0
+北现在	encugdh	0
+北现在发货不	encugdi	0
+北现在发	encugdn	0
+北现在发	encugdv	0
+北现在发货	encugdw	0
+头一天	encuggd	0
+问一下	encuggh	0
+头一天估计人很	encuggt	0
+问一下群	encuggv	0
+头一天估计人	encuggw	0
+头一天估计	encuggy	0
+问题我	encujq	0
+总是要	encujs	0
+总是要多一	encujsg	0
+总是要多一个字	encujsp	0
+总是要多	encujsq	0
+总是要多一个字换	encujsr	0
+总是要多一个字换行	encujst	0
+总是要	encujsv	0
+总是要多一个	encujsw	0
+问题我	encujtr	0
+单个	encujwh	0
+问一	encukg	0
+问一	encukgg	0
+总是	encukj	0
+总是	encukjg	0
+问个	encukwh	0
+曾经	enculx	0
+曾经	enculxc	0
+判断不了	encuogb	0
+判断不	encuogi	0
+判断不	encuoi	0
+判断不了	encuoib	0
+判断为	encuoo	0
+判断为无	encuoof	0
+判断为无	encuoyf	0
+判断为	encuoyl	0
+颜色获取	encuqab	0
+颜色值	encuqwf	0
+颜色值查询	encuqwy	0
+立知	encutd	0
+立知直播课堂	encutfi	0
+立知直播	encutfr	0
+准备电脑	encutje	0
+准备电脑这样真	encutjf	0
+准备电脑这样真是	encutjj	0
+准备电脑这样真是麻烦	encutjo	0
+准备电脑这	encutjp	0
+准备电脑这样	encutjs	0
+准备电脑这	encutjy	0
+立产	encuu	0
+立产	encuut	0
+立知	encuutd	0
+立产	encuuu	0
+立产	encuuut	0
+送信息	encuwth	0
+送信息失败	encuwtm	0
+问个问题	encuwuj	0
+单个人	encuww	0
+单个人	encuwww	0
+单个人头像	encuwww	0
+北现	encuxgm	0
+单纯的	encuxr	0
+单纯的	encuxrq	0
+曾经单纯的	encuxur	0
+曾经单纯	encuxux	0
+好友	encvbdc	0
+好太	encvbdy	0
+好湖	encvbid	0
+好的	encvbr	0
+好的	encvbrq	0
+好太多的功能	encvdqc	0
+好太多	encvdqq	0
+好太多的	encvdqr	0
+婷直播	encvfrt	0
+发现一	encvgg	0
+发现一	encvggg	0
+发现不	encvggi	0
+发现不	encvgi	0
+发现中	encvgk	0
+发现中	encvgkh	0
+发现中文	encvgky	0
+发现	encvgm	0
+叟你	encvhwq	0
+婷学习	encvinu	0
+好湖北现在	encviud	0
+好湖北现	encviug	0
+好湖北现在发货不	encviug	0
+好湖北现在发货不	encviui	0
+好湖北现在发	encviun	0
+好湖北现在发	encviuv	0
+好湖北现在发货	encviuw	0
+好湖北	encviux	0
+如果有今天日期	encvjda	0
+如果有	encvjde	0
+如果有今天	encvjdg	0
+如果有	encvje	0
+如果有今天日期	encvjea	0
+如果有今天	encvjeg	0
+如果真	encvjfh	0
+如果真要直播	encvjfr	0
+如果真要	encvjfs	0
+如果本地主文件不存	encvjsd	0
+如果本地主文件不存在	encvjsd	0
+如果本地	encvjsf	0
+如果本	encvjsg	0
+如果本地主文件不	encvjsg	0
+如果本地主文件不	encvjsi	0
+如果本地主文件	encvjsw	0
+好加油	encvlim	0
+好操作不	encvrwg	0
+好操作不	encvrwi	0
+好操作	encvrwt	0
+群聊	encvtbq	0
+发送	encvud	0
+录音一切正常	encvugi	0
+婷痒痒	encvuuu	0
+发送信息	encvuwt	0
+发货了	encvwb	0
+发货了吧	encvwbk	0
+发货了	encvwbn	0
+好像都试过	encvwff	0
+好像都	encvwft	0
+好像都试	encvwfy	0
+叟你现在	encvwgd	0
+叟你现在在	encvwgd	0
+叟你现在在在	encvwgd	0
+发货不	encvwgi	0
+叟你现	encvwgm	0
+发货不	encvwi	0
+发货	encvwx	0
+始终觉得	encvxit	0
+个功能	encwace	0
+个功能实现	encwacg	0
+货了吧	encwbkc	0
+件存在	encwdd	0
+保存在	encwdd	0
+保存在本地	encwddf	0
+件存在	encwddh	0
+保存在	encwddh	0
+保存在本	encwdds	0
+保存到	encwdgc	0
+你大跃进在大跃进	encwdkf	1
+人都玩	encwfgf	0
+会跑	encwfkh	0
+会听	encwfkr	0
+人教	encwft	0
+人都	encwft	0
+人教版	encwfth	0
+人教版金	encwftq	0
+人教版金板	encwfts	0
+你现在	encwgd	0
+你现在在	encwgdd	0
+你现在在在	encwgdd	0
+你现在	encwgdh	0
+今天日期	encwgja	0
+今天日期时	encwgjj	0
+人来	encwgo	0
+今天的	encwgr	0
+今天的日期	encwgra	0
+今天的	encwgrq	0
+今天今天日期	encwgwa	0
+今天今天	encwgwg	0
+今天今天日期时	encwgwj	0
+人来讲解不	encwgyg	0
+人来讲解不	encwgyi	0
+人来讲解	encwgyq	0
+个字	encwhpb	0
+个人	encwhw	0
+个人	encwhww	0
+但没有	encwide	0
+你没有	encwide	0
+但没有今日	encwidj	0
+但没有	encwie	0
+你没有	encwie	0
+但没有今日	encwiej	0
+们学习使用	encwine	0
+们学习	encwinu	0
+但没	encwjim	0
+今日日期	encwjja	0
+会影响	encwjkt	0
+会跑一	encwkg	0
+会跑一	encwkgg	0
+会跑一个字到	encwkgg	0
+会跑一个字到高一	encwkgg	0
+会跑一个字	encwkgp	0
+会跑一个字到高一行	encwkgt	0
+会跑一个	encwkgw	0
+会跑一个字到高	encwkgy	0
+个数据	encworn	0
+个字到	encwpgc	0
+个字到高一	encwpgg	0
+个字到高一行	encwpgt	0
+个字到高	encwpgy	0
+个字换	encwprq	0
+个字换行	encwprt	0
+你现	encwqgm	0
+你没	encwqim	0
+你安	encwqpv	1
+你好	encwqvb	0
+你你	encwqwq	0
+你们	encwqwu	0
+人把	encwrc	0
+件存	encwrdh	0
+人把宇	encwrpg	0
+值查询	encwsyq	0
+候选马呈	encwtck	0
+信息时才发现不是好友	encwtjd	0
+信息时	encwtjf	0
+信息时才	encwtjf	0
+信息时才发现	encwtjg	0
+信息时才发现不	encwtjg	0
+信息时才发现不	encwtji	0
+信息时才发现不是	encwtjj	0
+信息时才发	encwtjn	0
+信息时才发	encwtjv	0
+信息时才发现不是好	encwtjv	0
+全行中的	encwtkr	0
+信息为	encwto	0
+信息为什么我可以	encwtoc	0
+作业	encwtog	0
+信息为什么我可以收到	encwtog	0
+信息为什么我可以	encwton	0
+信息为什么我	encwtoq	0
+信息为什么我可	encwtos	0
+信息为什么	encwtot	0
+信息为什么我	encwtot	0
+什么我	encwtq	0
+什么我可以	encwtqc	0
+什么我的要布	encwtqd	0
+什么我的要布署才有	encwtqd	0
+什么我的要布署才有	encwtqe	0
+什么我的要布署才	encwtqf	0
+什么我可以收到	encwtqg	0
+什么我的要布署	encwtql	0
+什么我可以	encwtqn	0
+什么我的	encwtqr	0
+什么我可	encwtqs	0
+什么我的要	encwtqs	0
+信息失败	encwtrm	0
+什么手机	encwtrs	0
+候选框	encwtsa	0
+候选框为什么总是	encwtsj	0
+候选框为	encwtso	0
+候选框为什么总是要多	encwtsq	0
+候选框为什么总是要	encwtss	0
+候选框为什么	encwtst	0
+候选框为什么总	encwtsu	0
+候选框为	encwtsy	0
+什么我可以	encwttc	0
+什么我的要布	encwttd	0
+什么我的要布署	encwttl	0
+什么我可以	encwttn	0
+什么我	encwttr	0
+什么我的	encwttr	0
+什么我可	encwtts	0
+什么我的要	encwtts	0
+什么颜色获取	encwtub	0
+什么总是要多一	encwtug	0
+什么总是	encwtuj	0
+什么总	encwtuk	0
+什么总是要多一个字	encwtup	0
+什么总是要多	encwtuq	0
+什么颜色	encwtuq	0
+什么总是要多一个字换	encwtur	0
+什么总是要	encwtus	0
+什么总是要多一个	encwtuw	0
+人很	encwtv	0
+像微信有太多游戏	encwtwc	0
+像微信有	encwtwd	0
+像微信有太	encwtwd	0
+像微信有	encwtwe	0
+像微信有太多	encwtwq	0
+像微信	encwtwy	0
+什么证明	encwtyj	0
+信息为	encwtyl	0
+什么证明之类	encwtyo	0
+什么证明之	encwtyp	0
+信息为什么我	encwtyq	0
+信息为什么我可	encwtys	0
+什么证明之类和	encwtyt	0
+信息为什么	encwtyt	0
+信息为什么我	encwtyt	0
+们来	encwugo	0
+个问题	encwujg	0
+人头像	encwuwq	0
+念曾经	encwux	0
+念曾经	encwuxc	0
+念曾经单纯的	encwuxr	0
+念曾经单纯	encwuxx	0
+你好再	encwvgm	0
+你好湖	encwvid	0
+你好湖北现在	encwvid	0
+你好湖北现	encwvig	0
+你好湖北现在发货不	encwvig	0
+你好湖北现在发货不	encwvii	0
+你好湖北现在发	encwvin	0
+你好湖北	encwviu	0
+你好湖北现在发	encwviv	0
+你好湖北现在发货	encwviw	0
+你好加油	encwvli	0
+你好民	encwvn	1
+你好民	encwvna	1
+人教	encwwft	0
+人都	encwwft	0
+人来	encwwgo	0
+你们来	encwwgo	0
+任何输入	encwwlt	0
+人把	encwwrc	0
+人很	encwwtv	0
+个人头像	encwwuw	0
+货了	encwxb	0
+货了	encwxbn	0
+货不	encwxgi	0
+货不	encwxi	0
+分享一	encwyg	0
+分享一	encwygg	0
+分享一些	encwygh	0
+分享一些文件	encwygw	0
+供应吧	encwykc	0
+念曾	encwyul	0
+估计人	encwyw	0
+估计人很	encwywt	0
+估计人	encwyww	0
+比蓝牙	encxaah	0
+比蓝牙方便钉	encxaaq	0
+比蓝牙方便钉钉	encxaaq	0
+比蓝牙方便	encxaaw	0
+练习	encxanu	0
+练优	encxawd	0
+给孩子	encxbb	0
+给孩子	encxbbb	0
+给孩子装	encxbbu	0
+费有没有	encxdid	0
+费有没有	encxdie	0
+费有没	encxdim	0
+绑定	encxdpg	0
+费有没有	encxeid	0
+费有没有	encxeie	0
+费有没	encxeim	0
+线可	encxgsk	0
+费有	encxjde	0
+费有	encxje	0
+练习题的其它方式	encxnja	0
+练习题	encxnjg	0
+练习题的其它方式学习	encxnjn	0
+练习题的其它	encxnjp	0
+练习题的	encxnjr	0
+绿色守护	encxqpr	0
+线可以	encxsc	0
+线可以顺丰	encxscd	0
+线可以顺丰不	encxscg	0
+线可以顺丰不	encxsci	0
+线可以顺	encxsck	0
+线可以顺丰	encxsnd	0
+线可以顺丰不	encxsng	0
+线可以顺丰不	encxsni	0
+线可以顺	encxsnk	0
+线可以	encxsny	0
+经单纯	encxuxg	0
+经单纯的	encxuxr	0
+组件名	encxwqk	0
+组件名要自己	encxwqn	0
+组件名要	encxwqs	0
+试过	encyafp	0
+方式学习	encyain	0
+为孩子	encybb	0
+为孩子	encybbb	0
+为孩子准备	encybbt	0
+读取文件	encybyw	0
+应用在	encyed	0
+应用在	encyedh	0
+应用包	encyeqn	0
+应用包名	encyeqq	0
+应用包名查询	encyeqy	0
+请教一	encyfg	0
+请教一	encyfgg	0
+请教一下	encyfgg	0
+讲的	encyfr	0
+讲的	encyfrq	0
+高一行	encygtf	0
+就是	encyij	0
+就是	encyijg	0
+这里面可以	encyjdc	0
+这里面	encyjdm	0
+这里面可以	encyjdn	0
+这里面可	encyjds	0
+就是不	encyjgi	0
+就是不知道怎么样查看	encyjgr	0
+就是不知道怎么样	encyjgs	0
+就是不知道怎么样查	encyjgs	0
+就是不知道怎么	encyjgt	0
+就是不知道	encyjgu	0
+就是不	encyji	0
+课堂	encyjip	0
+就是不知道怎么	encyjit	0
+就是不知道	encyjiu	0
+证明之	encyjp	0
+证明之类	encyjpo	0
+证明之	encyjpp	0
+证明之类和	encyjpt	0
+市里的	encyjr	0
+市里的快递都了在送了	encyjrb	0
+市里的快递都了在	encyjrd	0
+市里的	encyjrq	0
+市里的快递	encyjru	0
+市里的快递都了在送	encyjru	0
+这是相关	encyjsu	0
+课件	encyjwr	0
+为无	encylfq	0
+这边发货了	encylnb	0
+这边发	encylnt	0
+这边发货	encylnw	0
+为固定格式	encylpa	0
+为固定	encylpg	0
+文输入法	encylti	0
+文输入	encylty	0
+这边发	encylv	0
+这边发货	encylvw	0
+高一	encymg	0
+高一	encymgg	0
+市里	encymjf	0
+永硕	encyndd	0
+详情可以	encynsc	0
+详情可以看到	encynsg	0
+详情可	encynsk	0
+详情可以	encynsn	0
+详情可以看	encynsr	0
+词库	encynyl	0
+麻烦了	encyob	0
+麻烦了	encyobn	0
+麻烦了手机	encyobs	0
+这是	encypj	0
+这里	encypjf	0
+这是	encypjg	0
+这窗口	encypk	0
+这窗口	encypkk	0
+文字转	encyplf	0
+这边	encyplp	0
+这样	encypsu	0
+这个	encypwh	0
+方案你	encypwq	0
+讲解不	encyqgi	0
+讲解不	encyqi	0
+讲的看不	encyrrg	0
+讲的看	encyrrh	0
+讲的看不	encyrri	0
+讲的看不懂	encyrrn	0
+这样真	encysfh	0
+这样真是	encysfj	0
+让每日	encytj	0
+让每日英语显示在	encytjd	0
+让每日英语显示	encytjf	0
+让每日	encytjj	0
+让每日英语显示在这	encytjp	0
+让每日英语显示在候选	encytjt	0
+让每日英语	encytjy	0
+让每日英语显示在这	encytjy	0
+文件在在	encywdd	0
+文件布在	encywdd	0
+文件有	encywde	0
+文件有当	encywdi	0
+文件布	encywdm	0
+文件有	encywe	0
+文件有当	encywei	0
+文件不存	encywgd	0
+文件不存在	encywgd	0
+文件不	encywgi	0
+文件不	encywi	0
+文件不存	encywid	0
+文件不存在	encywid	0
+文件时间与	encywjg	0
+文件时间	encywju	0
+这个数据	encywor	0
+方便钉钉	encywqq	0
+方便钉	encywqs	0
+订人的	encywr	1
+订人的	encywrq	1
+为什么	encywtc	0
+为什么总是	encywtj	0
+为什么我	encywtq	0
+为什么我的	encywtr	0
+为什么我可	encywts	0
+为什么我	encywtt	0
+为什么总	encywtu	0
+应该能	encyyce	0
+应该能学懂一	encyycg	0
+应该能学懂一些	encyych	0
+应该能学	encyyci	0
+应该能学懂一些吧	encyyck	0
+应该能学懂	encyycn	0
+应该可取	encyysb	0
+应该可取供应吧	encyysk	0
+应该可取供应	encyysy	0
+主文件不存	encyywd	0
+主文件不存在	encyywd	0
+应该会	encyywf	0
+主文件不	encyywg	0
+主文件不	encyywi	0
+应该会听	encyywk	0
+主文件	encyywr	1

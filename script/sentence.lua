@@ -14,7 +14,8 @@ function sentence()
     local no = math.random(1,sum)
     local txt = s[no].name.."\n"
     local from = "["..s[no].from.."]\n"
-    service.addCompositions({txt..from})
+    --service.addCompositions({txt..from})
+    service.addCompositions({txt})
   else
     print("文件不存在")
   end

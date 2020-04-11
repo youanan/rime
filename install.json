@@ -1,5 +1,17 @@
 [
     {
+        "name": "拼音简体百万词库",
+        "time": 1585554377180,
+        "list": [
+            "pinyin_simp.dict.yaml",
+            "pinyin_simp.schema.yaml",
+            "build\/pinyin_simp.reverse.bin",
+            "build\/pinyin_simp.schema.yaml",
+            "build\/pinyin_simp.table.bin",
+            "build\/pinyin_simp.prism.bin"
+        ]
+    },
+    {
         "name": "按键脚本",
         "time": 1583664442571,
         "list": [

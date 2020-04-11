@@ -118,6 +118,7 @@ end
 
 
 --http://fanyi.youdao.com/translate?&doctype=json&type="<ZH_CN2EN>"&i=你好"
+--http://fanyi.youdao.com/translate?&doctype=json&type="<EN2ZH_CN>"&i=gym"
 
 
 --Toast.makeText(service, 翻译类型,Toast.LENGTH_SHORT).show() --弹出信息

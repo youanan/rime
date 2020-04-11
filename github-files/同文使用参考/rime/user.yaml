@@ -1,8 +1,0 @@
-var:
-  option:
-    simplification: true
-  previously_selected_schema: luna_pinyin
-  schema_access_time:
-    bopomofo_tw: 1524404997
-    luna_pinyin: 1524550619
-    terra_pinyin: 1524550608
