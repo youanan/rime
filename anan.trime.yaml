@@ -499,7 +499,7 @@ preset_keyboards:
       - {click: 'd', long_click: "'", swipe_down: Date}
       - {click: 'f', long_click: "<"}
       - {click: 'g', long_click: ">",swipe_up: Google}
-      - {click: 'h', long_click: Left}
+      - {click: 'h', long_click: Left,swipe_down: copyH}
       - {click: 'j', long_click: Down}
       - {click: 'k', long_click: Up}
       - {click: 'l', long_click: Right}
@@ -516,7 +516,7 @@ preset_keyboards:
       - {click: BackSpace,long_click: Del2,width: 15,swipe_up: Delete}
       # 5
       - {click: Keyboard_number, long_click: IME_switch,has_menu: _Keyboard_candidate, width: 15}
-      - {click: Keyboard_symbolsnum, long_click: userdict,swipe_up: userdict, width: 12 ,popup: [youdao_1, youdao_2, youdao_3, youdao_4, youdao_5,shareOuLu]}
+      - {click: Keyboard_symbolsnum, long_click: userdict,swipe_up: userdict, width: 12 ,popup: [youdao_1, youdao_2, youdao_3, youdao_4, youdao_5,shareOuLu,music_link]}
       - {click: ',', long_click: ";", width: 10,paging: Page_Up}
       - {click: space_0,long_click: VOICE_ASSIST1,swipe_left: Home,swipe_right: End,width: 26, key_text_size: 10}
       - {click: ".", long_click: ":", width: 10,has_menu: Page_Down}
@@ -4267,3 +4267,5 @@ preset_keys:
   Candidate_switch: {toggle: _hide_candidate, send: Mode_switch, states: [ 🔺,🔻]}
   WebSearch: {label: 网页, send: function, command: edit, option: "%4$s"} #搜索，其他web_search,view、dial、edit、search等intent，參考安卓的intent文檔：
   everyday_english: {label: En, send: function, command: 'everyday_english.lua'}
+  copyH: {label: "❐↔", functional: false, text: "{End}{Shift+Home}{Control+c}"} #拷贝行
+  music_link: {label: "🎵",function: false,send: function,command: 'music_link.lua',option: "%4$s"}

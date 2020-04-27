@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    anan.trime: 1586573793
+    anan.trime: 1586673584
     anan.trime.custom: 0
 android_keys:
   action:
@@ -1145,7 +1145,7 @@ preset_keyboards:
     key_hint_offset_y: 9
     key_symbol_offset_y: "-3"
     key_text_offset_y: 1
-    keys: [{click: 1, height: 46, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, has_menu: everyday_english, long_click: "^"}, {click: 7, has_menu: express, long_click: "&"}, {click: 8, has_menu: userdict, long_click: "*"}, {click: 9, has_menu: dictionary, long_click: "("}, {click: 0, has_menu: heweather, long_click: ")", swipe_down: Keyboard_defaulten}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}"}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, composing: delimiter, long_click: Settings, popup: [Escape, Deploy, Schema_settings, Theme_settings, Color_settings], width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste, popup: [_Keyboard_clip, paste, _Keyboard_phrase, Screencast], swipe_up: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\", swipe_up: vim_noh}, {click: m, long_click: "?"}, {click: BackSpace, long_click: Del2, swipe_up: Delete, width: 15}, {click: Keyboard_number, has_menu: _Keyboard_candidate, long_click: IME_switch, width: 15}, {click: Keyboard_symbolsnum, long_click: userdict, popup: [youdao_1, youdao_2, youdao_3, youdao_4, youdao_5, shareOuLu], swipe_up: userdict, width: 12}, {click: ",", long_click: ";", paging: Page_Up, width: 10}, {click: space_0, key_text_size: 10, long_click: VOICE_ASSIST1, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: Page_Down, long_click: ":", width: 10}, {click: Mode_switch, hint: " ", long_click: Candidate_switch, width: 12}, {click: Return, long_click: Escape, width: 15}]
+    keys: [{click: 1, height: 46, long_click: "!"}, {click: 2, long_click: "@"}, {click: 3, long_click: "#"}, {click: 4, long_click: "$"}, {click: 5, long_click: "%"}, {click: 6, has_menu: everyday_english, long_click: "^"}, {click: 7, has_menu: express, long_click: "&"}, {click: 8, has_menu: userdict, long_click: "*"}, {click: 9, has_menu: dictionary, long_click: "("}, {click: 0, has_menu: heweather, long_click: ")", swipe_down: Keyboard_defaulten}, {click: q, long_click: "~", swipe_down: ":q"}, {click: w, long_click: _, swipe_down: ":w"}, {click: e, long_click: "-"}, {click: r, long_click: "+"}, {click: t, long_click: "|", swipe_down: Time}, {click: y, long_click: "="}, {click: u, long_click: "["}, {click: i, long_click: "]"}, {click: o, long_click: "{"}, {click: p, long_click: "}"}, {width: 5}, {click: a, long_click: select_all, swipe_left: Esc}, {click: s, long_click: "\""}, {click: d, long_click: "'", swipe_down: Date}, {click: f, long_click: "<"}, {click: g, long_click: ">", swipe_up: Google}, {click: h, long_click: Left, swipe_down: copyH}, {click: j, long_click: Down}, {click: k, long_click: Up}, {click: l, long_click: Right}, {width: 5}, {click: Shift_L, composing: delimiter, long_click: Settings, popup: [Escape, Deploy, Schema_settings, Theme_settings, Color_settings], width: 15}, {click: z, long_click: "`"}, {click: x, long_click: cut}, {click: c, long_click: copy}, {click: v, long_click: paste, popup: [_Keyboard_clip, paste, _Keyboard_phrase, Screencast], swipe_up: paste}, {click: b, long_click: "/"}, {click: n, long_click: "\\", swipe_up: vim_noh}, {click: m, long_click: "?"}, {click: BackSpace, long_click: Del2, swipe_up: Delete, width: 15}, {click: Keyboard_number, has_menu: _Keyboard_candidate, long_click: IME_switch, width: 15}, {click: Keyboard_symbolsnum, long_click: userdict, popup: [youdao_1, youdao_2, youdao_3, youdao_4, youdao_5, shareOuLu, music_link], swipe_up: userdict, width: 12}, {click: ",", long_click: ";", paging: Page_Up, width: 10}, {click: space_0, key_text_size: 10, long_click: VOICE_ASSIST1, swipe_left: Home, swipe_right: End, width: 26}, {click: ., has_menu: Page_Down, long_click: ":", width: 10}, {click: Mode_switch, hint: " ", long_click: Candidate_switch, width: 12}, {click: Return, long_click: Escape, width: 15}]
     label_transform: uppercase
     lock: true
     name: default
@@ -1865,6 +1865,10 @@ preset_keys:
     functional: false
     label: "复制"
     send: "Control+c"
+  copyH:
+    functional: false
+    label: "❐↔"
+    text: "{End}{Shift+Home}{Control+c}"
   cut:
     functional: false
     label: "剪切"
@@ -1899,6 +1903,12 @@ preset_keys:
     command: "英语4w简明词典/英语4w简明词典.lua"
     label: Dict
     option: "%2$s"
+    send: function
+  music_link:
+    command: music_link.lua
+    function: false
+    label: "🎵"
+    option: "%4$s"
     send: function
   paste:
     functional: false

@@ -11,6 +11,7 @@ patch:
   menu:
     page_size: 30
     #alternative_select_keys: ["①","②","1","1","1","1","1","1","1","1"]
+    #alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈ ]
 
   key_binder:
     bindings:
